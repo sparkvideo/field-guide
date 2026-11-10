@@ -160,6 +160,7 @@ What wins informal conversations isn't knowing more verses. It's **how you run t
 
 #### PLAY 5: Watchtower prophecy test (use when they lean on the organization)
 - **Opener:** *"Has the Watchtower ever announced a date in Jehovah's name that didn't happen?"*
+- **Or open with:** *"It was built in 1929. You know by who?"* (Show a photo of Beth Sarim.)
 - **Chain:** "Millions Now Living Will Never Die" (Rutherford, 1920): the patriarchs were to be resurrected by **1925** → it failed → **Beth Sarim** mansion (San Diego, 1929) deeded "for Abraham, Isaac, Jacob," and Rutherford lived in it himself → sold in 1948 ([▶](https://youtu.be/mjDkOgvdCe8?t=46)) → **Deut 18:21–22**.
 - **Question:** *"Are millions of people who were alive in 1920 still alive today?"* ([▶](https://youtu.be/mjDkOgvdCe8?t=465)) *"When someone speaks in the Lord's name and it doesn't happen, what does Deuteronomy call him?"*
 - **If they say** *"We're not prophets, just students making calculations"* → *"Announcing future dates as God's truth is prophecy by definition."* ([▶](https://youtu.be/mjDkOgvdCe8?t=423))
@@ -235,14 +236,17 @@ What wins informal conversations isn't knowing more verses. It's **how you run t
   - *"*Malak* means a lesser being, sent by a superior."* → *Malak* / *angelos* names a **function**, not a nature. John the Baptist and his disciples are called *angelos* (Mark 1:2; Luke 7:24). *"Does the word itself tell you what kind of being the messenger is?"* ([▶](https://youtu.be/-BHzjoxMXfo?t=271)) *"If I send you with a message, am I superior to you in nature?"* ([▶](https://youtu.be/SGyVqLKrtjE?t=774))
 
 #### PLAY 3: Christ is the Yahweh of the Exodus (1 Cor 8:6 → 10:9)
-- **Opener:** *"In Numbers 21, who did Israel test, and who sent the serpents?"* (They'll say Yahweh.)
+- **Opener:** *"Who's the one Lord in 1 Corinthians 8?"* (They'll say Jesus.)
+- **Or open with:** *"In Numbers 21, who did Israel test, and who sent the serpents?"* (They'll say Yahweh.)
 - **Chain:** **1 Cor 8:6**: "one Lord, **Jesus Christ**, through whom are all things" → **1 Cor 10:9**: "we must not put **Christ** to the test, as some of them did and were destroyed by serpents" → **Num 21:5–6**: they spoke against God, and **Yahweh** sent the serpents.
 - **Question:** *"When was Christ put to the test and people destroyed by serpents?"* ([▶](https://youtu.be/-BHzjoxMXfo?t=1142))
 - **If they say** *"Textual variant: some manuscripts say 'the Lord'"* → Fine. In this same letter, the "one Lord" **is** Jesus Christ (8:6). Either reading lands in the same place. ([▶](https://youtu.be/-BHzjoxMXfo?t=1358))
 - ➕ Also: **Jude 5** (in the strongest manuscripts): "**Jesus**, who saved a people out of Egypt."
 
 #### PLAY 4: Real pre-existence (John 1:3, Col 1:16, Heb 1)
-- **Opener:** *"According to John 1:3, was anything made without the Word? Yes or no?"*
+- **Opener:** *"Do you believe that the Word was created?"* (They'll say yes. Then go to John 1:3.)
+- **Or open with:** *"According to John 1:3, was anything made without the Word? Yes or no?"*
+- **Or open with:** *"Who is the author of life according to Acts 3:15?"*
 - **John 1:1–3**: *"If all things were made through Him, could He Himself have been made?"* ([▶](https://youtu.be/HMOOX0u3YMc?t=187)) *"It's not a leap, it's the text."*
 - **Col 1:16**: *"How can all things be created through Jesus if He didn't exist yet?"* ([▶](https://youtu.be/HMOOX0u3YMc?t=673)) If they say "it's about church offices": read "**in heaven and on earth, visible and invisible**."
 - **Heb 1:5–12**: the Father is speaking from v.5 on. In v.8 He calls the Son "God," and in v.10 He calls Him the Creator Lord of Ps 102. If they say "v.8 has no 'He says'," the speaker hasn't changed since v.5. ([▶](https://youtu.be/HMOOX0u3YMc?t=1270))
@@ -314,7 +318,8 @@ What wins informal conversations isn't knowing more verses. It's **how you run t
 - **Closer:** *"To say we become gods goes directly against what He says: no gods after Him. Would you read Isaiah 44:6 and 48:12 tonight and tell me what you see?"* (Invite them back to follow up.) ([▶](https://youtu.be/3SNn5cD1JNc?t=540))
 
 #### PLAY 2: God has always been God (against "God was once a man")
-- **Opener:** *"Has God always been God? Yes or no?"*
+- **Opener:** *"Can we agree that God in His nature has to be infinite, always existing?"* (They'll say yes.)
+- **Or open with:** *"Joseph Smith taught God was not always God, but became God. Is that hearsay or fact?"* (Use when they bring up exaltation themselves.)
 - **Chain:** **Ps 90:2** ("from everlasting to everlasting You are God") → **Mal 3:6** ("I the LORD do not change") → **Num 23:19** ("God is not a man") → **Isa 40:28** (everlasting God, Creator) ([▶](https://youtu.be/qbkqdRh-5qE?t=432))
 - ➕ **Their own book:** **Moroni 8:18**, "God is not… a changeable being; but he is unchangeable from all eternity to all eternity." **Mormon 9:9**, "God is the same yesterday, today, and forever, and in him there is no variableness."
 - **Question:** *"If God has been God from all eternity and never changes, when was He a man who became God?"*
@@ -331,6 +336,7 @@ What wins informal conversations isn't knowing more verses. It's **how you run t
 
 #### PLAY 4: Phantom prophecy (Joseph Smith wrote himself into Genesis)
 - **Opener:** *"Where can I read the prophecy about Joseph Smith in a text that Joseph Smith didn't produce?"*
+- **Or open with:** *"Why would God pick that person to re-reveal that prophecy?"* (After you name JST Genesis 50:33 and 2 Nephi 3:15.)
 - **Chain:** JST **Genesis 50:33** (Joseph Smith's own "translation" adds a prophecy of a seer named Joseph) + **2 Nephi 3:15** → he's quoting a prophecy about himself that only he has. Compare Muhammad and Surah 61:6.
 - **Question:** *"In order to believe the prophecy, I have to believe the prophet, and to believe the prophet, I have to believe the prophecy. Isn't that circular? Isn't he writing his own job reference?"* ([▶](https://youtu.be/jSPKCRONYww?t=342))
 - **Contrast:** Jesus quoted **public, pre-existing** texts (Isa 53, Ps 22, Isa 61 in Luke 4:18–21) that His opponents had too, and we have them in the Dead Sea Scrolls. *"Can you verify Joseph Smith in any prior manuscript?"* ([▶](https://youtu.be/jSPKCRONYww?t=380))
@@ -408,7 +414,8 @@ What wins informal conversations isn't knowing more verses. It's **how you run t
 **Closer:** *"Do you believe a religion with corrupted scriptures is reliable?"* ([▶](https://youtu.be/DPFeuxNkxCA?t=10)) / *"Allah told Muhammad to check with the people reading the Book before him. That's us. We're reading it. It says Jesus died and rose."*
 
 #### PLAY 2: Muhammad isn't in the Bible (the John 14 and Q 61:6 claims)
-- **Opener:** *"Where does the Bible mention Muhammad? Can we read it together?"*
+- **Opener:** *"So where does Jesus mention Muhammad?"*
+- **Or open with:** *"So the Comforter here, you believe that's Muhammad?"* (Once they cite John 14.)
 - **John 14:16–17**: the Helper is "the **Spirit** of truth… you **know** him, for he **dwells with you** and will be **in you**." *"Was Muhammad living with the disciples? So this can't be Muhammad, right?"* ([▶](https://youtu.be/qKfI6OlRhtM?t=357)) ➕ v.26: "the **Holy Spirit**, whom the Father will send." Acts 1:5, 8 → Pentecost (Acts 2), a few weeks later, not 600 years.
 - **Q 61:6** says Jesus foretold "Ahmad." → *"Show me where Jesus mentions Ahmad by name. And show me from your Quran that Ahmad is Muhammad."* ([▶](https://youtu.be/qKfI6OlRhtM?t=868)) Same root? Allah is called *Mahmud* (same root). Same root doesn't mean same person. ([▶](https://youtu.be/qKfI6OlRhtM?t=911))
 - *"The Romans / Constantine / Paul removed Ahmad."* → *"What did they gain politically by removing someone 600 years before he was born? Give me the source, date, and name."* ([▶](https://youtu.be/XB83I9YYMeg?t=1356))
@@ -421,17 +428,21 @@ What wins informal conversations isn't knowing more verses. It's **how you run t
 - ➕ Pair with **Mark 2:5–10** (forgives sins: "Who can forgive sins but God alone?") and **Mark 14:61–64** (Son of Man, Dan 7: the high priest calls it blasphemy).
 
 #### PLAY 4: Son vs. servant
-- **Opener:** *"Is Jesus only a servant of God, or the Son? Can we read what Jesus Himself says?"*
+- **Opener:** *"Is Jesus the son of Allah?"* (They'll say no.)
+- **Or open with:** *"Where in the Bible does it say the Son of God is just a servant?"* (When they say "son" only means servant.)
 - **John 8:35–36**: "The **slave** does not remain in the house forever; **the son** remains forever." → *"Why does Jesus distinguish servants from a son if they're the same thing?"* ([▶](https://youtu.be/XB83I9YYMeg?t=788))
 - **Q 9:30** curses those who say Jesus is the Son of God → *"Show me where the Quran affirms Jesus is the Son of God in any correct sense."* ([▶](https://youtu.be/XB83I9YYMeg?t=883))
 
 #### PLAY 5: Tawhid consistency (the Black Stone)
 - **Opener:** *"Can the Black Stone benefit you or harm you? Yes or no?"*
+- **Or open with:** *"Why are people rubbing oil on this rock that doesn't do anything for you?"*
 - Muslims say the Stone can't benefit or harm (Umar), yet **Sunan an-Nasa'i 2919** says touching the corners **erases sins**; Bukhari 1610; Nasa'i 2935. ([▶](https://youtu.be/W5KKnXb6JO4?t=1002))
 - *"If this thing isn't God, why are you kissing it and prostrating to it? Doing it only because Muhammad did is following a man to a tee."* ([▶](https://youtu.be/W5KKnXb6JO4?t=1069))
 
 #### ⚠️ PLAY 6: Moral problems (only if they claim Islam is morally superior)
 **Opener:** *"You say Islam is morally superior. Can we read a few verses of the Quran and see?"*
+
+**Or open with:** *"It talks about the women that you're allowed to have, right?"* (On Q 4:24.)
 
 Used against a Quran-only Muslim ([▶](https://youtu.be/DPFeuxNkxCA?t=710)): **Q 4:24** (married captive women "your right hands possess"), **Q 2:230** (*halala*: must marry and consummate with another man before remarrying the first husband. Compare Deut 24:1–4, an "abomination"), **Q 65:4 + 33:49** (waiting period for girls "who have not yet menstruated"; the waiting period applies only after consummation). Use sparingly. It turns hostile fast. Keep it on the text, and keep the goal the gospel, not winning.
 
@@ -497,6 +508,7 @@ Used against a Quran-only Muslim ([▶](https://youtu.be/DPFeuxNkxCA?t=710)): **
 
 #### PLAY 3: ➕ The "borrowed capital" questions (Reformed / presuppositional)
 - **Opener:** *"Can I ask you about three things we both rely on every day: logic, right and wrong, and your own reasoning?"*
+- **Or open with:** *"Where do you get this idea of bad from?"* (When they call something evil or unfair.)
 - **Logic:** *"Are the laws of logic physical? Do they change? Where do universal, unchanging laws come from in a universe that's just matter in motion?"*
 - **Morality:** *"Is it **objectively** wrong to torture a child for fun? Wrong according to whom?"* → if they say it's subjective, then it's just preference. If they say it's objective, they need a transcendent standard. **Rom 2:14–15**, the law is written on the heart.
 - **Reason:** *"If your brain is just chemistry shaped for survival, not truth, why trust it to reason that God doesn't exist?"*
@@ -504,6 +516,7 @@ Used against a Quran-only Muslim ([▶](https://youtu.be/DPFeuxNkxCA?t=710)): **
 
 #### PLAY 4: The Resurrection (the center)
 - **Opener:** *"If Jesus really rose from the dead, would you become a Christian?"*
+- **Or open with:** *"What about the people who didn't believe in Jesus, persecuted His followers, then said, 'I saw Jesus'?"* (When they say it's a game of telephone.)
 - *"If Christ didn't rise from the dead, Christianity is false. Period."* (1 Cor 15:14–19) ([▶](https://youtu.be/rgTyjyoS1DE?t=1690)) Christianity puts itself on a testable, historical claim.
 - **Facts:** crucified publicly under Pilate · the tomb was guarded · the disciples fled as cowards, then died boldly · hostile skeptics were converted (Paul the persecutor, James the doubting brother). *"Why would eyewitnesses and enemies suffer and die for what they **knew** was a lie?"* ([▶](https://youtu.be/rgTyjyoS1DE?t=438))
 - **Closer:** *"If heaven and hell were real, wouldn't you want to know now? You wouldn't want to wait until you die to find out."* ([▶](https://youtu.be/cPUJ9-TG54U?t=430))

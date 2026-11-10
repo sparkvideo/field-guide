@@ -84,6 +84,21 @@ export default async function PlayPage({ params }: { params: Promise<{ group: st
               <Md text={p.opener.text} />
             </p>
             <VerseChips verses={p.opener.verses} context={p.opener.text} />
+            {p.altOpeners.length > 0 && (
+              <details className="plain mt-2">
+                <summary>
+                  {p.altOpeners.length === 1 ? "Another way to open" : `${p.altOpeners.length} other ways to open`}
+                </summary>
+                {p.altOpeners.map((a, i) => (
+                  <div key={i} className="mb-4">
+                    <p className="serif text-[21px] leading-[1.45]">
+                      <Md text={a.text} />
+                    </p>
+                    <VerseChips verses={a.verses} context={a.text} />
+                  </div>
+                ))}
+              </details>
+            )}
           </section>
         )}
 

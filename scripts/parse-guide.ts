@@ -386,6 +386,7 @@ function parsePlay(heading: string, body: L[], groupName: string): Play {
     ...(subtitle && /^(use |lead |only |run )/i.test(subtitle) ? { whenToUse: subtitle } : {}),
     warning: !!hm[1],
     supplemental: titleMeta.supplemental,
+    altOpeners: [],
     chain: [],
     questions: [],
     ifTheySay: [],
@@ -415,6 +416,9 @@ function parsePlay(heading: string, body: L[], groupName: string): Play {
     if (label === "Opener") {
       structural.push(label);
       play.opener = line(rest, where);
+    } else if (label === "Or open with") {
+      structural.push(label);
+      play.altOpeners.push(line(rest, where));
     } else if (label === "Chain") {
       structural.push(label);
       if (e.children.length) e.children.forEach((c) => step(c.text));
@@ -447,6 +451,7 @@ function parsePlay(heading: string, body: L[], groupName: string): Play {
     ...(play.summary ? [play.summary] : []),
     ...(play.lead ? [play.lead] : []),
     ...(play.opener ? [play.opener] : []),
+    ...play.altOpeners,
     ...play.chain,
     ...play.questions,
     ...play.ifTheySay,
@@ -741,9 +746,9 @@ for (const g of groups) {
   for (const p of g.offense) {
     const href = `/${g.slug}/case/${p.id}`;
     const use = { href, title: p.title, label: `${short} · play` };
-    item("play", `${short} · play`, `${p.title}${p.subtitle ? ` (${p.subtitle})` : ""}`, `${p.opener?.text || ""} ${p.summary?.text || ""} ${p.lead?.text || ""}`, href, merge([p.opener, p.summary, p.lead, ...p.chain, ...p.questions].filter(Boolean) as Meta[]));
+    item("play", `${short} · play`, `${p.title}${p.subtitle ? ` (${p.subtitle})` : ""}`, `${p.opener?.text || ""} ${p.altOpeners.map((a) => a.text).join(" ")} ${p.summary?.text || ""} ${p.lead?.text || ""}`, href, merge([p.opener, p.summary, p.lead, ...p.chain, ...p.questions].filter(Boolean) as Meta[]));
     p.ifTheySay.forEach((b, i) => item("branch", `${short} · if they say`, b.theySay, b.youSay, `${href}#say-${i + 1}`, b));
-    for (const m of [p.summary, p.lead, p.opener, ...p.chain, ...p.questions, ...p.ifTheySay, p.closer, ...p.notes]) useVerses(m, use);
+    for (const m of [p.summary, p.lead, p.opener, ...p.altOpeners, ...p.chain, ...p.questions, ...p.ifTheySay, p.closer, ...p.notes]) useVerses(m, use);
   }
   for (const o of g.defense) {
     const href = `/${g.slug}/objection/${o.id}`;

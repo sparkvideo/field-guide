@@ -42,6 +42,7 @@ export type Play = {
   summary?: Line; // "The logic: …"
   lead?: Line; // "→ Run the full Holy Spirit Play …"
   opener?: Line;
+  altOpeners: Line[]; // "Or open with:" other first lines for the same play
   chain: Step[];
   questions: Line[];
   ifTheySay: Branch[];

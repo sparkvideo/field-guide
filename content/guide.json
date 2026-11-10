@@ -1230,6 +1230,7 @@
           "subtitle": "John 1:3 / Col 1:16",
           "warning": false,
           "supplemental": true,
+          "altOpeners": [],
           "chain": [
             {
               "text": "**John 1:3**: \"All things came into existence through him, and apart from him not even one thing came into existence.\" *\"Does it say 'except himself'?\"*",
@@ -1448,6 +1449,7 @@
           "subtitle": "the \"First and Last\" / Hebrews 1 chain",
           "warning": false,
           "supplemental": true,
+          "altOpeners": [],
           "chain": [
             {
               "text": "**Isa 44:6; 48:12**: Jehovah is \"the first and the last; besides me there is no God.\"",
@@ -1691,6 +1693,7 @@
           "title": "The Spirit is a Person and is Jehovah",
           "warning": false,
           "supplemental": false,
+          "altOpeners": [],
           "chain": [],
           "questions": [],
           "ifTheySay": [],
@@ -1767,6 +1770,7 @@
           "subtitle": "Mark 10:18",
           "warning": false,
           "supplemental": false,
+          "altOpeners": [],
           "chain": [
             {
               "text": "Mark 10:18, \"No one is good but God alone.\"",
@@ -1858,6 +1862,14 @@
           "whenToUse": "use when they lean on the organization",
           "warning": false,
           "supplemental": false,
+          "altOpeners": [
+            {
+              "text": "*\"It was built in 1929. You know by who?\"* (Show a photo of Beth Sarim.)",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ],
           "chain": [
             {
               "text": "\"Millions Now Living Will Never Die\" (Rutherford, 1920): the patriarchs were to be resurrected by **1925**",
@@ -3097,6 +3109,7 @@
           "whenToUse": "lead with this",
           "warning": false,
           "supplemental": false,
+          "altOpeners": [],
           "chain": [],
           "questions": [],
           "ifTheySay": [],
@@ -3200,6 +3213,7 @@
           "title": "The Angel of Yahweh claims to be God, with no \"thus says the Lord\"",
           "warning": false,
           "supplemental": false,
+          "altOpeners": [],
           "chain": [
             {
               "text": "**Gen 31:11–13**: \"the **Angel of God** said… '**I am the God of Bethel**, where you anointed a pillar and made a vow **to me**.'\"",
@@ -3446,6 +3460,22 @@
           "subtitle": "1 Cor 8:6 → 10:9",
           "warning": false,
           "supplemental": true,
+          "altOpeners": [
+            {
+              "text": "*\"In Numbers 21, who did Israel test, and who sent the serpents?\"* (They'll say Yahweh.)",
+              "verses": [
+                {
+                  "label": "Num 21",
+                  "kind": "bible",
+                  "key": "numbers.21",
+                  "book": "numbers",
+                  "chapter": 21
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
           "chain": [
             {
               "text": "**1 Cor 8:6**: \"one Lord, **Jesus Christ**, through whom are all things\"",
@@ -3565,14 +3595,14 @@
             }
           ],
           "opener": {
-            "text": "*\"In Numbers 21, who did Israel test, and who sent the serpents?\"* (They'll say Yahweh.)",
+            "text": "*\"Who's the one Lord in 1 Corinthians 8?\"* (They'll say Jesus.)",
             "verses": [
               {
-                "label": "Num 21",
+                "label": "1 Cor 8",
                 "kind": "bible",
-                "key": "numbers.21",
-                "book": "numbers",
-                "chapter": 21
+                "key": "1-corinthians.8",
+                "book": "1-corinthians",
+                "chapter": 8
               }
             ],
             "links": [],
@@ -3586,6 +3616,40 @@
           "subtitle": "John 1:3, Col 1:16, Heb 1",
           "warning": false,
           "supplemental": false,
+          "altOpeners": [
+            {
+              "text": "*\"According to John 1:3, was anything made without the Word? Yes or no?\"*",
+              "verses": [
+                {
+                  "label": "John 1:3",
+                  "kind": "bible",
+                  "key": "john.1.3",
+                  "book": "john",
+                  "chapter": 1,
+                  "verseStart": 3,
+                  "verseEnd": 3
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "*\"Who is the author of life according to Acts 3:15?\"*",
+              "verses": [
+                {
+                  "label": "Acts 3:15",
+                  "kind": "bible",
+                  "key": "acts.3.15",
+                  "book": "acts",
+                  "chapter": 3,
+                  "verseStart": 15,
+                  "verseEnd": 15
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
           "chain": [
             {
               "text": "**John 1:1–3**: *\"If all things were made through Him, could He Himself have been made?\"* *\"It's not a leap, it's the text.\"*",
@@ -3716,7 +3780,7 @@
             }
           ],
           "opener": {
-            "text": "*\"According to John 1:3, was anything made without the Word? Yes or no?\"*",
+            "text": "*\"Do you believe that the Word was created?\"* (They'll say yes. Then go to John 1:3.)",
             "verses": [
               {
                 "label": "John 1:3",
@@ -3739,6 +3803,7 @@
           "subtitle": "Zech 13:7",
           "warning": false,
           "supplemental": false,
+          "altOpeners": [],
           "chain": [
             {
               "text": "\"Awake, O sword, against My Shepherd and against **the man, My Associate** (*'amiti*), declares Yahweh of hosts.\" *'Amiti* is used in Leviticus for an equal, a fellow of the same kind. *\"Why does Yahweh call the struck Shepherd His equal?\"* Jesus applies this verse to Himself (Matt 26:31).",
@@ -4706,6 +4771,7 @@
           "subtitle": "against exaltation",
           "warning": false,
           "supplemental": false,
+          "altOpeners": [],
           "chain": [
             {
               "text": "**Isa 44:6**: \"I am the first and I am the last; besides me there is no god.\"",
@@ -4930,6 +4996,14 @@
           "subtitle": "against \"God was once a man\"",
           "warning": false,
           "supplemental": true,
+          "altOpeners": [
+            {
+              "text": "*\"Joseph Smith taught God was not always God, but became God. Is that hearsay or fact?\"* (Use when they bring up exaltation themselves.)",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ],
           "chain": [
             {
               "text": "**Ps 90:2** (\"from everlasting to everlasting You are God\")",
@@ -5057,7 +5131,7 @@
             }
           ],
           "opener": {
-            "text": "*\"Has God always been God? Yes or no?\"*",
+            "text": "*\"Can we agree that God in His nature has to be infinite, always existing?\"* (They'll say yes.)",
             "verses": [],
             "links": [],
             "supplemental": false
@@ -5070,6 +5144,7 @@
           "subtitle": "the \"Godhead\"",
           "warning": false,
           "supplemental": true,
+          "altOpeners": [],
           "chain": [
             {
               "text": "**Isa 45:5** (\"there is no other, besides me there is no God\")",
@@ -5281,6 +5356,25 @@
           "subtitle": "Joseph Smith wrote himself into Genesis",
           "warning": false,
           "supplemental": false,
+          "altOpeners": [
+            {
+              "text": "*\"Why would God pick that person to re-reveal that prophecy?\"* (After you name JST Genesis 50:33 and 2 Nephi 3:15.)",
+              "verses": [
+                {
+                  "label": "JST Genesis 50:33",
+                  "kind": "jst",
+                  "key": "jst.genesis.50.33"
+                },
+                {
+                  "label": "2 Nephi 3:15",
+                  "kind": "bom",
+                  "key": "bom.2-nephi.3.15"
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
           "chain": [
             {
               "text": "JST **Genesis 50:33** (Joseph Smith's own \"translation\" adds a prophecy of a seer named Joseph) + **2 Nephi 3:15**",
@@ -6299,6 +6393,7 @@
           "whenToUse": "run it in phases",
           "warning": false,
           "supplemental": true,
+          "altOpeners": [],
           "chain": [
             {
               "phase": "Phase 1: plain text only. Don't move on until they agree.",
@@ -6643,6 +6738,22 @@
           "subtitle": "the John 14 and Q 61:6 claims",
           "warning": false,
           "supplemental": true,
+          "altOpeners": [
+            {
+              "text": "*\"So the Comforter here, you believe that's Muhammad?\"* (Once they cite John 14.)",
+              "verses": [
+                {
+                  "label": "John 14",
+                  "kind": "bible",
+                  "key": "john.14",
+                  "book": "john",
+                  "chapter": 14
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
           "chain": [
             {
               "text": "**John 14:16–17**: the Helper is \"the **Spirit** of truth… you **know** him, for he **dwells with you** and will be **in you**.\" *\"Was Muhammad living with the disciples? So this can't be Muhammad, right?\"* ➕ v.26: \"the **Holy Spirit**, whom the Father will send.\" Acts 1:5, 8 → Pentecost (Acts 2), a few weeks later, not 600 years.",
@@ -6799,7 +6910,7 @@
             }
           ],
           "opener": {
-            "text": "*\"Where does the Bible mention Muhammad? Can we read it together?\"*",
+            "text": "*\"So where does Jesus mention Muhammad?\"*",
             "verses": [],
             "links": [],
             "supplemental": false
@@ -6811,6 +6922,7 @@
           "title": "Only God gives eternal life",
           "warning": false,
           "supplemental": true,
+          "altOpeners": [],
           "chain": [
             {
               "text": "**John 10:28**: Jesus: \"**I give** them eternal life.\" → *\"If only God gives eternal life, and Jesus says He gives it, who is Jesus claiming to be?\"*",
@@ -6919,6 +7031,14 @@
           "title": "Son vs. servant",
           "warning": false,
           "supplemental": false,
+          "altOpeners": [
+            {
+              "text": "*\"Where in the Bible does it say the Son of God is just a servant?\"* (When they say \"son\" only means servant.)",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ],
           "chain": [
             {
               "text": "**John 8:35–36**: \"The **slave** does not remain in the house forever; **the son** remains forever.\" → *\"Why does Jesus distinguish servants from a son if they're the same thing?\"*",
@@ -6980,7 +7100,7 @@
             }
           ],
           "opener": {
-            "text": "*\"Is Jesus only a servant of God, or the Son? Can we read what Jesus Himself says?\"*",
+            "text": "*\"Is Jesus the son of Allah?\"* (They'll say no.)",
             "verses": [],
             "links": [],
             "supplemental": false
@@ -6993,6 +7113,14 @@
           "subtitle": "the Black Stone",
           "warning": false,
           "supplemental": false,
+          "altOpeners": [
+            {
+              "text": "*\"Why are people rubbing oil on this rock that doesn't do anything for you?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ],
           "chain": [
             {
               "text": "Muslims say the Stone can't benefit or harm (Umar), yet **Sunan an-Nasa'i 2919** says touching the corners **erases sins**; Bukhari 1610; Nasa'i 2935.",
@@ -7065,6 +7193,23 @@
           "whenToUse": "only if they claim Islam is morally superior",
           "warning": true,
           "supplemental": false,
+          "altOpeners": [
+            {
+              "text": "*\"It talks about the women that you're allowed to have, right?\"* (On Q 4:24.)",
+              "verses": [
+                {
+                  "label": "Q 4:24",
+                  "kind": "quran",
+                  "key": "q.4.24",
+                  "chapter": 4,
+                  "verseStart": 24,
+                  "verseEnd": 24
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
           "chain": [
             {
               "text": "Used against a Quran-only Muslim: **Q 4:24** (married captive women \"your right hands possess\"), **Q 2:230** (*halala*: must marry and consummate with another man before remarrying the first husband. Compare Deut 24:1–4, an \"abomination\"), **Q 65:4 + 33:49** (waiting period for girls \"who have not yet menstruated\"; the waiting period applies only after consummation). Use sparingly. It turns hostile fast. Keep it on the text, and keep the goal the gospel, not winning.",
@@ -8056,6 +8201,7 @@
           "title": "Pin down the position",
           "warning": false,
           "supplemental": false,
+          "altOpeners": [],
           "chain": [
             {
               "text": "*\"When you say you're an atheist, are you saying God doesn't exist, or that you lack belief?\"* → If it's a claim: *\"How do you know?\"* If it's lack of belief: *\"So you don't know. Then you're open to evidence, right?\"*",
@@ -8112,6 +8258,7 @@
           "title": "Design + life from life",
           "warning": false,
           "supplemental": true,
+          "altOpeners": [],
           "chain": [
             {
               "text": "*\"Have you ever experienced something as ordered and designed as this coming from something that isn't intelligent?\"*",
@@ -8201,6 +8348,14 @@
           "subtitle": "Reformed / presuppositional",
           "warning": false,
           "supplemental": true,
+          "altOpeners": [
+            {
+              "text": "*\"Where do you get this idea of bad from?\"* (When they call something evil or unfair.)",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ],
           "chain": [
             {
               "label": "Logic",
@@ -8278,6 +8433,14 @@
           "subtitle": "the center",
           "warning": false,
           "supplemental": false,
+          "altOpeners": [
+            {
+              "text": "*\"What about the people who didn't believe in Jesus, persecuted His followers, then said, 'I saw Jesus'?\"* (When they say it's a game of telephone.)",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ],
           "chain": [
             {
               "text": "*\"If Christ didn't rise from the dead, Christianity is false. Period.\"* (1 Cor 15:14–19) Christianity puts itself on a testable, historical claim.",
