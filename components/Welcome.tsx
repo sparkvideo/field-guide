@@ -92,7 +92,6 @@ export function Welcome({ always = false }: { always?: boolean }) {
             </li>
             <li>Tap a verse to read it, and end with the gospel</li>
           </ol>
-          <p className="muted small">Tell Charlie what&rsquo;s confusing or missing.</p>
         </section>
 
         <button className="btn primary mt-6 w-full" style={{ minHeight: 56, fontSize: 19 }} onClick={enter}>
