@@ -1,0 +1,30 @@
+{
+  "name": "field-guide-apologetics",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "parse": "tsx scripts/build-bible.ts && tsx scripts/parse-guide.ts",
+    "build": "next build && node scripts/build-sw.mjs",
+    "start": "npx serve out",
+    "icons": "node scripts/make-icons.mjs"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.3.5",
+    "@types/node": "^26.6.6",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "postcss": "^8.5.32",
+    "serve": "^14.2.7",
+    "sharp": "^0.35.5",
+    "tailwindcss": "^4.3.5",
+    "tsx": "^4.23.15",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "fuse.js": "^7.5.0",
+    "next": "^15.5.29",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  }
+}

@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Field Guide: fill in the LSB verses</title>
+<style>
+  body { font: 17px/1.5 -apple-system, "Segoe UI", Roboto, sans-serif; background: #0c0d10; color: #f1f1f3; margin: 0; }
+  main { max-width: 760px; margin: 0 auto; padding: 24px 20px 120px; }
+  h1 { font-size: 26px; margin: 0 0 8px; }
+  p { color: #9d9daa; }
+  .row { background: #16181d; border: 1px solid #272a33; border-radius: 14px; padding: 16px; margin-top: 14px; }
+  .row.done { border-color: #2f6b45; }
+  .head { display: flex; justify-content: space-between; align-items: center; gap: 12px; }
+  .ref { font-weight: 700; font-size: 19px; }
+  a { color: #7fb0ff; font-weight: 600; text-decoration: none; white-space: nowrap; }
+  textarea { width: 100%; box-sizing: border-box; min-height: 84px; margin-top: 10px; padding: 10px; font: inherit; color: inherit; background: #0c0d10; border: 1px solid #272a33; border-radius: 10px; resize: vertical; }
+  .bar { position: fixed; left: 0; right: 0; bottom: 0; background: #16181d; border-top: 1px solid #272a33; padding: 14px 20px; display: flex; justify-content: center; gap: 16px; align-items: center; }
+  button { font: inherit; font-weight: 700; padding: 12px 20px; border-radius: 12px; border: 0; background: #7fb0ff; color: #0c0d10; cursor: pointer; }
+  label { color: #9d9daa; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Fill in the LSB verses</h1>
+  <p>For each reference: tap <b>Open in LSB</b>, copy the verse text, and paste it into the box. Your work is saved in this browser as you go, so you can stop and come back. When you're done (or partway), tap <b>Download</b> and put the downloaded <code>lsb-verses.json</code> into the project's <code>content</code> folder, replacing the old one.</p>
+  <label><input type="checkbox" id="only"> Show only the empty ones</label>
+  <div id="list"></div>
+</main>
+<div class="bar"><span id="count"></span><button id="save">Download lsb-verses.json</button></div>
+<script>
+const data = __DATA__;
+const KEY = "fg-lsb-helper";
+const saved = JSON.parse(localStorage.getItem(KEY) || "{}");
+for (const v of data) if (saved[v.key] && !v.text) v.text = saved[v.key];
+const list = document.getElementById("list");
+const only = document.getElementById("only");
+function count() {
+  const done = data.filter((v) => v.text.trim()).length;
+  document.getElementById("count").textContent = done + " of " + data.length + " filled";
+}
+function draw() {
+  list.textContent = "";
+  for (const v of data) {
+    if (only.checked && v.text.trim()) continue;
+    const row = document.createElement("div");
+    row.className = "row" + (v.text.trim() ? " done" : "");
+    const head = document.createElement("div"); head.className = "head";
+    const ref = document.createElement("span"); ref.className = "ref"; ref.textContent = v.ref;
+    const link = document.createElement("a"); link.textContent = "Open in LSB ↗"; link.target = "_blank"; link.rel = "noopener";
+    link.href = "https://www.biblegateway.com/passage/?search=" + encodeURIComponent(v.ref.replace("–", "-")) + "&version=LSB";
+    head.append(ref, link);
+    const box = document.createElement("textarea"); box.value = v.text; box.placeholder = "Paste the LSB text of " + v.ref;
+    box.addEventListener("input", () => {
+      v.text = box.value.replace(/\s+/g, " ").trim();
+      saved[v.key] = v.text; localStorage.setItem(KEY, JSON.stringify(saved));
+      row.className = "row" + (v.text ? " done" : ""); count();
+    });
+    row.append(head, box); list.append(row);
+  }
+  count();
+}
+only.addEventListener("change", draw);
+document.getElementById("save").addEventListener("click", () => {
+  const blob = new Blob([JSON.stringify(data, null, 2)], { type: "application/json" });
+  const a = document.createElement("a"); a.href = URL.createObjectURL(blob); a.download = "lsb-verses.json"; a.click();
+});
+draw();
+</script>
+</body>
+</html>

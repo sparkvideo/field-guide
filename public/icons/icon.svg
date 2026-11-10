@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#16233a"/>
+  <!-- open book -->
+  <path d="M256 176c-34-22-76-30-124-26v188c48-4 90 4 124 26z" fill="#ffffff"/>
+  <path d="M256 176c34-22 76-30 124-26v188c-48-4-90 4-124 26z" fill="#dfe7f5"/>
+  <rect x="250" y="172" width="12" height="194" rx="6" fill="#16233a"/>
+</svg>

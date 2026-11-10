@@ -1,0 +1,40 @@
+{
+  "verses": 31102,
+  "omittedVerses": 16,
+  "bookFiles": {
+    "count": 66,
+    "raw": 3950617,
+    "gz": 1276584,
+    "biggest": {
+      "file": "psalms.json",
+      "raw": 218059,
+      "gz": 71260
+    }
+  },
+  "searchFiles": [
+    {
+      "file": "search-1.json",
+      "raw": 1871059,
+      "gz": 561151
+    },
+    {
+      "file": "search-2.json",
+      "raw": 465109,
+      "gz": 156713
+    },
+    {
+      "file": "search-3.json",
+      "raw": 861329,
+      "gz": 273283
+    },
+    {
+      "file": "search-4.json",
+      "raw": 998769,
+      "gz": 327861
+    }
+  ],
+  "searchTotal": {
+    "raw": 4196266,
+    "gz": 1319008
+  }
+}
