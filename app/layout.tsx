@@ -17,7 +17,6 @@ export const metadata: Metadata = {
   appleWebApp: { capable: true, title: "Apologetics Field Guide", statusBarStyle: "black-translucent" },
   icons: {
     icon: [
-      { url: "/icons/icon.svg", type: "image/svg+xml" },
       { url: "/icons/favicon-32.png", sizes: "32x32", type: "image/png" },
       { url: "/icons/favicon.png", sizes: "48x48", type: "image/png" },
     ],

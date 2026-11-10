@@ -75,15 +75,8 @@ export const NoteIcon = () => (
   </Icon>
 );
 
-/** The app's emblem (same drawing as the home-screen icon). */
+/** The app's emblem (the same picture as the home-screen icon). */
 export function Mark({ size = 48 }: { size?: number }) {
-  return (
-    <svg width={size} height={size} viewBox="0 0 512 512" aria-hidden="true" style={{ borderRadius: size * 0.24, flex: "none" }}>
-      <rect width="512" height="512" fill="#1a211c" />
-      <path d="M256 92l15 45 45 15-45 15-15 45-15-45-45-15 45-15z" fill="#e6c877" />
-      <path d="M256 254c-36-24-86-30-138-22v172c52-8 102-2 138 22z" fill="#d4b062" />
-      <path d="M256 254c36-24 86-30 138-22v172c-52-8-102-2-138 22z" fill="#efe3bd" />
-      <path d="M256 254v172" stroke="#0c0f0d" strokeWidth="10" strokeLinecap="round" />
-    </svg>
-  );
+  // eslint-disable-next-line @next/next/no-img-element
+  return <img src="/icons/mark.png" width={size} height={size} alt="" style={{ borderRadius: size * 0.24, flex: "none" }} />;
 }

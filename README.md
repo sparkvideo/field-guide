@@ -106,4 +106,4 @@ From then on, every time you push a change in GitHub Desktop (**Commit**, then *
 
 ## Changing the icon
 
-Replace `public/icons/icon.svg`, run `npm run icons`, and push.
+Replace `public/icons/icon-source.png` with a square image (1024px or larger), run `npm run icons`, and push.
