@@ -1,6 +1,177 @@
-# LSB verses still to fill in (0 of 391)
+# LSB verses still to fill in (172 of 563)
 
 Open `content/lsb-verses.json`, find the reference, and paste the LSB text between the quotes after "text".
 Until a slot is filled, the app shows the BSB text with a small "BSB" label.
 
-
+- [ ] Genesis 15:6
+- [ ] Exodus 20:4–5
+- [ ] Exodus 20:5
+- [ ] Exodus 25:18
+- [ ] Exodus 32:4–5
+- [ ] Leviticus 12:6–8
+- [ ] Numbers 21:8–9
+- [ ] Deuteronomy 4:15–19
+- [ ] Deuteronomy 18:10–11
+- [ ] Deuteronomy 29:29
+- [ ] 2 Samuel 12:23
+- [ ] 1 Kings 19:18
+- [ ] 2 Kings 18:4
+- [ ] Psalms 51:5
+- [ ] Isaiah 8:19
+- [ ] Isaiah 8:20
+- [ ] Isaiah 53:10
+- [ ] Isaiah 55:1
+- [ ] Malachi 1:11
+- [ ] Matthew 1:25
+- [ ] Matthew 6:9
+- [ ] Matthew 11:28
+- [ ] Matthew 12:46–47
+- [ ] Matthew 13:55–56
+- [ ] Matthew 16:16–19
+- [ ] Matthew 18:18
+- [ ] Matthew 22:29
+- [ ] Matthew 22:31
+- [ ] Mark 6:3
+- [ ] Mark 7:8–13
+- [ ] Mark 7:8–9
+- [ ] Mark 7:13
+- [ ] Luke 1:35
+- [ ] Luke 1:43
+- [ ] Luke 1:47
+- [ ] Luke 2:22–24
+- [ ] Luke 11:27–28
+- [ ] Luke 13:3
+- [ ] Luke 18:13–14
+- [ ] Luke 22:19
+- [ ] Luke 24:47
+- [ ] John 2:5
+- [ ] John 3:3–7
+- [ ] John 3:5
+- [ ] John 3:18
+- [ ] John 4:23–24
+- [ ] John 5:24
+- [ ] John 6:35
+- [ ] John 6:37–40
+- [ ] John 6:40
+- [ ] John 6:47
+- [ ] John 6:53–54
+- [ ] John 6:53
+- [ ] John 6:63
+- [ ] John 7:5
+- [ ] John 10:9
+- [ ] John 10:27–29
+- [ ] John 10:27
+- [ ] John 17:17
+- [ ] John 17:20–21
+- [ ] John 19:30
+- [ ] John 20:21–23
+- [ ] John 20:23
+- [ ] Acts 1:14
+- [ ] Acts 1:21–22
+- [ ] Acts 2:38
+- [ ] Acts 2:42
+- [ ] Acts 8:20
+- [ ] Acts 10:25–26
+- [ ] Acts 10:43
+- [ ] Acts 10:44–48
+- [ ] Acts 13:38–39
+- [ ] Acts 15:13–21
+- [ ] Acts 20:29–30
+- [ ] Romans 1:18
+- [ ] Romans 3:2
+- [ ] Romans 3:23–24
+- [ ] Romans 3:28
+- [ ] Romans 4:2–5
+- [ ] Romans 4:5
+- [ ] Romans 4:6–8
+- [ ] Romans 4:6
+- [ ] Romans 4:9–11
+- [ ] Romans 5:1
+- [ ] Romans 5:12
+- [ ] Romans 5:18–19
+- [ ] Romans 5:18
+- [ ] Romans 6:1–4
+- [ ] Romans 8:29–30
+- [ ] Romans 8:32
+- [ ] Romans 8:33–34
+- [ ] Romans 11:4–5
+- [ ] Romans 12:1
+- [ ] 1 Corinthians 1:2
+- [ ] 1 Corinthians 1:10
+- [ ] 1 Corinthians 1:17
+- [ ] 1 Corinthians 3:10–15
+- [ ] 1 Corinthians 3:11
+- [ ] 1 Corinthians 3:15
+- [ ] 1 Corinthians 10:16
+- [ ] 1 Corinthians 11:26
+- [ ] 2 Corinthians 3:18
+- [ ] 2 Corinthians 5:17
+- [ ] Galatians 1:6–9
+- [ ] Galatians 1:8–9
+- [ ] Galatians 1:19
+- [ ] Galatians 2:11–14
+- [ ] Galatians 2:16
+- [ ] Galatians 3:1–3
+- [ ] Galatians 3:13
+- [ ] Galatians 4:4
+- [ ] Galatians 5:6
+- [ ] Ephesians 2:1–5
+- [ ] Ephesians 2:1
+- [ ] Ephesians 2:3
+- [ ] Ephesians 2:4–9
+- [ ] Ephesians 2:5
+- [ ] Ephesians 2:10
+- [ ] Ephesians 2:19–22
+- [ ] Ephesians 2:20
+- [ ] Ephesians 4:3–6
+- [ ] Philippians 1:6
+- [ ] Philippians 2:12–13
+- [ ] Philippians 2:13
+- [ ] Philippians 3:9
+- [ ] Colossians 2:14
+- [ ] Colossians 2:15
+- [ ] 2 Thessalonians 2:14–15
+- [ ] 2 Thessalonians 2:15
+- [ ] 2 Thessalonians 3:6
+- [ ] 1 Timothy 3:14–16
+- [ ] 1 Timothy 3:15
+- [ ] 1 Timothy 4:13
+- [ ] 1 Timothy 6:16
+- [ ] 2 Timothy 2:2
+- [ ] 2 Timothy 3:15–17
+- [ ] 2 Timothy 3:15
+- [ ] 2 Timothy 4:2
+- [ ] Titus 2:11–14
+- [ ] Hebrews 2:14–15
+- [ ] Hebrews 4:14–16
+- [ ] Hebrews 4:16
+- [ ] Hebrews 7:23–25
+- [ ] Hebrews 7:25
+- [ ] Hebrews 7:27
+- [ ] Hebrews 9:25–28
+- [ ] Hebrews 10:1
+- [ ] Hebrews 10:11–12
+- [ ] Hebrews 10:14
+- [ ] Hebrews 10:18
+- [ ] Hebrews 10:19–22
+- [ ] Hebrews 13:15
+- [ ] James 2:14
+- [ ] James 2:18
+- [ ] James 2:21–24
+- [ ] James 2:24
+- [ ] James 5:16
+- [ ] 1 Peter 1:5
+- [ ] 1 Peter 2:4–8
+- [ ] 1 Peter 2:5
+- [ ] 1 Peter 3:21
+- [ ] 1 Peter 5:1
+- [ ] 2 Peter 1:3–4
+- [ ] 1 John 1:7
+- [ ] 1 John 1:9
+- [ ] 1 John 2:19
+- [ ] 1 John 4:10
+- [ ] 1 John 5:11–13
+- [ ] 1 John 5:13
+- [ ] 1 John 5:21
+- [ ] Revelation 2:5
+- [ ] Revelation 5:8

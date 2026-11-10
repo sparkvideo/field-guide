@@ -238,6 +238,30 @@ The suffering Servant, the pierced hands and feet, the birthplace of the Messiah
 - **Tafsir:** commentary on the Quran.
 - **Hafs, Warsh, Qalun:** different transmitted readings of the Quran.
 
+## Roman Catholic
+- **Magisterium:** the Church's teaching office (the pope and the bishops in communion with him), which alone can authentically interpret Scripture and Tradition [CCC 85, 100].
+- **Sacred Tradition:** teaching handed down outside Scripture and held with "equal" reverence [CCC 82].
+- **Ex cathedra:** the pope defining faith or morals "from the chair," held to be infallible and "irreformable" [Vatican I].
+- **Transubstantiation:** the whole substance of bread and wine becomes Christ's body and blood, "truly, really, and substantially" [Trent, Sess. 13, can. 1; CCC 1376].
+- **Latria / dulia / hyperdulia:** worship due to God alone / honor to saints / the higher honor given to Mary.
+- **Infused vs. imputed righteousness:** Rome says God makes us "inwardly just" [CCC 1992]. Scripture says God credits Christ's righteousness to us (Rom 4:6; 2 Cor 5:21).
+- **Mortal sin:** grave sin that destroys sanctifying grace and, if unrepented, leads to hell [CCC 1861].
+- **Purgatory:** final purification after death for those who die in grace "but still imperfectly purified" [CCC 1030–1031].
+- **Indulgence:** remission of temporal punishment for sins already forgiven, applicable to oneself or to souls in purgatory [CCC 1471, 1498].
+- **Deuterocanonical books:** what Rome calls the Apocrypha: Tobit, Judith, Wisdom, Sirach, Baruch, 1–2 Maccabees, and additions to Esther and Daniel [Trent, Sess. 4].
+
+## Eastern Orthodox
+- **Holy Tradition:** "the doctrine of the faith, the law of God, the sacraments, and the ritual as handed down" [Philaret Q17]. It includes Scripture and the councils.
+- **Theosis (deification):** sharing in the life of God as the goal of salvation [GOARCH, "Spirituality"]. Not sharing God's essence.
+- **Synergy:** God's grace and human effort working together in salvation.
+- **Theotokos:** "God-bearer," the title for Mary affirmed at Ephesus (431).
+- **Ever-virgin:** Mary remained a virgin before, during and after Christ's birth [Philaret Q186].
+- **Proskynesis vs. latreia:** veneration (bowing, kissing) given to icons and saints / worship given to God alone [Nicaea II].
+- **Ancestral sin:** we inherit death and corruption from Adam, but not his guilt [OCA Q&A, "Original Sin"].
+- **Essence / energies:** God's unknowable essence vs. His uncreated energies, in which believers participate (Gregory Palamas).
+- **Toll houses:** a pious tradition about demonic testing of the soul after death; **not dogma**.
+- **Dormition:** Mary's "falling asleep" (Aug. 15). Many Orthodox believe she was taken bodily to heaven, but the East never defined it as Rome did in 1950.
+
 ## Atheist
 - **Atheist:** does not believe in God. Some go further and say there is no God.
 - **Agnostic:** says they don't know, or that no one can know.

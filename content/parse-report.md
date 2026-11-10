@@ -1,6 +1,6 @@
 # Parse report
 
-Source: content/field_guide_apologetics.md (615 lines)
+Source: content/field_guide_apologetics.md (875 lines)
 
 ## Per group
 
@@ -10,6 +10,8 @@ Source: content/field_guide_apologetics.md (615 lines)
 | Unitarian | 5 | 14 | 1 | 4 | 20 | 6 | 3 | 22 | 0 |
 | Mormon | 4 | 18 | 3 | 8 | 17 | 6 | 3 | 20 | 0 |
 | Muslim | 6 | 18 | 0 | 7 | 21 | 6 | 3 | 32 | 0 |
+| Roman Catholic | 5 | 29 | 0 | 17 | 20 | 6 | 3 | 0 | 0 |
+| Eastern Orthodox | 5 | 27 | 0 | 16 | 19 | 6 | 3 | 0 | 0 |
 | Atheist | 4 | 10 | 0 | 1 | 21 | 6 | 0 | 15 | 0 |
 
 ## Shared sections
@@ -17,7 +19,7 @@ Source: content/field_guide_apologetics.md (615 lines)
 - The Method: 10 moves, 5 universal tools, 12 ▶ links
 - Holy Spirit Play: Step A 6 rows + 5 "if they say"; Step B 7 rows (5 OT→NT pairs) + 3 "if they say"; 20 ▶ links; 0 ➕ items
 - Video References: 38 videos
-- Extra pages (content/extras.md): The Gospel (9 sections), The Way of the Master (8 sections), Worldviews: how do you know? (8 sections), The Trinity (6 sections), Is the Bible reliable? (6 sections), Words they use (6 sections); 0 ➕ items
+- Extra pages (content/extras.md): The Gospel (9 sections), The Way of the Master (8 sections), Worldviews: how do you know? (8 sections), The Trinity (6 sections), Is the Bible reliable? (6 sections), Words they use (8 sections); 0 ➕ items
 
 ## Nothing-dropped checks
 
@@ -30,13 +32,25 @@ Source: content/field_guide_apologetics.md (615 lines)
 
 ## Verses
 
-- Bible references: 414 unique (391 verses/ranges + 23 whole-chapter mentions)
+- Bible references: 594 unique (563 verses/ranges + 31 whole-chapter mentions)
 - Quran: 26 · Book of Mormon: 6 · D&C: 1 · JST: 1 · Hadith: 5
-- Resolve in the bundled BSB: 414 of 414 ✓
-- LSB slots: 391 total, **0 still empty** (1 filled slot(s) no longer cited: Hosea 13:14)
-- Whole-chapter mentions (no LSB slot; they open the chapter in the reader): Num 21, Deut 34, Ps 8, Ps 22, Ps 49, Ps 82, Ps 95, Ps 102, Prov 8, Isa 42, Isa 43–45, Isa 53, Isa 61, Ezek 37, Dan 7, Mark 15, John 1, John 14, Acts 2, Acts 3, 1 Cor 8, Phil 2, Heb 2
+- Resolve in the bundled BSB: 594 of 594 ✓
+- LSB slots: 563 total, **172 still empty**
+- Whole-chapter mentions (no LSB slot; they open the chapter in the reader): Gen 15, Gen 22, Num 21, Deut 34, Ps 8, Ps 22, Ps 49, Ps 82, Ps 95, Ps 102, Prov 8, Isa 42, Isa 43–45, Isa 53, Isa 61, Ezek 37, Dan 7, Mark 7, Mark 15, John 1, John 6, John 14, Acts 2, Acts 3, Acts 10, Rom 3–5, Rom 5, 1 Cor 3, 1 Cor 8, Phil 2, Heb 2
 - Chapter:verse numbers written without a book name (not turned into chips):
   - Muslim objection 18: "5:16"
+  - Roman Catholic objection 4: "2:14"
+  - Roman Catholic objection 4: "2:18"
+  - Roman Catholic objection 5: "6:35"
+  - Roman Catholic objection 5: "6:40, 47"
+  - Roman Catholic objection 5: "6:63"
+  - Roman Catholic objection 5: "6:54"
+  - Roman Catholic objection 7: "2:14"
+  - Roman Catholic objection 8: "3:1–14"
+  - Roman Catholic objection 8: "3:16"
+  - Roman Catholic objection 14: "3:10–14"
+  - Roman Catholic objection 14: "12:43–45"
+  - Eastern Orthodox objection 3: "2:14"
 
 ## For Charlie to look at
 

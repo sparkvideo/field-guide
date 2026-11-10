@@ -8672,6 +8672,4658 @@
       }
     },
     {
+      "slug": "catholic",
+      "name": "Roman Catholic",
+      "heading": "ROMAN CATHOLICS",
+      "color": "#9333ea",
+      "emoji": "⛪",
+      "beliefs": {
+        "text": "Revelation reaches us through Scripture *and* Sacred Tradition, and \"both… must be accepted and honoured with equal sentiments of devotion and reverence\" [CCC 82; Trent, Sess. 4]. Only the Magisterium (the pope and the bishops in communion with him) can interpret either one authentically [CCC 85, 100]. Justification \"is conferred in Baptism\" and \"makes us inwardly just\" [CCC 1992]. No one can merit the first grace, but the justified \"can then merit for ourselves and for others… the attainment of eternal life\" [CCC 2010]. The Mass is \"one single sacrifice\" with the cross, offered \"in reparation for the sins of the living and the dead\" [CCC 1367, 1414]. Mortal sin destroys sanctifying grace, and it is restored through confession to a priest [CCC 1446, 1456, 1861]. Those who die \"imperfectly purified\" undergo purgatory before heaven [CCC 1030–1031].",
+        "verses": [],
+        "links": [],
+        "supplemental": false
+      },
+      "lead": [
+        {
+          "label": "Where we agree",
+          "text": "They confess one God in three Persons, the full deity and humanity of Christ, the virgin birth, the bodily resurrection, the return of Christ, and eternal judgment [CCC 1035, 1040]. They affirm that Scripture is inspired, and that \"no one can merit the initial grace\" [CCC 2010]. Say this plainly. The disagreement is not over *whether* Jesus is God; it is over *how a sinner is made right with Him*, and over *who has the final word*.",
+          "verses": [],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "Approach",
+          "text": "Most Catholics you'll talk to are family and friends who have never read the Catechism or Trent. Many of them love Jesus sincerely. Be gentle with the person and firm on the gospel. The goal is \"not just to win arguments, but more importantly to win souls\". Two things keep it clear. First, they use the same words with a different meaning: \"grace,\" \"faith,\" and \"justification\" all mean something different in Rome. Define terms before you argue. Second, keep coming back to two questions: *What is your final authority?* and *Is Christ's work enough by itself?*.",
+          "verses": [],
+          "links": [],
+          "supplemental": false
+        }
+      ],
+      "cheatCardTitle": "Catholic Cheat Card",
+      "cheatCard": [
+        {
+          "text": "**Rom 4:4–5**: *\"Does God justify the one who works, or the one who believes?\"*",
+          "verses": [
+            {
+              "label": "Rom 4:4–5",
+              "kind": "bible",
+              "key": "romans.4.4-5",
+              "book": "romans",
+              "chapter": 4,
+              "verseStart": 4,
+              "verseEnd": 5
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "text": "**Heb 10:14, 18**: *\"If His one offering perfected us for all time, and there's no longer any offering for sin, what is offered at Mass?\"*",
+          "verses": [
+            {
+              "label": "Heb 10:14",
+              "kind": "bible",
+              "key": "hebrews.10.14",
+              "book": "hebrews",
+              "chapter": 10,
+              "verseStart": 14,
+              "verseEnd": 14
+            },
+            {
+              "label": "Heb 10:18",
+              "kind": "bible",
+              "key": "hebrews.10.18",
+              "book": "hebrews",
+              "chapter": 10,
+              "verseStart": 18,
+              "verseEnd": 18
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "text": "**1 Tim 2:5**: *\"How many mediators between God and men does Paul name?\"*",
+          "verses": [
+            {
+              "label": "1 Tim 2:5",
+              "kind": "bible",
+              "key": "1-timothy.2.5",
+              "book": "1-timothy",
+              "chapter": 2,
+              "verseStart": 5,
+              "verseEnd": 5
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "text": "**Mark 7:8–13**: *\"Can a religious tradition ever cancel out God's word?\"*",
+          "verses": [
+            {
+              "label": "Mark 7:8–13",
+              "kind": "bible",
+              "key": "mark.7.8-13",
+              "book": "mark",
+              "chapter": 7,
+              "verseStart": 8,
+              "verseEnd": 13
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "text": "**1 John 5:13**: *\"John wrote so you can *know* you have eternal life. Do you?\"*",
+          "verses": [
+            {
+              "label": "1 John 5:13",
+              "kind": "bible",
+              "key": "1-john.5.13",
+              "book": "1-john",
+              "chapter": 5,
+              "verseStart": 13,
+              "verseEnd": 13
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "text": "**Gal 1:8–9**: *\"If even an apostle or an angel can't change the gospel, can a council?\"*",
+          "verses": [
+            {
+              "label": "Gal 1:8–9",
+              "kind": "bible",
+              "key": "galatians.1.8-9",
+              "book": "galatians",
+              "chapter": 1,
+              "verseStart": 8,
+              "verseEnd": 9
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        }
+      ],
+      "offense": [
+        {
+          "id": "play-1",
+          "number": 1,
+          "title": "Credited, not earned",
+          "subtitle": "justification",
+          "warning": false,
+          "supplemental": false,
+          "altOpeners": [
+            {
+              "text": "*\"What do you think makes a person right with God: what Christ did, what we do, or both?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "chain": [
+            {
+              "text": "**Rom 3:23–24**: All have sinned, and are justified as a *gift*, by His grace. *\"Is a gift paid for in any part?\"*",
+              "verses": [
+                {
+                  "label": "Rom 3:23–24",
+                  "kind": "bible",
+                  "key": "romans.3.23-24",
+                  "book": "romans",
+                  "chapter": 3,
+                  "verseStart": 23,
+                  "verseEnd": 24
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Rom 3:28**: Justified by faith *apart from* works of the Law. *\"What does 'apart from' leave out?\"*",
+              "verses": [
+                {
+                  "label": "Rom 3:28",
+                  "kind": "bible",
+                  "key": "romans.3.28",
+                  "book": "romans",
+                  "chapter": 3,
+                  "verseStart": 28,
+                  "verseEnd": 28
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Rom 4:4–5**: To the worker, wages are owed. To \"the one who does not work, but believes,\" faith is credited as righteousness. *\"Which one is Abraham?\"*",
+              "verses": [
+                {
+                  "label": "Rom 4:4–5",
+                  "kind": "bible",
+                  "key": "romans.4.4-5",
+                  "book": "romans",
+                  "chapter": 4,
+                  "verseStart": 4,
+                  "verseEnd": 5
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Rom 4:6–8**: David speaks of righteousness credited \"apart from works.\" *\"Is that righteousness *in* David, or credited *to* David?\"*",
+              "verses": [
+                {
+                  "label": "Rom 4:6–8",
+                  "kind": "bible",
+                  "key": "romans.4.6-8",
+                  "book": "romans",
+                  "chapter": 4,
+                  "verseStart": 6,
+                  "verseEnd": 8
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**2 Cor 5:21; Phil 3:9**: Our sin was credited to Christ, and His righteousness to us, \"not… my own… but… through faith.\" *\"Whose righteousness do you want to stand in on Judgment Day?\"*",
+              "verses": [
+                {
+                  "label": "2 Cor 5:21",
+                  "kind": "bible",
+                  "key": "2-corinthians.5.21",
+                  "book": "2-corinthians",
+                  "chapter": 5,
+                  "verseStart": 21,
+                  "verseEnd": 21
+                },
+                {
+                  "label": "Phil 3:9",
+                  "kind": "bible",
+                  "key": "philippians.3.9",
+                  "book": "philippians",
+                  "chapter": 3,
+                  "verseStart": 9,
+                  "verseEnd": 9
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Rom 5:1**: \"Having been justified by faith, we have peace.\" *\"Is that peace now, or only after purgatory?\"*",
+              "verses": [
+                {
+                  "label": "Rom 5:1",
+                  "kind": "bible",
+                  "key": "romans.5.1",
+                  "book": "romans",
+                  "chapter": 5,
+                  "verseStart": 1,
+                  "verseEnd": 1
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "questions": [],
+          "ifTheySay": [
+            {
+              "theySay": "*\"'Works of the law' means only the Jewish ceremonies.\"*",
+              "youSay": "Rom 4:4–5 talks about *any* work that earns wages. Eph 2:8–9 says \"not of works,\" and Titus 3:5 says not by \"deeds which we have done in righteousness.\" *\"Are deeds done in righteousness ceremonies?\"*",
+              "verses": [
+                {
+                  "label": "Rom 4:4–5",
+                  "kind": "bible",
+                  "key": "romans.4.4-5",
+                  "book": "romans",
+                  "chapter": 4,
+                  "verseStart": 4,
+                  "verseEnd": 5
+                },
+                {
+                  "label": "Eph 2:8–9",
+                  "kind": "bible",
+                  "key": "ephesians.2.8-9",
+                  "book": "ephesians",
+                  "chapter": 2,
+                  "verseStart": 8,
+                  "verseEnd": 9
+                },
+                {
+                  "label": "Titus 3:5",
+                  "kind": "bible",
+                  "key": "titus.3.5",
+                  "book": "titus",
+                  "chapter": 3,
+                  "verseStart": 5,
+                  "verseEnd": 5
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"We believe in grace too. The Catechism says no one can merit the first grace.\"*",
+              "youSay": "True [CCC 2010]. Thank them for it. The same paragraph says the justified then *merit* \"the attainment of eternal life.\" Rom 11:6 says grace and works can't be mixed: \"otherwise grace is no longer grace.\"",
+              "verses": [
+                {
+                  "label": "Rom 11:6",
+                  "kind": "bible",
+                  "key": "romans.11.6",
+                  "book": "romans",
+                  "chapter": 11,
+                  "verseStart": 6,
+                  "verseEnd": 6
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"Trent only condemns a dead faith, with no cooperation.\"*",
+              "youSay": "Read the canon they mean. Trent condemns anyone who says justification is \"by faith alone… [so] that nothing else is required to co-operate\" [Trent, Sess. 6, can. 9]. It also condemns justification by \"the sole imputation of the justice of Christ\" [can. 11]. That is exactly Rom 4:5. Sproul: if the Reformers were right, Trent anathematized the gospel.",
+              "verses": [
+                {
+                  "label": "Rom 4:5",
+                  "kind": "bible",
+                  "key": "romans.4.5",
+                  "book": "romans",
+                  "chapter": 4,
+                  "verseStart": 5,
+                  "verseEnd": 5
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"Faith alone means you can live however you want.\"*",
+              "youSay": "Saving faith comes with repentance and produces works (Eph 2:10; Titus 2:11–14; Rom 6:1–4). Works are the *fruit* of justification, not its *cause*. Trent condemns that very sentence [Sess. 6, can. 24].",
+              "verses": [
+                {
+                  "label": "Eph 2:10",
+                  "kind": "bible",
+                  "key": "ephesians.2.10",
+                  "book": "ephesians",
+                  "chapter": 2,
+                  "verseStart": 10,
+                  "verseEnd": 10
+                },
+                {
+                  "label": "Titus 2:11–14",
+                  "kind": "bible",
+                  "key": "titus.2.11-14",
+                  "book": "titus",
+                  "chapter": 2,
+                  "verseStart": 11,
+                  "verseEnd": 14
+                },
+                {
+                  "label": "Rom 6:1–4",
+                  "kind": "bible",
+                  "key": "romans.6.1-4",
+                  "book": "romans",
+                  "chapter": 6,
+                  "verseStart": 1,
+                  "verseEnd": 4
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "notes": [],
+          "links": [],
+          "opener": {
+            "text": "*\"Do you know for sure that if you died today you'd be with God?\"* (Most will say \"I hope so\" or \"No one can know.\" The rest of the play explains why the answer can be yes.)",
+            "verses": [],
+            "links": [],
+            "supplemental": false
+          },
+          "closer": {
+            "text": "*\"God's offer is Christ's righteousness credited to you the moment you turn from sin and trust Him alone (Mark 1:15; Rom 4:5). Not Christ plus your record. Would you trust Him that way today?\"*",
+            "verses": [
+              {
+                "label": "Mark 1:15",
+                "kind": "bible",
+                "key": "mark.1.15",
+                "book": "mark",
+                "chapter": 1,
+                "verseStart": 15,
+                "verseEnd": 15
+              },
+              {
+                "label": "Rom 4:5",
+                "kind": "bible",
+                "key": "romans.4.5",
+                "book": "romans",
+                "chapter": 4,
+                "verseStart": 5,
+                "verseEnd": 5
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          }
+        },
+        {
+          "id": "play-2",
+          "number": 2,
+          "title": "Once for all",
+          "subtitle": "the Mass",
+          "warning": false,
+          "supplemental": false,
+          "altOpeners": [
+            {
+              "text": "*\"Is the sacrifice of the Mass a real sacrifice for sins?\"* (A Catholic who knows the faith will say yes [Trent, Sess. 22, can. 1, 3].)",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "chain": [
+            {
+              "text": "**Heb 7:27**: Unlike the priests, He offered Himself \"once for all.\" *\"How many times?\"*",
+              "verses": [
+                {
+                  "label": "Heb 7:27",
+                  "kind": "bible",
+                  "key": "hebrews.7.27",
+                  "book": "hebrews",
+                  "chapter": 7,
+                  "verseStart": 27,
+                  "verseEnd": 27
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Heb 9:25–28**: Not \"often,\" or He would have to suffer often. He was \"offered once to bear the sins of many.\" *\"Can a sacrifice for sin be offered without suffering, according to v. 26?\"*",
+              "verses": [
+                {
+                  "label": "Heb 9:25–28",
+                  "kind": "bible",
+                  "key": "hebrews.9.25-28",
+                  "book": "hebrews",
+                  "chapter": 9,
+                  "verseStart": 25,
+                  "verseEnd": 28
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Heb 10:11–12**: The priests \"stand daily\" offering sacrifices that never take away sins. Christ offered one sacrifice and \"sat down.\" *\"Why does the writer contrast standing with sitting?\"*",
+              "verses": [
+                {
+                  "label": "Heb 10:11–12",
+                  "kind": "bible",
+                  "key": "hebrews.10.11-12",
+                  "book": "hebrews",
+                  "chapter": 10,
+                  "verseStart": 11,
+                  "verseEnd": 12
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Heb 10:14**: By one offering He \"has perfected for all time\" those who are sanctified. *\"What's left for a priest to add?\"*",
+              "verses": [
+                {
+                  "label": "Heb 10:14",
+                  "kind": "bible",
+                  "key": "hebrews.10.14",
+                  "book": "hebrews",
+                  "chapter": 10,
+                  "verseStart": 14,
+                  "verseEnd": 14
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Heb 10:18**: \"Where there is forgiveness of these things, there is no longer any offering for sin.\" *\"So what is offered on the altar each Sunday?\"*",
+              "verses": [
+                {
+                  "label": "Heb 10:18",
+                  "kind": "bible",
+                  "key": "hebrews.10.18",
+                  "book": "hebrews",
+                  "chapter": 10,
+                  "verseStart": 18,
+                  "verseEnd": 18
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**1 Cor 11:26; Luke 22:19**: The Supper *proclaims* His death \"until He comes\" and is done \"in remembrance.\" *\"Is a proclamation the same thing as an offering?\"*",
+              "verses": [
+                {
+                  "label": "1 Cor 11:26",
+                  "kind": "bible",
+                  "key": "1-corinthians.11.26",
+                  "book": "1-corinthians",
+                  "chapter": 11,
+                  "verseStart": 26,
+                  "verseEnd": 26
+                },
+                {
+                  "label": "Luke 22:19",
+                  "kind": "bible",
+                  "key": "luke.22.19",
+                  "book": "luke",
+                  "chapter": 22,
+                  "verseStart": 19,
+                  "verseEnd": 19
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Why it matters",
+              "text": "The English Reformers were burned chiefly over this doctrine. It isn't a side issue.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "questions": [],
+          "ifTheySay": [
+            {
+              "theySay": "*\"It's not a new sacrifice. It's the same sacrifice made present.\"*",
+              "youSay": "That is their real position [CCC 1366–1367], so answer it fairly. Trent still calls the Mass \"propitiatory,\" \"offered for the living and the dead, for sins\" [Sess. 22, can. 3], and the Catechism says it is \"offered in reparation for the sins of the living and the dead\" [CCC 1414]. Heb 10:18 says that where forgiveness exists, *no* offering for sin remains. *\"If sins still need an offering, were they forgiven at the cross?\"*",
+              "verses": [
+                {
+                  "label": "Heb 10:18",
+                  "kind": "bible",
+                  "key": "hebrews.10.18",
+                  "book": "hebrews",
+                  "chapter": 10,
+                  "verseStart": 18,
+                  "verseEnd": 18
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"Malachi 1:11 predicts a pure offering among the nations.\"*",
+              "youSay": "In context it is the worship of God's name spreading among the Gentiles. The NT calls praise (Heb 13:15) and our bodies (Rom 12:1) sacrifices. It never calls the Supper a sacrifice for sin. (Inference from the NT pattern. The NT does not quote Mal 1:11.)",
+              "verses": [
+                {
+                  "label": "Mal 1:11",
+                  "kind": "bible",
+                  "key": "malachi.1.11",
+                  "book": "malachi",
+                  "chapter": 1,
+                  "verseStart": 11,
+                  "verseEnd": 11
+                },
+                {
+                  "label": "Heb 13:15",
+                  "kind": "bible",
+                  "key": "hebrews.13.15",
+                  "book": "hebrews",
+                  "chapter": 13,
+                  "verseStart": 15,
+                  "verseEnd": 15
+                },
+                {
+                  "label": "Rom 12:1",
+                  "kind": "bible",
+                  "key": "romans.12.1",
+                  "book": "romans",
+                  "chapter": 12,
+                  "verseStart": 1,
+                  "verseEnd": 1
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"Jesus said 'This is My body.'\"*",
+              "youSay": "He also said \"I am the door\" (John 10:9). He said it while His body stood in front of them, holding the bread. Our church holds that the elements are representative, *and* that the Supper is a real communion with the risen Christ (1 Cor 10:16). See the John 6 row in the defense table.",
+              "verses": [
+                {
+                  "label": "John 10:9",
+                  "kind": "bible",
+                  "key": "john.10.9",
+                  "book": "john",
+                  "chapter": 10,
+                  "verseStart": 9,
+                  "verseEnd": 9
+                },
+                {
+                  "label": "1 Cor 10:16",
+                  "kind": "bible",
+                  "key": "1-corinthians.10.16",
+                  "book": "1-corinthians",
+                  "chapter": 10,
+                  "verseStart": 16,
+                  "verseEnd": 16
+                },
+                {
+                  "label": "John 6",
+                  "kind": "bible",
+                  "key": "john.6",
+                  "book": "john",
+                  "chapter": 6
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "notes": [],
+          "links": [],
+          "opener": {
+            "text": "*\"When Jesus said 'It is finished' on the cross, what was finished?\"* (John 19:30)",
+            "verses": [
+              {
+                "label": "John 19:30",
+                "kind": "bible",
+                "key": "john.19.30",
+                "book": "john",
+                "chapter": 19,
+                "verseStart": 30,
+                "verseEnd": 30
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          },
+          "closer": {
+            "text": "*\"Hebrews is clear that His sacrifice is never repeated. If His one offering is enough, you don't need another one. You need Him. Will you rest on what He finished (Heb 10:14)?\"*",
+            "verses": [
+              {
+                "label": "Heb 10:14",
+                "kind": "bible",
+                "key": "hebrews.10.14",
+                "book": "hebrews",
+                "chapter": 10,
+                "verseStart": 14,
+                "verseEnd": 14
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          }
+        },
+        {
+          "id": "play-3",
+          "number": 3,
+          "title": "One Mediator",
+          "subtitle": "Mary and the saints",
+          "warning": false,
+          "supplemental": false,
+          "altOpeners": [
+            {
+              "text": "*\"What did Mary herself tell people to do about Jesus?\"* (John 2:5: \"Whatever He says to you, do it.\")",
+              "verses": [
+                {
+                  "label": "John 2:5",
+                  "kind": "bible",
+                  "key": "john.2.5",
+                  "book": "john",
+                  "chapter": 2,
+                  "verseStart": 5,
+                  "verseEnd": 5
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "chain": [
+            {
+              "text": "**1 Tim 2:5**: \"One mediator also between God and men, the man Christ Jesus.\" *\"Did Paul leave room for a second?\"*",
+              "verses": [
+                {
+                  "label": "1 Tim 2:5",
+                  "kind": "bible",
+                  "key": "1-timothy.2.5",
+                  "book": "1-timothy",
+                  "chapter": 2,
+                  "verseStart": 5,
+                  "verseEnd": 5
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Heb 4:14–16**: Because of our High Priest, *we* draw near to the throne \"with confidence.\" *\"Do we need someone to approach Jesus for us?\"*",
+              "verses": [
+                {
+                  "label": "Heb 4:14–16",
+                  "kind": "bible",
+                  "key": "hebrews.4.14-16",
+                  "book": "hebrews",
+                  "chapter": 4,
+                  "verseStart": 14,
+                  "verseEnd": 16
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Heb 7:25**: He \"always lives to make intercession.\" *\"Is His intercession ever not enough?\"*",
+              "verses": [
+                {
+                  "label": "Heb 7:25",
+                  "kind": "bible",
+                  "key": "hebrews.7.25",
+                  "book": "hebrews",
+                  "chapter": 7,
+                  "verseStart": 25,
+                  "verseEnd": 25
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Luke 11:27–28**: A woman blesses Mary's womb. Jesus answers, \"On the contrary, blessed are those who hear the word of God and keep it.\" *\"Why did Jesus redirect the praise?\"*",
+              "verses": [
+                {
+                  "label": "Luke 11:27–28",
+                  "kind": "bible",
+                  "key": "luke.11.27-28",
+                  "book": "luke",
+                  "chapter": 11,
+                  "verseStart": 27,
+                  "verseEnd": 28
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Luke 1:47**: Mary calls God \"my Savior.\" *\"Who needs a Savior?\"* (Rom 3:23)",
+              "verses": [
+                {
+                  "label": "Luke 1:47",
+                  "kind": "bible",
+                  "key": "luke.1.47",
+                  "book": "luke",
+                  "chapter": 1,
+                  "verseStart": 47,
+                  "verseEnd": 47
+                },
+                {
+                  "label": "Rom 3:23",
+                  "kind": "bible",
+                  "key": "romans.3.23",
+                  "book": "romans",
+                  "chapter": 3,
+                  "verseStart": 23,
+                  "verseEnd": 23
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Acts 10:25–26; Rev 22:8–9**: Peter and an angel both refuse religious bowing. \"Worship God.\" *\"If an apostle and an angel refused it, should Mary receive it?\"*",
+              "verses": [
+                {
+                  "label": "Acts 10:25–26",
+                  "kind": "bible",
+                  "key": "acts.10.25-26",
+                  "book": "acts",
+                  "chapter": 10,
+                  "verseStart": 25,
+                  "verseEnd": 26
+                },
+                {
+                  "label": "Rev 22:8–9",
+                  "kind": "bible",
+                  "key": "revelation.22.8-9",
+                  "book": "revelation",
+                  "chapter": 22,
+                  "verseStart": 8,
+                  "verseEnd": 9
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "questions": [],
+          "ifTheySay": [
+            {
+              "theySay": "*\"We don't worship Mary. We give her hyperdulia, not latria.\"*",
+              "youSay": "Grant the distinction honestly. Rome does teach it, and Vatican II says her role \"neither takes away from nor adds anything to\" Christ's [LG 62]. Then ask where Scripture teaches *any* category of religious honor or prayer directed to a creature. Peter and the angel refused even the bowing (Acts 10:25–26; Rev 22:8–9).",
+              "verses": [
+                {
+                  "label": "Acts 10:25–26",
+                  "kind": "bible",
+                  "key": "acts.10.25-26",
+                  "book": "acts",
+                  "chapter": 10,
+                  "verseStart": 25,
+                  "verseEnd": 26
+                },
+                {
+                  "label": "Rev 22:8–9",
+                  "kind": "bible",
+                  "key": "revelation.22.8-9",
+                  "book": "revelation",
+                  "chapter": 22,
+                  "verseStart": 8,
+                  "verseEnd": 9
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"Asking Mary to pray is like asking you to pray.\"*",
+              "youSay": "Scripture commands believers on earth to pray for one another (James 5:16). It never models or commands praying to the departed. It warns against seeking the dead (Deut 18:10–11; Isa 8:19). Catholics would say the saints are alive in Christ, not \"the dead,\" so present this as an inference. Also, a creature who hears millions of silent prayers at once would need a divine attribute.",
+              "verses": [
+                {
+                  "label": "Jas 5:16",
+                  "kind": "bible",
+                  "key": "james.5.16",
+                  "book": "james",
+                  "chapter": 5,
+                  "verseStart": 16,
+                  "verseEnd": 16
+                },
+                {
+                  "label": "Deut 18:10–11",
+                  "kind": "bible",
+                  "key": "deuteronomy.18.10-11",
+                  "book": "deuteronomy",
+                  "chapter": 18,
+                  "verseStart": 10,
+                  "verseEnd": 11
+                },
+                {
+                  "label": "Isa 8:19",
+                  "kind": "bible",
+                  "key": "isaiah.8.19",
+                  "book": "isaiah",
+                  "chapter": 8,
+                  "verseStart": 19,
+                  "verseEnd": 19
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"The Church calls her Mediatrix [CCC 969], but in a subordinate way.\"*",
+              "youSay": "*\"Is 'one mediator' in 1 Tim 2:5 a ranking, or a number?\"*",
+              "verses": [
+                {
+                  "label": "1 Tim 2:5",
+                  "kind": "bible",
+                  "key": "1-timothy.2.5",
+                  "book": "1-timothy",
+                  "chapter": 2,
+                  "verseStart": 5,
+                  "verseEnd": 5
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"Rev 5:8 shows saints offering prayers in heaven.\"*",
+              "youSay": "It shows the prayers of God's people presented before Him. It doesn't tell anyone to pray *to* the elders. Ask: *\"Who is the prayer addressed to?\"*",
+              "verses": [
+                {
+                  "label": "Rev 5:8",
+                  "kind": "bible",
+                  "key": "revelation.5.8",
+                  "book": "revelation",
+                  "chapter": 5,
+                  "verseStart": 8,
+                  "verseEnd": 8
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "notes": [],
+          "links": [],
+          "opener": {
+            "text": "*\"When the disciples asked how to pray, who did Jesus tell them to talk to?\"* (Matt 6:9: \"Our Father.\")",
+            "verses": [
+              {
+                "label": "Matt 6:9",
+                "kind": "bible",
+                "key": "matthew.6.9",
+                "book": "matthew",
+                "chapter": 6,
+                "verseStart": 9,
+                "verseEnd": 9
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          },
+          "closer": {
+            "text": "*\"Jesus said, 'Come to Me, all who are weary' (Matt 11:28). Mary pointed to Him too (John 2:5). Will you go straight to Christ, turning from sin and trusting Him alone?\"*",
+            "verses": [
+              {
+                "label": "Matt 11:28",
+                "kind": "bible",
+                "key": "matthew.11.28",
+                "book": "matthew",
+                "chapter": 11,
+                "verseStart": 28,
+                "verseEnd": 28
+              },
+              {
+                "label": "John 2:5",
+                "kind": "bible",
+                "key": "john.2.5",
+                "book": "john",
+                "chapter": 2,
+                "verseStart": 5,
+                "verseEnd": 5
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          }
+        },
+        {
+          "id": "play-4",
+          "number": 4,
+          "title": "The rule that tests every rule",
+          "subtitle": "authority",
+          "warning": false,
+          "supplemental": false,
+          "altOpeners": [
+            {
+              "text": "*\"If a church teaching and the Bible clearly disagreed, which one would you follow?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "chain": [
+            {
+              "text": "**Mark 7:8–9, 13**: \"Neglecting the commandment of God, you hold to the tradition of men… invalidating the word of God.\" *\"Did their tradition claim to come from God?\"*",
+              "verses": [
+                {
+                  "label": "Mark 7:8–9",
+                  "kind": "bible",
+                  "key": "mark.7.8-9",
+                  "book": "mark",
+                  "chapter": 7,
+                  "verseStart": 8,
+                  "verseEnd": 9
+                },
+                {
+                  "label": "Mark 7:13",
+                  "kind": "bible",
+                  "key": "mark.7.13",
+                  "book": "mark",
+                  "chapter": 7,
+                  "verseStart": 13,
+                  "verseEnd": 13
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Matt 22:29, 31**: \"You are mistaken, not understanding the Scriptures… have you not read what was spoken to you by God?\" *\"What did Jesus hold them responsible to know?\"*",
+              "verses": [
+                {
+                  "label": "Matt 22:29",
+                  "kind": "bible",
+                  "key": "matthew.22.29",
+                  "book": "matthew",
+                  "chapter": 22,
+                  "verseStart": 29,
+                  "verseEnd": 29
+                },
+                {
+                  "label": "Matt 22:31",
+                  "kind": "bible",
+                  "key": "matthew.22.31",
+                  "book": "matthew",
+                  "chapter": 22,
+                  "verseStart": 31,
+                  "verseEnd": 31
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Acts 17:11**: The Bereans checked an *apostle* against the Scriptures, and are called noble. *\"If Paul could be checked, who can't be?\"*",
+              "verses": [
+                {
+                  "label": "Acts 17:11",
+                  "kind": "bible",
+                  "key": "acts.17.11",
+                  "book": "acts",
+                  "chapter": 17,
+                  "verseStart": 11,
+                  "verseEnd": 11
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**2 Tim 3:15–17**: Scripture makes us \"wise for salvation\" and the man of God \"fully equipped.\" *\"What's missing from 'fully equipped'?\"*",
+              "verses": [
+                {
+                  "label": "2 Tim 3:15–17",
+                  "kind": "bible",
+                  "key": "2-timothy.3.15-17",
+                  "book": "2-timothy",
+                  "chapter": 3,
+                  "verseStart": 15,
+                  "verseEnd": 17
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Gal 1:8–9**: \"Even if we, or an angel from heaven\" preach another gospel, let him be accursed. *\"What does Paul put above even himself?\"*",
+              "verses": [
+                {
+                  "label": "Gal 1:8–9",
+                  "kind": "bible",
+                  "key": "galatians.1.8-9",
+                  "book": "galatians",
+                  "chapter": 1,
+                  "verseStart": 8,
+                  "verseEnd": 9
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "questions": [],
+          "ifTheySay": [
+            {
+              "theySay": "*\"Who gave you the Bible? The Church!\"*",
+              "youSay": "See the defense table. God gave it, and His people *received* it. The OT was Scripture before any church existed (Matt 22:31; Rom 3:2).",
+              "verses": [
+                {
+                  "label": "Matt 22:31",
+                  "kind": "bible",
+                  "key": "matthew.22.31",
+                  "book": "matthew",
+                  "chapter": 22,
+                  "verseStart": 31,
+                  "verseEnd": 31
+                },
+                {
+                  "label": "Rom 3:2",
+                  "kind": "bible",
+                  "key": "romans.3.2",
+                  "book": "romans",
+                  "chapter": 3,
+                  "verseStart": 2,
+                  "verseEnd": 2
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"Without the Magisterium, your reading is just your private opinion.\"*",
+              "youSay": "Everyone reads, including Catholics who read the Catechism. The question is whether Scripture is clear enough to obey (2 Tim 3:15: Timothy understood it as a child). Vatican II itself says the Magisterium \"is not above the word of God, but serves it\" [DV 10]. *\"Then can Scripture correct it?\"*",
+              "verses": [
+                {
+                  "label": "2 Tim 3:15",
+                  "kind": "bible",
+                  "key": "2-timothy.3.15",
+                  "book": "2-timothy",
+                  "chapter": 3,
+                  "verseStart": 15,
+                  "verseEnd": 15
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"The early church fathers weren't 'Bible-only.'\"*",
+              "youSay": "Cyril of Jerusalem told his catechumens: \"Even to me… do not give absolute credence, unless you receive the proof… from the divine Scriptures\".",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "notes": [],
+          "links": [],
+          "opener": {
+            "text": "*\"Did Jesus ever correct religious leaders who had tradition on their side?\"* (Yes: Mark 7.)",
+            "verses": [
+              {
+                "label": "Mark 7",
+                "kind": "bible",
+                "key": "mark.7",
+                "book": "mark",
+                "chapter": 7
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          },
+          "closer": {
+            "text": "*\"If Scripture is the one rule that can't err, let's let it settle the biggest question: how a sinner is made right with God. Would you read Romans 3–5 with me this week?\"*",
+            "verses": [
+              {
+                "label": "Rom 3–5",
+                "kind": "bible",
+                "key": "romans.3-5",
+                "book": "romans",
+                "chapter": 3,
+                "chapterEnd": 5
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          }
+        },
+        {
+          "id": "play-5",
+          "number": 5,
+          "title": "You can know",
+          "subtitle": "assurance",
+          "warning": false,
+          "supplemental": false,
+          "altOpeners": [
+            {
+              "text": "*\"Has a priest ever told you that you're definitely going to heaven?\"* (Rome says no one has absolute certainty of persevering without a special revelation [Trent, Sess. 6, can. 16; CCC 2005].)",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "chain": [
+            {
+              "text": "**1 John 5:11–13**: \"These things I have written… so that you may *know* that you have eternal life.\" *\"Did John say 'hope' or 'know'?\"*",
+              "verses": [
+                {
+                  "label": "1 John 5:11–13",
+                  "kind": "bible",
+                  "key": "1-john.5.11-13",
+                  "book": "1-john",
+                  "chapter": 5,
+                  "verseStart": 11,
+                  "verseEnd": 13
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**John 5:24**: The one who hears and believes \"has eternal life, and does not come into judgment, but has passed out of death into life.\" *\"What tense is 'has'?\"*",
+              "verses": [
+                {
+                  "label": "John 5:24",
+                  "kind": "bible",
+                  "key": "john.5.24",
+                  "book": "john",
+                  "chapter": 5,
+                  "verseStart": 24,
+                  "verseEnd": 24
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**John 10:27–29**: \"No one will snatch them out of My hand.\" *\"Who's holding whom?\"*",
+              "verses": [
+                {
+                  "label": "John 10:27–29",
+                  "kind": "bible",
+                  "key": "john.10.27-29",
+                  "book": "john",
+                  "chapter": 10,
+                  "verseStart": 27,
+                  "verseEnd": 29
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Rom 8:1, 33–34**: \"No condemnation.\" \"Who will bring a charge against God's elect? God is the one who justifies.\" *\"If God has declared you righteous, who can overturn it?\"*",
+              "verses": [
+                {
+                  "label": "Rom 8:1",
+                  "kind": "bible",
+                  "key": "romans.8.1",
+                  "book": "romans",
+                  "chapter": 8,
+                  "verseStart": 1,
+                  "verseEnd": 1
+                },
+                {
+                  "label": "Rom 8:33–34",
+                  "kind": "bible",
+                  "key": "romans.8.33-34",
+                  "book": "romans",
+                  "chapter": 8,
+                  "verseStart": 33,
+                  "verseEnd": 34
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Heb 10:14**: \"Perfected for all time.\" *\"Then what is purgatory finishing?\"*",
+              "verses": [
+                {
+                  "label": "Heb 10:14",
+                  "kind": "bible",
+                  "key": "hebrews.10.14",
+                  "book": "hebrews",
+                  "chapter": 10,
+                  "verseStart": 14,
+                  "verseEnd": 14
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "questions": [],
+          "ifTheySay": [
+            {
+              "theySay": "*\"Claiming certainty is presumption.\"*",
+              "youSay": "It would be, if it rested on your performance. It rests on Christ's promise (John 6:37–40). Doubting His word is not humility.",
+              "verses": [
+                {
+                  "label": "John 6:37–40",
+                  "kind": "bible",
+                  "key": "john.6.37-40",
+                  "book": "john",
+                  "chapter": 6,
+                  "verseStart": 37,
+                  "verseEnd": 40
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"Mortal sin can make you lose grace [CCC 1861].\"*",
+              "youSay": "True faith perseveres because God keeps it (Phil 1:6; 1 Pet 1:5; 1 John 2:19). Our church teaches that the redeemed are kept by God's power forever.",
+              "verses": [
+                {
+                  "label": "Phil 1:6",
+                  "kind": "bible",
+                  "key": "philippians.1.6",
+                  "book": "philippians",
+                  "chapter": 1,
+                  "verseStart": 6,
+                  "verseEnd": 6
+                },
+                {
+                  "label": "1 Pet 1:5",
+                  "kind": "bible",
+                  "key": "1-peter.1.5",
+                  "book": "1-peter",
+                  "chapter": 1,
+                  "verseStart": 5,
+                  "verseEnd": 5
+                },
+                {
+                  "label": "1 John 2:19",
+                  "kind": "bible",
+                  "key": "1-john.2.19",
+                  "book": "1-john",
+                  "chapter": 2,
+                  "verseStart": 19,
+                  "verseEnd": 19
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"Purgatory isn't hell. It's a purification for the saved [CCC 1030–1031].\"*",
+              "youSay": "Grant it. Then: *\"Christ 'made purification of sins' (Heb 1:3) and His blood 'cleanses us from all sin' (1 John 1:7). What part of 'all' is left?\"* MacArthur: deny justification by faith alone \"and you must devise an explanation\" for how we reach heaven's perfection.",
+              "verses": [
+                {
+                  "label": "Heb 1:3",
+                  "kind": "bible",
+                  "key": "hebrews.1.3",
+                  "book": "hebrews",
+                  "chapter": 1,
+                  "verseStart": 3,
+                  "verseEnd": 3
+                },
+                {
+                  "label": "1 John 1:7",
+                  "kind": "bible",
+                  "key": "1-john.1.7",
+                  "book": "1-john",
+                  "chapter": 1,
+                  "verseStart": 7,
+                  "verseEnd": 7
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "notes": [],
+          "links": [],
+          "opener": {
+            "text": "*\"Can a person know they have eternal life? Yes or no?\"*",
+            "verses": [],
+            "links": [],
+            "supplemental": false
+          },
+          "closer": {
+            "text": "*\"God wants you to know (1 John 5:13). That certainty comes from trusting Christ alone, not from keeping yourself in a state of grace. Will you repent and trust Him today?\"*",
+            "verses": [
+              {
+                "label": "1 John 5:13",
+                "kind": "bible",
+                "key": "1-john.5.13",
+                "book": "1-john",
+                "chapter": 5,
+                "verseStart": 13,
+                "verseEnd": 13
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          }
+        }
+      ],
+      "defense": [
+        {
+          "id": "catholic-church-gave-bible",
+          "objection": "\"The Catholic Church gave you the Bible.\"",
+          "response": "God gave it. His people recognized His voice (John 10:27). Jesus held people accountable to the OT before any church existed. The church *received* the canon; it didn't create it.",
+          "goTo": "Matt 22:31; Rom 3:2; 2 Pet 3:15–16",
+          "askBack": "*\"Who decided the OT canon that Jesus quoted?\"*",
+          "verses": [
+            {
+              "label": "Matt 22:31",
+              "kind": "bible",
+              "key": "matthew.22.31",
+              "book": "matthew",
+              "chapter": 22,
+              "verseStart": 31,
+              "verseEnd": 31
+            },
+            {
+              "label": "Rom 3:2",
+              "kind": "bible",
+              "key": "romans.3.2",
+              "book": "romans",
+              "chapter": 3,
+              "verseStart": 2,
+              "verseEnd": 2
+            },
+            {
+              "label": "2 Pet 3:15–16",
+              "kind": "bible",
+              "key": "2-peter.3.15-16",
+              "book": "2-peter",
+              "chapter": 3,
+              "verseStart": 15,
+              "verseEnd": 16
+            },
+            {
+              "label": "John 10:27",
+              "kind": "bible",
+              "key": "john.10.27",
+              "book": "john",
+              "chapter": 10,
+              "verseStart": 27,
+              "verseEnd": 27
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "which-30-000-protestant-denominations",
+          "objection": "\"Which of the 30,000+ Protestant denominations is right?\"",
+          "response": "The figure comes from an encyclopedia that counted thousands of \"denominations\" in ways that don't mean doctrinal splits, Catholic ones included. Unity is in the gospel, and Rome has its own deep internal divisions.",
+          "goTo": "John 17:20–21; 1 Cor 1:10; Eph 4:3–6",
+          "askBack": "*\"Do all Catholics agree on what the Catechism means?\"*",
+          "verses": [
+            {
+              "label": "John 17:20–21",
+              "kind": "bible",
+              "key": "john.17.20-21",
+              "book": "john",
+              "chapter": 17,
+              "verseStart": 20,
+              "verseEnd": 21
+            },
+            {
+              "label": "1 Cor 1:10",
+              "kind": "bible",
+              "key": "1-corinthians.1.10",
+              "book": "1-corinthians",
+              "chapter": 1,
+              "verseStart": 10,
+              "verseEnd": 10
+            },
+            {
+              "label": "Eph 4:3–6",
+              "kind": "bible",
+              "key": "ephesians.4.3-6",
+              "book": "ephesians",
+              "chapter": 4,
+              "verseStart": 3,
+              "verseEnd": 6
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "where-was-your-church-before",
+          "objection": "\"Where was your church before Luther?\"",
+          "response": "Wherever God's people trusted Christ and His word. Busenitz shows justification by grace through faith in the fathers long before 1517, for example Clement of Rome: \"not justified by ourselves… but by that faith\".",
+          "goTo": "Matt 16:18; 1 Kings 19:18; Rom 11:4–5",
+          "askBack": "*\"Was the gospel missing before Trent defined it?\"*",
+          "verses": [
+            {
+              "label": "Matt 16:18",
+              "kind": "bible",
+              "key": "matthew.16.18",
+              "book": "matthew",
+              "chapter": 16,
+              "verseStart": 18,
+              "verseEnd": 18
+            },
+            {
+              "label": "1 Kgs 19:18",
+              "kind": "bible",
+              "key": "1-kings.19.18",
+              "book": "1-kings",
+              "chapter": 19,
+              "verseStart": 18,
+              "verseEnd": 18
+            },
+            {
+              "label": "Rom 11:4–5",
+              "kind": "bible",
+              "key": "romans.11.4-5",
+              "book": "romans",
+              "chapter": 11,
+              "verseStart": 4,
+              "verseEnd": 5
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "james-2-24-justified-by",
+          "objection": "\"James 2:24: 'justified by works and not by faith alone.'\"",
+          "response": "James answers the question *\"what kind of faith saves?\"* (2:14), and shows a living faith *before people* (2:18: \"show me\"). Paul answers how a sinner is declared righteous *before God* (Rom 4:2–5). Abraham was credited righteous in Gen 15, decades before Gen 22.",
+          "goTo": "James 2:14, 18, 21–24; Gen 15:6; Rom 4:2–5",
+          "askBack": "*\"In Gen 15:6, had Abraham offered Isaac yet?\"*",
+          "verses": [
+            {
+              "label": "Jas 2:14",
+              "kind": "bible",
+              "key": "james.2.14",
+              "book": "james",
+              "chapter": 2,
+              "verseStart": 14,
+              "verseEnd": 14
+            },
+            {
+              "label": "Jas 2:18",
+              "kind": "bible",
+              "key": "james.2.18",
+              "book": "james",
+              "chapter": 2,
+              "verseStart": 18,
+              "verseEnd": 18
+            },
+            {
+              "label": "Jas 2:21–24",
+              "kind": "bible",
+              "key": "james.2.21-24",
+              "book": "james",
+              "chapter": 2,
+              "verseStart": 21,
+              "verseEnd": 24
+            },
+            {
+              "label": "Gen 15:6",
+              "kind": "bible",
+              "key": "genesis.15.6",
+              "book": "genesis",
+              "chapter": 15,
+              "verseStart": 6,
+              "verseEnd": 6
+            },
+            {
+              "label": "Rom 4:2–5",
+              "kind": "bible",
+              "key": "romans.4.2-5",
+              "book": "romans",
+              "chapter": 4,
+              "verseStart": 2,
+              "verseEnd": 5
+            },
+            {
+              "label": "Gen 15",
+              "kind": "bible",
+              "key": "genesis.15",
+              "book": "genesis",
+              "chapter": 15
+            },
+            {
+              "label": "Gen 22",
+              "kind": "bible",
+              "key": "genesis.22",
+              "book": "genesis",
+              "chapter": 22
+            },
+            {
+              "label": "Jas 2:24",
+              "kind": "bible",
+              "key": "james.2.24",
+              "book": "james",
+              "chapter": 2,
+              "verseStart": 24,
+              "verseEnd": 24
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "john-6-53-unless-eat",
+          "objection": "\"John 6:53: 'Unless you eat My flesh.'\"",
+          "response": "In context, coming = eating and believing = drinking (6:35). He promises eternal life to whoever *believes* (6:40, 47), and He explains: \"the flesh profits nothing; the words… are spirit\" (6:63). The Supper hadn't been instituted yet.",
+          "goTo": "John 6:35, 40, 47, 53–54, 63",
+          "askBack": "*\"Does 6:54 promise eternal life to everyone who takes Communion?\"*",
+          "verses": [
+            {
+              "label": "John 6:35",
+              "kind": "bible",
+              "key": "john.6.35",
+              "book": "john",
+              "chapter": 6,
+              "verseStart": 35,
+              "verseEnd": 35
+            },
+            {
+              "label": "John 6:40",
+              "kind": "bible",
+              "key": "john.6.40",
+              "book": "john",
+              "chapter": 6,
+              "verseStart": 40,
+              "verseEnd": 40
+            },
+            {
+              "label": "John 6:47",
+              "kind": "bible",
+              "key": "john.6.47",
+              "book": "john",
+              "chapter": 6,
+              "verseStart": 47,
+              "verseEnd": 47
+            },
+            {
+              "label": "John 6:53–54",
+              "kind": "bible",
+              "key": "john.6.53-54",
+              "book": "john",
+              "chapter": 6,
+              "verseStart": 53,
+              "verseEnd": 54
+            },
+            {
+              "label": "John 6:63",
+              "kind": "bible",
+              "key": "john.6.63",
+              "book": "john",
+              "chapter": 6,
+              "verseStart": 63,
+              "verseEnd": 63
+            },
+            {
+              "label": "John 6:53",
+              "kind": "bible",
+              "key": "john.6.53",
+              "book": "john",
+              "chapter": 6,
+              "verseStart": 53,
+              "verseEnd": 53
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "john-20-23-priests-can",
+          "objection": "\"John 20:23: priests can forgive sins.\"",
+          "response": "Jesus sends the disciples to proclaim forgiveness, which is granted to all who repent and believe (Luke 24:47; Acts 10:43). Rome requires confession to a priest for mortal sin [CCC 1456, 1497]. No apostle ever hears a private confession and absolves.",
+          "goTo": "John 20:21–23; Luke 24:47; Acts 10:43; 13:38–39; 1 John 1:9",
+          "askBack": "*\"When Peter preached in Acts 10, how did Cornelius get forgiven?\"*",
+          "verses": [
+            {
+              "label": "John 20:21–23",
+              "kind": "bible",
+              "key": "john.20.21-23",
+              "book": "john",
+              "chapter": 20,
+              "verseStart": 21,
+              "verseEnd": 23
+            },
+            {
+              "label": "Luke 24:47",
+              "kind": "bible",
+              "key": "luke.24.47",
+              "book": "luke",
+              "chapter": 24,
+              "verseStart": 47,
+              "verseEnd": 47
+            },
+            {
+              "label": "Acts 10:43",
+              "kind": "bible",
+              "key": "acts.10.43",
+              "book": "acts",
+              "chapter": 10,
+              "verseStart": 43,
+              "verseEnd": 43
+            },
+            {
+              "label": "Acts 13:38–39",
+              "kind": "bible",
+              "key": "acts.13.38-39",
+              "book": "acts",
+              "chapter": 13,
+              "verseStart": 38,
+              "verseEnd": 39
+            },
+            {
+              "label": "1 John 1:9",
+              "kind": "bible",
+              "key": "1-john.1.9",
+              "book": "1-john",
+              "chapter": 1,
+              "verseStart": 9,
+              "verseEnd": 9
+            },
+            {
+              "label": "John 20:23",
+              "kind": "bible",
+              "key": "john.20.23",
+              "book": "john",
+              "chapter": 20,
+              "verseStart": 23,
+              "verseEnd": 23
+            },
+            {
+              "label": "Acts 10",
+              "kind": "bible",
+              "key": "acts.10",
+              "book": "acts",
+              "chapter": 10
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "2-thess-2-15-hold",
+          "objection": "\"2 Thess 2:15: hold to traditions, spoken *or* written.\"",
+          "response": "The tradition Paul means is the gospel he preached in person (2:14). It was spoken *or* written; it wasn't a second, different body of teaching. Name one doctrine handed down orally that we can verify came from Paul.",
+          "goTo": "2 Thess 2:14–15; 3:6; 1 Cor 15:1–4",
+          "askBack": "*\"Which of Paul's oral traditions can you name that isn't in Scripture?\"*",
+          "verses": [
+            {
+              "label": "2 Thess 2:14–15",
+              "kind": "bible",
+              "key": "2-thessalonians.2.14-15",
+              "book": "2-thessalonians",
+              "chapter": 2,
+              "verseStart": 14,
+              "verseEnd": 15
+            },
+            {
+              "label": "2 Thess 3:6",
+              "kind": "bible",
+              "key": "2-thessalonians.3.6",
+              "book": "2-thessalonians",
+              "chapter": 3,
+              "verseStart": 6,
+              "verseEnd": 6
+            },
+            {
+              "label": "1 Cor 15:1–4",
+              "kind": "bible",
+              "key": "1-corinthians.15.1-4",
+              "book": "1-corinthians",
+              "chapter": 15,
+              "verseStart": 1,
+              "verseEnd": 4
+            },
+            {
+              "label": "2 Thess 2:15",
+              "kind": "bible",
+              "key": "2-thessalonians.2.15",
+              "book": "2-thessalonians",
+              "chapter": 2,
+              "verseStart": 15,
+              "verseEnd": 15
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "1-tim-3-15-church",
+          "objection": "\"1 Tim 3:15: the church is the pillar and support of the truth.\"",
+          "response": "The context is a local church's conduct, with elders and deacons (3:1–14). A pillar *holds up* the truth; it doesn't *create* it. The truth it holds up is Christ (3:16).",
+          "goTo": "1 Tim 3:14–16",
+          "askBack": "*\"Does a pillar make the roof, or hold it up?\"*",
+          "verses": [
+            {
+              "label": "1 Tim 3:14–16",
+              "kind": "bible",
+              "key": "1-timothy.3.14-16",
+              "book": "1-timothy",
+              "chapter": 3,
+              "verseStart": 14,
+              "verseEnd": 16
+            },
+            {
+              "label": "1 Tim 3:15",
+              "kind": "bible",
+              "key": "1-timothy.3.15",
+              "book": "1-timothy",
+              "chapter": 3,
+              "verseStart": 15,
+              "verseEnd": 15
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "matt-16-18-peter-rock",
+          "objection": "\"Matt 16:18: Peter is the rock and the first pope.\"",
+          "response": "Rome teaches this [CCC 881–882]. But Peter calls *Christ* the stone (1 Pet 2:4–8), and Paul says no foundation can be laid except Christ (1 Cor 3:11). The keys and binding go to all the disciples (Matt 18:18). Nothing in the text says anything about successors or Rome.",
+          "goTo": "Matt 16:16–19; 18:18; 1 Pet 2:4–8; 1 Cor 3:11; Eph 2:20",
+          "askBack": "*\"Where does the passage mention a successor?\"*",
+          "verses": [
+            {
+              "label": "Matt 16:16–19",
+              "kind": "bible",
+              "key": "matthew.16.16-19",
+              "book": "matthew",
+              "chapter": 16,
+              "verseStart": 16,
+              "verseEnd": 19
+            },
+            {
+              "label": "Matt 18:18",
+              "kind": "bible",
+              "key": "matthew.18.18",
+              "book": "matthew",
+              "chapter": 18,
+              "verseStart": 18,
+              "verseEnd": 18
+            },
+            {
+              "label": "1 Pet 2:4–8",
+              "kind": "bible",
+              "key": "1-peter.2.4-8",
+              "book": "1-peter",
+              "chapter": 2,
+              "verseStart": 4,
+              "verseEnd": 8
+            },
+            {
+              "label": "1 Cor 3:11",
+              "kind": "bible",
+              "key": "1-corinthians.3.11",
+              "book": "1-corinthians",
+              "chapter": 3,
+              "verseStart": 11,
+              "verseEnd": 11
+            },
+            {
+              "label": "Eph 2:20",
+              "kind": "bible",
+              "key": "ephesians.2.20",
+              "book": "ephesians",
+              "chapter": 2,
+              "verseStart": 20,
+              "verseEnd": 20
+            },
+            {
+              "label": "Matt 16:18",
+              "kind": "bible",
+              "key": "matthew.16.18",
+              "book": "matthew",
+              "chapter": 16,
+              "verseStart": 18,
+              "verseEnd": 18
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "pope-infallible-when-he-speaks",
+          "objection": "\"The pope is infallible when he speaks ex cathedra.\"",
+          "response": "Vatican I defined it [Pastor Aeternus, ch. 4]. Yet Peter himself was publicly rebuked for compromising the gospel (Gal 2:11–14). At the Jerusalem council, James gave the judgment (Acts 15:13–21). Peter called himself a \"fellow elder\" (1 Pet 5:1).",
+          "goTo": "Gal 2:11–14; Acts 15:13–21; 1 Pet 5:1",
+          "askBack": "*\"If Peter could be wrong on the gospel, can his successor?\"*",
+          "verses": [
+            {
+              "label": "Gal 2:11–14",
+              "kind": "bible",
+              "key": "galatians.2.11-14",
+              "book": "galatians",
+              "chapter": 2,
+              "verseStart": 11,
+              "verseEnd": 14
+            },
+            {
+              "label": "Acts 15:13–21",
+              "kind": "bible",
+              "key": "acts.15.13-21",
+              "book": "acts",
+              "chapter": 15,
+              "verseStart": 13,
+              "verseEnd": 21
+            },
+            {
+              "label": "1 Pet 5:1",
+              "kind": "bible",
+              "key": "1-peter.5.1",
+              "book": "1-peter",
+              "chapter": 5,
+              "verseStart": 1,
+              "verseEnd": 1
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "mary-was-conceived-without-sin",
+          "objection": "\"Mary was conceived without sin (Immaculate Conception).\"",
+          "response": "Defined in 1854 [CCC 491]. Mary calls God \"my Savior\" (Luke 1:47). She offered the sin offering after childbirth (Luke 2:22–24; Lev 12:6–8), and Scripture says all have sinned. No text exempts her.",
+          "goTo": "Luke 1:47; Luke 2:22–24; Lev 12:6–8; Rom 3:23",
+          "askBack": "*\"Why would a sinless woman need a Savior and a sin offering?\"*",
+          "verses": [
+            {
+              "label": "Luke 1:47",
+              "kind": "bible",
+              "key": "luke.1.47",
+              "book": "luke",
+              "chapter": 1,
+              "verseStart": 47,
+              "verseEnd": 47
+            },
+            {
+              "label": "Luke 2:22–24",
+              "kind": "bible",
+              "key": "luke.2.22-24",
+              "book": "luke",
+              "chapter": 2,
+              "verseStart": 22,
+              "verseEnd": 24
+            },
+            {
+              "label": "Lev 12:6–8",
+              "kind": "bible",
+              "key": "leviticus.12.6-8",
+              "book": "leviticus",
+              "chapter": 12,
+              "verseStart": 6,
+              "verseEnd": 8
+            },
+            {
+              "label": "Rom 3:23",
+              "kind": "bible",
+              "key": "romans.3.23",
+              "book": "romans",
+              "chapter": 3,
+              "verseStart": 23,
+              "verseEnd": 23
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "mary-was-ever-virgin",
+          "objection": "\"Mary was ever-virgin.\"",
+          "response": "Rome teaches it [CCC 499–500, 510]. Joseph \"kept her a virgin until she gave birth\" (Matt 1:25). The Gospels name Jesus' brothers and mention sisters, with His mother (Matt 13:55–56; Mark 6:3; Acts 1:14). Rome reads these as relatives [CCC 500]. The plain sense is siblings.",
+          "goTo": "Matt 1:25; 12:46–47; 13:55–56; John 7:5; Gal 1:19",
+          "askBack": "*\"If 'brothers' with 'His mother' means cousins here, how would Mark have said brothers?\"*",
+          "verses": [
+            {
+              "label": "Matt 1:25",
+              "kind": "bible",
+              "key": "matthew.1.25",
+              "book": "matthew",
+              "chapter": 1,
+              "verseStart": 25,
+              "verseEnd": 25
+            },
+            {
+              "label": "Matt 12:46–47",
+              "kind": "bible",
+              "key": "matthew.12.46-47",
+              "book": "matthew",
+              "chapter": 12,
+              "verseStart": 46,
+              "verseEnd": 47
+            },
+            {
+              "label": "Matt 13:55–56",
+              "kind": "bible",
+              "key": "matthew.13.55-56",
+              "book": "matthew",
+              "chapter": 13,
+              "verseStart": 55,
+              "verseEnd": 56
+            },
+            {
+              "label": "John 7:5",
+              "kind": "bible",
+              "key": "john.7.5",
+              "book": "john",
+              "chapter": 7,
+              "verseStart": 5,
+              "verseEnd": 5
+            },
+            {
+              "label": "Gal 1:19",
+              "kind": "bible",
+              "key": "galatians.1.19",
+              "book": "galatians",
+              "chapter": 1,
+              "verseStart": 19,
+              "verseEnd": 19
+            },
+            {
+              "label": "Mark 6:3",
+              "kind": "bible",
+              "key": "mark.6.3",
+              "book": "mark",
+              "chapter": 6,
+              "verseStart": 3,
+              "verseEnd": 3
+            },
+            {
+              "label": "Acts 1:14",
+              "kind": "bible",
+              "key": "acts.1.14",
+              "book": "acts",
+              "chapter": 1,
+              "verseStart": 14,
+              "verseEnd": 14
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "mary-was-assumed-body-soul",
+          "objection": "\"Mary was assumed body and soul into heaven.\"",
+          "response": "It was defined as dogma in 1950 [Munificentissimus Deus 44]. Scripture says nothing about it. Binding a doctrine with no biblical witness is the very authority question again.",
+          "goTo": "Deut 29:29; Acts 17:11; 2 Tim 3:16–17",
+          "askBack": "*\"What verse would you give a new believer for this?\"*",
+          "verses": [
+            {
+              "label": "Deut 29:29",
+              "kind": "bible",
+              "key": "deuteronomy.29.29",
+              "book": "deuteronomy",
+              "chapter": 29,
+              "verseStart": 29,
+              "verseEnd": 29
+            },
+            {
+              "label": "Acts 17:11",
+              "kind": "bible",
+              "key": "acts.17.11",
+              "book": "acts",
+              "chapter": 17,
+              "verseStart": 11,
+              "verseEnd": 11
+            },
+            {
+              "label": "2 Tim 3:16–17",
+              "kind": "bible",
+              "key": "2-timothy.3.16-17",
+              "book": "2-timothy",
+              "chapter": 3,
+              "verseStart": 16,
+              "verseEnd": 17
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "purgatory-1-cor-3-15",
+          "objection": "\"Purgatory: 1 Cor 3:15, 'saved, yet so as through fire.'\"",
+          "response": "That passage is about testing a minister's *work* (3:10–14), not purging a person's sins. To be absent from the body is to be at home with the Lord (2 Cor 5:8). The thief went to paradise *today* (Luke 23:43). Rome also cites 2 Macc 12:43–45 [CCC 1032], which isn't Scripture (see below).",
+          "goTo": "1 Cor 3:10–15; 2 Cor 5:8; Luke 23:43; Heb 10:14",
+          "askBack": "*\"In 1 Cor 3, what gets burned: the man's sins or his work?\"*",
+          "verses": [
+            {
+              "label": "1 Cor 3:10–15",
+              "kind": "bible",
+              "key": "1-corinthians.3.10-15",
+              "book": "1-corinthians",
+              "chapter": 3,
+              "verseStart": 10,
+              "verseEnd": 15
+            },
+            {
+              "label": "2 Cor 5:8",
+              "kind": "bible",
+              "key": "2-corinthians.5.8",
+              "book": "2-corinthians",
+              "chapter": 5,
+              "verseStart": 8,
+              "verseEnd": 8
+            },
+            {
+              "label": "Luke 23:43",
+              "kind": "bible",
+              "key": "luke.23.43",
+              "book": "luke",
+              "chapter": 23,
+              "verseStart": 43,
+              "verseEnd": 43
+            },
+            {
+              "label": "Heb 10:14",
+              "kind": "bible",
+              "key": "hebrews.10.14",
+              "book": "hebrews",
+              "chapter": 10,
+              "verseStart": 14,
+              "verseEnd": 14
+            },
+            {
+              "label": "1 Cor 3:15",
+              "kind": "bible",
+              "key": "1-corinthians.3.15",
+              "book": "1-corinthians",
+              "chapter": 3,
+              "verseStart": 15,
+              "verseEnd": 15
+            },
+            {
+              "label": "1 Cor 3",
+              "kind": "bible",
+              "key": "1-corinthians.3",
+              "book": "1-corinthians",
+              "chapter": 3
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "indulgences-can-reduce-temporal-punishment",
+          "objection": "\"Indulgences can reduce temporal punishment, even for the dead.\"",
+          "response": "Rome teaches this [CCC 1471, 1479, 1498]. Christ \"made purification of sins\" (Heb 1:3), and the gift of God isn't obtained by works or payments (Acts 8:20; Isa 55:1). Indulgences assume a debt that Christ left unpaid.",
+          "goTo": "Heb 1:3; 1 John 1:7; Rom 8:1; Acts 8:20",
+          "askBack": "*\"Did Christ pay all of it, or only part?\"*",
+          "verses": [
+            {
+              "label": "Heb 1:3",
+              "kind": "bible",
+              "key": "hebrews.1.3",
+              "book": "hebrews",
+              "chapter": 1,
+              "verseStart": 3,
+              "verseEnd": 3
+            },
+            {
+              "label": "1 John 1:7",
+              "kind": "bible",
+              "key": "1-john.1.7",
+              "book": "1-john",
+              "chapter": 1,
+              "verseStart": 7,
+              "verseEnd": 7
+            },
+            {
+              "label": "Rom 8:1",
+              "kind": "bible",
+              "key": "romans.8.1",
+              "book": "romans",
+              "chapter": 8,
+              "verseStart": 1,
+              "verseEnd": 1
+            },
+            {
+              "label": "Acts 8:20",
+              "kind": "bible",
+              "key": "acts.8.20",
+              "book": "acts",
+              "chapter": 8,
+              "verseStart": 20,
+              "verseEnd": 20
+            },
+            {
+              "label": "Isa 55:1",
+              "kind": "bible",
+              "key": "isaiah.55.1",
+              "book": "isaiah",
+              "chapter": 55,
+              "verseStart": 1,
+              "verseEnd": 1
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "baptism-regenerates-john-3-5",
+          "objection": "\"Baptism regenerates (John 3:5; Acts 2:38; 1 Pet 3:21).\"",
+          "response": "Rome teaches justification is conferred in baptism [CCC 1992, 1213, 1263]. But Cornelius received the Spirit *before* baptism (Acts 10:44–48), and the thief was saved without it. Peter says it is \"not the removal of dirt… but an appeal to God\" (1 Pet 3:21). Spurgeon: \"Baptism without faith saves no one\".",
+          "goTo": "Acts 10:44–48; 1 Pet 3:21; John 3:16, 18; Rom 4:9–11; 1 Cor 1:17",
+          "askBack": "*\"If baptism saves, why does Paul say Christ didn't send him to baptize?\"*",
+          "verses": [
+            {
+              "label": "Acts 10:44–48",
+              "kind": "bible",
+              "key": "acts.10.44-48",
+              "book": "acts",
+              "chapter": 10,
+              "verseStart": 44,
+              "verseEnd": 48
+            },
+            {
+              "label": "1 Pet 3:21",
+              "kind": "bible",
+              "key": "1-peter.3.21",
+              "book": "1-peter",
+              "chapter": 3,
+              "verseStart": 21,
+              "verseEnd": 21
+            },
+            {
+              "label": "John 3:16",
+              "kind": "bible",
+              "key": "john.3.16",
+              "book": "john",
+              "chapter": 3,
+              "verseStart": 16,
+              "verseEnd": 16
+            },
+            {
+              "label": "John 3:18",
+              "kind": "bible",
+              "key": "john.3.18",
+              "book": "john",
+              "chapter": 3,
+              "verseStart": 18,
+              "verseEnd": 18
+            },
+            {
+              "label": "Rom 4:9–11",
+              "kind": "bible",
+              "key": "romans.4.9-11",
+              "book": "romans",
+              "chapter": 4,
+              "verseStart": 9,
+              "verseEnd": 11
+            },
+            {
+              "label": "1 Cor 1:17",
+              "kind": "bible",
+              "key": "1-corinthians.1.17",
+              "book": "1-corinthians",
+              "chapter": 1,
+              "verseStart": 17,
+              "verseEnd": 17
+            },
+            {
+              "label": "John 3:5",
+              "kind": "bible",
+              "key": "john.3.5",
+              "book": "john",
+              "chapter": 3,
+              "verseStart": 5,
+              "verseEnd": 5
+            },
+            {
+              "label": "Acts 2:38",
+              "kind": "bible",
+              "key": "acts.2.38",
+              "book": "acts",
+              "chapter": 2,
+              "verseStart": 38,
+              "verseEnd": 38
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "removed-seven-books-apocrypha",
+          "objection": "\"You removed seven books (the Apocrypha).\"",
+          "response": "Trent declared them canonical [Sess. 4]. The OT was entrusted to the Jews (Rom 3:2), and they never received these books. Jesus framed Scripture as Law, Prophets and Psalms (Luke 24:44). The NT never quotes them as Scripture.",
+          "goTo": "Rom 3:2; Luke 24:44",
+          "askBack": "*\"Did Israel ever receive 2 Maccabees as Scripture?\"*",
+          "verses": [
+            {
+              "label": "Rom 3:2",
+              "kind": "bible",
+              "key": "romans.3.2",
+              "book": "romans",
+              "chapter": 3,
+              "verseStart": 2,
+              "verseEnd": 2
+            },
+            {
+              "label": "Luke 24:44",
+              "kind": "bible",
+              "key": "luke.24.44",
+              "book": "luke",
+              "chapter": 24,
+              "verseStart": 44,
+              "verseEnd": 44
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "sola-scriptura-isnt-bible",
+          "objection": "\"Sola Scriptura isn't in the Bible.\"",
+          "response": "Scripture is the only revelation called God-breathed (2 Tim 3:16). Jesus judged tradition by it (Mark 7:13), and Isaiah sends us \"to the law and to the testimony\" (Isa 8:20). Busenitz traces this conviction through the fathers: Athanasius said \"the sacred and inspired Scriptures are sufficient\".",
+          "goTo": "2 Tim 3:16–17; Mark 7:13; Isa 8:20",
+          "askBack": "*\"What else does Scripture call God-breathed?\"*",
+          "verses": [
+            {
+              "label": "2 Tim 3:16–17",
+              "kind": "bible",
+              "key": "2-timothy.3.16-17",
+              "book": "2-timothy",
+              "chapter": 3,
+              "verseStart": 16,
+              "verseEnd": 17
+            },
+            {
+              "label": "Mark 7:13",
+              "kind": "bible",
+              "key": "mark.7.13",
+              "book": "mark",
+              "chapter": 7,
+              "verseStart": 13,
+              "verseEnd": 13
+            },
+            {
+              "label": "Isa 8:20",
+              "kind": "bible",
+              "key": "isaiah.8.20",
+              "book": "isaiah",
+              "chapter": 8,
+              "verseStart": 20,
+              "verseEnd": 20
+            },
+            {
+              "label": "2 Tim 3:16",
+              "kind": "bible",
+              "key": "2-timothy.3.16",
+              "book": "2-timothy",
+              "chapter": 3,
+              "verseStart": 16,
+              "verseEnd": 16
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "we-need-priests-sacraments-grace",
+          "objection": "\"We need priests and sacraments; grace flows through the Church.\"",
+          "response": "Rome holds that the sacraments are necessary for salvation [CCC 1129]. Christ holds His priesthood permanently (Heb 7:23–25), the veil is torn (Matt 27:51), and every believer is a priest (1 Pet 2:9).",
+          "goTo": "Heb 7:23–25; 10:19–22; Matt 27:51; 1 Pet 2:5, 9",
+          "askBack": "*\"Who does Hebrews say we can approach God through?\"*",
+          "verses": [
+            {
+              "label": "Heb 7:23–25",
+              "kind": "bible",
+              "key": "hebrews.7.23-25",
+              "book": "hebrews",
+              "chapter": 7,
+              "verseStart": 23,
+              "verseEnd": 25
+            },
+            {
+              "label": "Heb 10:19–22",
+              "kind": "bible",
+              "key": "hebrews.10.19-22",
+              "book": "hebrews",
+              "chapter": 10,
+              "verseStart": 19,
+              "verseEnd": 22
+            },
+            {
+              "label": "Matt 27:51",
+              "kind": "bible",
+              "key": "matthew.27.51",
+              "book": "matthew",
+              "chapter": 27,
+              "verseStart": 51,
+              "verseEnd": 51
+            },
+            {
+              "label": "1 Pet 2:5",
+              "kind": "bible",
+              "key": "1-peter.2.5",
+              "book": "1-peter",
+              "chapter": 2,
+              "verseStart": 5,
+              "verseEnd": 5
+            },
+            {
+              "label": "1 Pet 2:9",
+              "kind": "bible",
+              "key": "1-peter.2.9",
+              "book": "1-peter",
+              "chapter": 2,
+              "verseStart": 9,
+              "verseEnd": 9
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "catholics-evangelicals-believe-same-gospel",
+          "objection": "\"Catholics and evangelicals believe the same gospel now.\"",
+          "response": "Trent's canons on justification have never been revoked, and they are quoted in the current Catechism (CCC 1992 echoes Trent). MacArthur: \"nothing has changed since Trent\". Being kind doesn't mean treating the difference as minor.",
+          "goTo": "Gal 1:6–9; Rom 11:6",
+          "askBack": "*\"Has Rome withdrawn Trent's anathema on faith alone?\"*",
+          "verses": [
+            {
+              "label": "Gal 1:6–9",
+              "kind": "bible",
+              "key": "galatians.1.6-9",
+              "book": "galatians",
+              "chapter": 1,
+              "verseStart": 6,
+              "verseEnd": 9
+            },
+            {
+              "label": "Rom 11:6",
+              "kind": "bible",
+              "key": "romans.11.6",
+              "book": "romans",
+              "chapter": 11,
+              "verseStart": 6,
+              "verseEnd": 6
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        }
+      ],
+      "exits": {
+        "label": "Typical exits",
+        "items": [
+          {
+            "text": "\"I was born Catholic and I'll die Catholic.\" (Don't argue identity. Say *\"I'm not asking you to change teams; I'm asking what you're trusting.\"* Leave them Rom 4:5 and 1 John 5:13.)",
+            "verses": [
+              {
+                "label": "Rom 4:5",
+                "kind": "bible",
+                "key": "romans.4.5",
+                "book": "romans",
+                "chapter": 4,
+                "verseStart": 5,
+                "verseEnd": 5
+              },
+              {
+                "label": "1 John 5:13",
+                "kind": "bible",
+                "key": "1-john.5.13",
+                "book": "1-john",
+                "chapter": 5,
+                "verseStart": 13,
+                "verseEnd": 13
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          },
+          {
+            "text": "\"I'll ask my priest.\" (Good. Write down two questions for him: *\"Can I know I have eternal life (1 John 5:13)?\"* and *\"What does Heb 10:18 mean?\"* Then follow up.)",
+            "verses": [
+              {
+                "label": "1 John 5:13",
+                "kind": "bible",
+                "key": "1-john.5.13",
+                "book": "1-john",
+                "chapter": 5,
+                "verseStart": 13,
+                "verseEnd": 13
+              },
+              {
+                "label": "Heb 10:18",
+                "kind": "bible",
+                "key": "hebrews.10.18",
+                "book": "hebrews",
+                "chapter": 10,
+                "verseStart": 18,
+                "verseEnd": 18
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          },
+          {
+            "text": "\"You're just interpreting it your way.\" (Agree that everyone interprets. Then read the passage out loud together and ask *\"What does it say?\"* before *\"What does it mean?\"*)",
+            "verses": [],
+            "links": [],
+            "supplemental": false
+          }
+        ]
+      }
+    },
+    {
+      "slug": "orthodox",
+      "name": "Eastern Orthodox",
+      "heading": "EASTERN ORTHODOX",
+      "color": "#0d9488",
+      "emoji": "☦️",
+      "beliefs": {
+        "text": "Revelation is preserved \"by two channels: holy tradition and holy Scripture,\" and the Church is \"the sure repository of holy tradition\" [Philaret, *Longer Catechism*, Q16, Q18]. Scripture is to be believed \"not otherwise than as the Catholic Church has interpreted,\" and the Church \"cannot err\" [Confession of Dositheus, Decrees 2, 12]. Salvation is theosis, \"to share in the life of God,\" and grace and human effort work together (synergy) [GOARCH, \"Spirituality\"; Philaret Q3–5]. A man is justified \"not… through faith alone, but through faith which works through love, that is to say, through faith and works\" [Dositheus, Decree 13]. The OCA's current adult manual adds: \"Justification therefore is not a single, once-for-all event\" [OCA, *Essential Orthodox Christian Beliefs* (2023), p. 218]. Icons receive veneration, \"not the full adoration (*latria*)… paid only to the divine nature\" [Nicaea II, Definition]. Orthodoxy has no single catechism. Above, conciliar sources (Nicaea II, Dositheus) carry more weight than catechisms and manuals (Philaret, OCA), and you should say which one you're quoting.",
+        "verses": [],
+        "links": [],
+        "supplemental": false
+      },
+      "lead": [
+        {
+          "label": "Where we agree",
+          "text": "They hold firmly to the Nicene Trinity, the full deity and humanity of Christ (Chalcedon), the virgin birth, the bodily resurrection, Christ's return, and eternal judgment. They reject the papacy and the Immaculate Conception, and generally reject purgatory as Rome defines it, though they pray for the departed [Dositheus, Decree 18]. Their liturgy is full of Scripture. And justification was never the fight in the East that it was with Rome, so some Orthodox writers sound close to us on it. Say this out loud.",
+          "verses": [],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "Approach",
+          "text": "Most American Orthodox you'll meet are either cradle Orthodox (it's family and ethnicity) or converts, often young men drawn by beauty, history and seriousness. With converts, don't attack the liturgy. Ask what *authority* tests it. White's warning: Orthodoxy \"is an enigma, not only to most in the West, but to itself,\" and \"is not merely Romanism without a Pope\". So don't assume Catholic answers fit. Use their own sources (Philaret Q23 is your best friend), keep pressing Scripture as the test, and land on the gospel every time.",
+          "verses": [],
+          "links": [],
+          "supplemental": false
+        }
+      ],
+      "cheatCardTitle": "Orthodox Cheat Card",
+      "cheatCard": [
+        {
+          "text": "**2 Tim 3:16–17**: *\"If Scripture equips the man of God for every good work, what's still missing?\"*",
+          "verses": [
+            {
+              "label": "2 Tim 3:16–17",
+              "kind": "bible",
+              "key": "2-timothy.3.16-17",
+              "book": "2-timothy",
+              "chapter": 3,
+              "verseStart": 16,
+              "verseEnd": 17
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "text": "**Mark 7:8–13**: *\"Can a tradition that's very old still cancel God's word?\"*",
+          "verses": [
+            {
+              "label": "Mark 7:8–13",
+              "kind": "bible",
+              "key": "mark.7.8-13",
+              "book": "mark",
+              "chapter": 7,
+              "verseStart": 8,
+              "verseEnd": 13
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "text": "**Ex 20:4–5**: *\"Does the command forbid only making images, or also bowing to them?\"*",
+          "verses": [
+            {
+              "label": "Ex 20:4–5",
+              "kind": "bible",
+              "key": "exodus.20.4-5",
+              "book": "exodus",
+              "chapter": 20,
+              "verseStart": 4,
+              "verseEnd": 5
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "text": "**Isa 53:5–6, 10**: *\"Who laid our iniquity on the Servant, and who was pleased to crush Him?\"*",
+          "verses": [
+            {
+              "label": "Isa 53:5–6",
+              "kind": "bible",
+              "key": "isaiah.53.5-6",
+              "book": "isaiah",
+              "chapter": 53,
+              "verseStart": 5,
+              "verseEnd": 6
+            },
+            {
+              "label": "Isa 53:10",
+              "kind": "bible",
+              "key": "isaiah.53.10",
+              "book": "isaiah",
+              "chapter": 53,
+              "verseStart": 10,
+              "verseEnd": 10
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "text": "**Rom 5:1**: *\"'Having been justified': is that finished or still in progress?\"*",
+          "verses": [
+            {
+              "label": "Rom 5:1",
+              "kind": "bible",
+              "key": "romans.5.1",
+              "book": "romans",
+              "chapter": 5,
+              "verseStart": 1,
+              "verseEnd": 1
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "text": "**Eph 2:1–5**: *\"Before God made us alive, were we sick or dead?\"*",
+          "verses": [
+            {
+              "label": "Eph 2:1–5",
+              "kind": "bible",
+              "key": "ephesians.2.1-5",
+              "book": "ephesians",
+              "chapter": 2,
+              "verseStart": 1,
+              "verseEnd": 5
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        }
+      ],
+      "offense": [
+        {
+          "id": "play-1",
+          "number": 1,
+          "title": "Their own test of tradition",
+          "subtitle": "Philaret Q23",
+          "warning": false,
+          "supplemental": false,
+          "altOpeners": [
+            {
+              "text": "*\"If an old tradition and a clear verse disagreed, which would win?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "chain": [
+            {
+              "text": "**Philaret Q23** (not Scripture, but theirs): tradition must agree with Scripture. *\"So Scripture is the test of tradition?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Mark 7:8–13**: Jesus judged a long, respected tradition by Scripture and found it \"invalidating the word of God.\" *\"Was age a defense?\"*",
+              "verses": [
+                {
+                  "label": "Mark 7:8–13",
+                  "kind": "bible",
+                  "key": "mark.7.8-13",
+                  "book": "mark",
+                  "chapter": 7,
+                  "verseStart": 8,
+                  "verseEnd": 13
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Acts 17:11**: The Bereans tested even Paul by the Scriptures. *\"Is anyone above that test?\"*",
+              "verses": [
+                {
+                  "label": "Acts 17:11",
+                  "kind": "bible",
+                  "key": "acts.17.11",
+                  "book": "acts",
+                  "chapter": 17,
+                  "verseStart": 11,
+                  "verseEnd": 11
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**2 Tim 3:15–17**: Scripture makes \"wise for salvation\" and \"fully equipped.\" *\"So it can do the testing?\"*",
+              "verses": [
+                {
+                  "label": "2 Tim 3:15–17",
+                  "kind": "bible",
+                  "key": "2-timothy.3.15-17",
+                  "book": "2-timothy",
+                  "chapter": 3,
+                  "verseStart": 15,
+                  "verseEnd": 17
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Gal 1:8–9**: Even an angel's gospel is tested by the apostolic one. *\"Then let's test how we're saved by Scripture. Agreed?\"*",
+              "verses": [
+                {
+                  "label": "Gal 1:8–9",
+                  "kind": "bible",
+                  "key": "galatians.1.8-9",
+                  "book": "galatians",
+                  "chapter": 1,
+                  "verseStart": 8,
+                  "verseEnd": 9
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "questions": [],
+          "ifTheySay": [
+            {
+              "theySay": "*\"Only the Church can interpret Scripture [Dositheus, Decree 2].\"*",
+              "youSay": "Then Philaret's test can never fail, because the Church grades its own test. Cyril of Jerusalem (an Eastern father) told his hearers not to believe even him \"unless you receive the proof… from the divine Scriptures,\" and Basil said hearers should examine teachers, \"receiving what is in conformity with the Scriptures and rejecting what is opposed to them\".",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"Basil said unwritten tradition has the same force [quoted in Philaret Q24].\"*",
+              "youSay": "Acknowledge it honestly; Basil said both. But ask: *\"Which of the two lets you correct an error if one creeps in?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"1 Tim 3:15: the Church is the pillar of truth.\"*",
+              "youSay": "See the defense table.",
+              "verses": [
+                {
+                  "label": "1 Tim 3:15",
+                  "kind": "bible",
+                  "key": "1-timothy.3.15",
+                  "book": "1-timothy",
+                  "chapter": 3,
+                  "verseStart": 15,
+                  "verseEnd": 15
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "notes": [],
+          "links": [],
+          "opener": {
+            "text": "*\"Would you agree that we must only follow tradition that agrees with Scripture?\"* (Their own catechism says so: \"We must follow that tradition which agrees with the divine revelation and with holy Scripture\" [Philaret Q23].)",
+            "verses": [],
+            "links": [],
+            "supplemental": false
+          },
+          "closer": {
+            "text": "*\"If Scripture tests tradition, let it test the biggest question: how is a sinner made right with God? Romans says by faith in Christ, apart from works (Rom 3:28; 4:5), with repentance (Acts 20:21). Will you read Romans 3–5 with me?\"*",
+            "verses": [
+              {
+                "label": "Rom 3:28",
+                "kind": "bible",
+                "key": "romans.3.28",
+                "book": "romans",
+                "chapter": 3,
+                "verseStart": 28,
+                "verseEnd": 28
+              },
+              {
+                "label": "Rom 4:5",
+                "kind": "bible",
+                "key": "romans.4.5",
+                "book": "romans",
+                "chapter": 4,
+                "verseStart": 5,
+                "verseEnd": 5
+              },
+              {
+                "label": "Acts 20:21",
+                "kind": "bible",
+                "key": "acts.20.21",
+                "book": "acts",
+                "chapter": 20,
+                "verseStart": 21,
+                "verseEnd": 21
+              },
+              {
+                "label": "Rom 3–5",
+                "kind": "bible",
+                "key": "romans.3-5",
+                "book": "romans",
+                "chapter": 3,
+                "chapterEnd": 5
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          }
+        },
+        {
+          "id": "play-2",
+          "number": 2,
+          "title": "Justified now",
+          "subtitle": "against salvation as a lifelong process",
+          "warning": false,
+          "supplemental": false,
+          "altOpeners": [
+            {
+              "text": "*\"Your church's manual says justification 'is not a single, once-for-all event' [OCA EOCB, p. 218]. Can we look at what Paul says?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "chain": [
+            {
+              "text": "**Luke 18:13–14**: The tax collector cried for mercy and \"went down to his house justified.\" (The OCA manual cites this verse too [EOCB p. 218].) *\"Was he justified on the way home, or still in process?\"*",
+              "verses": [
+                {
+                  "label": "Luke 18:13–14",
+                  "kind": "bible",
+                  "key": "luke.18.13-14",
+                  "book": "luke",
+                  "chapter": 18,
+                  "verseStart": 13,
+                  "verseEnd": 14
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Rom 4:4–5**: Credited to \"the one who does not work, but believes.\" *\"Where is synergy in that sentence?\"*",
+              "verses": [
+                {
+                  "label": "Rom 4:4–5",
+                  "kind": "bible",
+                  "key": "romans.4.4-5",
+                  "book": "romans",
+                  "chapter": 4,
+                  "verseStart": 4,
+                  "verseEnd": 5
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Rom 5:1**: \"Having been justified by faith, we have peace.\" *\"Past or future?\"*",
+              "verses": [
+                {
+                  "label": "Rom 5:1",
+                  "kind": "bible",
+                  "key": "romans.5.1",
+                  "book": "romans",
+                  "chapter": 5,
+                  "verseStart": 1,
+                  "verseEnd": 1
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Rom 8:1, 33–34**: \"No condemnation.\" \"God is the one who justifies; who is the one who condemns?\" *\"Is that a courtroom verdict?\"*",
+              "verses": [
+                {
+                  "label": "Rom 8:1",
+                  "kind": "bible",
+                  "key": "romans.8.1",
+                  "book": "romans",
+                  "chapter": 8,
+                  "verseStart": 1,
+                  "verseEnd": 1
+                },
+                {
+                  "label": "Rom 8:33–34",
+                  "kind": "bible",
+                  "key": "romans.8.33-34",
+                  "book": "romans",
+                  "chapter": 8,
+                  "verseStart": 33,
+                  "verseEnd": 34
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Heb 10:14**: \"Perfected for all time.\" *\"How long is 'for all time'?\"*",
+              "verses": [
+                {
+                  "label": "Heb 10:14",
+                  "kind": "bible",
+                  "key": "hebrews.10.14",
+                  "book": "hebrews",
+                  "chapter": 10,
+                  "verseStart": 14,
+                  "verseEnd": 14
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Eph 2:8–10**: Saved by grace through faith, not of works, *for* good works. *\"Where do works go: before or after?\"*",
+              "verses": [
+                {
+                  "label": "Eph 2:8–10",
+                  "kind": "bible",
+                  "key": "ephesians.2.8-10",
+                  "book": "ephesians",
+                  "chapter": 2,
+                  "verseStart": 8,
+                  "verseEnd": 10
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "questions": [],
+          "ifTheySay": [
+            {
+              "theySay": "*\"Faith working through love (Gal 5:6), so faith and works [Dositheus 13].\"*",
+              "youSay": "Gal 5:6 describes what living faith *does*. The same letter says we're justified \"by faith in Christ and not by the works of the Law\" (Gal 2:16), and condemns adding anything (Gal 3:1–3).",
+              "verses": [
+                {
+                  "label": "Gal 5:6",
+                  "kind": "bible",
+                  "key": "galatians.5.6",
+                  "book": "galatians",
+                  "chapter": 5,
+                  "verseStart": 6,
+                  "verseEnd": 6
+                },
+                {
+                  "label": "Gal 2:16",
+                  "kind": "bible",
+                  "key": "galatians.2.16",
+                  "book": "galatians",
+                  "chapter": 2,
+                  "verseStart": 16,
+                  "verseEnd": 16
+                },
+                {
+                  "label": "Gal 3:1–3",
+                  "kind": "bible",
+                  "key": "galatians.3.1-3",
+                  "book": "galatians",
+                  "chapter": 3,
+                  "verseStart": 1,
+                  "verseEnd": 3
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"Salvation is healing and union, not a legal transaction.\"*",
+              "youSay": "Scripture uses both: a verdict (Rom 8:33–34) *and* new life (2 Cor 5:17). We agree on union and transformation (2 Cor 3:18). We don't let healing replace the verdict.",
+              "verses": [
+                {
+                  "label": "Rom 8:33–34",
+                  "kind": "bible",
+                  "key": "romans.8.33-34",
+                  "book": "romans",
+                  "chapter": 8,
+                  "verseStart": 33,
+                  "verseEnd": 34
+                },
+                {
+                  "label": "2 Cor 5:17",
+                  "kind": "bible",
+                  "key": "2-corinthians.5.17",
+                  "book": "2-corinthians",
+                  "chapter": 5,
+                  "verseStart": 17,
+                  "verseEnd": 17
+                },
+                {
+                  "label": "2 Cor 3:18",
+                  "kind": "bible",
+                  "key": "2-corinthians.3.18",
+                  "book": "2-corinthians",
+                  "chapter": 3,
+                  "verseStart": 18,
+                  "verseEnd": 18
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"Faith alone is easy believism.\"*",
+              "youSay": "No. Saving faith repents and submits to Christ as Lord (Luke 13:3; Rom 10:9). Works are fruit, not a co-cause.",
+              "verses": [
+                {
+                  "label": "Luke 13:3",
+                  "kind": "bible",
+                  "key": "luke.13.3",
+                  "book": "luke",
+                  "chapter": 13,
+                  "verseStart": 3,
+                  "verseEnd": 3
+                },
+                {
+                  "label": "Rom 10:9",
+                  "kind": "bible",
+                  "key": "romans.10.9",
+                  "book": "romans",
+                  "chapter": 10,
+                  "verseStart": 9,
+                  "verseEnd": 9
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"Isn't that the Protestant reading? The fathers taught synergy.\"*",
+              "youSay": "Busenitz collects patristic witnesses to justification by faith, e.g., Clement of Rome: \"not justified by ourselves… but by that faith\". Letham notes some honored Orthodox writers who sound the same note.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "notes": [],
+          "links": [],
+          "opener": {
+            "text": "*\"Can a person be declared righteous by God today, completely, and know it?\"*",
+            "verses": [],
+            "links": [],
+            "supplemental": false
+          },
+          "closer": {
+            "text": "*\"The tax collector didn't bring a process, just a plea, and went home justified. Will you stop leaning on your progress and trust Christ's finished work today (Luke 18:13–14; Rom 4:5)?\"*",
+            "verses": [
+              {
+                "label": "Luke 18:13–14",
+                "kind": "bible",
+                "key": "luke.18.13-14",
+                "book": "luke",
+                "chapter": 18,
+                "verseStart": 13,
+                "verseEnd": 14
+              },
+              {
+                "label": "Rom 4:5",
+                "kind": "bible",
+                "key": "romans.4.5",
+                "book": "romans",
+                "chapter": 4,
+                "verseStart": 5,
+                "verseEnd": 5
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          }
+        },
+        {
+          "id": "play-3",
+          "number": 3,
+          "title": "Icons and the second commandment",
+          "warning": false,
+          "supplemental": false,
+          "altOpeners": [
+            {
+              "text": "*\"When Israel made the golden calf, who did Aaron say they were worshiping?\"* (Ex 32:4–5: a \"feast to Yahweh.\")",
+              "verses": [
+                {
+                  "label": "Ex 32:4–5",
+                  "kind": "bible",
+                  "key": "exodus.32.4-5",
+                  "book": "exodus",
+                  "chapter": 32,
+                  "verseStart": 4,
+                  "verseEnd": 5
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "chain": [
+            {
+              "text": "**Ex 20:4–5**: Not just making; \"you shall not worship them or serve them.\" *\"Is the act of bowing itself in view?\"*",
+              "verses": [
+                {
+                  "label": "Ex 20:4–5",
+                  "kind": "bible",
+                  "key": "exodus.20.4-5",
+                  "book": "exodus",
+                  "chapter": 20,
+                  "verseStart": 4,
+                  "verseEnd": 5
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Deut 4:15–19**: \"You did not see any form on the day Yahweh spoke,\" so don't make one. *\"Why does Moses ground it in what they *didn't* see?\"*",
+              "verses": [
+                {
+                  "label": "Deut 4:15–19",
+                  "kind": "bible",
+                  "key": "deuteronomy.4.15-19",
+                  "book": "deuteronomy",
+                  "chapter": 4,
+                  "verseStart": 15,
+                  "verseEnd": 19
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Ex 32:4–5**: The calf was meant to honor Yahweh, and God still judged it. *\"Does good intention make a bowed-to image acceptable?\"*",
+              "verses": [
+                {
+                  "label": "Ex 32:4–5",
+                  "kind": "bible",
+                  "key": "exodus.32.4-5",
+                  "book": "exodus",
+                  "chapter": 32,
+                  "verseStart": 4,
+                  "verseEnd": 5
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**2 Kings 18:4**: Hezekiah smashed the bronze serpent, an object *God commanded* (Num 21:8–9), because Israel burned incense to it. *\"If a God-commanded image became an idol when venerated, what about one God never commanded?\"*",
+              "verses": [
+                {
+                  "label": "2 Kgs 18:4",
+                  "kind": "bible",
+                  "key": "2-kings.18.4",
+                  "book": "2-kings",
+                  "chapter": 18,
+                  "verseStart": 4,
+                  "verseEnd": 4
+                },
+                {
+                  "label": "Num 21:8–9",
+                  "kind": "bible",
+                  "key": "numbers.21.8-9",
+                  "book": "numbers",
+                  "chapter": 21,
+                  "verseStart": 8,
+                  "verseEnd": 9
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**John 4:23–24**: The Father seeks those who worship \"in spirit and truth.\" **Col 1:15**: Christ *is* the image of the invisible God. *\"Do we need another image to reach the true Image?\"*",
+              "verses": [
+                {
+                  "label": "John 4:23–24",
+                  "kind": "bible",
+                  "key": "john.4.23-24",
+                  "book": "john",
+                  "chapter": 4,
+                  "verseStart": 23,
+                  "verseEnd": 24
+                },
+                {
+                  "label": "Col 1:15",
+                  "kind": "bible",
+                  "key": "colossians.1.15",
+                  "book": "colossians",
+                  "chapter": 1,
+                  "verseStart": 15,
+                  "verseEnd": 15
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**1 John 5:21**: \"Guard yourselves from idols,\" written to Christians after the Incarnation.",
+              "verses": [
+                {
+                  "label": "1 John 5:21",
+                  "kind": "bible",
+                  "key": "1-john.5.21",
+                  "book": "1-john",
+                  "chapter": 5,
+                  "verseStart": 21,
+                  "verseEnd": 21
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "questions": [],
+          "ifTheySay": [
+            {
+              "theySay": "*\"We give icons veneration, not worship (latria); the honor passes to the prototype [Nicaea II; CCC 2132 says the same].\"*",
+              "youSay": "Grant that this is the real position. The commandment forbids the bowing, not just a wrong inner attitude. Schooping, a former Orthodox priest, asks how mere \"veneration\" of an image becomes worship of Christ: if it doesn't, it's too little for Christ; if it does, it's worship given through an image.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"God commanded cherubim in the tabernacle (Ex 25:18).\"*",
+              "youSay": "Yes, images can exist. But no one was ever told to bow to, kiss or pray before them, and the bronze serpent shows what happens when they do (2 Kings 18:4).",
+              "verses": [
+                {
+                  "label": "Ex 25:18",
+                  "kind": "bible",
+                  "key": "exodus.25.18",
+                  "book": "exodus",
+                  "chapter": 25,
+                  "verseStart": 18,
+                  "verseEnd": 18
+                },
+                {
+                  "label": "2 Kgs 18:4",
+                  "kind": "bible",
+                  "key": "2-kings.18.4",
+                  "book": "2-kings",
+                  "chapter": 18,
+                  "verseStart": 4,
+                  "verseEnd": 4
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"The Incarnation made God visible, so we can picture Him.\"*",
+              "youSay": "God made Himself visible *in Christ* (John 14:9). Ortlund documents that early Christians did not bow to images, and that icon veneration came later; he notes that Epiphanius opposed it in the 4th century.",
+              "verses": [
+                {
+                  "label": "John 14:9",
+                  "kind": "bible",
+                  "key": "john.14.9",
+                  "book": "john",
+                  "chapter": 14,
+                  "verseStart": 9,
+                  "verseEnd": 9
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"Nicaea II anathematizes people who refuse to venerate icons.\"*",
+              "youSay": "It does: \"If anyone does not salute such representations… let him be anathema\" [Nicaea II, anathemas]. Ask gently: *\"Was every Christian before 787 who didn't kiss icons under a curse?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "notes": [],
+          "links": [],
+          "opener": {
+            "text": "*\"Does the second commandment forbid only making images, or also bowing down to them?\"* (Ex 20:5)",
+            "verses": [
+              {
+                "label": "Ex 20:5",
+                "kind": "bible",
+                "key": "exodus.20.5",
+                "book": "exodus",
+                "chapter": 20,
+                "verseStart": 5,
+                "verseEnd": 5
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          },
+          "closer": {
+            "text": "*\"Christ is the Image of God, and He invites you to come to Him directly, by faith, with no object in between (Heb 4:16; 10:19–22). Will you?\"*",
+            "verses": [
+              {
+                "label": "Heb 4:16",
+                "kind": "bible",
+                "key": "hebrews.4.16",
+                "book": "hebrews",
+                "chapter": 4,
+                "verseStart": 16,
+                "verseEnd": 16
+              },
+              {
+                "label": "Heb 10:19–22",
+                "kind": "bible",
+                "key": "hebrews.10.19-22",
+                "book": "hebrews",
+                "chapter": 10,
+                "verseStart": 19,
+                "verseEnd": 22
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          }
+        },
+        {
+          "id": "play-4",
+          "number": 4,
+          "title": "He bore our sins",
+          "subtitle": "penal substitution",
+          "warning": false,
+          "supplemental": false,
+          "altOpeners": [
+            {
+              "text": "*\"Was Jesus punished in our place, or only defeating death for us?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "chain": [
+            {
+              "text": "**Isa 53:5–6**: \"Pierced through for *our* transgressions… Yahweh has caused the iniquity of us all to fall on Him.\" *\"Is that substitution?\"*",
+              "verses": [
+                {
+                  "label": "Isa 53:5–6",
+                  "kind": "bible",
+                  "key": "isaiah.53.5-6",
+                  "book": "isaiah",
+                  "chapter": 53,
+                  "verseStart": 5,
+                  "verseEnd": 6
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Isa 53:10**: \"Yahweh was pleased to crush Him… a guilt offering.\" *\"Who is acting in this verse?\"*",
+              "verses": [
+                {
+                  "label": "Isa 53:10",
+                  "kind": "bible",
+                  "key": "isaiah.53.10",
+                  "book": "isaiah",
+                  "chapter": 53,
+                  "verseStart": 10,
+                  "verseEnd": 10
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Gal 3:13**: Christ redeemed us from the curse \"having become a curse for us.\" *\"Whose curse did He bear?\"*",
+              "verses": [
+                {
+                  "label": "Gal 3:13",
+                  "kind": "bible",
+                  "key": "galatians.3.13",
+                  "book": "galatians",
+                  "chapter": 3,
+                  "verseStart": 13,
+                  "verseEnd": 13
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**2 Cor 5:21; 1 Pet 2:24; 3:18**: Made sin for us; bore our sins in His body; \"the just for the unjust.\" *\"In whose place?\"*",
+              "verses": [
+                {
+                  "label": "2 Cor 5:21",
+                  "kind": "bible",
+                  "key": "2-corinthians.5.21",
+                  "book": "2-corinthians",
+                  "chapter": 5,
+                  "verseStart": 21,
+                  "verseEnd": 21
+                },
+                {
+                  "label": "1 Pet 2:24",
+                  "kind": "bible",
+                  "key": "1-peter.2.24",
+                  "book": "1-peter",
+                  "chapter": 2,
+                  "verseStart": 24,
+                  "verseEnd": 24
+                },
+                {
+                  "label": "1 Pet 3:18",
+                  "kind": "bible",
+                  "key": "1-peter.3.18",
+                  "book": "1-peter",
+                  "chapter": 3,
+                  "verseStart": 18,
+                  "verseEnd": 18
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Rom 3:25–26**: A propitiation, so that God is \"just and the justifier.\" *\"Why does God's justice need to be shown at the cross?\"*",
+              "verses": [
+                {
+                  "label": "Rom 3:25–26",
+                  "kind": "bible",
+                  "key": "romans.3.25-26",
+                  "book": "romans",
+                  "chapter": 3,
+                  "verseStart": 25,
+                  "verseEnd": 26
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "questions": [],
+          "ifTheySay": [
+            {
+              "theySay": "*\"That makes the Father a vengeful pagan god punishing a 'whipping boy' [OCA EOCB, pp. 186–88].\"*",
+              "youSay": "We reject that caricature too. Father and Son act together in love (John 10:17–18; Rom 8:32; 1 John 4:10). The OCA manual itself affirms that justification \"stands alongside others\" as a biblical metaphor [EOCB p. 188]. This isn't a conciliar dogma for them, so ask what *this* person believes.",
+              "verses": [
+                {
+                  "label": "John 10:17–18",
+                  "kind": "bible",
+                  "key": "john.10.17-18",
+                  "book": "john",
+                  "chapter": 10,
+                  "verseStart": 17,
+                  "verseEnd": 18
+                },
+                {
+                  "label": "Rom 8:32",
+                  "kind": "bible",
+                  "key": "romans.8.32",
+                  "book": "romans",
+                  "chapter": 8,
+                  "verseStart": 32,
+                  "verseEnd": 32
+                },
+                {
+                  "label": "1 John 4:10",
+                  "kind": "bible",
+                  "key": "1-john.4.10",
+                  "book": "1-john",
+                  "chapter": 4,
+                  "verseStart": 10,
+                  "verseEnd": 10
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"It's Anselm's medieval theory.\"*",
+              "youSay": "Isaiah 53 is seven centuries before Christ. Schooping, a former Orthodox priest, shows a substitutionary reading in Chrysostom and Theophylact.",
+              "verses": [
+                {
+                  "label": "Isa 53",
+                  "kind": "bible",
+                  "key": "isaiah.53",
+                  "book": "isaiah",
+                  "chapter": 53
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"The East teaches Christus Victor.\"*",
+              "youSay": "So does Scripture (Col 2:15; Heb 2:14–15). But Col 2:14 says the victory came by canceling \"the certificate of debt\" against us. Both are true together.",
+              "verses": [
+                {
+                  "label": "Col 2:15",
+                  "kind": "bible",
+                  "key": "colossians.2.15",
+                  "book": "colossians",
+                  "chapter": 2,
+                  "verseStart": 15,
+                  "verseEnd": 15
+                },
+                {
+                  "label": "Heb 2:14–15",
+                  "kind": "bible",
+                  "key": "hebrews.2.14-15",
+                  "book": "hebrews",
+                  "chapter": 2,
+                  "verseStart": 14,
+                  "verseEnd": 15
+                },
+                {
+                  "label": "Col 2:14",
+                  "kind": "bible",
+                  "key": "colossians.2.14",
+                  "book": "colossians",
+                  "chapter": 2,
+                  "verseStart": 14,
+                  "verseEnd": 14
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "notes": [],
+          "links": [],
+          "opener": {
+            "text": "*\"In Isaiah 53, whose iniquity did Yahweh lay on the Servant?\"*",
+            "verses": [
+              {
+                "label": "Isa 53",
+                "kind": "bible",
+                "key": "isaiah.53",
+                "book": "isaiah",
+                "chapter": 53
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          },
+          "closer": {
+            "text": "*\"He bore the penalty in your place, and He offers you His righteousness as a gift (2 Cor 5:21). Will you turn from your sin and receive it by faith?\"*",
+            "verses": [
+              {
+                "label": "2 Cor 5:21",
+                "kind": "bible",
+                "key": "2-corinthians.5.21",
+                "book": "2-corinthians",
+                "chapter": 5,
+                "verseStart": 21,
+                "verseEnd": 21
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          }
+        },
+        {
+          "id": "play-5",
+          "number": 5,
+          "title": "Dead, not just sick",
+          "subtitle": "ancestral sin",
+          "warning": false,
+          "supplemental": false,
+          "altOpeners": [
+            {
+              "text": "*\"Do you believe we inherit only death from Adam, or also guilt?\"* (The OCA says \"only Adam and Eve are guilty of that sin\" [OCA Q&A, \"Original Sin\"].)",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "chain": [
+            {
+              "text": "**Eph 2:1–3**: \"Dead in your trespasses… by nature children of wrath.\" *\"Does a neutral nature deserve wrath?\"*",
+              "verses": [
+                {
+                  "label": "Eph 2:1–3",
+                  "kind": "bible",
+                  "key": "ephesians.2.1-3",
+                  "book": "ephesians",
+                  "chapter": 2,
+                  "verseStart": 1,
+                  "verseEnd": 3
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Rom 5:12, 18–19**: \"Through one transgression there resulted condemnation to all men… through the one man's disobedience the many were made sinners.\" *\"Condemnation is a guilty verdict, not only a sickness, right?\"*",
+              "verses": [
+                {
+                  "label": "Rom 5:12",
+                  "kind": "bible",
+                  "key": "romans.5.12",
+                  "book": "romans",
+                  "chapter": 5,
+                  "verseStart": 12,
+                  "verseEnd": 12
+                },
+                {
+                  "label": "Rom 5:18–19",
+                  "kind": "bible",
+                  "key": "romans.5.18-19",
+                  "book": "romans",
+                  "chapter": 5,
+                  "verseStart": 18,
+                  "verseEnd": 19
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Ps 51:5**: \"In sin my mother conceived me.\" *\"When does David trace his sin back to?\"*",
+              "verses": [
+                {
+                  "label": "Ps 51:5",
+                  "kind": "bible",
+                  "key": "psalms.51.5",
+                  "book": "psalms",
+                  "chapter": 51,
+                  "verseStart": 5,
+                  "verseEnd": 5
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**John 3:3–7**: \"You must be born again.\" *\"Can the dead cooperate in their own birth?\"*",
+              "verses": [
+                {
+                  "label": "John 3:3–7",
+                  "kind": "bible",
+                  "key": "john.3.3-7",
+                  "book": "john",
+                  "chapter": 3,
+                  "verseStart": 3,
+                  "verseEnd": 7
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Eph 2:4–9**: \"But God… made us alive… by grace you have been saved… not of works.\" *\"Who did the raising?\"*",
+              "verses": [
+                {
+                  "label": "Eph 2:4–9",
+                  "kind": "bible",
+                  "key": "ephesians.2.4-9",
+                  "book": "ephesians",
+                  "chapter": 2,
+                  "verseStart": 4,
+                  "verseEnd": 9
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "questions": [],
+          "ifTheySay": [
+            {
+              "theySay": "*\"That's Augustine. The East never accepted original guilt.\"*",
+              "youSay": "Paul wrote Rom 5 centuries before Augustine. Also note that the Confession of Dositheus says infants \"are subject to original sin\" and need its remission [Decree 16], so Orthodox sources themselves aren't unanimous.",
+              "verses": [
+                {
+                  "label": "Rom 5",
+                  "kind": "bible",
+                  "key": "romans.5",
+                  "book": "romans",
+                  "chapter": 5
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"Then infants who die go to hell?\"*",
+              "youSay": "Our hope rests in God's mercy and character (2 Sam 12:23). It doesn't rest on denying what Rom 5 says about Adam.",
+              "verses": [
+                {
+                  "label": "2 Sam 12:23",
+                  "kind": "bible",
+                  "key": "2-samuel.12.23",
+                  "book": "2-samuel",
+                  "chapter": 12,
+                  "verseStart": 23,
+                  "verseEnd": 23
+                },
+                {
+                  "label": "Rom 5",
+                  "kind": "bible",
+                  "key": "romans.5",
+                  "book": "romans",
+                  "chapter": 5
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "notes": [],
+          "links": [],
+          "opener": {
+            "text": "*\"Before God made us alive, how does Paul describe us: sick or dead?\"* (Eph 2:1)",
+            "verses": [
+              {
+                "label": "Eph 2:1",
+                "kind": "bible",
+                "key": "ephesians.2.1",
+                "book": "ephesians",
+                "chapter": 2,
+                "verseStart": 1,
+                "verseEnd": 1
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          },
+          "closer": {
+            "text": "*\"Dead people don't need coaching. They need resurrection, and only Christ gives it, by grace through faith (Eph 2:4–9). Will you ask Him for that life?\"*",
+            "verses": [
+              {
+                "label": "Eph 2:4–9",
+                "kind": "bible",
+                "key": "ephesians.2.4-9",
+                "book": "ephesians",
+                "chapter": 2,
+                "verseStart": 4,
+                "verseEnd": 9
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          }
+        }
+      ],
+      "defense": [
+        {
+          "id": "sola-scriptura-16th-century-invention",
+          "objection": "\"Sola Scriptura is a 16th-century invention.\"",
+          "response": "The fathers treated Scripture as the final court, including *Eastern* fathers. Athanasius: \"the sacred and inspired Scriptures are sufficient to declare the truth.\" Cyril of Jerusalem: don't believe even me without proof from Scripture.",
+          "goTo": "Isa 8:20; Mark 7:13; Acts 17:11; 2 Tim 3:16–17",
+          "askBack": "*\"Were Athanasius and Cyril Protestants?\"*",
+          "verses": [
+            {
+              "label": "Isa 8:20",
+              "kind": "bible",
+              "key": "isaiah.8.20",
+              "book": "isaiah",
+              "chapter": 8,
+              "verseStart": 20,
+              "verseEnd": 20
+            },
+            {
+              "label": "Mark 7:13",
+              "kind": "bible",
+              "key": "mark.7.13",
+              "book": "mark",
+              "chapter": 7,
+              "verseStart": 13,
+              "verseEnd": 13
+            },
+            {
+              "label": "Acts 17:11",
+              "kind": "bible",
+              "key": "acts.17.11",
+              "book": "acts",
+              "chapter": 17,
+              "verseStart": 11,
+              "verseEnd": 11
+            },
+            {
+              "label": "2 Tim 3:16–17",
+              "kind": "bible",
+              "key": "2-timothy.3.16-17",
+              "book": "2-timothy",
+              "chapter": 3,
+              "verseStart": 16,
+              "verseEnd": 17
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "church-pillar-ground-truth-1",
+          "objection": "\"The Church is the pillar and ground of the truth (1 Tim 3:15).\"",
+          "response": "Philaret uses this verse [Q18]. The context is a local congregation with elders and deacons. A pillar holds up the truth; it doesn't author it.",
+          "goTo": "1 Tim 3:14–16",
+          "askBack": "*\"Does a pillar make the truth or hold it up?\"*",
+          "verses": [
+            {
+              "label": "1 Tim 3:14–16",
+              "kind": "bible",
+              "key": "1-timothy.3.14-16",
+              "book": "1-timothy",
+              "chapter": 3,
+              "verseStart": 14,
+              "verseEnd": 16
+            },
+            {
+              "label": "1 Tim 3:15",
+              "kind": "bible",
+              "key": "1-timothy.3.15",
+              "book": "1-timothy",
+              "chapter": 3,
+              "verseStart": 15,
+              "verseEnd": 15
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "hold-traditions-by-word-or",
+          "objection": "\"Hold the traditions, by word or letter (2 Thess 2:15).\"",
+          "response": "Philaret quotes this verse *to say tradition must agree with Scripture* [Q23]. Paul's tradition is the gospel (2:14), not a separate source.",
+          "goTo": "2 Thess 2:14–15; 1 Cor 15:1–4",
+          "askBack": "*\"Your catechism says tradition must agree with Scripture. So which one tests the other?\"*",
+          "verses": [
+            {
+              "label": "2 Thess 2:14–15",
+              "kind": "bible",
+              "key": "2-thessalonians.2.14-15",
+              "book": "2-thessalonians",
+              "chapter": 2,
+              "verseStart": 14,
+              "verseEnd": 15
+            },
+            {
+              "label": "1 Cor 15:1–4",
+              "kind": "bible",
+              "key": "1-corinthians.15.1-4",
+              "book": "1-corinthians",
+              "chapter": 15,
+              "verseStart": 1,
+              "verseEnd": 4
+            },
+            {
+              "label": "2 Thess 2:15",
+              "kind": "bible",
+              "key": "2-thessalonians.2.15",
+              "book": "2-thessalonians",
+              "chapter": 2,
+              "verseStart": 15,
+              "verseEnd": 15
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "we-are-one-true-church",
+          "objection": "\"We are the one true Church; you split off.\"",
+          "response": "The Church is all who are united to Christ by faith (Eph 2:19–22). Our church holds that each local church is self-governing under Christ. Schooping, from the inside, calls Orthodox ecclesiology \"inextricably exclusive\".",
+          "goTo": "Eph 2:19–22; 1 Cor 1:2; Rev 2:5",
+          "askBack": "*\"Is someone who trusts Christ alone, outside your communion, in Christ?\"*",
+          "verses": [
+            {
+              "label": "Eph 2:19–22",
+              "kind": "bible",
+              "key": "ephesians.2.19-22",
+              "book": "ephesians",
+              "chapter": 2,
+              "verseStart": 19,
+              "verseEnd": 22
+            },
+            {
+              "label": "1 Cor 1:2",
+              "kind": "bible",
+              "key": "1-corinthians.1.2",
+              "book": "1-corinthians",
+              "chapter": 1,
+              "verseStart": 2,
+              "verseEnd": 2
+            },
+            {
+              "label": "Rev 2:5",
+              "kind": "bible",
+              "key": "revelation.2.5",
+              "book": "revelation",
+              "chapter": 2,
+              "verseStart": 5,
+              "verseEnd": 5
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "we-have-apostolic-succession-from",
+          "objection": "\"We have apostolic succession from the apostles.\"",
+          "response": "Apostles had to be eyewitnesses of the risen Christ (Acts 1:21–22); the foundation was laid once (Eph 2:20). The succession Paul commands is of *teaching* (2 Tim 2:2). He warned that men in the succession would rise up teaching error (Acts 20:29–30).",
+          "goTo": "Acts 1:21–22; Eph 2:20; 2 Tim 2:2; Acts 20:29–30",
+          "askBack": "*\"Can a bishop in succession teach error?\"*",
+          "verses": [
+            {
+              "label": "Acts 1:21–22",
+              "kind": "bible",
+              "key": "acts.1.21-22",
+              "book": "acts",
+              "chapter": 1,
+              "verseStart": 21,
+              "verseEnd": 22
+            },
+            {
+              "label": "Eph 2:20",
+              "kind": "bible",
+              "key": "ephesians.2.20",
+              "book": "ephesians",
+              "chapter": 2,
+              "verseStart": 20,
+              "verseEnd": 20
+            },
+            {
+              "label": "2 Tim 2:2",
+              "kind": "bible",
+              "key": "2-timothy.2.2",
+              "book": "2-timothy",
+              "chapter": 2,
+              "verseStart": 2,
+              "verseEnd": 2
+            },
+            {
+              "label": "Acts 20:29–30",
+              "kind": "bible",
+              "key": "acts.20.29-30",
+              "book": "acts",
+              "chapter": 20,
+              "verseStart": 29,
+              "verseEnd": 30
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "theosis-god-became-man-man",
+          "objection": "\"Theosis: 'God became man so man might become god.'\"",
+          "response": "Ask what they mean first. They do *not* mean sharing God's essence (they distinguish essence and energies). We agree on union with Christ and glorification (Rom 8:29–30; 1 John 3:2). We differ on making it a cooperative process that grounds acceptance with God.",
+          "goTo": "2 Pet 1:3–4; 1 John 3:2; Rom 8:29–30; Isa 42:8",
+          "askBack": "*\"Is theosis the ground of your acceptance with God, or the fruit of it?\"*",
+          "verses": [
+            {
+              "label": "2 Pet 1:3–4",
+              "kind": "bible",
+              "key": "2-peter.1.3-4",
+              "book": "2-peter",
+              "chapter": 1,
+              "verseStart": 3,
+              "verseEnd": 4
+            },
+            {
+              "label": "1 John 3:2",
+              "kind": "bible",
+              "key": "1-john.3.2",
+              "book": "1-john",
+              "chapter": 3,
+              "verseStart": 2,
+              "verseEnd": 2
+            },
+            {
+              "label": "Rom 8:29–30",
+              "kind": "bible",
+              "key": "romans.8.29-30",
+              "book": "romans",
+              "chapter": 8,
+              "verseStart": 29,
+              "verseEnd": 30
+            },
+            {
+              "label": "Isa 42:8",
+              "kind": "bible",
+              "key": "isaiah.42.8",
+              "book": "isaiah",
+              "chapter": 42,
+              "verseStart": 8,
+              "verseEnd": 8
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "salvation-synergy-god-working-together",
+          "objection": "\"Salvation is synergy: God and I working together.\"",
+          "response": "Philaret: a right faith \"and good works\" are necessary \"to save one's own soul\" [Q3]. Scripture says God gives the faith and raises the dead (Eph 2:5, 8–9; John 6:44). We work *out* what He has worked *in* (Phil 2:12–13).",
+          "goTo": "Eph 2:8–10; Phil 2:12–13; John 6:44; Titus 3:5",
+          "askBack": "*\"In Phil 2:13, who is doing the working?\"*",
+          "verses": [
+            {
+              "label": "Eph 2:8–10",
+              "kind": "bible",
+              "key": "ephesians.2.8-10",
+              "book": "ephesians",
+              "chapter": 2,
+              "verseStart": 8,
+              "verseEnd": 10
+            },
+            {
+              "label": "Phil 2:12–13",
+              "kind": "bible",
+              "key": "philippians.2.12-13",
+              "book": "philippians",
+              "chapter": 2,
+              "verseStart": 12,
+              "verseEnd": 13
+            },
+            {
+              "label": "John 6:44",
+              "kind": "bible",
+              "key": "john.6.44",
+              "book": "john",
+              "chapter": 6,
+              "verseStart": 44,
+              "verseEnd": 44
+            },
+            {
+              "label": "Titus 3:5",
+              "kind": "bible",
+              "key": "titus.3.5",
+              "book": "titus",
+              "chapter": 3,
+              "verseStart": 5,
+              "verseEnd": 5
+            },
+            {
+              "label": "Eph 2:5",
+              "kind": "bible",
+              "key": "ephesians.2.5",
+              "book": "ephesians",
+              "chapter": 2,
+              "verseStart": 5,
+              "verseEnd": 5
+            },
+            {
+              "label": "Eph 2:8–9",
+              "kind": "bible",
+              "key": "ephesians.2.8-9",
+              "book": "ephesians",
+              "chapter": 2,
+              "verseStart": 8,
+              "verseEnd": 9
+            },
+            {
+              "label": "Phil 2:13",
+              "kind": "bible",
+              "key": "philippians.2.13",
+              "book": "philippians",
+              "chapter": 2,
+              "verseStart": 13,
+              "verseEnd": 13
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "icons-have-always-been-part",
+          "objection": "\"Icons have always been part of the Church.\"",
+          "response": "Ortlund documents that early Christians did not bow to or kiss images, and that 4th-century voices like Epiphanius opposed it. Veneration was defined in 787 [Nicaea II].",
+          "goTo": "Ex 20:4–5; Deut 4:15–19",
+          "askBack": "*\"Can you show icon veneration in the New Testament?\"*",
+          "verses": [
+            {
+              "label": "Ex 20:4–5",
+              "kind": "bible",
+              "key": "exodus.20.4-5",
+              "book": "exodus",
+              "chapter": 20,
+              "verseStart": 4,
+              "verseEnd": 5
+            },
+            {
+              "label": "Deut 4:15–19",
+              "kind": "bible",
+              "key": "deuteronomy.4.15-19",
+              "book": "deuteronomy",
+              "chapter": 4,
+              "verseStart": 15,
+              "verseEnd": 19
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "mary-theotokos",
+          "objection": "\"Mary is the Theotokos.\"",
+          "response": "Agree, carefully. As the Council of Ephesus meant it, \"God-bearer\" protects that the one she bore is God (Luke 1:43). We part ways on praying to her and on calling her ever-virgin.",
+          "goTo": "Luke 1:35, 43; Gal 4:4",
+          "askBack": "*\"Do you mean she bore the One who is God, or that she shares in His glory?\"*",
+          "verses": [
+            {
+              "label": "Luke 1:35",
+              "kind": "bible",
+              "key": "luke.1.35",
+              "book": "luke",
+              "chapter": 1,
+              "verseStart": 35,
+              "verseEnd": 35
+            },
+            {
+              "label": "Luke 1:43",
+              "kind": "bible",
+              "key": "luke.1.43",
+              "book": "luke",
+              "chapter": 1,
+              "verseStart": 43,
+              "verseEnd": 43
+            },
+            {
+              "label": "Gal 4:4",
+              "kind": "bible",
+              "key": "galatians.4.4",
+              "book": "galatians",
+              "chapter": 4,
+              "verseStart": 4,
+              "verseEnd": 4
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "mary-ever-virgin",
+          "objection": "\"Mary is ever-virgin.\"",
+          "response": "Philaret teaches it [Q186]. Matt 1:25 says \"until she gave birth,\" and the Gospels name His brothers alongside His mother (Matt 13:55–56; Mark 6:3). Orthodox usually explain these as Joseph's children from an earlier marriage. The plain sense is siblings.",
+          "goTo": "Matt 1:25; 13:55–56; John 7:5; Gal 1:19",
+          "askBack": "*\"What would Mark write if he meant siblings?\"*",
+          "verses": [
+            {
+              "label": "Matt 1:25",
+              "kind": "bible",
+              "key": "matthew.1.25",
+              "book": "matthew",
+              "chapter": 1,
+              "verseStart": 25,
+              "verseEnd": 25
+            },
+            {
+              "label": "Matt 13:55–56",
+              "kind": "bible",
+              "key": "matthew.13.55-56",
+              "book": "matthew",
+              "chapter": 13,
+              "verseStart": 55,
+              "verseEnd": 56
+            },
+            {
+              "label": "John 7:5",
+              "kind": "bible",
+              "key": "john.7.5",
+              "book": "john",
+              "chapter": 7,
+              "verseStart": 5,
+              "verseEnd": 5
+            },
+            {
+              "label": "Gal 1:19",
+              "kind": "bible",
+              "key": "galatians.1.19",
+              "book": "galatians",
+              "chapter": 1,
+              "verseStart": 19,
+              "verseEnd": 19
+            },
+            {
+              "label": "Mark 6:3",
+              "kind": "bible",
+              "key": "mark.6.3",
+              "book": "mark",
+              "chapter": 6,
+              "verseStart": 3,
+              "verseEnd": 3
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "asking-saints-pray-like-asking",
+          "objection": "\"Asking the saints to pray is like asking a friend.\"",
+          "response": "The OCA manual says this, and adds that the saints help and heal \"themselves\" too [EOCB p. 72]. Scripture models asking the living (James 5:16), never the departed, and gives us direct access through Christ (Heb 4:16; 7:25). Busenitz notes how such practices developed historically, citing Calvin's *Treatise on Relics*.",
+          "goTo": "1 Tim 2:5; Heb 4:14–16; 7:25; James 5:16",
+          "askBack": "*\"Who does Hebrews tell you to approach for help in time of need?\"*",
+          "verses": [
+            {
+              "label": "1 Tim 2:5",
+              "kind": "bible",
+              "key": "1-timothy.2.5",
+              "book": "1-timothy",
+              "chapter": 2,
+              "verseStart": 5,
+              "verseEnd": 5
+            },
+            {
+              "label": "Heb 4:14–16",
+              "kind": "bible",
+              "key": "hebrews.4.14-16",
+              "book": "hebrews",
+              "chapter": 4,
+              "verseStart": 14,
+              "verseEnd": 16
+            },
+            {
+              "label": "Heb 7:25",
+              "kind": "bible",
+              "key": "hebrews.7.25",
+              "book": "hebrews",
+              "chapter": 7,
+              "verseStart": 25,
+              "verseEnd": 25
+            },
+            {
+              "label": "Jas 5:16",
+              "kind": "bible",
+              "key": "james.5.16",
+              "book": "james",
+              "chapter": 5,
+              "verseStart": 16,
+              "verseEnd": 16
+            },
+            {
+              "label": "Heb 4:16",
+              "kind": "bible",
+              "key": "hebrews.4.16",
+              "book": "hebrews",
+              "chapter": 4,
+              "verseStart": 16,
+              "verseEnd": 16
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "baptism-saves-john-3-5",
+          "objection": "\"Baptism saves (John 3:5; 1 Pet 3:21).\"",
+          "response": "Dositheus: without baptism \"none is able to be saved\" [Decree 16]. But the Spirit came on Cornelius before baptism (Acts 10:44–48), and Peter says baptism saves \"not [as] the removal of dirt… but an appeal to God.\" Spurgeon: \"Baptism without faith saves no one.\"",
+          "goTo": "Acts 10:44–48; 1 Pet 3:21; John 3:16, 18; Luke 23:43",
+          "askBack": "*\"Was the thief on the cross saved?\"*",
+          "verses": [
+            {
+              "label": "Acts 10:44–48",
+              "kind": "bible",
+              "key": "acts.10.44-48",
+              "book": "acts",
+              "chapter": 10,
+              "verseStart": 44,
+              "verseEnd": 48
+            },
+            {
+              "label": "1 Pet 3:21",
+              "kind": "bible",
+              "key": "1-peter.3.21",
+              "book": "1-peter",
+              "chapter": 3,
+              "verseStart": 21,
+              "verseEnd": 21
+            },
+            {
+              "label": "John 3:16",
+              "kind": "bible",
+              "key": "john.3.16",
+              "book": "john",
+              "chapter": 3,
+              "verseStart": 16,
+              "verseEnd": 16
+            },
+            {
+              "label": "John 3:18",
+              "kind": "bible",
+              "key": "john.3.18",
+              "book": "john",
+              "chapter": 3,
+              "verseStart": 18,
+              "verseEnd": 18
+            },
+            {
+              "label": "Luke 23:43",
+              "kind": "bible",
+              "key": "luke.23.43",
+              "book": "luke",
+              "chapter": 23,
+              "verseStart": 43,
+              "verseEnd": 43
+            },
+            {
+              "label": "John 3:5",
+              "kind": "bible",
+              "key": "john.3.5",
+              "book": "john",
+              "chapter": 3,
+              "verseStart": 5,
+              "verseEnd": 5
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "eucharist-truly-his-body-blood",
+          "objection": "\"The Eucharist is truly His body and blood.\"",
+          "response": "Dositheus affirms a change of substance [Decree 17]. Our church holds that the elements represent Christ's body and blood, *and* that the Supper is a real communion with the risen Christ (1 Cor 10:16). Jesus' words are spirit (John 6:63), and His sacrifice is not repeated (Heb 10:14, 18).",
+          "goTo": "John 6:35, 63; 1 Cor 10:16; 11:26; Heb 10:14",
+          "askBack": "*\"Does the Supper proclaim His death, or offer it again?\"*",
+          "verses": [
+            {
+              "label": "John 6:35",
+              "kind": "bible",
+              "key": "john.6.35",
+              "book": "john",
+              "chapter": 6,
+              "verseStart": 35,
+              "verseEnd": 35
+            },
+            {
+              "label": "John 6:63",
+              "kind": "bible",
+              "key": "john.6.63",
+              "book": "john",
+              "chapter": 6,
+              "verseStart": 63,
+              "verseEnd": 63
+            },
+            {
+              "label": "1 Cor 10:16",
+              "kind": "bible",
+              "key": "1-corinthians.10.16",
+              "book": "1-corinthians",
+              "chapter": 10,
+              "verseStart": 16,
+              "verseEnd": 16
+            },
+            {
+              "label": "1 Cor 11:26",
+              "kind": "bible",
+              "key": "1-corinthians.11.26",
+              "book": "1-corinthians",
+              "chapter": 11,
+              "verseStart": 26,
+              "verseEnd": 26
+            },
+            {
+              "label": "Heb 10:14",
+              "kind": "bible",
+              "key": "hebrews.10.14",
+              "book": "hebrews",
+              "chapter": 10,
+              "verseStart": 14,
+              "verseEnd": 14
+            },
+            {
+              "label": "Heb 10:18",
+              "kind": "bible",
+              "key": "hebrews.10.18",
+              "book": "hebrews",
+              "chapter": 10,
+              "verseStart": 18,
+              "verseEnd": 18
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "god-isnt-angry-sin-sickness",
+          "objection": "\"God isn't angry. Sin is sickness, not crime.\"",
+          "response": "Sin is both disease and guilt. Scripture speaks of wrath (Rom 1:18; John 3:36) and of a verdict (Rom 5:18). The OCA manual itself keeps \"justification (our acquittal)\" as a biblical theme [EOCB p. 188].",
+          "goTo": "Rom 1:18; John 3:36; Rom 5:18; 1 John 4:10",
+          "askBack": "*\"Does John 3:36 say the wrath 'abides' or 'heals'?\"*",
+          "verses": [
+            {
+              "label": "Rom 1:18",
+              "kind": "bible",
+              "key": "romans.1.18",
+              "book": "romans",
+              "chapter": 1,
+              "verseStart": 18,
+              "verseEnd": 18
+            },
+            {
+              "label": "John 3:36",
+              "kind": "bible",
+              "key": "john.3.36",
+              "book": "john",
+              "chapter": 3,
+              "verseStart": 36,
+              "verseEnd": 36
+            },
+            {
+              "label": "Rom 5:18",
+              "kind": "bible",
+              "key": "romans.5.18",
+              "book": "romans",
+              "chapter": 5,
+              "verseStart": 18,
+              "verseEnd": 18
+            },
+            {
+              "label": "1 John 4:10",
+              "kind": "bible",
+              "key": "1-john.4.10",
+              "book": "1-john",
+              "chapter": 4,
+              "verseStart": 10,
+              "verseEnd": 10
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "we-dont-inherit-guilt-only",
+          "objection": "\"We don't inherit guilt, only death.\"",
+          "response": "The OCA says so [Q&A, \"Original Sin\"]. Rom 5:18–19 says one man's disobedience brought \"condemnation to all men\" and \"made\" many sinners. Dositheus speaks of infants' \"original sin\" [Decree 16].",
+          "goTo": "Rom 5:12, 18–19; Ps 51:5; Eph 2:3",
+          "askBack": "*\"What does 'condemnation to all men' mean?\"*",
+          "verses": [
+            {
+              "label": "Rom 5:12",
+              "kind": "bible",
+              "key": "romans.5.12",
+              "book": "romans",
+              "chapter": 5,
+              "verseStart": 12,
+              "verseEnd": 12
+            },
+            {
+              "label": "Rom 5:18–19",
+              "kind": "bible",
+              "key": "romans.5.18-19",
+              "book": "romans",
+              "chapter": 5,
+              "verseStart": 18,
+              "verseEnd": 19
+            },
+            {
+              "label": "Ps 51:5",
+              "kind": "bible",
+              "key": "psalms.51.5",
+              "book": "psalms",
+              "chapter": 51,
+              "verseStart": 5,
+              "verseEnd": 5
+            },
+            {
+              "label": "Eph 2:3",
+              "kind": "bible",
+              "key": "ephesians.2.3",
+              "book": "ephesians",
+              "chapter": 2,
+              "verseStart": 3,
+              "verseEnd": 3
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "our-church-2-000-years",
+          "objection": "\"Our church is 2,000 years old; yours is 500.\"",
+          "response": "The test is whether a church holds the apostles' teaching (Acts 2:42; Gal 1:8). Age doesn't settle it: the Pharisees' traditions were old too (Mark 7:13). Busenitz shows Scripture-alone convictions in the early church.",
+          "goTo": "Acts 2:42; Mark 7:13; Gal 1:8; Jude 3",
+          "askBack": "*\"If a 2,000-year-old church taught error, how would anyone know?\"*",
+          "verses": [
+            {
+              "label": "Acts 2:42",
+              "kind": "bible",
+              "key": "acts.2.42",
+              "book": "acts",
+              "chapter": 2,
+              "verseStart": 42,
+              "verseEnd": 42
+            },
+            {
+              "label": "Mark 7:13",
+              "kind": "bible",
+              "key": "mark.7.13",
+              "book": "mark",
+              "chapter": 7,
+              "verseStart": 13,
+              "verseEnd": 13
+            },
+            {
+              "label": "Gal 1:8",
+              "kind": "bible",
+              "key": "galatians.1.8",
+              "book": "galatians",
+              "chapter": 1,
+              "verseStart": 8,
+              "verseEnd": 8
+            },
+            {
+              "label": "Jude 3",
+              "kind": "bible",
+              "key": "jude.1.3",
+              "book": "jude",
+              "chapter": 1,
+              "verseStart": 3,
+              "verseEnd": 3
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "divine-liturgy-ancient-beautiful-protestant",
+          "objection": "\"The Divine Liturgy is ancient and beautiful. Protestant worship is shallow.\"",
+          "response": "Agree where they're right about shallow worship. But Justin Martyr (c. 150) describes the early service as reading the apostles and prophets, preaching, prayer, and the Supper. Letham's concern is that Orthodoxy downplays preaching. Tozer: God tired of rituals that pointed ahead; Christ fulfilled them.",
+          "goTo": "Acts 2:42; 1 Tim 4:13; 2 Tim 4:2; John 4:23–24; Heb 10:1",
+          "askBack": "*\"What did the earliest services you can document center on?\"*",
+          "verses": [
+            {
+              "label": "Acts 2:42",
+              "kind": "bible",
+              "key": "acts.2.42",
+              "book": "acts",
+              "chapter": 2,
+              "verseStart": 42,
+              "verseEnd": 42
+            },
+            {
+              "label": "1 Tim 4:13",
+              "kind": "bible",
+              "key": "1-timothy.4.13",
+              "book": "1-timothy",
+              "chapter": 4,
+              "verseStart": 13,
+              "verseEnd": 13
+            },
+            {
+              "label": "2 Tim 4:2",
+              "kind": "bible",
+              "key": "2-timothy.4.2",
+              "book": "2-timothy",
+              "chapter": 4,
+              "verseStart": 2,
+              "verseEnd": 2
+            },
+            {
+              "label": "John 4:23–24",
+              "kind": "bible",
+              "key": "john.4.23-24",
+              "book": "john",
+              "chapter": 4,
+              "verseStart": 23,
+              "verseEnd": 24
+            },
+            {
+              "label": "Heb 10:1",
+              "kind": "bible",
+              "key": "hebrews.10.1",
+              "book": "hebrews",
+              "chapter": 10,
+              "verseStart": 1,
+              "verseEnd": 1
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "toll-houses-souls-journey-after",
+          "objection": "\"Toll houses / the soul's journey after death.\"",
+          "response": "Toll houses are not dogma, even in ROCOR, which declined to define them in 1980. Don't argue it as if it were their official teaching. Scripture: to be absent from the body is to be at home with the Lord (2 Cor 5:8; Luke 23:43).",
+          "goTo": "2 Cor 5:8; Phil 1:23; Luke 23:43; Heb 9:27",
+          "askBack": "*\"Is that a teaching you're bound to, or a pious opinion?\"*",
+          "verses": [
+            {
+              "label": "2 Cor 5:8",
+              "kind": "bible",
+              "key": "2-corinthians.5.8",
+              "book": "2-corinthians",
+              "chapter": 5,
+              "verseStart": 8,
+              "verseEnd": 8
+            },
+            {
+              "label": "Phil 1:23",
+              "kind": "bible",
+              "key": "philippians.1.23",
+              "book": "philippians",
+              "chapter": 1,
+              "verseStart": 23,
+              "verseEnd": 23
+            },
+            {
+              "label": "Luke 23:43",
+              "kind": "bible",
+              "key": "luke.23.43",
+              "book": "luke",
+              "chapter": 23,
+              "verseStart": 43,
+              "verseEnd": 43
+            },
+            {
+              "label": "Heb 9:27",
+              "kind": "bible",
+              "key": "hebrews.9.27",
+              "book": "hebrews",
+              "chapter": 9,
+              "verseStart": 27,
+              "verseEnd": 27
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "god-known-his-energies-not",
+          "objection": "\"God is known in His energies, not His essence. Theology is experience, not propositions.\"",
+          "response": "Keep it short. God truly reveals Himself in His word, and we can know Him truly, though not exhaustively (John 17:3; 1 Tim 6:16). Letham's concern is that Palamas's framework can lead to agnosticism about God. Then bring it back to the gospel.",
+          "goTo": "John 17:3, 17; 1 Tim 6:16; Deut 29:29",
+          "askBack": "*\"Can God tell us true things about Himself in words?\"*",
+          "verses": [
+            {
+              "label": "John 17:3",
+              "kind": "bible",
+              "key": "john.17.3",
+              "book": "john",
+              "chapter": 17,
+              "verseStart": 3,
+              "verseEnd": 3
+            },
+            {
+              "label": "John 17:17",
+              "kind": "bible",
+              "key": "john.17.17",
+              "book": "john",
+              "chapter": 17,
+              "verseStart": 17,
+              "verseEnd": 17
+            },
+            {
+              "label": "1 Tim 6:16",
+              "kind": "bible",
+              "key": "1-timothy.6.16",
+              "book": "1-timothy",
+              "chapter": 6,
+              "verseStart": 16,
+              "verseEnd": 16
+            },
+            {
+              "label": "Deut 29:29",
+              "kind": "bible",
+              "key": "deuteronomy.29.29",
+              "book": "deuteronomy",
+              "chapter": 29,
+              "verseStart": 29,
+              "verseEnd": 29
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        }
+      ],
+      "exits": {
+        "label": "Typical exits",
+        "items": [
+          {
+            "text": "\"You have to experience the Liturgy to understand.\" (Accept the invitation kindly if you want to, then ask them to come read Romans 3–5 with you. Experience vs. Scripture is the whole question.)",
+            "verses": [
+              {
+                "label": "Rom 3–5",
+                "kind": "bible",
+                "key": "romans.3-5",
+                "book": "romans",
+                "chapter": 3,
+                "chapterEnd": 5
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          },
+          {
+            "text": "\"You're reading the Bible outside the Church.\" (Say: *\"Then let's read it with Cyril and Athanasius,\"* and quote their Scripture-first lines.)",
+            "verses": [],
+            "links": [],
+            "supplemental": false
+          },
+          {
+            "text": "\"Our differences are just Eastern vs. Western mindsets.\" (Agree that categories differ, then ask: *\"Does Rom 4:5 mean the same thing in Greek as in English?\"*)",
+            "verses": [
+              {
+                "label": "Rom 4:5",
+                "kind": "bible",
+                "key": "romans.4.5",
+                "book": "romans",
+                "chapter": 4,
+                "verseStart": 5,
+                "verseEnd": 5
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          }
+        ]
+      }
+    },
+    {
       "slug": "atheist",
       "name": "Atheist",
       "heading": "ATHEISTS / AGNOSTICS",
@@ -12527,6 +17179,175 @@
             {
               "label": "Hafs, Warsh, Qalun",
               "text": "different transmitted readings of the Quran.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ]
+        },
+        {
+          "heading": "Roman Catholic",
+          "lines": [
+            {
+              "label": "Magisterium",
+              "text": "the Church's teaching office (the pope and the bishops in communion with him), which alone can authentically interpret Scripture and Tradition [CCC 85, 100].",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Sacred Tradition",
+              "text": "teaching handed down outside Scripture and held with \"equal\" reverence [CCC 82].",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Ex cathedra",
+              "text": "the pope defining faith or morals \"from the chair,\" held to be infallible and \"irreformable\" [Vatican I].",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Transubstantiation",
+              "text": "the whole substance of bread and wine becomes Christ's body and blood, \"truly, really, and substantially\" [Trent, Sess. 13, can. 1; CCC 1376].",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Latria / dulia / hyperdulia",
+              "text": "worship due to God alone / honor to saints / the higher honor given to Mary.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Infused vs. imputed righteousness",
+              "text": "Rome says God makes us \"inwardly just\" [CCC 1992]. Scripture says God credits Christ's righteousness to us (Rom 4:6; 2 Cor 5:21).",
+              "verses": [
+                {
+                  "label": "Rom 4:6",
+                  "kind": "bible",
+                  "key": "romans.4.6",
+                  "book": "romans",
+                  "chapter": 4,
+                  "verseStart": 6,
+                  "verseEnd": 6
+                },
+                {
+                  "label": "2 Cor 5:21",
+                  "kind": "bible",
+                  "key": "2-corinthians.5.21",
+                  "book": "2-corinthians",
+                  "chapter": 5,
+                  "verseStart": 21,
+                  "verseEnd": 21
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Mortal sin",
+              "text": "grave sin that destroys sanctifying grace and, if unrepented, leads to hell [CCC 1861].",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Purgatory",
+              "text": "final purification after death for those who die in grace \"but still imperfectly purified\" [CCC 1030–1031].",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Indulgence",
+              "text": "remission of temporal punishment for sins already forgiven, applicable to oneself or to souls in purgatory [CCC 1471, 1498].",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Deuterocanonical books",
+              "text": "what Rome calls the Apocrypha: Tobit, Judith, Wisdom, Sirach, Baruch, 1–2 Maccabees, and additions to Esther and Daniel [Trent, Sess. 4].",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ]
+        },
+        {
+          "heading": "Eastern Orthodox",
+          "lines": [
+            {
+              "label": "Holy Tradition",
+              "text": "\"the doctrine of the faith, the law of God, the sacraments, and the ritual as handed down\" [Philaret Q17]. It includes Scripture and the councils.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Theosis (deification)",
+              "text": "sharing in the life of God as the goal of salvation [GOARCH, \"Spirituality\"]. Not sharing God's essence.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Synergy",
+              "text": "God's grace and human effort working together in salvation.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Theotokos",
+              "text": "\"God-bearer,\" the title for Mary affirmed at Ephesus (431).",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Ever-virgin",
+              "text": "Mary remained a virgin before, during and after Christ's birth [Philaret Q186].",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Proskynesis vs. latreia",
+              "text": "veneration (bowing, kissing) given to icons and saints / worship given to God alone [Nicaea II].",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Ancestral sin",
+              "text": "we inherit death and corruption from Adam, but not his guilt [OCA Q&A, \"Original Sin\"].",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Essence / energies",
+              "text": "God's unknowable essence vs. His uncreated energies, in which believers participate (Gregory Palamas).",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Toll houses",
+              "text": "a pious tradition about demonic testing of the soul after death; **not dogma**.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Dormition",
+              "text": "Mary's \"falling asleep\" (Aug. 15). Many Orthodox believe she was taken bodily to heaven, but the East never defined it as Rome did in 1950.",
               "verses": [],
               "links": [],
               "supplemental": false

@@ -61,7 +61,7 @@ export type Objection = Meta & {
 };
 
 export type Group = {
-  slug: "jw" | "unitarian" | "lds" | "muslim" | "atheist";
+  slug: "jw" | "unitarian" | "lds" | "muslim" | "catholic" | "orthodox" | "atheist";
   name: string;
   heading: string; // heading as written in the markdown
   color: string;

@@ -14,6 +14,8 @@
 | **Unitarian** (Biblical Unitarian / non-Trinitarian) | [UNI Offense](#uni-offense) | [UNI Defense](#uni-defense) | [UNI Card](#uni-card) |
 | **Mormon** (LDS) | [LDS Offense](#lds-offense) | [LDS Defense](#lds-defense) | [LDS Card](#lds-card) |
 | **Muslim** | [ISL Offense](#isl-offense) | [ISL Defense](#isl-defense) | [ISL Card](#isl-card) |
+| **Roman Catholic** | [RCC Offense](#rcc-offense) | [RCC Defense](#rcc-defense) | [RCC Card](#rcc-card) |
+| **Eastern Orthodox** | [EO Offense](#eo-offense) | [EO Defense](#eo-defense) | [EO Card](#eo-card) |
 | **Atheist / Agnostic** | [ATH Offense](#ath-offense) | [ATH Defense](#ath-defense) | [ATH Card](#ath-card) |
 | **Anyone denying the Trinity** | [🔥 The Holy Spirit Play](#holy-spirit-play) | | |
 
@@ -490,6 +492,264 @@ Verses to read ([▶](https://youtu.be/DPFeuxNkxCA?t=710)): **Q 4:24** (married 
 | **"Jesus said, 'Why do you call Me good? Only God is good.'"** | He didn't say He isn't good. He asked the man **why** he said it. Jesus calls Himself the Good Shepherd. | Mark 10:18; John 10:11 | *"Is Jesus good?"* |
 
 **Typical exits:** "That's not the point though" (*"It **is** the point."*) ([▶](https://youtu.be/HwCcC0D0M08?t=35)) · switching to Isaiah 42 for Ahmad (Q 61:6 says **Jesus** foretold him, not Isaiah) ([▶](https://youtu.be/qKfI6OlRhtM?t=728)) · redefining Arabic words (make them define the word, then read it in context).
+
+---
+
+# ⛪ ROMAN CATHOLICS
+
+**What they believe:** Revelation reaches us through Scripture *and* Sacred Tradition, and "both… must be accepted and honoured with equal sentiments of devotion and reverence" [CCC 82; Trent, Sess. 4]. Only the Magisterium (the pope and the bishops in communion with him) can interpret either one authentically [CCC 85, 100]. Justification "is conferred in Baptism" and "makes us inwardly just" [CCC 1992]. No one can merit the first grace, but the justified "can then merit for ourselves and for others… the attainment of eternal life" [CCC 2010]. The Mass is "one single sacrifice" with the cross, offered "in reparation for the sins of the living and the dead" [CCC 1367, 1414]. Mortal sin destroys sanctifying grace, and it is restored through confession to a priest [CCC 1446, 1456, 1861]. Those who die "imperfectly purified" undergo purgatory before heaven [CCC 1030–1031].
+
+**Where we agree:** They confess one God in three Persons, the full deity and humanity of Christ, the virgin birth, the bodily resurrection, the return of Christ, and eternal judgment [CCC 1035, 1040]. They affirm that Scripture is inspired, and that "no one can merit the initial grace" [CCC 2010]. Say this plainly. The disagreement is not over *whether* Jesus is God; it is over *how a sinner is made right with Him*, and over *who has the final word*.
+
+**Approach:** Most Catholics you'll talk to are family and friends who have never read the Catechism or Trent. Many of them love Jesus sincerely. Be gentle with the person and firm on the gospel. The goal is "not just to win arguments, but more importantly to win souls". Two things keep it clear. First, they use the same words with a different meaning: "grace," "faith," and "justification" all mean something different in Rome. Define terms before you argue. Second, keep coming back to two questions: *What is your final authority?* and *Is Christ's work enough by itself?*.
+
+<a id="rcc-card"></a>
+### 📇 Catholic Cheat Card
+1. **Rom 4:4–5**: *"Does God justify the one who works, or the one who believes?"*
+2. **Heb 10:14, 18**: *"If His one offering perfected us for all time, and there's no longer any offering for sin, what is offered at Mass?"*
+3. **1 Tim 2:5**: *"How many mediators between God and men does Paul name?"*
+4. **Mark 7:8–13**: *"Can a religious tradition ever cancel out God's word?"*
+5. **1 John 5:13**: *"John wrote so you can *know* you have eternal life. Do you?"*
+6. **Gal 1:8–9**: *"If even an apostle or an angel can't change the gospel, can a council?"*
+
+<a id="rcc-offense"></a>
+### 🗡️ CATHOLIC OFFENSE
+
+#### PLAY 1: Credited, not earned (justification)
+- **Opener:** *"Do you know for sure that if you died today you'd be with God?"* (Most will say "I hope so" or "No one can know." The rest of the play explains why the answer can be yes.)
+- **Or open with:** *"What do you think makes a person right with God: what Christ did, what we do, or both?"*
+- **Chain:**
+  1. **Rom 3:23–24**: All have sinned, and are justified as a *gift*, by His grace. *"Is a gift paid for in any part?"*
+  2. **Rom 3:28**: Justified by faith *apart from* works of the Law. *"What does 'apart from' leave out?"*
+  3. **Rom 4:4–5**: To the worker, wages are owed. To "the one who does not work, but believes," faith is credited as righteousness. *"Which one is Abraham?"*
+  4. **Rom 4:6–8**: David speaks of righteousness credited "apart from works." *"Is that righteousness *in* David, or credited *to* David?"*
+  5. **2 Cor 5:21; Phil 3:9**: Our sin was credited to Christ, and His righteousness to us, "not… my own… but… through faith." *"Whose righteousness do you want to stand in on Judgment Day?"*
+  6. **Rom 5:1**: "Having been justified by faith, we have peace." *"Is that peace now, or only after purgatory?"*
+- **If they say →**
+  - *"'Works of the law' means only the Jewish ceremonies."* → Rom 4:4–5 talks about *any* work that earns wages. Eph 2:8–9 says "not of works," and Titus 3:5 says not by "deeds which we have done in righteousness." *"Are deeds done in righteousness ceremonies?"*
+  - *"We believe in grace too. The Catechism says no one can merit the first grace."* → True [CCC 2010]. Thank them for it. The same paragraph says the justified then *merit* "the attainment of eternal life." Rom 11:6 says grace and works can't be mixed: "otherwise grace is no longer grace."
+  - *"Trent only condemns a dead faith, with no cooperation."* → Read the canon they mean. Trent condemns anyone who says justification is "by faith alone… [so] that nothing else is required to co-operate" [Trent, Sess. 6, can. 9]. It also condemns justification by "the sole imputation of the justice of Christ" [can. 11]. That is exactly Rom 4:5. Sproul: if the Reformers were right, Trent anathematized the gospel.
+  - *"Faith alone means you can live however you want."* → Saving faith comes with repentance and produces works (Eph 2:10; Titus 2:11–14; Rom 6:1–4). Works are the *fruit* of justification, not its *cause*. Trent condemns that very sentence [Sess. 6, can. 24].
+- **Closer:** *"God's offer is Christ's righteousness credited to you the moment you turn from sin and trust Him alone (Mark 1:15; Rom 4:5). Not Christ plus your record. Would you trust Him that way today?"*
+
+#### PLAY 2: Once for all (the Mass)
+- **Opener:** *"When Jesus said 'It is finished' on the cross, what was finished?"* (John 19:30)
+- **Or open with:** *"Is the sacrifice of the Mass a real sacrifice for sins?"* (A Catholic who knows the faith will say yes [Trent, Sess. 22, can. 1, 3].)
+- **Chain:**
+  1. **Heb 7:27**: Unlike the priests, He offered Himself "once for all." *"How many times?"*
+  2. **Heb 9:25–28**: Not "often," or He would have to suffer often. He was "offered once to bear the sins of many." *"Can a sacrifice for sin be offered without suffering, according to v. 26?"*
+  3. **Heb 10:11–12**: The priests "stand daily" offering sacrifices that never take away sins. Christ offered one sacrifice and "sat down." *"Why does the writer contrast standing with sitting?"*
+  4. **Heb 10:14**: By one offering He "has perfected for all time" those who are sanctified. *"What's left for a priest to add?"*
+  5. **Heb 10:18**: "Where there is forgiveness of these things, there is no longer any offering for sin." *"So what is offered on the altar each Sunday?"*
+  6. **1 Cor 11:26; Luke 22:19**: The Supper *proclaims* His death "until He comes" and is done "in remembrance." *"Is a proclamation the same thing as an offering?"*
+- **If they say →**
+  - *"It's not a new sacrifice. It's the same sacrifice made present."* → That is their real position [CCC 1366–1367], so answer it fairly. Trent still calls the Mass "propitiatory," "offered for the living and the dead, for sins" [Sess. 22, can. 3], and the Catechism says it is "offered in reparation for the sins of the living and the dead" [CCC 1414]. Heb 10:18 says that where forgiveness exists, *no* offering for sin remains. *"If sins still need an offering, were they forgiven at the cross?"*
+  - *"Malachi 1:11 predicts a pure offering among the nations."* → In context it is the worship of God's name spreading among the Gentiles. The NT calls praise (Heb 13:15) and our bodies (Rom 12:1) sacrifices. It never calls the Supper a sacrifice for sin. (Inference from the NT pattern. The NT does not quote Mal 1:11.)
+  - *"Jesus said 'This is My body.'"* → He also said "I am the door" (John 10:9). He said it while His body stood in front of them, holding the bread. Our church holds that the elements are representative, *and* that the Supper is a real communion with the risen Christ (1 Cor 10:16). See the John 6 row in the defense table.
+- **Why it matters:** The English Reformers were burned chiefly over this doctrine. It isn't a side issue.
+- **Closer:** *"Hebrews is clear that His sacrifice is never repeated. If His one offering is enough, you don't need another one. You need Him. Will you rest on what He finished (Heb 10:14)?"*
+
+#### PLAY 3: One Mediator (Mary and the saints)
+- **Opener:** *"When the disciples asked how to pray, who did Jesus tell them to talk to?"* (Matt 6:9: "Our Father.")
+- **Or open with:** *"What did Mary herself tell people to do about Jesus?"* (John 2:5: "Whatever He says to you, do it.")
+- **Chain:**
+  1. **1 Tim 2:5**: "One mediator also between God and men, the man Christ Jesus." *"Did Paul leave room for a second?"*
+  2. **Heb 4:14–16**: Because of our High Priest, *we* draw near to the throne "with confidence." *"Do we need someone to approach Jesus for us?"*
+  3. **Heb 7:25**: He "always lives to make intercession." *"Is His intercession ever not enough?"*
+  4. **Luke 11:27–28**: A woman blesses Mary's womb. Jesus answers, "On the contrary, blessed are those who hear the word of God and keep it." *"Why did Jesus redirect the praise?"*
+  5. **Luke 1:47**: Mary calls God "my Savior." *"Who needs a Savior?"* (Rom 3:23)
+  6. **Acts 10:25–26; Rev 22:8–9**: Peter and an angel both refuse religious bowing. "Worship God." *"If an apostle and an angel refused it, should Mary receive it?"*
+- **If they say →**
+  - *"We don't worship Mary. We give her hyperdulia, not latria."* → Grant the distinction honestly. Rome does teach it, and Vatican II says her role "neither takes away from nor adds anything to" Christ's [LG 62]. Then ask where Scripture teaches *any* category of religious honor or prayer directed to a creature. Peter and the angel refused even the bowing (Acts 10:25–26; Rev 22:8–9).
+  - *"Asking Mary to pray is like asking you to pray."* → Scripture commands believers on earth to pray for one another (James 5:16). It never models or commands praying to the departed. It warns against seeking the dead (Deut 18:10–11; Isa 8:19). Catholics would say the saints are alive in Christ, not "the dead," so present this as an inference. Also, a creature who hears millions of silent prayers at once would need a divine attribute.
+  - *"The Church calls her Mediatrix [CCC 969], but in a subordinate way."* → *"Is 'one mediator' in 1 Tim 2:5 a ranking, or a number?"*
+  - *"Rev 5:8 shows saints offering prayers in heaven."* → It shows the prayers of God's people presented before Him. It doesn't tell anyone to pray *to* the elders. Ask: *"Who is the prayer addressed to?"*
+- **Closer:** *"Jesus said, 'Come to Me, all who are weary' (Matt 11:28). Mary pointed to Him too (John 2:5). Will you go straight to Christ, turning from sin and trusting Him alone?"*
+
+#### PLAY 4: The rule that tests every rule (authority)
+- **Opener:** *"Did Jesus ever correct religious leaders who had tradition on their side?"* (Yes: Mark 7.)
+- **Or open with:** *"If a church teaching and the Bible clearly disagreed, which one would you follow?"*
+- **Chain:**
+  1. **Mark 7:8–9, 13**: "Neglecting the commandment of God, you hold to the tradition of men… invalidating the word of God." *"Did their tradition claim to come from God?"*
+  2. **Matt 22:29, 31**: "You are mistaken, not understanding the Scriptures… have you not read what was spoken to you by God?" *"What did Jesus hold them responsible to know?"*
+  3. **Acts 17:11**: The Bereans checked an *apostle* against the Scriptures, and are called noble. *"If Paul could be checked, who can't be?"*
+  4. **2 Tim 3:15–17**: Scripture makes us "wise for salvation" and the man of God "fully equipped." *"What's missing from 'fully equipped'?"*
+  5. **Gal 1:8–9**: "Even if we, or an angel from heaven" preach another gospel, let him be accursed. *"What does Paul put above even himself?"*
+- **If they say →**
+  - *"Who gave you the Bible? The Church!"* → See the defense table. God gave it, and His people *received* it. The OT was Scripture before any church existed (Matt 22:31; Rom 3:2).
+  - *"Without the Magisterium, your reading is just your private opinion."* → Everyone reads, including Catholics who read the Catechism. The question is whether Scripture is clear enough to obey (2 Tim 3:15: Timothy understood it as a child). Vatican II itself says the Magisterium "is not above the word of God, but serves it" [DV 10]. *"Then can Scripture correct it?"*
+  - *"The early church fathers weren't 'Bible-only.'"* → Cyril of Jerusalem told his catechumens: "Even to me… do not give absolute credence, unless you receive the proof… from the divine Scriptures".
+- **Closer:** *"If Scripture is the one rule that can't err, let's let it settle the biggest question: how a sinner is made right with God. Would you read Romans 3–5 with me this week?"*
+
+#### PLAY 5: You can know (assurance)
+- **Opener:** *"Can a person know they have eternal life? Yes or no?"*
+- **Or open with:** *"Has a priest ever told you that you're definitely going to heaven?"* (Rome says no one has absolute certainty of persevering without a special revelation [Trent, Sess. 6, can. 16; CCC 2005].)
+- **Chain:**
+  1. **1 John 5:11–13**: "These things I have written… so that you may *know* that you have eternal life." *"Did John say 'hope' or 'know'?"*
+  2. **John 5:24**: The one who hears and believes "has eternal life, and does not come into judgment, but has passed out of death into life." *"What tense is 'has'?"*
+  3. **John 10:27–29**: "No one will snatch them out of My hand." *"Who's holding whom?"*
+  4. **Rom 8:1, 33–34**: "No condemnation." "Who will bring a charge against God's elect? God is the one who justifies." *"If God has declared you righteous, who can overturn it?"*
+  5. **Heb 10:14**: "Perfected for all time." *"Then what is purgatory finishing?"*
+- **If they say →**
+  - *"Claiming certainty is presumption."* → It would be, if it rested on your performance. It rests on Christ's promise (John 6:37–40). Doubting His word is not humility.
+  - *"Mortal sin can make you lose grace [CCC 1861]."* → True faith perseveres because God keeps it (Phil 1:6; 1 Pet 1:5; 1 John 2:19). Our church teaches that the redeemed are kept by God's power forever.
+  - *"Purgatory isn't hell. It's a purification for the saved [CCC 1030–1031]."* → Grant it. Then: *"Christ 'made purification of sins' (Heb 1:3) and His blood 'cleanses us from all sin' (1 John 1:7). What part of 'all' is left?"* MacArthur: deny justification by faith alone "and you must devise an explanation" for how we reach heaven's perfection.
+- **Closer:** *"God wants you to know (1 John 5:13). That certainty comes from trusting Christ alone, not from keeping yourself in a state of grace. Will you repent and trust Him today?"*
+
+<a id="rcc-defense"></a>
+### 🛡️ CATHOLIC DEFENSE
+
+| They say… | Quick answer | Go to | Ask back |
+|---|---|---|---|
+| **"The Catholic Church gave you the Bible."** | God gave it. His people recognized His voice (John 10:27). Jesus held people accountable to the OT before any church existed. The church *received* the canon; it didn't create it. | Matt 22:31; Rom 3:2; 2 Pet 3:15–16 | *"Who decided the OT canon that Jesus quoted?"* |
+| **"Which of the 30,000+ Protestant denominations is right?"** | The figure comes from an encyclopedia that counted thousands of "denominations" in ways that don't mean doctrinal splits, Catholic ones included. Unity is in the gospel, and Rome has its own deep internal divisions. | John 17:20–21; 1 Cor 1:10; Eph 4:3–6 | *"Do all Catholics agree on what the Catechism means?"* |
+| **"Where was your church before Luther?"** | Wherever God's people trusted Christ and His word. Busenitz shows justification by grace through faith in the fathers long before 1517, for example Clement of Rome: "not justified by ourselves… but by that faith". | Matt 16:18; 1 Kings 19:18; Rom 11:4–5 | *"Was the gospel missing before Trent defined it?"* |
+| **"James 2:24: 'justified by works and not by faith alone.'"** | James answers the question *"what kind of faith saves?"* (2:14), and shows a living faith *before people* (2:18: "show me"). Paul answers how a sinner is declared righteous *before God* (Rom 4:2–5). Abraham was credited righteous in Gen 15, decades before Gen 22. | James 2:14, 18, 21–24; Gen 15:6; Rom 4:2–5 | *"In Gen 15:6, had Abraham offered Isaac yet?"* |
+| **"John 6:53: 'Unless you eat My flesh.'"** | In context, coming = eating and believing = drinking (6:35). He promises eternal life to whoever *believes* (6:40, 47), and He explains: "the flesh profits nothing; the words… are spirit" (6:63). The Supper hadn't been instituted yet. | John 6:35, 40, 47, 53–54, 63 | *"Does 6:54 promise eternal life to everyone who takes Communion?"* |
+| **"John 20:23: priests can forgive sins."** | Jesus sends the disciples to proclaim forgiveness, which is granted to all who repent and believe (Luke 24:47; Acts 10:43). Rome requires confession to a priest for mortal sin [CCC 1456, 1497]. No apostle ever hears a private confession and absolves. | John 20:21–23; Luke 24:47; Acts 10:43; 13:38–39; 1 John 1:9 | *"When Peter preached in Acts 10, how did Cornelius get forgiven?"* |
+| **"2 Thess 2:15: hold to traditions, spoken *or* written."** | The tradition Paul means is the gospel he preached in person (2:14). It was spoken *or* written; it wasn't a second, different body of teaching. Name one doctrine handed down orally that we can verify came from Paul. | 2 Thess 2:14–15; 3:6; 1 Cor 15:1–4 | *"Which of Paul's oral traditions can you name that isn't in Scripture?"* |
+| **"1 Tim 3:15: the church is the pillar and support of the truth."** | The context is a local church's conduct, with elders and deacons (3:1–14). A pillar *holds up* the truth; it doesn't *create* it. The truth it holds up is Christ (3:16). | 1 Tim 3:14–16 | *"Does a pillar make the roof, or hold it up?"* |
+| **"Matt 16:18: Peter is the rock and the first pope."** | Rome teaches this [CCC 881–882]. But Peter calls *Christ* the stone (1 Pet 2:4–8), and Paul says no foundation can be laid except Christ (1 Cor 3:11). The keys and binding go to all the disciples (Matt 18:18). Nothing in the text says anything about successors or Rome. | Matt 16:16–19; 18:18; 1 Pet 2:4–8; 1 Cor 3:11; Eph 2:20 | *"Where does the passage mention a successor?"* |
+| **"The pope is infallible when he speaks ex cathedra."** | Vatican I defined it [Pastor Aeternus, ch. 4]. Yet Peter himself was publicly rebuked for compromising the gospel (Gal 2:11–14). At the Jerusalem council, James gave the judgment (Acts 15:13–21). Peter called himself a "fellow elder" (1 Pet 5:1). | Gal 2:11–14; Acts 15:13–21; 1 Pet 5:1 | *"If Peter could be wrong on the gospel, can his successor?"* |
+| **"Mary was conceived without sin (Immaculate Conception)."** | Defined in 1854 [CCC 491]. Mary calls God "my Savior" (Luke 1:47). She offered the sin offering after childbirth (Luke 2:22–24; Lev 12:6–8), and Scripture says all have sinned. No text exempts her. | Luke 1:47; Luke 2:22–24; Lev 12:6–8; Rom 3:23 | *"Why would a sinless woman need a Savior and a sin offering?"* |
+| **"Mary was ever-virgin."** | Rome teaches it [CCC 499–500, 510]. Joseph "kept her a virgin until she gave birth" (Matt 1:25). The Gospels name Jesus' brothers and mention sisters, with His mother (Matt 13:55–56; Mark 6:3; Acts 1:14). Rome reads these as relatives [CCC 500]. The plain sense is siblings. | Matt 1:25; 12:46–47; 13:55–56; John 7:5; Gal 1:19 | *"If 'brothers' with 'His mother' means cousins here, how would Mark have said brothers?"* |
+| **"Mary was assumed body and soul into heaven."** | It was defined as dogma in 1950 [Munificentissimus Deus 44]. Scripture says nothing about it. Binding a doctrine with no biblical witness is the very authority question again. | Deut 29:29; Acts 17:11; 2 Tim 3:16–17 | *"What verse would you give a new believer for this?"* |
+| **"Purgatory: 1 Cor 3:15, 'saved, yet so as through fire.'"** | That passage is about testing a minister's *work* (3:10–14), not purging a person's sins. To be absent from the body is to be at home with the Lord (2 Cor 5:8). The thief went to paradise *today* (Luke 23:43). Rome also cites 2 Macc 12:43–45 [CCC 1032], which isn't Scripture (see below). | 1 Cor 3:10–15; 2 Cor 5:8; Luke 23:43; Heb 10:14 | *"In 1 Cor 3, what gets burned: the man's sins or his work?"* |
+| **"Indulgences can reduce temporal punishment, even for the dead."** | Rome teaches this [CCC 1471, 1479, 1498]. Christ "made purification of sins" (Heb 1:3), and the gift of God isn't obtained by works or payments (Acts 8:20; Isa 55:1). Indulgences assume a debt that Christ left unpaid. | Heb 1:3; 1 John 1:7; Rom 8:1; Acts 8:20 | *"Did Christ pay all of it, or only part?"* |
+| **"Baptism regenerates (John 3:5; Acts 2:38; 1 Pet 3:21)."** | Rome teaches justification is conferred in baptism [CCC 1992, 1213, 1263]. But Cornelius received the Spirit *before* baptism (Acts 10:44–48), and the thief was saved without it. Peter says it is "not the removal of dirt… but an appeal to God" (1 Pet 3:21). Spurgeon: "Baptism without faith saves no one". | Acts 10:44–48; 1 Pet 3:21; John 3:16, 18; Rom 4:9–11; 1 Cor 1:17 | *"If baptism saves, why does Paul say Christ didn't send him to baptize?"* |
+| **"You removed seven books (the Apocrypha)."** | Trent declared them canonical [Sess. 4]. The OT was entrusted to the Jews (Rom 3:2), and they never received these books. Jesus framed Scripture as Law, Prophets and Psalms (Luke 24:44). The NT never quotes them as Scripture. | Rom 3:2; Luke 24:44 | *"Did Israel ever receive 2 Maccabees as Scripture?"* |
+| **"Sola Scriptura isn't in the Bible."** | Scripture is the only revelation called God-breathed (2 Tim 3:16). Jesus judged tradition by it (Mark 7:13), and Isaiah sends us "to the law and to the testimony" (Isa 8:20). Busenitz traces this conviction through the fathers: Athanasius said "the sacred and inspired Scriptures are sufficient". | 2 Tim 3:16–17; Mark 7:13; Isa 8:20 | *"What else does Scripture call God-breathed?"* |
+| **"We need priests and sacraments; grace flows through the Church."** | Rome holds that the sacraments are necessary for salvation [CCC 1129]. Christ holds His priesthood permanently (Heb 7:23–25), the veil is torn (Matt 27:51), and every believer is a priest (1 Pet 2:9). | Heb 7:23–25; 10:19–22; Matt 27:51; 1 Pet 2:5, 9 | *"Who does Hebrews say we can approach God through?"* |
+| **"Catholics and evangelicals believe the same gospel now."** | Trent's canons on justification have never been revoked, and they are quoted in the current Catechism (CCC 1992 echoes Trent). MacArthur: "nothing has changed since Trent". Being kind doesn't mean treating the difference as minor. | Gal 1:6–9; Rom 11:6 | *"Has Rome withdrawn Trent's anathema on faith alone?"* |
+
+**Typical exits:** "I was born Catholic and I'll die Catholic." (Don't argue identity. Say *"I'm not asking you to change teams; I'm asking what you're trusting."* Leave them Rom 4:5 and 1 John 5:13.) · "I'll ask my priest." (Good. Write down two questions for him: *"Can I know I have eternal life (1 John 5:13)?"* and *"What does Heb 10:18 mean?"* Then follow up.) · "You're just interpreting it your way." (Agree that everyone interprets. Then read the passage out loud together and ask *"What does it say?"* before *"What does it mean?"*)
+
+---
+
+# ☦️ EASTERN ORTHODOX
+
+**What they believe:** Revelation is preserved "by two channels: holy tradition and holy Scripture," and the Church is "the sure repository of holy tradition" [Philaret, *Longer Catechism*, Q16, Q18]. Scripture is to be believed "not otherwise than as the Catholic Church has interpreted," and the Church "cannot err" [Confession of Dositheus, Decrees 2, 12]. Salvation is theosis, "to share in the life of God," and grace and human effort work together (synergy) [GOARCH, "Spirituality"; Philaret Q3–5]. A man is justified "not… through faith alone, but through faith which works through love, that is to say, through faith and works" [Dositheus, Decree 13]. The OCA's current adult manual adds: "Justification therefore is not a single, once-for-all event" [OCA, *Essential Orthodox Christian Beliefs* (2023), p. 218]. Icons receive veneration, "not the full adoration (*latria*)… paid only to the divine nature" [Nicaea II, Definition]. Orthodoxy has no single catechism. Above, conciliar sources (Nicaea II, Dositheus) carry more weight than catechisms and manuals (Philaret, OCA), and you should say which one you're quoting.
+
+**Where we agree:** They hold firmly to the Nicene Trinity, the full deity and humanity of Christ (Chalcedon), the virgin birth, the bodily resurrection, Christ's return, and eternal judgment. They reject the papacy and the Immaculate Conception, and generally reject purgatory as Rome defines it, though they pray for the departed [Dositheus, Decree 18]. Their liturgy is full of Scripture. And justification was never the fight in the East that it was with Rome, so some Orthodox writers sound close to us on it. Say this out loud.
+
+**Approach:** Most American Orthodox you'll meet are either cradle Orthodox (it's family and ethnicity) or converts, often young men drawn by beauty, history and seriousness. With converts, don't attack the liturgy. Ask what *authority* tests it. White's warning: Orthodoxy "is an enigma, not only to most in the West, but to itself," and "is not merely Romanism without a Pope". So don't assume Catholic answers fit. Use their own sources (Philaret Q23 is your best friend), keep pressing Scripture as the test, and land on the gospel every time.
+
+<a id="eo-card"></a>
+### 📇 Orthodox Cheat Card
+1. **2 Tim 3:16–17**: *"If Scripture equips the man of God for every good work, what's still missing?"*
+2. **Mark 7:8–13**: *"Can a tradition that's very old still cancel God's word?"*
+3. **Ex 20:4–5**: *"Does the command forbid only making images, or also bowing to them?"*
+4. **Isa 53:5–6, 10**: *"Who laid our iniquity on the Servant, and who was pleased to crush Him?"*
+5. **Rom 5:1**: *"'Having been justified': is that finished or still in progress?"*
+6. **Eph 2:1–5**: *"Before God made us alive, were we sick or dead?"*
+
+<a id="eo-offense"></a>
+### 🗡️ ORTHODOX OFFENSE
+
+#### PLAY 1: Their own test of tradition (Philaret Q23)
+- **Opener:** *"Would you agree that we must only follow tradition that agrees with Scripture?"* (Their own catechism says so: "We must follow that tradition which agrees with the divine revelation and with holy Scripture" [Philaret Q23].)
+- **Or open with:** *"If an old tradition and a clear verse disagreed, which would win?"*
+- **Chain:**
+  1. **Philaret Q23** (not Scripture, but theirs): tradition must agree with Scripture. *"So Scripture is the test of tradition?"*
+  2. **Mark 7:8–13**: Jesus judged a long, respected tradition by Scripture and found it "invalidating the word of God." *"Was age a defense?"*
+  3. **Acts 17:11**: The Bereans tested even Paul by the Scriptures. *"Is anyone above that test?"*
+  4. **2 Tim 3:15–17**: Scripture makes "wise for salvation" and "fully equipped." *"So it can do the testing?"*
+  5. **Gal 1:8–9**: Even an angel's gospel is tested by the apostolic one. *"Then let's test how we're saved by Scripture. Agreed?"*
+- **If they say →**
+  - *"Only the Church can interpret Scripture [Dositheus, Decree 2]."* → Then Philaret's test can never fail, because the Church grades its own test. Cyril of Jerusalem (an Eastern father) told his hearers not to believe even him "unless you receive the proof… from the divine Scriptures," and Basil said hearers should examine teachers, "receiving what is in conformity with the Scriptures and rejecting what is opposed to them".
+  - *"Basil said unwritten tradition has the same force [quoted in Philaret Q24]."* → Acknowledge it honestly; Basil said both. But ask: *"Which of the two lets you correct an error if one creeps in?"*
+  - *"1 Tim 3:15: the Church is the pillar of truth."* → See the defense table.
+- **Closer:** *"If Scripture tests tradition, let it test the biggest question: how is a sinner made right with God? Romans says by faith in Christ, apart from works (Rom 3:28; 4:5), with repentance (Acts 20:21). Will you read Romans 3–5 with me?"*
+
+#### PLAY 2: Justified now (against salvation as a lifelong process)
+- **Opener:** *"Can a person be declared righteous by God today, completely, and know it?"*
+- **Or open with:** *"Your church's manual says justification 'is not a single, once-for-all event' [OCA EOCB, p. 218]. Can we look at what Paul says?"*
+- **Chain:**
+  1. **Luke 18:13–14**: The tax collector cried for mercy and "went down to his house justified." (The OCA manual cites this verse too [EOCB p. 218].) *"Was he justified on the way home, or still in process?"*
+  2. **Rom 4:4–5**: Credited to "the one who does not work, but believes." *"Where is synergy in that sentence?"*
+  3. **Rom 5:1**: "Having been justified by faith, we have peace." *"Past or future?"*
+  4. **Rom 8:1, 33–34**: "No condemnation." "God is the one who justifies; who is the one who condemns?" *"Is that a courtroom verdict?"*
+  5. **Heb 10:14**: "Perfected for all time." *"How long is 'for all time'?"*
+  6. **Eph 2:8–10**: Saved by grace through faith, not of works, *for* good works. *"Where do works go: before or after?"*
+- **If they say →**
+  - *"Faith working through love (Gal 5:6), so faith and works [Dositheus 13]."* → Gal 5:6 describes what living faith *does*. The same letter says we're justified "by faith in Christ and not by the works of the Law" (Gal 2:16), and condemns adding anything (Gal 3:1–3).
+  - *"Salvation is healing and union, not a legal transaction."* → Scripture uses both: a verdict (Rom 8:33–34) *and* new life (2 Cor 5:17). We agree on union and transformation (2 Cor 3:18). We don't let healing replace the verdict.
+  - *"Faith alone is easy believism."* → No. Saving faith repents and submits to Christ as Lord (Luke 13:3; Rom 10:9). Works are fruit, not a co-cause.
+  - *"Isn't that the Protestant reading? The fathers taught synergy."* → Busenitz collects patristic witnesses to justification by faith, e.g., Clement of Rome: "not justified by ourselves… but by that faith". Letham notes some honored Orthodox writers who sound the same note.
+- **Closer:** *"The tax collector didn't bring a process, just a plea, and went home justified. Will you stop leaning on your progress and trust Christ's finished work today (Luke 18:13–14; Rom 4:5)?"*
+
+#### PLAY 3: Icons and the second commandment
+- **Opener:** *"Does the second commandment forbid only making images, or also bowing down to them?"* (Ex 20:5)
+- **Or open with:** *"When Israel made the golden calf, who did Aaron say they were worshiping?"* (Ex 32:4–5: a "feast to Yahweh.")
+- **Chain:**
+  1. **Ex 20:4–5**: Not just making; "you shall not worship them or serve them." *"Is the act of bowing itself in view?"*
+  2. **Deut 4:15–19**: "You did not see any form on the day Yahweh spoke," so don't make one. *"Why does Moses ground it in what they *didn't* see?"*
+  3. **Ex 32:4–5**: The calf was meant to honor Yahweh, and God still judged it. *"Does good intention make a bowed-to image acceptable?"*
+  4. **2 Kings 18:4**: Hezekiah smashed the bronze serpent, an object *God commanded* (Num 21:8–9), because Israel burned incense to it. *"If a God-commanded image became an idol when venerated, what about one God never commanded?"*
+  5. **John 4:23–24**: The Father seeks those who worship "in spirit and truth." **Col 1:15**: Christ *is* the image of the invisible God. *"Do we need another image to reach the true Image?"*
+  6. **1 John 5:21**: "Guard yourselves from idols," written to Christians after the Incarnation.
+- **If they say →**
+  - *"We give icons veneration, not worship (latria); the honor passes to the prototype [Nicaea II; CCC 2132 says the same]."* → Grant that this is the real position. The commandment forbids the bowing, not just a wrong inner attitude. Schooping, a former Orthodox priest, asks how mere "veneration" of an image becomes worship of Christ: if it doesn't, it's too little for Christ; if it does, it's worship given through an image.
+  - *"God commanded cherubim in the tabernacle (Ex 25:18)."* → Yes, images can exist. But no one was ever told to bow to, kiss or pray before them, and the bronze serpent shows what happens when they do (2 Kings 18:4).
+  - *"The Incarnation made God visible, so we can picture Him."* → God made Himself visible *in Christ* (John 14:9). Ortlund documents that early Christians did not bow to images, and that icon veneration came later; he notes that Epiphanius opposed it in the 4th century.
+  - *"Nicaea II anathematizes people who refuse to venerate icons."* → It does: "If anyone does not salute such representations… let him be anathema" [Nicaea II, anathemas]. Ask gently: *"Was every Christian before 787 who didn't kiss icons under a curse?"*
+- **Closer:** *"Christ is the Image of God, and He invites you to come to Him directly, by faith, with no object in between (Heb 4:16; 10:19–22). Will you?"*
+
+#### PLAY 4: He bore our sins (penal substitution)
+- **Opener:** *"In Isaiah 53, whose iniquity did Yahweh lay on the Servant?"*
+- **Or open with:** *"Was Jesus punished in our place, or only defeating death for us?"*
+- **Chain:**
+  1. **Isa 53:5–6**: "Pierced through for *our* transgressions… Yahweh has caused the iniquity of us all to fall on Him." *"Is that substitution?"*
+  2. **Isa 53:10**: "Yahweh was pleased to crush Him… a guilt offering." *"Who is acting in this verse?"*
+  3. **Gal 3:13**: Christ redeemed us from the curse "having become a curse for us." *"Whose curse did He bear?"*
+  4. **2 Cor 5:21; 1 Pet 2:24; 3:18**: Made sin for us; bore our sins in His body; "the just for the unjust." *"In whose place?"*
+  5. **Rom 3:25–26**: A propitiation, so that God is "just and the justifier." *"Why does God's justice need to be shown at the cross?"*
+- **If they say →**
+  - *"That makes the Father a vengeful pagan god punishing a 'whipping boy' [OCA EOCB, pp. 186–88]."* → We reject that caricature too. Father and Son act together in love (John 10:17–18; Rom 8:32; 1 John 4:10). The OCA manual itself affirms that justification "stands alongside others" as a biblical metaphor [EOCB p. 188]. This isn't a conciliar dogma for them, so ask what *this* person believes.
+  - *"It's Anselm's medieval theory."* → Isaiah 53 is seven centuries before Christ. Schooping, a former Orthodox priest, shows a substitutionary reading in Chrysostom and Theophylact.
+  - *"The East teaches Christus Victor."* → So does Scripture (Col 2:15; Heb 2:14–15). But Col 2:14 says the victory came by canceling "the certificate of debt" against us. Both are true together.
+- **Closer:** *"He bore the penalty in your place, and He offers you His righteousness as a gift (2 Cor 5:21). Will you turn from your sin and receive it by faith?"*
+
+#### PLAY 5: Dead, not just sick (ancestral sin)
+- **Opener:** *"Before God made us alive, how does Paul describe us: sick or dead?"* (Eph 2:1)
+- **Or open with:** *"Do you believe we inherit only death from Adam, or also guilt?"* (The OCA says "only Adam and Eve are guilty of that sin" [OCA Q&A, "Original Sin"].)
+- **Chain:**
+  1. **Eph 2:1–3**: "Dead in your trespasses… by nature children of wrath." *"Does a neutral nature deserve wrath?"*
+  2. **Rom 5:12, 18–19**: "Through one transgression there resulted condemnation to all men… through the one man's disobedience the many were made sinners." *"Condemnation is a guilty verdict, not only a sickness, right?"*
+  3. **Ps 51:5**: "In sin my mother conceived me." *"When does David trace his sin back to?"*
+  4. **John 3:3–7**: "You must be born again." *"Can the dead cooperate in their own birth?"*
+  5. **Eph 2:4–9**: "But God… made us alive… by grace you have been saved… not of works." *"Who did the raising?"*
+- **If they say →**
+  - *"That's Augustine. The East never accepted original guilt."* → Paul wrote Rom 5 centuries before Augustine. Also note that the Confession of Dositheus says infants "are subject to original sin" and need its remission [Decree 16], so Orthodox sources themselves aren't unanimous.
+  - *"Then infants who die go to hell?"* → Our hope rests in God's mercy and character (2 Sam 12:23). It doesn't rest on denying what Rom 5 says about Adam.
+- **Closer:** *"Dead people don't need coaching. They need resurrection, and only Christ gives it, by grace through faith (Eph 2:4–9). Will you ask Him for that life?"*
+
+<a id="eo-defense"></a>
+### 🛡️ ORTHODOX DEFENSE
+
+| They say… | Quick answer | Go to | Ask back |
+|---|---|---|---|
+| **"Sola Scriptura is a 16th-century invention."** | The fathers treated Scripture as the final court, including *Eastern* fathers. Athanasius: "the sacred and inspired Scriptures are sufficient to declare the truth." Cyril of Jerusalem: don't believe even me without proof from Scripture. | Isa 8:20; Mark 7:13; Acts 17:11; 2 Tim 3:16–17 | *"Were Athanasius and Cyril Protestants?"* |
+| **"The Church is the pillar and ground of the truth (1 Tim 3:15)."** | Philaret uses this verse [Q18]. The context is a local congregation with elders and deacons. A pillar holds up the truth; it doesn't author it. | 1 Tim 3:14–16 | *"Does a pillar make the truth or hold it up?"* |
+| **"Hold the traditions, by word or letter (2 Thess 2:15)."** | Philaret quotes this verse *to say tradition must agree with Scripture* [Q23]. Paul's tradition is the gospel (2:14), not a separate source. | 2 Thess 2:14–15; 1 Cor 15:1–4 | *"Your catechism says tradition must agree with Scripture. So which one tests the other?"* |
+| **"We are the one true Church; you split off."** | The Church is all who are united to Christ by faith (Eph 2:19–22). Our church holds that each local church is self-governing under Christ. Schooping, from the inside, calls Orthodox ecclesiology "inextricably exclusive". | Eph 2:19–22; 1 Cor 1:2; Rev 2:5 | *"Is someone who trusts Christ alone, outside your communion, in Christ?"* |
+| **"We have apostolic succession from the apostles."** | Apostles had to be eyewitnesses of the risen Christ (Acts 1:21–22); the foundation was laid once (Eph 2:20). The succession Paul commands is of *teaching* (2 Tim 2:2). He warned that men in the succession would rise up teaching error (Acts 20:29–30). | Acts 1:21–22; Eph 2:20; 2 Tim 2:2; Acts 20:29–30 | *"Can a bishop in succession teach error?"* |
+| **"Theosis: 'God became man so man might become god.'"** | Ask what they mean first. They do *not* mean sharing God's essence (they distinguish essence and energies). We agree on union with Christ and glorification (Rom 8:29–30; 1 John 3:2). We differ on making it a cooperative process that grounds acceptance with God. | 2 Pet 1:3–4; 1 John 3:2; Rom 8:29–30; Isa 42:8 | *"Is theosis the ground of your acceptance with God, or the fruit of it?"* |
+| **"Salvation is synergy: God and I working together."** | Philaret: a right faith "and good works" are necessary "to save one's own soul" [Q3]. Scripture says God gives the faith and raises the dead (Eph 2:5, 8–9; John 6:44). We work *out* what He has worked *in* (Phil 2:12–13). | Eph 2:8–10; Phil 2:12–13; John 6:44; Titus 3:5 | *"In Phil 2:13, who is doing the working?"* |
+| **"Icons have always been part of the Church."** | Ortlund documents that early Christians did not bow to or kiss images, and that 4th-century voices like Epiphanius opposed it. Veneration was defined in 787 [Nicaea II]. | Ex 20:4–5; Deut 4:15–19 | *"Can you show icon veneration in the New Testament?"* |
+| **"Mary is the Theotokos."** | Agree, carefully. As the Council of Ephesus meant it, "God-bearer" protects that the one she bore is God (Luke 1:43). We part ways on praying to her and on calling her ever-virgin. | Luke 1:35, 43; Gal 4:4 | *"Do you mean she bore the One who is God, or that she shares in His glory?"* |
+| **"Mary is ever-virgin."** | Philaret teaches it [Q186]. Matt 1:25 says "until she gave birth," and the Gospels name His brothers alongside His mother (Matt 13:55–56; Mark 6:3). Orthodox usually explain these as Joseph's children from an earlier marriage. The plain sense is siblings. | Matt 1:25; 13:55–56; John 7:5; Gal 1:19 | *"What would Mark write if he meant siblings?"* |
+| **"Asking the saints to pray is like asking a friend."** | The OCA manual says this, and adds that the saints help and heal "themselves" too [EOCB p. 72]. Scripture models asking the living (James 5:16), never the departed, and gives us direct access through Christ (Heb 4:16; 7:25). Busenitz notes how such practices developed historically, citing Calvin's *Treatise on Relics*. | 1 Tim 2:5; Heb 4:14–16; 7:25; James 5:16 | *"Who does Hebrews tell you to approach for help in time of need?"* |
+| **"Baptism saves (John 3:5; 1 Pet 3:21)."** | Dositheus: without baptism "none is able to be saved" [Decree 16]. But the Spirit came on Cornelius before baptism (Acts 10:44–48), and Peter says baptism saves "not [as] the removal of dirt… but an appeal to God." Spurgeon: "Baptism without faith saves no one." | Acts 10:44–48; 1 Pet 3:21; John 3:16, 18; Luke 23:43 | *"Was the thief on the cross saved?"* |
+| **"The Eucharist is truly His body and blood."** | Dositheus affirms a change of substance [Decree 17]. Our church holds that the elements represent Christ's body and blood, *and* that the Supper is a real communion with the risen Christ (1 Cor 10:16). Jesus' words are spirit (John 6:63), and His sacrifice is not repeated (Heb 10:14, 18). | John 6:35, 63; 1 Cor 10:16; 11:26; Heb 10:14 | *"Does the Supper proclaim His death, or offer it again?"* |
+| **"God isn't angry. Sin is sickness, not crime."** | Sin is both disease and guilt. Scripture speaks of wrath (Rom 1:18; John 3:36) and of a verdict (Rom 5:18). The OCA manual itself keeps "justification (our acquittal)" as a biblical theme [EOCB p. 188]. | Rom 1:18; John 3:36; Rom 5:18; 1 John 4:10 | *"Does John 3:36 say the wrath 'abides' or 'heals'?"* |
+| **"We don't inherit guilt, only death."** | The OCA says so [Q&A, "Original Sin"]. Rom 5:18–19 says one man's disobedience brought "condemnation to all men" and "made" many sinners. Dositheus speaks of infants' "original sin" [Decree 16]. | Rom 5:12, 18–19; Ps 51:5; Eph 2:3 | *"What does 'condemnation to all men' mean?"* |
+| **"Our church is 2,000 years old; yours is 500."** | The test is whether a church holds the apostles' teaching (Acts 2:42; Gal 1:8). Age doesn't settle it: the Pharisees' traditions were old too (Mark 7:13). Busenitz shows Scripture-alone convictions in the early church. | Acts 2:42; Mark 7:13; Gal 1:8; Jude 3 | *"If a 2,000-year-old church taught error, how would anyone know?"* |
+| **"The Divine Liturgy is ancient and beautiful. Protestant worship is shallow."** | Agree where they're right about shallow worship. But Justin Martyr (c. 150) describes the early service as reading the apostles and prophets, preaching, prayer, and the Supper. Letham's concern is that Orthodoxy downplays preaching. Tozer: God tired of rituals that pointed ahead; Christ fulfilled them. | Acts 2:42; 1 Tim 4:13; 2 Tim 4:2; John 4:23–24; Heb 10:1 | *"What did the earliest services you can document center on?"* |
+| **"Toll houses / the soul's journey after death."** | Toll houses are not dogma, even in ROCOR, which declined to define them in 1980. Don't argue it as if it were their official teaching. Scripture: to be absent from the body is to be at home with the Lord (2 Cor 5:8; Luke 23:43). | 2 Cor 5:8; Phil 1:23; Luke 23:43; Heb 9:27 | *"Is that a teaching you're bound to, or a pious opinion?"* |
+| **"God is known in His energies, not His essence. Theology is experience, not propositions."** | Keep it short. God truly reveals Himself in His word, and we can know Him truly, though not exhaustively (John 17:3; 1 Tim 6:16). Letham's concern is that Palamas's framework can lead to agnosticism about God. Then bring it back to the gospel. | John 17:3, 17; 1 Tim 6:16; Deut 29:29 | *"Can God tell us true things about Himself in words?"* |
+
+**Typical exits:** "You have to experience the Liturgy to understand." (Accept the invitation kindly if you want to, then ask them to come read Romans 3–5 with you. Experience vs. Scripture is the whole question.) · "You're reading the Bible outside the Church." (Say: *"Then let's read it with Cyril and Athanasius,"* and quote their Scripture-first lines.) · "Our differences are just Eastern vs. Western mindsets." (Agree that categories differ, then ask: *"Does Rom 4:5 mean the same thing in Greek as in English?"*)
 
 ---
 
