@@ -19,6 +19,7 @@ Every one of us has broken God's law. We are not basically good people who slip 
 
 ## Christ died and rose
 God the Son became man, lived the sinless life we have not lived, and died in the place of sinners, bearing the wrath they deserve. He was buried, rose bodily on the third day, and is Lord of all. (John 1:14; Isa 53:5–6; 2 Cor 5:21; 1 Pet 3:18; Rom 5:8; 1 Cor 15:3–4; Phil 2:9–11)
+Only God can redeem a soul, and only a man can die in man's place, so the Savior is both. (Ps 49:7–9; Ps 49:15; 1 Tim 2:5–6; Heb 2:14–17)
 **Ask:** *"Why did Jesus have to die?"*
 
 ## Repent and believe
@@ -156,6 +157,8 @@ One Being, three Persons: the Father, the Son and the Holy Spirit. One *what*, t
 ## The Son is God
 (John 1:1; John 8:58; John 20:28; Col 2:9; Titus 2:13; Heb 1:8)
 
+For why only God can redeem, open [Only God can pay the ransom](/jw/case/play-6).
+
 ## The Holy Spirit is God
 (Acts 5:3–4; 1 Cor 3:16; Ps 139:7–8; Heb 3:7–11)
 For the full argument, open [The Holy Spirit play](/holy-spirit).
@@ -245,6 +248,8 @@ The suffering Servant, the pierced hands and feet, the birthplace of the Messiah
 ## Words we use
 - **Trinity:** one God in three Persons. See [The Trinity](/topic/the-trinity).
 - **Two natures:** Jesus is one Person who is truly God and truly man.
+- **Ransom:** the price that frees a captive. Scripture says no man can pay it for another and that God redeems. Jesus gave His life as the ransom.
+- **Mediator:** the one who stands between God and men. Jesus is the one mediator because He is truly God and truly man.
 - **Monogenes:** the unique, only begotten Son. It marks His unique, eternal relationship to the Father, never creation (LSB: "only begotten").
 - **Prototokos:** Greek for "firstborn." In texts like Col 1:15 (cf. Ps 89:27) it means the preeminent heir, not the first one created.
 - **Arche:** Greek for "beginning," "origin" or "ruler."

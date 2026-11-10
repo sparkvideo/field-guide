@@ -1,15 +1,15 @@
 # Parse report
 
-Source: content/field_guide_apologetics.md (594 lines)
+Source: content/field_guide_apologetics.md (615 lines)
 
 ## Per group
 
 | Group | Plays | Steps | Questions | "If they say" (plays) | Objections | Cheat card | Exits | ▶ links | ➕ items |
 |---|---|---|---|---|---|---|---|---|---|
-| Jehovah's Witness | 5 | 18 | 1 | 6 | 21 | 6 | 3 | 28 | 0 |
-| Unitarian | 5 | 14 | 1 | 4 | 19 | 6 | 3 | 22 | 0 |
+| Jehovah's Witness | 6 | 24 | 1 | 9 | 22 | 6 | 3 | 28 | 0 |
+| Unitarian | 5 | 14 | 1 | 4 | 20 | 6 | 3 | 22 | 0 |
 | Mormon | 4 | 18 | 3 | 8 | 17 | 6 | 3 | 20 | 0 |
-| Muslim | 6 | 17 | 0 | 7 | 19 | 6 | 3 | 32 | 0 |
+| Muslim | 6 | 18 | 0 | 7 | 21 | 6 | 3 | 32 | 0 |
 | Atheist | 4 | 10 | 0 | 1 | 21 | 6 | 0 | 15 | 0 |
 
 ## Shared sections
@@ -30,13 +30,13 @@ Source: content/field_guide_apologetics.md (594 lines)
 
 ## Verses
 
-- Bible references: 397 unique (375 verses/ranges + 22 whole-chapter mentions)
-- Quran: 25 · Book of Mormon: 6 · D&C: 1 · JST: 1 · Hadith: 5
-- Resolve in the bundled BSB: 397 of 397 ✓
-- LSB slots: 375 total, **1 still empty**
-- Whole-chapter mentions (no LSB slot; they open the chapter in the reader): Num 21, Deut 34, Ps 8, Ps 22, Ps 82, Ps 95, Ps 102, Prov 8, Isa 42, Isa 43–45, Isa 53, Isa 61, Ezek 37, Dan 7, Mark 15, John 1, John 14, Acts 2, Acts 3, 1 Cor 8, Phil 2, Heb 2
+- Bible references: 415 unique (392 verses/ranges + 23 whole-chapter mentions)
+- Quran: 26 · Book of Mormon: 6 · D&C: 1 · JST: 1 · Hadith: 5
+- Resolve in the bundled BSB: 415 of 415 ✓
+- LSB slots: 392 total, **18 still empty**
+- Whole-chapter mentions (no LSB slot; they open the chapter in the reader): Num 21, Deut 34, Ps 8, Ps 22, Ps 49, Ps 82, Ps 95, Ps 102, Prov 8, Isa 42, Isa 43–45, Isa 53, Isa 61, Ezek 37, Dan 7, Mark 15, John 1, John 14, Acts 2, Acts 3, 1 Cor 8, Phil 2, Heb 2
 - Chapter:verse numbers written without a book name (not turned into chips):
-  - Muslim objection 16: "5:16"
+  - Muslim objection 18: "5:16"
 
 ## For Charlie to look at
 

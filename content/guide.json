@@ -2007,6 +2007,266 @@
             "links": [],
             "supplemental": false
           }
+        },
+        {
+          "id": "play-6",
+          "number": 6,
+          "title": "Only God can pay the ransom",
+          "subtitle": "Psalm 49",
+          "warning": false,
+          "supplemental": false,
+          "altOpeners": [],
+          "chain": [
+            {
+              "text": "**Ps 49:7–9**: no man can redeem his brother or give God a ransom for him. The price of a soul is too high. *\"How many men does the psalm say can pay it?\"*",
+              "verses": [
+                {
+                  "label": "Ps 49:7–9",
+                  "kind": "bible",
+                  "key": "psalms.49.7-9",
+                  "book": "psalms",
+                  "chapter": 49,
+                  "verseStart": 7,
+                  "verseEnd": 9
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Ps 49:15**: \"But **God** will redeem my soul from the power of Sheol.\" *\"So who does the psalmist say will do the redeeming?\"*",
+              "verses": [
+                {
+                  "label": "Ps 49:15",
+                  "kind": "bible",
+                  "key": "psalms.49.15",
+                  "book": "psalms",
+                  "chapter": 49,
+                  "verseStart": 15,
+                  "verseEnd": 15
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Hos 13:14; Isa 43:11**: Jehovah says He Himself will ransom from the power of Sheol, and that besides Him there is no savior.",
+              "verses": [
+                {
+                  "label": "Hos 13:14",
+                  "kind": "bible",
+                  "key": "hosea.13.14",
+                  "book": "hosea",
+                  "chapter": 13,
+                  "verseStart": 14,
+                  "verseEnd": 14
+                },
+                {
+                  "label": "Isa 43:11",
+                  "kind": "bible",
+                  "key": "isaiah.43.11",
+                  "book": "isaiah",
+                  "chapter": 43,
+                  "verseStart": 11,
+                  "verseEnd": 11
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Mark 10:45; 1 Tim 2:5–6**: Jesus came to give His life as a **ransom** for many. The one mediator gave Himself as a ransom for all.",
+              "verses": [
+                {
+                  "label": "Mark 10:45",
+                  "kind": "bible",
+                  "key": "mark.10.45",
+                  "book": "mark",
+                  "chapter": 10,
+                  "verseStart": 45,
+                  "verseEnd": 45
+                },
+                {
+                  "label": "1 Tim 2:5–6",
+                  "kind": "bible",
+                  "key": "1-timothy.2.5-6",
+                  "book": "1-timothy",
+                  "chapter": 2,
+                  "verseStart": 5,
+                  "verseEnd": 6
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Titus 2:13–14**: our great **God and Savior**, Christ Jesus, gave Himself for us to **redeem** us.",
+              "verses": [
+                {
+                  "label": "Titus 2:13–14",
+                  "kind": "bible",
+                  "key": "titus.2.13-14",
+                  "book": "titus",
+                  "chapter": 2,
+                  "verseStart": 13,
+                  "verseEnd": 14
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**John 1:1; John 1:14; Heb 2:14–17**: the Word was God and became flesh. He took on flesh and blood so that through death He might free us. He had to be man to die in our place, and God to redeem.",
+              "verses": [
+                {
+                  "label": "John 1:1",
+                  "kind": "bible",
+                  "key": "john.1.1",
+                  "book": "john",
+                  "chapter": 1,
+                  "verseStart": 1,
+                  "verseEnd": 1
+                },
+                {
+                  "label": "John 1:14",
+                  "kind": "bible",
+                  "key": "john.1.14",
+                  "book": "john",
+                  "chapter": 1,
+                  "verseStart": 14,
+                  "verseEnd": 14
+                },
+                {
+                  "label": "Heb 2:14–17",
+                  "kind": "bible",
+                  "key": "hebrews.2.14-17",
+                  "book": "hebrews",
+                  "chapter": 2,
+                  "verseStart": 14,
+                  "verseEnd": 17
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "questions": [],
+          "ifTheySay": [
+            {
+              "theySay": "*\"Psalm 49 is about imperfect men. Jesus was a perfect man, a corresponding ransom for Adam.\"*",
+              "youSay": "The psalm makes no exception for a perfect man. Its answer is \"God will redeem.\" And every creature worships the Lamb for the people He purchased (Rev 5:9; Rev 5:13–14). *\"Would Jehovah share that worship with a creature?\"* (Isa 42:8)",
+              "verses": [
+                {
+                  "label": "Ps 49",
+                  "kind": "bible",
+                  "key": "psalms.49",
+                  "book": "psalms",
+                  "chapter": 49
+                },
+                {
+                  "label": "Rev 5:9",
+                  "kind": "bible",
+                  "key": "revelation.5.9",
+                  "book": "revelation",
+                  "chapter": 5,
+                  "verseStart": 9,
+                  "verseEnd": 9
+                },
+                {
+                  "label": "Rev 5:13–14",
+                  "kind": "bible",
+                  "key": "revelation.5.13-14",
+                  "book": "revelation",
+                  "chapter": 5,
+                  "verseStart": 13,
+                  "verseEnd": 14
+                },
+                {
+                  "label": "Isa 42:8",
+                  "kind": "bible",
+                  "key": "isaiah.42.8",
+                  "book": "isaiah",
+                  "chapter": 42,
+                  "verseStart": 8,
+                  "verseEnd": 8
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"Jehovah provided the ransom. Jesus was only the price.\"*",
+              "youSay": "Yes, the Father sent the Son. But the One who gave Himself is called our great God and Savior (Titus 2:13–14).",
+              "verses": [
+                {
+                  "label": "Titus 2:13–14",
+                  "kind": "bible",
+                  "key": "titus.2.13-14",
+                  "book": "titus",
+                  "chapter": 2,
+                  "verseStart": 13,
+                  "verseEnd": 14
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"Acts 20:28 should read 'the blood of His own Son.'\"*",
+              "youSay": "That verse speaks of God purchasing the church with blood. Some manuscripts read \"church of the Lord,\" and some translations say \"the blood of His own.\" Don't rest the case on this one verse; the chain above stands without it.",
+              "verses": [
+                {
+                  "label": "Acts 20:28",
+                  "kind": "bible",
+                  "key": "acts.20.28",
+                  "book": "acts",
+                  "chapter": 20,
+                  "verseStart": 28,
+                  "verseEnd": 28
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "notes": [],
+          "links": [],
+          "opener": {
+            "text": "*\"According to Psalm 49:7, can any man redeem his brother or give God a ransom for him?\"* (They'll say no.)",
+            "verses": [
+              {
+                "label": "Ps 49:7",
+                "kind": "bible",
+                "key": "psalms.49.7",
+                "book": "psalms",
+                "chapter": 49,
+                "verseStart": 7,
+                "verseEnd": 7
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          },
+          "summary": {
+            "text": "This is a cumulative case. Psalm 49 does not name Jesus, and it does not prove the Trinity on its own. It says no mere man can pay the ransom and that God will redeem. The New Testament then says Jesus paid it, and calls Him God.",
+            "verses": [
+              {
+                "label": "Ps 49",
+                "kind": "bible",
+                "key": "psalms.49",
+                "book": "psalms",
+                "chapter": 49
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          },
+          "closer": {
+            "text": "*\"If no man can pay the ransom, and God says He will redeem, who is the Jesus who paid it?\"*",
+            "verses": [],
+            "links": [],
+            "supplemental": false
+          }
         }
       ],
       "defense": [
@@ -2897,6 +3157,69 @@
               "chapter": 14,
               "verseStart": 6,
               "verseEnd": 6
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "jesus-was-perfect-man-corresponding",
+          "objection": "\"Jesus was a perfect man, a corresponding ransom for Adam. He didn't need to be God.\"",
+          "response": "He had to be truly man to die in our place. But Scripture says no man can ransom another, and that God Himself redeems. The One who paid is the Word, who was God and became flesh. Run [Only God can pay the ransom](/jw/case/play-6).",
+          "goTo": "Ps 49:7–9; Ps 49:15; 1 Tim 2:5–6; John 1:1; John 1:14",
+          "askBack": "*\"Psalm 49 says no man can pay it. So what kind of man is Jesus?\"*",
+          "verses": [
+            {
+              "label": "Ps 49:7–9",
+              "kind": "bible",
+              "key": "psalms.49.7-9",
+              "book": "psalms",
+              "chapter": 49,
+              "verseStart": 7,
+              "verseEnd": 9
+            },
+            {
+              "label": "Ps 49:15",
+              "kind": "bible",
+              "key": "psalms.49.15",
+              "book": "psalms",
+              "chapter": 49,
+              "verseStart": 15,
+              "verseEnd": 15
+            },
+            {
+              "label": "1 Tim 2:5–6",
+              "kind": "bible",
+              "key": "1-timothy.2.5-6",
+              "book": "1-timothy",
+              "chapter": 2,
+              "verseStart": 5,
+              "verseEnd": 6
+            },
+            {
+              "label": "John 1:1",
+              "kind": "bible",
+              "key": "john.1.1",
+              "book": "john",
+              "chapter": 1,
+              "verseStart": 1,
+              "verseEnd": 1
+            },
+            {
+              "label": "John 1:14",
+              "kind": "bible",
+              "key": "john.1.14",
+              "book": "john",
+              "chapter": 1,
+              "verseStart": 14,
+              "verseEnd": 14
+            },
+            {
+              "label": "Ps 49",
+              "kind": "bible",
+              "key": "psalms.49",
+              "book": "psalms",
+              "chapter": 49
             }
           ],
           "links": [],
@@ -4589,6 +4912,80 @@
               "key": "2-corinthians.13.14",
               "book": "2-corinthians",
               "chapter": 13,
+              "verseStart": 14,
+              "verseEnd": 14
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "there-one-mediator-man-christ",
+          "objection": "\"There is one mediator, 'the man Christ Jesus' (1 Tim 2:5). A sinless man was enough.\"",
+          "response": "He is truly man; a mediator for men must be. But the next verse says He gave Himself as a ransom, and Scripture says no man can ransom another: God redeems. Hebrews says He **partook** of flesh and blood, and you cannot take on what you already only are. A mediator between God and men stands on both sides.",
+          "goTo": "1 Tim 2:5–6; Ps 49:7–9; Ps 49:15; Heb 2:14–17; John 1:14",
+          "askBack": "*\"Hebrews 2:14 says He partook of flesh and blood. Who was He before He did?\"*",
+          "verses": [
+            {
+              "label": "1 Tim 2:5–6",
+              "kind": "bible",
+              "key": "1-timothy.2.5-6",
+              "book": "1-timothy",
+              "chapter": 2,
+              "verseStart": 5,
+              "verseEnd": 6
+            },
+            {
+              "label": "Ps 49:7–9",
+              "kind": "bible",
+              "key": "psalms.49.7-9",
+              "book": "psalms",
+              "chapter": 49,
+              "verseStart": 7,
+              "verseEnd": 9
+            },
+            {
+              "label": "Ps 49:15",
+              "kind": "bible",
+              "key": "psalms.49.15",
+              "book": "psalms",
+              "chapter": 49,
+              "verseStart": 15,
+              "verseEnd": 15
+            },
+            {
+              "label": "Heb 2:14–17",
+              "kind": "bible",
+              "key": "hebrews.2.14-17",
+              "book": "hebrews",
+              "chapter": 2,
+              "verseStart": 14,
+              "verseEnd": 17
+            },
+            {
+              "label": "John 1:14",
+              "kind": "bible",
+              "key": "john.1.14",
+              "book": "john",
+              "chapter": 1,
+              "verseStart": 14,
+              "verseEnd": 14
+            },
+            {
+              "label": "1 Tim 2:5",
+              "kind": "bible",
+              "key": "1-timothy.2.5",
+              "book": "1-timothy",
+              "chapter": 2,
+              "verseStart": 5,
+              "verseEnd": 5
+            },
+            {
+              "label": "Heb 2:14",
+              "kind": "bible",
+              "key": "hebrews.2.14",
+              "book": "hebrews",
+              "chapter": 2,
               "verseStart": 14,
               "verseEnd": 14
             }
@@ -6956,6 +7353,48 @@
               "supplemental": false
             },
             {
+              "text": "**Ps 49:7–9; Ps 49:15 → Mark 10:45**: the Psalms (the Zabur, which the Quran says Allah gave to David, Q 4:163) say no man can ransom another and that God will redeem. Jesus says He gives His life as the ransom. *\"Who can pay what no man can pay?\"*",
+              "verses": [
+                {
+                  "label": "Ps 49:7–9",
+                  "kind": "bible",
+                  "key": "psalms.49.7-9",
+                  "book": "psalms",
+                  "chapter": 49,
+                  "verseStart": 7,
+                  "verseEnd": 9
+                },
+                {
+                  "label": "Ps 49:15",
+                  "kind": "bible",
+                  "key": "psalms.49.15",
+                  "book": "psalms",
+                  "chapter": 49,
+                  "verseStart": 15,
+                  "verseEnd": 15
+                },
+                {
+                  "label": "Mark 10:45",
+                  "kind": "bible",
+                  "key": "mark.10.45",
+                  "book": "mark",
+                  "chapter": 10,
+                  "verseStart": 45,
+                  "verseEnd": 45
+                },
+                {
+                  "label": "Q 4:163",
+                  "kind": "quran",
+                  "key": "q.4.163",
+                  "chapter": 4,
+                  "verseStart": 163,
+                  "verseEnd": 163
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
               "text": "Pair with **Mark 2:5–10** (forgives sins: \"Who can forgive sins but God alone?\") and **Mark 14:61–64** (Son of Man, Dan 7: the high priest calls it blasphemy).",
               "verses": [
                 {
@@ -7836,8 +8275,8 @@
         {
           "id": "no-one-can-carry-another",
           "objection": "\"No one can carry another person's sins (Q 6:164).\"",
-          "response": "The Torah the Quran confirms is built on substitution: the sins of the people laid on another. Isaiah foretold One who would bear the iniquity of us all.",
-          "goTo": "Lev 16:21–22; Isa 53:5–6; 2 Cor 5:21; Q 6:164",
+          "response": "The Torah the Quran confirms is built on substitution: the sins of the people laid on another. Isaiah foretold One who would bear the iniquity of us all. And Jesus is not an unwilling bystander punished for a stranger. He is the Son who laid down His life of His own accord, as the Father purposed.",
+          "goTo": "Lev 16:21–22; Isa 53:5–6; John 10:17–18; 2 Cor 5:21; 1 Pet 2:24; Q 6:164",
           "askBack": "*\"What does Isaiah 53:6 say Yahweh laid on Him?\"*",
           "verses": [
             {
@@ -7859,6 +8298,15 @@
               "verseEnd": 6
             },
             {
+              "label": "John 10:17–18",
+              "kind": "bible",
+              "key": "john.10.17-18",
+              "book": "john",
+              "chapter": 10,
+              "verseStart": 17,
+              "verseEnd": 18
+            },
+            {
               "label": "2 Cor 5:21",
               "kind": "bible",
               "key": "2-corinthians.5.21",
@@ -7866,6 +8314,15 @@
               "chapter": 5,
               "verseStart": 21,
               "verseEnd": 21
+            },
+            {
+              "label": "1 Pet 2:24",
+              "kind": "bible",
+              "key": "1-peter.2.24",
+              "book": "1-peter",
+              "chapter": 2,
+              "verseStart": 24,
+              "verseEnd": 24
             },
             {
               "label": "Q 6:164",
@@ -7883,6 +8340,127 @@
               "chapter": 53,
               "verseStart": 6,
               "verseEnd": 6
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "your-own-bible-each-person",
+          "objection": "\"Your own Bible says each person dies for his own sin (Deut 24:16; Ezek 18:20).\"",
+          "response": "Deuteronomy tells human courts not to execute a son for his father's crime. Ezekiel says God holds each person to account for his own sin. Both forbid punishing an unwilling innocent. Neither forbids a willing substitute whom God Himself appoints. The same Law commands the sacrifices, and Isaiah foretells the Servant who bears the sin of many.",
+          "goTo": "Deut 24:16; Ezek 18:20; Isa 53:4–6; Isa 53:10–12; John 10:17–18; 2 Cor 5:21",
+          "askBack": "*\"If substitution is forbidden, what are the sacrifices in Leviticus for?\"*",
+          "verses": [
+            {
+              "label": "Deut 24:16",
+              "kind": "bible",
+              "key": "deuteronomy.24.16",
+              "book": "deuteronomy",
+              "chapter": 24,
+              "verseStart": 16,
+              "verseEnd": 16
+            },
+            {
+              "label": "Ezek 18:20",
+              "kind": "bible",
+              "key": "ezekiel.18.20",
+              "book": "ezekiel",
+              "chapter": 18,
+              "verseStart": 20,
+              "verseEnd": 20
+            },
+            {
+              "label": "Isa 53:4–6",
+              "kind": "bible",
+              "key": "isaiah.53.4-6",
+              "book": "isaiah",
+              "chapter": 53,
+              "verseStart": 4,
+              "verseEnd": 6
+            },
+            {
+              "label": "Isa 53:10–12",
+              "kind": "bible",
+              "key": "isaiah.53.10-12",
+              "book": "isaiah",
+              "chapter": 53,
+              "verseStart": 10,
+              "verseEnd": 12
+            },
+            {
+              "label": "John 10:17–18",
+              "kind": "bible",
+              "key": "john.10.17-18",
+              "book": "john",
+              "chapter": 10,
+              "verseStart": 17,
+              "verseEnd": 18
+            },
+            {
+              "label": "2 Cor 5:21",
+              "kind": "bible",
+              "key": "2-corinthians.5.21",
+              "book": "2-corinthians",
+              "chapter": 5,
+              "verseStart": 21,
+              "verseEnd": 21
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "jesus-was-only-prophet-prophet",
+          "objection": "\"Jesus was only a prophet. A prophet can't redeem anyone.\"",
+          "response": "Agreed: no mere man can. The Psalms say no man can ransom his brother, and that God Himself will redeem. That is why the Redeemer had to be God become man. Jesus said He came to give His life as a ransom.",
+          "goTo": "Ps 49:7–9; Ps 49:15; Mark 10:45; 1 Tim 2:5–6; Heb 2:14–17",
+          "askBack": "*\"If no man can pay the ransom, who can?\"*",
+          "verses": [
+            {
+              "label": "Ps 49:7–9",
+              "kind": "bible",
+              "key": "psalms.49.7-9",
+              "book": "psalms",
+              "chapter": 49,
+              "verseStart": 7,
+              "verseEnd": 9
+            },
+            {
+              "label": "Ps 49:15",
+              "kind": "bible",
+              "key": "psalms.49.15",
+              "book": "psalms",
+              "chapter": 49,
+              "verseStart": 15,
+              "verseEnd": 15
+            },
+            {
+              "label": "Mark 10:45",
+              "kind": "bible",
+              "key": "mark.10.45",
+              "book": "mark",
+              "chapter": 10,
+              "verseStart": 45,
+              "verseEnd": 45
+            },
+            {
+              "label": "1 Tim 2:5–6",
+              "kind": "bible",
+              "key": "1-timothy.2.5-6",
+              "book": "1-timothy",
+              "chapter": 2,
+              "verseStart": 5,
+              "verseEnd": 6
+            },
+            {
+              "label": "Heb 2:14–17",
+              "kind": "bible",
+              "key": "hebrews.2.14-17",
+              "book": "hebrews",
+              "chapter": 2,
+              "verseStart": 14,
+              "verseEnd": 17
             }
           ],
           "links": [],
@@ -9775,6 +10353,49 @@
               "supplemental": false
             },
             {
+              "text": "Only God can redeem a soul, and only a man can die in man's place, so the Savior is both. (Ps 49:7–9; Ps 49:15; 1 Tim 2:5–6; Heb 2:14–17)",
+              "verses": [
+                {
+                  "label": "Ps 49:7–9",
+                  "kind": "bible",
+                  "key": "psalms.49.7-9",
+                  "book": "psalms",
+                  "chapter": 49,
+                  "verseStart": 7,
+                  "verseEnd": 9
+                },
+                {
+                  "label": "Ps 49:15",
+                  "kind": "bible",
+                  "key": "psalms.49.15",
+                  "book": "psalms",
+                  "chapter": 49,
+                  "verseStart": 15,
+                  "verseEnd": 15
+                },
+                {
+                  "label": "1 Tim 2:5–6",
+                  "kind": "bible",
+                  "key": "1-timothy.2.5-6",
+                  "book": "1-timothy",
+                  "chapter": 2,
+                  "verseStart": 5,
+                  "verseEnd": 6
+                },
+                {
+                  "label": "Heb 2:14–17",
+                  "kind": "bible",
+                  "key": "hebrews.2.14-17",
+                  "book": "hebrews",
+                  "chapter": 2,
+                  "verseStart": 14,
+                  "verseEnd": 17
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
               "label": "Ask",
               "text": "*\"Why did Jesus have to die?\"*",
               "verses": [],
@@ -11246,6 +11867,12 @@
               ],
               "links": [],
               "supplemental": false
+            },
+            {
+              "text": "For why only God can redeem, open [Only God can pay the ransom](/jw/case/play-6).",
+              "verses": [],
+              "links": [],
+              "supplemental": false
             }
           ]
         },
@@ -11968,6 +12595,20 @@
             {
               "label": "Two natures",
               "text": "Jesus is one Person who is truly God and truly man.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Ransom",
+              "text": "the price that frees a captive. Scripture says no man can pay it for another and that God redeems. Jesus gave His life as the ransom.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Mediator",
+              "text": "the one who stands between God and men. Jesus is the one mediator because He is truly God and truly man.",
               "verses": [],
               "links": [],
               "supplemental": false

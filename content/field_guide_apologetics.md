@@ -165,6 +165,22 @@ Pray first. Only the Spirit opens eyes (John 6:44; 2 Cor 4:4–6). Watch your ow
 - **If they say** *"We're not prophets, just students making calculations"* → *"Announcing future dates as God's truth is prophecy by definition."* ([▶](https://youtu.be/mjDkOgvdCe8?t=423))
 - ⚠️ Use this **after** the Bible plays. Leading with it feels like an attack and they shut down.
 
+#### PLAY 6: Only God can pay the ransom (Psalm 49)
+- **Opener:** *"According to Psalm 49:7, can any man redeem his brother or give God a ransom for him?"* (They'll say no.)
+- **Chain:**
+  1. **Ps 49:7–9**: no man can redeem his brother or give God a ransom for him. The price of a soul is too high. *"How many men does the psalm say can pay it?"*
+  2. **Ps 49:15**: "But **God** will redeem my soul from the power of Sheol." *"So who does the psalmist say will do the redeeming?"*
+  3. **Hos 13:14; Isa 43:11**: Jehovah says He Himself will ransom from the power of Sheol, and that besides Him there is no savior.
+  4. **Mark 10:45; 1 Tim 2:5–6**: Jesus came to give His life as a **ransom** for many. The one mediator gave Himself as a ransom for all.
+  5. **Titus 2:13–14**: our great **God and Savior**, Christ Jesus, gave Himself for us to **redeem** us.
+  6. **John 1:1; John 1:14; Heb 2:14–17**: the Word was God and became flesh. He took on flesh and blood so that through death He might free us. He had to be man to die in our place, and God to redeem.
+- **The logic:** This is a cumulative case. Psalm 49 does not name Jesus, and it does not prove the Trinity on its own. It says no mere man can pay the ransom and that God will redeem. The New Testament then says Jesus paid it, and calls Him God.
+- **If they say →**
+  - *"Psalm 49 is about imperfect men. Jesus was a perfect man, a corresponding ransom for Adam."* → The psalm makes no exception for a perfect man. Its answer is "God will redeem." And every creature worships the Lamb for the people He purchased (Rev 5:9; Rev 5:13–14). *"Would Jehovah share that worship with a creature?"* (Isa 42:8)
+  - *"Jehovah provided the ransom. Jesus was only the price."* → Yes, the Father sent the Son. But the One who gave Himself is called our great God and Savior (Titus 2:13–14).
+  - *"Acts 20:28 should read 'the blood of His own Son.'"* → That verse speaks of God purchasing the church with blood. Some manuscripts read "church of the Lord," and some translations say "the blood of His own." Don't rest the case on this one verse; the chain above stands without it.
+- **Closer:** *"If no man can pay the ransom, and God says He will redeem, who is the Jesus who paid it?"*
+
 <a id="jw-defense"></a>
 ### 🛡️ JW DEFENSE
 
@@ -191,6 +207,7 @@ Pray first. Only the Spirit opens eyes (John 6:44; 2 Cor 4:4–6). Watch your ow
 | **"Jesus is a god, a mighty one, but not the true God."** | Jehovah says no god was formed before or after Him and He knows of no other. So is Jesus a true God or a false god? Thomas calls Him "my Lord and **my God**" and Jesus accepts it. | Isa 43:10; Isa 44:8; John 20:28 | *"Is Jesus a true god or a false god?"* |
 | **"People only did obeisance to Jesus, not worship."** | All the angels worship the Son. Every creature gives the same honor to God and to the Lamb. An angel refuses it; Jesus receives it. | Heb 1:6; Rev 5:13–14; Rev 22:8–9; Matt 28:17 | *"Why does the angel refuse what Jesus accepts?"* |
 | **"You need Jehovah's organization to be saved."** | Salvation is by grace through faith, not works, and not membership. When others left, Peter did not ask **where** to go, but **to whom**. | Eph 2:8–9; John 6:68; John 14:6 | *"To whom did Peter say we should go?"* |
+| **"Jesus was a perfect man, a corresponding ransom for Adam. He didn't need to be God."** | He had to be truly man to die in our place. But Scripture says no man can ransom another, and that God Himself redeems. The One who paid is the Word, who was God and became flesh. Run [Only God can pay the ransom](/jw/case/play-6). | Ps 49:7–9; Ps 49:15; 1 Tim 2:5–6; John 1:1; John 1:14 | *"Psalm 49 says no man can pay it. So what kind of man is Jesus?"* |
 
 **Typical exits (and what to do):** they say "it's our break" or need to leave (stay gracious, take their literature, shake hands) ([▶](https://youtu.be/HRuXGRkhcbw?t=981)) · they point you to a free JW.org Bible study (acknowledge it, then go straight back to the verse) ([▶](https://youtu.be/_b0PY_cg7Pk?t=122)) · they say "other translations say…" (go to the Greek / their own interlinear).
 
@@ -278,6 +295,7 @@ Pray first. Only the Spirit opens eyes (John 6:44; 2 Cor 4:4–6). Watch your ow
 | **"Thomas was only exclaiming in surprise (John 20:28)."** | The text says Thomas said it **to Him**, and Jesus blesses the confession instead of rebuking it. | John 20:28–29 | *"Does Jesus correct Thomas or commend him?"* |
 | **"Jesus is called 'god' the way judges and Moses were."** | No judge is worshiped by angels, called Creator, or called the true God. And all are to honor the Son **just as** they honor the Father. | John 5:23; Heb 1:6; 1 John 5:20 | *"Is anyone told to honor Moses just as they honor the Father?"* |
 | **"Matthew 28:19 was added later."** | Every Greek manuscript that contains the passage has the three-fold name, and Paul blesses in the same three-fold way. | Matt 28:19; 2 Cor 13:14 | *"Which manuscript leaves it out?"* |
+| **"There is one mediator, 'the man Christ Jesus' (1 Tim 2:5). A sinless man was enough."** | He is truly man; a mediator for men must be. But the next verse says He gave Himself as a ransom, and Scripture says no man can ransom another: God redeems. Hebrews says He **partook** of flesh and blood, and you cannot take on what you already only are. A mediator between God and men stands on both sides. | 1 Tim 2:5–6; Ps 49:7–9; Ps 49:15; Heb 2:14–17; John 1:14 | *"Hebrews 2:14 says He partook of flesh and blood. Who was He before He did?"* |
 
 **Typical exits:** repeating one line over and over, like "it communicates information" (keep asking the same yes/no question) ([▶](https://youtu.be/3AF8giy2H7Y?t=41)) · turning to church history (let them finish, then bring it back to the verse) · "no NT allowed" (fine, use the OT-only chain in the Holy Spirit Play).
 
@@ -422,6 +440,7 @@ Pray first. Only the Spirit opens eyes (John 6:44; 2 Cor 4:4–6). Watch your ow
 - **Opener:** *"Who gives eternal life?"* (God.) ([▶](https://youtu.be/c_JWoiexhXI?t=1433))
 - **John 10:28**: Jesus: "**I give** them eternal life." → *"If only God gives eternal life, and Jesus says He gives it, who is Jesus claiming to be?"* ([▶](https://youtu.be/c_JWoiexhXI?t=1496))
 - **Trap:** *"Does Muhammad give you eternal life?"* If they say "through his message, yes," then they've given Muhammad a divine prerogative (*shirk*). ([▶](https://youtu.be/c_JWoiexhXI?t=1808))
+- **Ps 49:7–9; Ps 49:15 → Mark 10:45**: the Psalms (the Zabur, which the Quran says Allah gave to David, Q 4:163) say no man can ransom another and that God will redeem. Jesus says He gives His life as the ransom. *"Who can pay what no man can pay?"*
 - Pair with **Mark 2:5–10** (forgives sins: "Who can forgive sins but God alone?") and **Mark 14:61–64** (Son of Man, Dan 7: the high priest calls it blasphemy).
 
 #### PLAY 4: Son vs. servant
@@ -461,7 +480,9 @@ Verses to read ([▶](https://youtu.be/DPFeuxNkxCA?t=710)): **Q 4:24** (married 
 | **"Jesus was sent only to the lost sheep of Israel."** | His earthly ministry went to Israel first, as promised. Then He sent His disciples to **all nations**, as Isaiah foretold. | Matt 15:24; Matt 28:19; John 10:16; Isa 49:6 | *"Who does Jesus send them to in Matt 28:19?"* |
 | **"The Bible has contradictions and too many versions."** | Translations are not different Bibles. The manuscript differences are known and printed in the footnotes, and no teaching depends on them. Ask for one and read it together. | Isa 40:8; Matt 24:35 | *"Which contradiction? Let's read it."* |
 | **"God can simply forgive. He doesn't need a sacrifice."** | A judge who lets the guilty go is unjust. God will by no means leave the guilty unpunished. At the cross He is both **just and the justifier**. Even the Quran ransoms Abraham's son with a great sacrifice. | Ex 34:7; Prov 17:15; Heb 9:22; Rom 3:25–26; Q 37:107 | *"If a judge lets the guilty go free, is he a just judge?"* |
-| **"No one can carry another person's sins (Q 6:164)."** | The Torah the Quran confirms is built on substitution: the sins of the people laid on another. Isaiah foretold One who would bear the iniquity of us all. | Lev 16:21–22; Isa 53:5–6; 2 Cor 5:21; Q 6:164 | *"What does Isaiah 53:6 say Yahweh laid on Him?"* |
+| **"No one can carry another person's sins (Q 6:164)."** | The Torah the Quran confirms is built on substitution: the sins of the people laid on another. Isaiah foretold One who would bear the iniquity of us all. And Jesus is not an unwilling bystander punished for a stranger. He is the Son who laid down His life of His own accord, as the Father purposed. | Lev 16:21–22; Isa 53:5–6; John 10:17–18; 2 Cor 5:21; 1 Pet 2:24; Q 6:164 | *"What does Isaiah 53:6 say Yahweh laid on Him?"* |
+| **"Your own Bible says each person dies for his own sin (Deut 24:16; Ezek 18:20)."** | Deuteronomy tells human courts not to execute a son for his father's crime. Ezekiel says God holds each person to account for his own sin. Both forbid punishing an unwilling innocent. Neither forbids a willing substitute whom God Himself appoints. The same Law commands the sacrifices, and Isaiah foretells the Servant who bears the sin of many. | Deut 24:16; Ezek 18:20; Isa 53:4–6; Isa 53:10–12; John 10:17–18; 2 Cor 5:21 | *"If substitution is forbidden, what are the sacrifices in Leviticus for?"* |
+| **"Jesus was only a prophet. A prophet can't redeem anyone."** | Agreed: no mere man can. The Psalms say no man can ransom his brother, and that God Himself will redeem. That is why the Redeemer had to be God become man. Jesus said He came to give His life as a ransom. | Ps 49:7–9; Ps 49:15; Mark 10:45; 1 Tim 2:5–6; Heb 2:14–17 | *"If no man can pay the ransom, who can?"* |
 | **"Jesus and His disciples were Muslims."** | His disciples worshiped Him, called Him Lord and God, and preached that He was crucified and raised. | Matt 28:17; John 20:28; Acts 2:23–24; Acts 2:36 | *"Would a Muslim say 'My Lord and my God' to Jesus?"* |
 | **"Muhammad is named in Song of Songs 5:16."** | The Hebrew word there is an ordinary word for "desirable," used by a bride about her beloved. The same word family describes Ezekiel's wife (Ezek 24:16) and Israel's children (Hos 9:16). | Song 5:16; Ezek 24:16; Hos 9:16 | *"Is Muhammad also in Ezekiel 24:16, where the same word is used?"* |
 | **"Islam is the fastest-growing religion, so it must be true."** | Truth isn't a headcount. Jesus said the many take the wide road. | Matt 7:13–14 | *"Is something true because many people believe it?"* |
