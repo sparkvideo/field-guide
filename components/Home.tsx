@@ -9,7 +9,7 @@ import { getPins, getRecent, type Pin } from "@/lib/pins";
 import { formatRef, parseReference, readerHref, type TypedRef } from "@/lib/reference";
 import { searchGuide } from "@/lib/search";
 import { Chevron } from "./Bits";
-import { BookIcon, CrossIcon, DoorIcon, DrillIcon, FlameIcon, Mark, NoteIcon, PenIcon, TabletsIcon, TargetIcon, TriangleIcon, WordsIcon } from "./Icons";
+import { BookIcon, CrossIcon, DoorIcon, DrillIcon, FlameIcon, GameIcon, Mark, NoteIcon, PenIcon, TabletsIcon, TargetIcon, TriangleIcon, WordsIcon } from "./Icons";
 import { readStreak } from "./Train";
 import { Welcome } from "./Welcome";
 
@@ -292,6 +292,14 @@ export function Home({ groups }: { groups: GroupRow[] }) {
               </span>
               <Chevron />
             </Link>
+            <Link href="/topic/worldviews-how-do-you-know" className="row">
+              <TriangleIcon />
+              <span>
+                <span className="block text-[20px] font-semibold">Worldviews: how do you know?</span>
+                <span className="sub">Presuppositions, and why unbelief can't stand</span>
+              </span>
+              <Chevron />
+            </Link>
             <Link href="/method" className="row">
               <TargetIcon />
               <span>
@@ -341,6 +349,14 @@ export function Home({ groups }: { groups: GroupRow[] }) {
               <span>
                 <span className="block text-[20px] font-semibold">Conversation notes</span>
                 <span className="sub">Who you talked to and how to pray</span>
+              </span>
+              <Chevron />
+            </Link>
+            <Link href="/game" className="row">
+              <GameIcon />
+              <span>
+                <span className="block text-[20px] font-semibold">Go and Tell</span>
+                <span className="sub">A 60-second game, just for fun</span>
               </span>
               <Chevron />
             </Link>

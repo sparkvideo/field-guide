@@ -12,11 +12,16 @@
   {
     "ref": "Genesis 1:27",
     "key": "genesis.1.27",
-    "text": ""
+    "text": "And God created man in His own image, in the image of God He created him; male and female He created them."
   },
   {
     "ref": "Genesis 2:7",
     "key": "genesis.2.7",
+    "text": "Then Yahweh God formed man of dust from the ground and breathed into his nostrils the breath of life; and so the man became a living being."
+  },
+  {
+    "ref": "Genesis 8:22",
+    "key": "genesis.8.22",
     "text": ""
   },
   {
@@ -82,7 +87,7 @@
   {
     "ref": "Exodus 20:11",
     "key": "exodus.20.11",
-    "text": ""
+    "text": "For in six days Yahweh made the heavens and the earth, the sea and all that is in them, and rested on the seventh day; therefore Yahweh blessed the sabbath day and made it holy."
   },
   {
     "ref": "Exodus 34:7",
@@ -170,6 +175,11 @@
     "text": "You alone are Yahweh. You have made the heavens, The heaven of heavens with all their host, The earth and all that is on it, The seas and all that is in them. You give life to all of them And the heavenly host bows down to You."
   },
   {
+    "ref": "Psalms 14:1",
+    "key": "psalms.14.1",
+    "text": ""
+  },
+  {
     "ref": "Psalms 19:1",
     "key": "psalms.19.1",
     "text": "The heavens are telling of the glory of God; And the expanse is declaring the work of His hands."
@@ -238,6 +248,26 @@
     "ref": "Proverbs 20:6",
     "key": "proverbs.20.6",
     "text": "Many a man will call out his own lovingkindness, But a faithful man, who can find?"
+  },
+  {
+    "ref": "Proverbs 26:4",
+    "key": "proverbs.26.4",
+    "text": ""
+  },
+  {
+    "ref": "Proverbs 26:5",
+    "key": "proverbs.26.5",
+    "text": ""
+  },
+  {
+    "ref": "Ecclesiastes 1:2",
+    "key": "ecclesiastes.1.2",
+    "text": ""
+  },
+  {
+    "ref": "Ecclesiastes 12:13–14",
+    "key": "ecclesiastes.12.13-14",
+    "text": ""
   },
   {
     "ref": "Song of Solomon 5:16",
@@ -707,7 +737,7 @@
   {
     "ref": "John 3:19",
     "key": "john.3.19",
-    "text": ""
+    "text": "And this is the judgment, that the Light has come into the world, and men loved the darkness rather than the Light, for their deeds were evil."
   },
   {
     "ref": "John 3:36",
@@ -1180,6 +1210,11 @@
     "text": "But put on the Lord Jesus Christ, and make no provision for the flesh in regard to its lusts."
   },
   {
+    "ref": "1 Corinthians 1:20",
+    "key": "1-corinthians.1.20",
+    "text": ""
+  },
+  {
     "ref": "1 Corinthians 1:24",
     "key": "1-corinthians.1.24",
     "text": "but to those who are the called, both Jews and Greeks, Christ the power of God and the wisdom of God."
@@ -1188,6 +1223,11 @@
     "ref": "1 Corinthians 2:8",
     "key": "1-corinthians.2.8",
     "text": "which none of the rulers of this age has understood; for if they had understood it, they would not have crucified the Lord of glory."
+  },
+  {
+    "ref": "1 Corinthians 2:14",
+    "key": "1-corinthians.2.14",
+    "text": ""
   },
   {
     "ref": "1 Corinthians 3:6–7",
@@ -1255,6 +1295,11 @@
     "text": "⁴⁰ There are also heavenly bodies and earthly bodies, but the glory of the heavenly is one, and the glory of the earthly is another. ⁴¹ There is one glory of the sun, and another glory of the moon, and another glory of the stars; for star differs from star in glory."
   },
   {
+    "ref": "2 Corinthians 4:4–6",
+    "key": "2-corinthians.4.4-6",
+    "text": ""
+  },
+  {
     "ref": "2 Corinthians 5:8",
     "key": "2-corinthians.5.8",
     "text": "we are of good courage and prefer rather to be absent from the body and to be at home with the Lord."
@@ -1268,6 +1313,11 @@
     "ref": "2 Corinthians 6:2",
     "key": "2-corinthians.6.2",
     "text": "for He says, “At the acceptable time I listened to you, And on the day of salvation I helped you.” Behold, now is “the acceptable time,” behold, now is “the day of salvation”—"
+  },
+  {
+    "ref": "2 Corinthians 10:5",
+    "key": "2-corinthians.10.5",
+    "text": ""
   },
   {
     "ref": "2 Corinthians 11:2",
@@ -1525,6 +1575,11 @@
     "text": "For we do not have a high priest who cannot sympathize with our weaknesses, but One who has been tempted in all things like we are, yet without sin."
   },
   {
+    "ref": "Hebrews 6:13",
+    "key": "hebrews.6.13",
+    "text": ""
+  },
+  {
     "ref": "Hebrews 7:11–12",
     "key": "hebrews.7.11-12",
     "text": "¹¹ Now if perfection was through the Levitical priesthood (for on the basis of it the people received the Law), what further need was there for another priest to arise according to the order of Melchizedek, and not be designated according to the order of Aaron? ¹² For when the priesthood is changed, of necessity there takes place a change of law also."
@@ -1623,6 +1678,11 @@
     "ref": "1 Peter 3:15–16",
     "key": "1-peter.3.15-16",
     "text": "¹⁵ but sanctify Christ as Lord in your hearts, always being ready to make a defense to everyone who asks you to give an account for the hope that is in you, yet with gentleness and fear, ¹⁶ having a good conscience so that in the thing in which you are slandered, those who disparage your good conduct in Christ will be put to shame."
+  },
+  {
+    "ref": "1 Peter 3:15",
+    "key": "1-peter.3.15",
+    "text": ""
   },
   {
     "ref": "1 Peter 3:18",

@@ -36,7 +36,7 @@
           }
         ],
         "supplemental": false,
-        "text": "He reads the verse and asks a yes/no question about what it *says* (not what it means). He won't go on until they answer. *\"I'm not moving to Phase 2 until you answer Phase 1.\"*"
+        "text": "Read the verse and ask a yes/no question about what it *says* (not what it means). Don't go on until they answer. *\"I'm not moving to Phase 2 until you answer Phase 1.\"*"
       },
       {
         "number": 2,
@@ -58,7 +58,7 @@
           }
         ],
         "supplemental": false,
-        "text": "When they redefine a word (\"personification,\" \"communicates information,\" \"a vibe\"), he names it: *\"I didn't ask about personification. I asked, can He speak?\"*"
+        "text": "When they redefine a word (\"personification,\" \"communicates information,\" \"a vibe\"), name it: *\"I didn't ask about personification. I asked, can He speak?\"*"
       },
       {
         "number": 4,
@@ -1985,7 +1985,7 @@
         {
           "id": "john-1-1-god-no",
           "objection": "\"John 1:1 says 'a god.' No article = indefinite.\"",
-          "response": "A predicate noun before the verb without the article describes **nature** (Colwell / qualitative). \"The Word was God\" in nature.",
+          "response": "A predicate noun before the verb without the article describes **nature** (Harner: qualitative). \"The Word was God\" in nature: all that God is, the Word was.",
           "goTo": "John 1:1; **1 John 4:8** (*ho theos agapē estin*); **John 1:6** (*para theou*, no article)",
           "askBack": "*\"Is God 'a love'? Was John sent from 'a god'? Your NWT says 'God' in 1:6. Why not in 1:1?\"*",
           "verses": [
@@ -2879,7 +2879,7 @@
         "label": "Typical exits (and what to do)",
         "items": [
           {
-            "text": "they spot the camera or \"it's our break\" (stay gracious, take their literature, shake hands)",
+            "text": "they say \"it's our break\" or need to leave (stay gracious, take their literature, shake hands)",
             "verses": [],
             "links": [
               {
@@ -3797,7 +3797,7 @@
           "altOpeners": [],
           "chain": [
             {
-              "text": "\"Awake, O sword, against My Shepherd and against **the man, My Associate** (*'amiti*), declares Yahweh of hosts.\" *'Amiti* is used in Leviticus for an equal, a fellow of the same kind. *\"Why does Yahweh call the struck Shepherd His equal?\"* Jesus applies this verse to Himself (Matt 26:31).",
+              "text": "\"Awake, O sword, against My Shepherd and against **the man, My Associate** (*'amiti*), declares Yahweh of hosts.\" *'Amiti* is the Leviticus word for a neighbor or fellow, someone of the same kind. *\"Why does Yahweh call the struck Shepherd His fellow, one like Himself?\"* Jesus applies this verse to Himself (Matt 26:31).",
               "verses": [
                 {
                   "label": "Matt 26:31",
@@ -6222,8 +6222,16 @@
       "color": "#dc2626",
       "emoji": "🟥",
       "beliefs": {
-        "text": "Tawhid (absolute oneness. Associating anything with Allah is *shirk*, the unforgivable sin). Jesus (Isa) is a prophet, born of a virgin, the Messiah, but not God, not the Son of God, and not crucified (Q 4:157). Allah gave the **Tawrat** (Torah) to Moses and the **Injil** (Gospel) to Jesus, but most Muslims will say these were \"corrupted.\" Muhammad is the final prophet, predicted in the Bible (Q 7:157; 61:6).",
+        "text": "Tawhid (absolute oneness. Associating anything with Allah is *shirk*, the one sin Allah won't forgive if a person dies in it, Q 4:48). Jesus (Isa) is a prophet, born of a virgin, the Messiah, but not God, not the Son of God, and not crucified (Q 4:157). Allah gave the **Tawrat** (Torah) to Moses and the **Injil** (Gospel) to Jesus, but most Muslims will say these were \"corrupted.\" Muhammad is the final prophet, predicted in the Bible (Q 7:157; 61:6).",
         "verses": [
+          {
+            "label": "Q 4:48",
+            "kind": "quran",
+            "key": "q.4.48",
+            "chapter": 4,
+            "verseStart": 48,
+            "verseEnd": 48
+          },
           {
             "label": "Q 4:157",
             "kind": "quran",
@@ -6794,7 +6802,7 @@
               "supplemental": false
             },
             {
-              "text": "**Q 61:6** says Jesus foretold \"Ahmad.\" → *\"Show me where Jesus mentions Ahmad by name. And show me from your Quran that Ahmad is Muhammad.\"* Same root? Allah is called *Mahmud* (same root). Same root doesn't mean same person.",
+              "text": "**Q 61:6** says Jesus foretold \"Ahmad.\" → *\"Show me where Jesus mentions Ahmad by name. And show me from your Quran that Ahmad is Muhammad.\"* Same root? Allah is called *al-Hamid* (same root). Same root doesn't mean same person.",
               "verses": [
                 {
                   "label": "Q 61:6",
@@ -7114,8 +7122,13 @@
           ],
           "chain": [
             {
-              "text": "Muslims say the Stone can't benefit or harm (Umar), yet **Sunan an-Nasa'i 2919** says touching the corners **erases sins**; Bukhari 1610; Nasa'i 2935.",
+              "text": "Muslims say the Stone can't benefit or harm (Umar, Bukhari 1597), yet **Sunan an-Nasa'i 2919** says touching the corners **erases sins**; Bukhari 1610; Nasa'i 2935.",
               "verses": [
+                {
+                  "label": "Bukhari 1597",
+                  "kind": "hadith",
+                  "key": "hadith.bukhari.1597"
+                },
                 {
                   "label": "Sunan an-Nasa'i 2919",
                   "kind": "hadith",
@@ -7142,7 +7155,7 @@
               "supplemental": false
             },
             {
-              "text": "*\"If this thing isn't God, why are you kissing it and prostrating to it? Doing it only because Muhammad did is following a man to a tee.\"*",
+              "text": "*\"If this thing isn't God, why kiss it and touch it for forgiveness? Doing it only because Muhammad did is following a man to a tee.\"*",
               "verses": [],
               "links": [
                 {
@@ -7928,7 +7941,7 @@
         {
           "id": "muhammad-named-song-songs-5",
           "objection": "\"Muhammad is named in Song of Songs 5:16.\"",
-          "response": "The Hebrew word there is an ordinary word for \"desirable,\" used by a bride about her beloved. The same word family describes Ezekiel's wife and children in Hosea.",
+          "response": "The Hebrew word there is an ordinary word for \"desirable,\" used by a bride about her beloved. The same word family describes Ezekiel's wife (Ezek 24:16) and Israel's children (Hos 9:16).",
           "goTo": "Song 5:16; Ezek 24:16; Hos 9:16",
           "askBack": "*\"Is Muhammad also in Ezekiel 24:16, where the same word is used?\"*",
           "verses": [
@@ -8107,14 +8120,14 @@
       "lead": [
         {
           "label": "Note",
-          "text": "▶ links show the move in a real conversation. ➕ marks standard Reformed/classical material added so the section is complete. Same style throughout: short questions, burden on them.",
+          "text": "▶ links show the move in a real conversation. ➕ marks standard classical apologetics material added so the section is complete. Same style throughout: short questions, burden on them.",
           "verses": [],
           "links": [],
           "supplemental": false
         },
         {
           "label": "Mindset",
-          "text": "Most \"atheists\" in casual talk are really agnostics who haven't thought it through. The first move is to **make them define their position**, and they usually back off from \"God doesn't exist\" to \"I don't know.\"",
+          "text": "Many \"atheists\" in casual talk are really saying \"I don't know.\" The first move is to **make them define their position**, and they usually back off from \"God doesn't exist\" to \"I don't know.\"",
           "verses": [],
           "links": [
             {
@@ -8336,7 +8349,7 @@
           "id": "play-3",
           "number": 3,
           "title": "The \"borrowed capital\" questions",
-          "subtitle": "Reformed / presuppositional",
+          "subtitle": "presuppositional",
           "warning": false,
           "supplemental": false,
           "altOpeners": [
@@ -8381,7 +8394,7 @@
             },
             {
               "label": "Goal",
-              "text": "show they **use** God's world (logic, morality, reason) while denying Him (Rom 1:18–21; Prov 1:7).",
+              "text": "show they **use** God's world (logic, morality, reason) while denying Him (Rom 1:18–21; Prov 1:7). For the full approach, open [Worldviews: how do you know?](/topic/worldviews-how-do-you-know).",
               "verses": [
                 {
                   "label": "Rom 1:18–21",
@@ -8819,7 +8832,7 @@
           "objection": "\"I'm not 100% sure. I have doubts.\"",
           "response": "Faith isn't intellectual perfection. Jesus welcomes doubters who come to Him.",
           "goTo": "**Mark 9:24** (\"I believe; help my unbelief\"); Rom 10:9–13",
-          "askBack": "*\"Do you believe Christ died for your sins and rose again? Will you turn from your sin and trust Him as Lord?\"* (A caller came to Christ live this way.)",
+          "askBack": "*\"Do you believe Christ died for your sins and rose again? Will you turn from your sin and trust Him as Lord?\"*",
           "verses": [
             {
               "label": "Mark 9:24",
@@ -9893,7 +9906,7 @@
           "heading": "If they respond",
           "lines": [
             {
-              "text": "Pray with them. Get them a Bible and get them into a church that preaches it, where they can be baptized as a believer. Follow up. (Acts 2:41–42; Matt 28:19–20)",
+              "text": "Pray with them. Get them a Bible and get them into a church that preaches it, where they can be baptized by immersion as a believer. Follow up. (Acts 2:41–42; Matt 28:19–20)",
               "verses": [
                 {
                   "label": "Acts 2:41–42",
@@ -10389,6 +10402,400 @@
         }
       ],
       "subtitle": "Use the law to reach the conscience, then give the gospel."
+    },
+    {
+      "slug": "worldviews-how-do-you-know",
+      "title": "Worldviews: how do you know?",
+      "intro": [
+        {
+          "text": "A presupposition is what a person takes for granted before the argument starts. The atheist is not neutral, and neither are you. He already knows God and suppresses that truth (Rom 1:18–21), so you are not handing him a God he has never met. You are showing him that he leans on God every time he reasons, judges or trusts his own mind. (Prov 1:7; Col 2:3; Ps 14:1; 1 Cor 1:20)",
+          "verses": [
+            {
+              "label": "Rom 1:18–21",
+              "kind": "bible",
+              "key": "romans.1.18-21",
+              "book": "romans",
+              "chapter": 1,
+              "verseStart": 18,
+              "verseEnd": 21
+            },
+            {
+              "label": "Prov 1:7",
+              "kind": "bible",
+              "key": "proverbs.1.7",
+              "book": "proverbs",
+              "chapter": 1,
+              "verseStart": 7,
+              "verseEnd": 7
+            },
+            {
+              "label": "Col 2:3",
+              "kind": "bible",
+              "key": "colossians.2.3",
+              "book": "colossians",
+              "chapter": 2,
+              "verseStart": 3,
+              "verseEnd": 3
+            },
+            {
+              "label": "Ps 14:1",
+              "kind": "bible",
+              "key": "psalms.14.1",
+              "book": "psalms",
+              "chapter": 14,
+              "verseStart": 1,
+              "verseEnd": 1
+            },
+            {
+              "label": "1 Cor 1:20",
+              "kind": "bible",
+              "key": "1-corinthians.1.20",
+              "book": "1-corinthians",
+              "chapter": 1,
+              "verseStart": 20,
+              "verseEnd": 20
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        }
+      ],
+      "sections": [
+        {
+          "heading": "What you are showing",
+          "lines": [
+            {
+              "text": "He does not believe in nothing. He believes in logic, in right and wrong, in the order of nature, and in his own reasoning. Your point is that his worldview cannot **account for** any of them, and yours can. He is sitting in God's lap to slap His face.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ]
+        },
+        {
+          "heading": "Step 1: Don't give up your ground",
+          "lines": [
+            {
+              "text": "Do not agree to set the Bible aside and argue from \"neutral\" facts. No one is neutral, and Scripture is the standard, not the thing on trial. (Prov 26:4; 2 Cor 10:5; 1 Pet 3:15)",
+              "verses": [
+                {
+                  "label": "Prov 26:4",
+                  "kind": "bible",
+                  "key": "proverbs.26.4",
+                  "book": "proverbs",
+                  "chapter": 26,
+                  "verseStart": 4,
+                  "verseEnd": 4
+                },
+                {
+                  "label": "2 Cor 10:5",
+                  "kind": "bible",
+                  "key": "2-corinthians.10.5",
+                  "book": "2-corinthians",
+                  "chapter": 10,
+                  "verseStart": 5,
+                  "verseEnd": 5
+                },
+                {
+                  "label": "1 Pet 3:15",
+                  "kind": "bible",
+                  "key": "1-peter.3.15",
+                  "book": "1-peter",
+                  "chapter": 3,
+                  "verseStart": 15,
+                  "verseEnd": 15
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Ask",
+              "text": "*\"Would you set aside your trust in reason to prove reason? Then why should I set aside God's word?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ]
+        },
+        {
+          "heading": "Step 2: Step into his view and show it cannot stand",
+          "lines": [
+            {
+              "text": "Take his view on its own terms and ask what follows. (Prov 26:5)",
+              "verses": [
+                {
+                  "label": "Prov 26:5",
+                  "kind": "bible",
+                  "key": "proverbs.26.5",
+                  "book": "proverbs",
+                  "chapter": 26,
+                  "verseStart": 5,
+                  "verseEnd": 5
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Truth and knowledge",
+              "text": "*\"How do you know that? How do you know anything for certain?\"* If he says we can't know anything for certain: *\"Are you certain of that?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Logic",
+              "text": "*\"Are the laws of logic made of matter? Do they change? Where do unchanging, universal laws come from in a universe of matter in motion?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Right and wrong",
+              "text": "*\"Is that wrong for everyone, or only for you? If only for you, why should I care? If for everyone, who set the standard?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "His own mind",
+              "text": "*\"If your thoughts are chemistry shaped for survival, why trust them to tell you what is true?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Science",
+              "text": "*\"Why expect nature to act tomorrow the way it did today?\"* (Gen 8:22; Col 1:17; Heb 1:3)",
+              "verses": [
+                {
+                  "label": "Gen 8:22",
+                  "kind": "bible",
+                  "key": "genesis.8.22",
+                  "book": "genesis",
+                  "chapter": 8,
+                  "verseStart": 22,
+                  "verseEnd": 22
+                },
+                {
+                  "label": "Col 1:17",
+                  "kind": "bible",
+                  "key": "colossians.1.17",
+                  "book": "colossians",
+                  "chapter": 1,
+                  "verseStart": 17,
+                  "verseEnd": 17
+                },
+                {
+                  "label": "Heb 1:3",
+                  "kind": "bible",
+                  "key": "hebrews.1.3",
+                  "book": "hebrews",
+                  "chapter": 1,
+                  "verseStart": 3,
+                  "verseEnd": 3
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Meaning",
+              "text": "*\"If we came from nothing and go to nothing, on what basis does anything you do matter?\"* (Eccl 1:2; Eccl 12:13–14)",
+              "verses": [
+                {
+                  "label": "Eccl 1:2",
+                  "kind": "bible",
+                  "key": "ecclesiastes.1.2",
+                  "book": "ecclesiastes",
+                  "chapter": 1,
+                  "verseStart": 2,
+                  "verseEnd": 2
+                },
+                {
+                  "label": "Eccl 12:13–14",
+                  "kind": "bible",
+                  "key": "ecclesiastes.12.13-14",
+                  "book": "ecclesiastes",
+                  "chapter": 12,
+                  "verseStart": 13,
+                  "verseEnd": 14
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ]
+        },
+        {
+          "heading": "Step 3: Bring him back to your ground",
+          "lines": [
+            {
+              "text": "Show that what he has been borrowing belongs to God. Logic reflects God's unchanging mind, morality His holy character, the order of nature His faithfulness, and our reasoning His image in us. (Gen 1:27; Mal 3:6; John 1:1–3; Acts 17:24–28)",
+              "verses": [
+                {
+                  "label": "Gen 1:27",
+                  "kind": "bible",
+                  "key": "genesis.1.27",
+                  "book": "genesis",
+                  "chapter": 1,
+                  "verseStart": 27,
+                  "verseEnd": 27
+                },
+                {
+                  "label": "Mal 3:6",
+                  "kind": "bible",
+                  "key": "malachi.3.6",
+                  "book": "malachi",
+                  "chapter": 3,
+                  "verseStart": 6,
+                  "verseEnd": 6
+                },
+                {
+                  "label": "John 1:1–3",
+                  "kind": "bible",
+                  "key": "john.1.1-3",
+                  "book": "john",
+                  "chapter": 1,
+                  "verseStart": 1,
+                  "verseEnd": 3
+                },
+                {
+                  "label": "Acts 17:24–28",
+                  "kind": "bible",
+                  "key": "acts.17.24-28",
+                  "book": "acts",
+                  "chapter": 17,
+                  "verseStart": 24,
+                  "verseEnd": 28
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ]
+        },
+        {
+          "heading": "If he says",
+          "lines": [
+            {
+              "text": "**\"I just lack belief. I don't have to prove anything.\"** → *\"You still reason, judge and trust your mind every day. What do those rest on?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**\"That's circular. You're using the Bible to prove the Bible.\"** → Everyone's final authority has to vouch for itself, or it isn't final. He uses reason to defend reason. The question is which starting point makes sense of everything else. (Heb 6:13)",
+              "verses": [
+                {
+                  "label": "Heb 6:13",
+                  "kind": "bible",
+                  "key": "hebrews.6.13",
+                  "book": "hebrews",
+                  "chapter": 6,
+                  "verseStart": 13,
+                  "verseEnd": 13
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**\"Logic is just how humans think.\"** → Then it could have been otherwise, and it would not bind anyone who thinks differently, including you.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**\"Morality comes from evolution or society.\"** → That tells you what people **do** approve of, not what they **ought** to. Was slavery right when society approved it?",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**\"I don't know where they come from, and that's fine.\"** → *\"So you rely on them with no reason to. That is faith. I can tell you where they come from.\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ]
+        },
+        {
+          "heading": "Watch out",
+          "lines": [
+            {
+              "text": "**Don't say \"you believe in nothing.\"** He will name things he believes, and he'll be right. Say his worldview can't account for them.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Don't treat it as a trick.** Winning the exchange saves no one. He is not confused; he is suppressing the truth, and only God opens blind eyes. (2 Cor 4:4–6; 1 Cor 2:14)",
+              "verses": [
+                {
+                  "label": "2 Cor 4:4–6",
+                  "kind": "bible",
+                  "key": "2-corinthians.4.4-6",
+                  "book": "2-corinthians",
+                  "chapter": 4,
+                  "verseStart": 4,
+                  "verseEnd": 6
+                },
+                {
+                  "label": "1 Cor 2:14",
+                  "kind": "bible",
+                  "key": "1-corinthians.2.14",
+                  "book": "1-corinthians",
+                  "chapter": 2,
+                  "verseStart": 14,
+                  "verseEnd": 14
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Evidence still belongs.** The apostles pointed to the empty tomb and the eyewitnesses. Give the evidence as God's facts, not as something a neutral judge gets to rule on. (Acts 17:31; 1 Cor 15:3–8)",
+              "verses": [
+                {
+                  "label": "Acts 17:31",
+                  "kind": "bible",
+                  "key": "acts.17.31",
+                  "book": "acts",
+                  "chapter": 17,
+                  "verseStart": 31,
+                  "verseEnd": 31
+                },
+                {
+                  "label": "1 Cor 15:3–8",
+                  "kind": "bible",
+                  "key": "1-corinthians.15.3-8",
+                  "book": "1-corinthians",
+                  "chapter": 15,
+                  "verseStart": 3,
+                  "verseEnd": 8
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Get to the cross.** This clears the ground. Then give [The Gospel](/topic/the-gospel).",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "For a short version to run live, open [the borrowed capital play](/atheist/case/play-3).",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ]
+        }
+      ],
+      "subtitle": "Everyone starts somewhere. Only God's word gives you ground to stand on."
     },
     {
       "slug": "the-trinity",

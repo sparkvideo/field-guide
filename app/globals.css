@@ -670,3 +670,26 @@ html[data-standalone] .welcome-install {
 .steps.tight > li {
   padding-bottom: 12px;
 }
+
+/* Go and Tell (the 8-bit game) */
+.game { margin-top: 14px; }
+.game-screen {
+  display: block; width: 100%; aspect-ratio: 16 / 9; background: #161a33;
+  border: 1px solid var(--color-line); border-radius: 10px;
+  image-rendering: pixelated; image-rendering: crisp-edges; touch-action: none;
+}
+.game-pad { display: flex; justify-content: space-between; gap: 12px; margin-top: 16px; }
+.game-move { display: flex; gap: 10px; }
+.game-move .game-btn { height: 130px; }
+.game-acts { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; flex: 1; max-width: 190px; }
+.game-acts .game-btn { height: 60px; min-width: 0; }
+.game-acts .game-btn-main { grid-column: 1 / -1; }
+.game-btn {
+  min-width: 68px; height: 68px; border-radius: 14px; font-size: 34px; line-height: 1; font-weight: 700;
+  background: var(--color-card); color: var(--color-ink); border: 1px solid var(--color-line);
+  touch-action: none; user-select: none; -webkit-user-select: none; -webkit-touch-callout: none;
+}
+.game-btn:active { background: var(--color-soft); border-color: var(--color-accent); }
+.game-btn-text { font-size: 16px; padding: 0 12px; min-width: 72px; }
+.game-btn-main { background: var(--color-accent); color: #14110a; border-color: var(--color-accent); min-width: 96px; }
+.game-btn-main:active { background: var(--color-accent); filter: brightness(0.9); }

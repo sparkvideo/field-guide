@@ -25,11 +25,11 @@
 What wins informal conversations isn't knowing more verses. It's **how you run the conversation**. Use these moves every time.
 
 1. **Phase 1 = agree on the plain text. Nothing else moves until they do.**
-   He reads the verse and asks a yes/no question about what it *says* (not what it means). He won't go on until they answer. *"I'm not moving to Phase 2 until you answer Phase 1."* ([▶ Islamic Dilemma](https://youtu.be/xzgCmA5f7oo?t=190))
+   Read the verse and ask a yes/no question about what it *says* (not what it means). Don't go on until they answer. *"I'm not moving to Phase 2 until you answer Phase 1."* ([▶ Islamic Dilemma](https://youtu.be/xzgCmA5f7oo?t=190))
 
 2. **Yes/no questions, one at a time.** *"Does the Holy Spirit speak? Yes or no?"* Short questions are hard to wriggle out of. Long statements give them room to filibuster.
 
-3. **Call out the dodge out loud.** When they redefine a word ("personification," "communicates information," "a vibe"), he names it: *"I didn't ask about personification. I asked, can He speak?"* ([▶](https://youtu.be/km2ea8bX8Ow?t=11))
+3. **Call out the dodge out loud.** When they redefine a word ("personification," "communicates information," "a vibe"), name it: *"I didn't ask about personification. I asked, can He speak?"* ([▶](https://youtu.be/km2ea8bX8Ow?t=11))
 
 4. **Use their rule on another verse.** When they invent a rule for one verse (e.g. "no article = 'a god'"), apply the same rule somewhere it obviously fails (John 1:6 becomes "a man sent from *a god* named *a John*"). ([▶](https://youtu.be/sQxbaeAJF-M?t=641))
 
@@ -171,7 +171,7 @@ What wins informal conversations isn't knowing more verses. It's **how you run t
 
 | They say… | Quick answer (say it out loud) | Go to | Ask back |
 |---|---|---|---|
-| **"John 1:1 says 'a god.' No article = indefinite."** | A predicate noun before the verb without the article describes **nature** (Colwell / qualitative). "The Word was God" in nature. | John 1:1; **1 John 4:8** (*ho theos agapē estin*); **John 1:6** (*para theou*, no article) | *"Is God 'a love'? Was John sent from 'a god'? Your NWT says 'God' in 1:6. Why not in 1:1?"* ([▶](https://youtu.be/sQxbaeAJF-M?t=488)) |
+| **"John 1:1 says 'a god.' No article = indefinite."** | A predicate noun before the verb without the article describes **nature** (Harner: qualitative). "The Word was God" in nature: all that God is, the Word was. | John 1:1; **1 John 4:8** (*ho theos agapē estin*); **John 1:6** (*para theou*, no article) | *"Is God 'a love'? Was John sent from 'a god'? Your NWT says 'God' in 1:6. Why not in 1:1?"* ([▶](https://youtu.be/sQxbaeAJF-M?t=488)) |
 | **"*Ton theon* = the Almighty; *theos* = a lesser god."** | That's just Greek case. *Ton theon* is accusative after *pros*; *theos* is nominative. Case endings aren't ranks. | John 1:1–2 | *"Is the Father a lesser god when he's in the nominative?"* ([▶](https://youtu.be/sQxbaeAJF-M?t=775)) |
 | **"Firstborn of creation" (Col 1:15) = first created** | *Prōtotokos* = preeminent heir. v.16 gives the reason: "**because** by Him all things were created." | **Ps 89:27** (David made "firstborn"); Ex 4:22; Jer 31:9 (Ephraim) | *"Who was Israel's first king? Saul. So how is David 'firstborn' of the kings?"* ([▶](https://youtu.be/k_P2xx2NIVg?t=249)) |
 | **"Only-begotten" (John 3:16) = uniquely created** | *Monogenēs* = one-of-a-kind / unique (Heb 11:17: Isaac wasn't Abraham's only son). | John 1:18; Heb 11:17 | *"Was Isaac Abraham's only child?"* ([▶](https://youtu.be/HRuXGRkhcbw?t=508)) |
@@ -193,7 +193,7 @@ What wins informal conversations isn't knowing more verses. It's **how you run t
 | **"People only did obeisance to Jesus, not worship."** | All the angels worship the Son. Every creature gives the same honor to God and to the Lamb. An angel refuses it; Jesus receives it. | Heb 1:6; Rev 5:13–14; Rev 22:8–9; Matt 28:17 | *"Why does the angel refuse what Jesus accepts?"* |
 | **"You need Jehovah's organization to be saved."** | Salvation is by grace through faith, not works, and not membership. When others left, Peter did not ask **where** to go, but **to whom**. | Eph 2:8–9; John 6:68; John 14:6 | *"To whom did Peter say we should go?"* |
 
-**Typical exits (and what to do):** they spot the camera or "it's our break" (stay gracious, take their literature, shake hands) ([▶](https://youtu.be/HRuXGRkhcbw?t=981)) · they point you to a free JW.org Bible study (acknowledge it, then go straight back to the verse) ([▶](https://youtu.be/_b0PY_cg7Pk?t=122)) · they say "other translations say…" (go to the Greek / their own interlinear).
+**Typical exits (and what to do):** they say "it's our break" or need to leave (stay gracious, take their literature, shake hands) ([▶](https://youtu.be/HRuXGRkhcbw?t=981)) · they point you to a free JW.org Bible study (acknowledge it, then go straight back to the verse) ([▶](https://youtu.be/_b0PY_cg7Pk?t=122)) · they say "other translations say…" (go to the Greek / their own interlinear).
 
 ---
 
@@ -254,7 +254,7 @@ What wins informal conversations isn't knowing more verses. It's **how you run t
 
 #### PLAY 5: The Messiah shares Yahweh's nature (Zech 13:7)
 - **Opener:** *"In Zechariah 13:7, who is the Shepherd that gets struck?"* (Jesus says it's Him, Matt 26:31.)
-- "Awake, O sword, against My Shepherd and against **the man, My Associate** (*'amiti*), declares Yahweh of hosts." *'Amiti* is used in Leviticus for an equal, a fellow of the same kind. *"Why does Yahweh call the struck Shepherd His equal?"* ([▶](https://youtu.be/-BHzjoxMXfo?t=790)) Jesus applies this verse to Himself (Matt 26:31).
+- "Awake, O sword, against My Shepherd and against **the man, My Associate** (*'amiti*), declares Yahweh of hosts." *'Amiti* is the Leviticus word for a neighbor or fellow, someone of the same kind. *"Why does Yahweh call the struck Shepherd His fellow, one like Himself?"* ([▶](https://youtu.be/-BHzjoxMXfo?t=790)) Jesus applies this verse to Himself (Matt 26:31).
 
 <a id="uni-defense"></a>
 ### 🛡️ UNITARIAN DEFENSE
@@ -371,7 +371,7 @@ What wins informal conversations isn't knowing more verses. It's **how you run t
 
 # 🟥 MUSLIMS
 
-**What they believe:** Tawhid (absolute oneness. Associating anything with Allah is *shirk*, the unforgivable sin). Jesus (Isa) is a prophet, born of a virgin, the Messiah, but not God, not the Son of God, and not crucified (Q 4:157). Allah gave the **Tawrat** (Torah) to Moses and the **Injil** (Gospel) to Jesus, but most Muslims will say these were "corrupted." Muhammad is the final prophet, predicted in the Bible (Q 7:157; 61:6).
+**What they believe:** Tawhid (absolute oneness. Associating anything with Allah is *shirk*, the one sin Allah won't forgive if a person dies in it, Q 4:48). Jesus (Isa) is a prophet, born of a virgin, the Messiah, but not God, not the Son of God, and not crucified (Q 4:157). Allah gave the **Tawrat** (Torah) to Moses and the **Injil** (Gospel) to Jesus, but most Muslims will say these were "corrupted." Muhammad is the final prophet, predicted in the Bible (Q 7:157; 61:6).
 
 **Signature weapon: THE ISLAMIC DILEMMA.** It's the #1 tool. Don't start by defending the Trinity. Start by putting **their book** on the stand.
 > *"Why would I fix something that ain't broke? If this one line has you guys squirming like this… why would I use something else?"* ([▶](https://youtu.be/xzgCmA5f7oo?t=1350))
@@ -417,7 +417,7 @@ What wins informal conversations isn't knowing more verses. It's **how you run t
 - **Opener:** *"So where does Jesus mention Muhammad?"*
 - **Or open with:** *"So the Comforter here, you believe that's Muhammad?"* (Once they cite John 14.)
 - **John 14:16–17**: the Helper is "the **Spirit** of truth… you **know** him, for he **dwells with you** and will be **in you**." *"Was Muhammad living with the disciples? So this can't be Muhammad, right?"* ([▶](https://youtu.be/qKfI6OlRhtM?t=357)) v.26: "the **Holy Spirit**, whom the Father will send." Acts 1:5, 8 → Pentecost (Acts 2), a few weeks later, not 600 years.
-- **Q 61:6** says Jesus foretold "Ahmad." → *"Show me where Jesus mentions Ahmad by name. And show me from your Quran that Ahmad is Muhammad."* ([▶](https://youtu.be/qKfI6OlRhtM?t=868)) Same root? Allah is called *Mahmud* (same root). Same root doesn't mean same person. ([▶](https://youtu.be/qKfI6OlRhtM?t=911))
+- **Q 61:6** says Jesus foretold "Ahmad." → *"Show me where Jesus mentions Ahmad by name. And show me from your Quran that Ahmad is Muhammad."* ([▶](https://youtu.be/qKfI6OlRhtM?t=868)) Same root? Allah is called *al-Hamid* (same root). Same root doesn't mean same person. ([▶](https://youtu.be/qKfI6OlRhtM?t=911))
 - *"The Romans / Constantine / Paul removed Ahmad."* → *"What did they gain politically by removing someone 600 years before he was born? Give me the source, date, and name."* ([▶](https://youtu.be/XB83I9YYMeg?t=1356))
 - **Deut 18:18** ("a prophet like you from among their **brothers**"): Deut 17:15 and 18:2 define "brothers" as fellow **Israelites**. Acts 3:22 applies it to Jesus.
 
@@ -436,8 +436,8 @@ What wins informal conversations isn't knowing more verses. It's **how you run t
 #### PLAY 5: Tawhid consistency (the Black Stone)
 - **Opener:** *"Can the Black Stone benefit you or harm you? Yes or no?"*
 - **Or open with:** *"Why are people rubbing oil on this rock that doesn't do anything for you?"*
-- Muslims say the Stone can't benefit or harm (Umar), yet **Sunan an-Nasa'i 2919** says touching the corners **erases sins**; Bukhari 1610; Nasa'i 2935. ([▶](https://youtu.be/W5KKnXb6JO4?t=1002))
-- *"If this thing isn't God, why are you kissing it and prostrating to it? Doing it only because Muhammad did is following a man to a tee."* ([▶](https://youtu.be/W5KKnXb6JO4?t=1069))
+- Muslims say the Stone can't benefit or harm (Umar, Bukhari 1597), yet **Sunan an-Nasa'i 2919** says touching the corners **erases sins**; Bukhari 1610; Nasa'i 2935. ([▶](https://youtu.be/W5KKnXb6JO4?t=1002))
+- *"If this thing isn't God, why kiss it and touch it for forgiveness? Doing it only because Muhammad did is following a man to a tee."* ([▶](https://youtu.be/W5KKnXb6JO4?t=1069))
 
 #### ⚠️ PLAY 6: Moral problems (only if they claim Islam is morally superior)
 **Opener:** *"You say Islam is morally superior. Can we read a few verses of the Quran and see?"*
@@ -466,7 +466,7 @@ Used against a Quran-only Muslim ([▶](https://youtu.be/DPFeuxNkxCA?t=710)): **
 | **"God can simply forgive. He doesn't need a sacrifice."** | A judge who lets the guilty go is unjust. God will by no means leave the guilty unpunished. At the cross He is both **just and the justifier**. Even the Quran ransoms Abraham's son with a great sacrifice. | Ex 34:7; Prov 17:15; Heb 9:22; Rom 3:25–26; Q 37:107 | *"If a judge lets the guilty go free, is he a just judge?"* |
 | **"No one can carry another person's sins (Q 6:164)."** | The Torah the Quran confirms is built on substitution: the sins of the people laid on another. Isaiah foretold One who would bear the iniquity of us all. | Lev 16:21–22; Isa 53:5–6; 2 Cor 5:21; Q 6:164 | *"What does Isaiah 53:6 say Yahweh laid on Him?"* |
 | **"Jesus and His disciples were Muslims."** | His disciples worshiped Him, called Him Lord and God, and preached that He was crucified and raised. | Matt 28:17; John 20:28; Acts 2:23–24; Acts 2:36 | *"Would a Muslim say 'My Lord and my God' to Jesus?"* |
-| **"Muhammad is named in Song of Songs 5:16."** | The Hebrew word there is an ordinary word for "desirable," used by a bride about her beloved. The same word family describes Ezekiel's wife and children in Hosea. | Song 5:16; Ezek 24:16; Hos 9:16 | *"Is Muhammad also in Ezekiel 24:16, where the same word is used?"* |
+| **"Muhammad is named in Song of Songs 5:16."** | The Hebrew word there is an ordinary word for "desirable," used by a bride about her beloved. The same word family describes Ezekiel's wife (Ezek 24:16) and Israel's children (Hos 9:16). | Song 5:16; Ezek 24:16; Hos 9:16 | *"Is Muhammad also in Ezekiel 24:16, where the same word is used?"* |
 | **"Islam is the fastest-growing religion, so it must be true."** | Truth isn't a headcount. Jesus said the many take the wide road. | Matt 7:13–14 | *"Is something true because many people believe it?"* |
 | **"The Quran is a miracle. No one can produce a chapter like it."** | That test has no judge and no standard. The Quran gives a better test: check with those who read the Scripture before. | Q 2:23; Q 10:94 | *"Who judges the contest, and by what standard?"* |
 | **"Jesus said, 'Why do you call Me good? Only God is good.'"** | He didn't say He isn't good. He asked the man **why** he said it. Jesus calls Himself the Good Shepherd. | Mark 10:18; John 10:11 | *"Is Jesus good?"* |
@@ -477,11 +477,11 @@ Used against a Quran-only Muslim ([▶](https://youtu.be/DPFeuxNkxCA?t=710)): **
 
 # ⬛ ATHEISTS / AGNOSTICS
 
-> **Note:** ▶ links show the move in a real conversation. ➕ marks standard Reformed/classical material added so the section is complete. Same style throughout: short questions, burden on them.
+> **Note:** ▶ links show the move in a real conversation. ➕ marks standard classical apologetics material added so the section is complete. Same style throughout: short questions, burden on them.
 
 **What they believe:** Atheist: usually "I don't believe in God" (some say "there is no God"). Agnostic: "I don't know" or "we can't know." Most hold that the universe and life came from natural causes alone and the Bible is a human book. Many see right and wrong as human-made.
 
-**Mindset:** Most "atheists" in casual talk are really agnostics who haven't thought it through. The first move is to **make them define their position**, and they usually back off from "God doesn't exist" to "I don't know." ([▶](https://youtu.be/cPUJ9-TG54U?t=14))
+**Mindset:** Many "atheists" in casual talk are really saying "I don't know." The first move is to **make them define their position**, and they usually back off from "God doesn't exist" to "I don't know." ([▶](https://youtu.be/cPUJ9-TG54U?t=14))
 
 <a id="ath-card"></a>
 ### 📇 Atheist Cheat Card
@@ -506,13 +506,13 @@ Used against a Quran-only Muslim ([▶](https://youtu.be/DPFeuxNkxCA?t=710)): **
 - *"Life always comes from life. That's a scientific principle (biogenesis)."* ([▶](https://youtu.be/cPUJ9-TG54U?t=293)) Evolution talks about life that already exists **changing**. It doesn't explain where life **came from**.
 - **Ps 19:1; Rom 1:20; Acts 17:24–28** ("in Him we live and move and have our being").
 
-#### PLAY 3: The "borrowed capital" questions (Reformed / presuppositional)
+#### PLAY 3: The "borrowed capital" questions (presuppositional)
 - **Opener:** *"Can I ask you about three things we both rely on every day: logic, right and wrong, and your own reasoning?"*
 - **Or open with:** *"Where do you get this idea of bad from?"* (When they call something evil or unfair.)
 - **Logic:** *"Are the laws of logic physical? Do they change? Where do universal, unchanging laws come from in a universe that's just matter in motion?"*
 - **Morality:** *"Is it **objectively** wrong to torture a child for fun? Wrong according to whom?"* → if they say it's subjective, then it's just preference. If they say it's objective, they need a transcendent standard. **Rom 2:14–15**, the law is written on the heart.
 - **Reason:** *"If your brain is just chemistry shaped for survival, not truth, why trust it to reason that God doesn't exist?"*
-- **Goal:** show they **use** God's world (logic, morality, reason) while denying Him (Rom 1:18–21; Prov 1:7).
+- **Goal:** show they **use** God's world (logic, morality, reason) while denying Him (Rom 1:18–21; Prov 1:7). For the full approach, open [Worldviews: how do you know?](/topic/worldviews-how-do-you-know).
 
 #### PLAY 4: The Resurrection (the center)
 - **Opener:** *"If Jesus really rose from the dead, would you become a Christian?"*
@@ -534,7 +534,7 @@ Used against a Quran-only Muslim ([▶](https://youtu.be/DPFeuxNkxCA?t=710)): **
 | **"Heaven/hell is a game show: pick a door."** | It's not a game show. It's a **command and an invitation**. God commands everyone to repent and offers Himself, the greatest good. Whoever refuses Him is responsible for that refusal. | Acts 17:30; Isa 55:1–7; Rev 22:17 | *"It's not God playing games. You're playing games with Him."* ([▶](https://youtu.be/q6gmqKpQ80o?t=888)) |
 | **"So many religions. How would I know which one?"** | Follow the evidence step by step: (1) there's a Source of life → (2) which claim about that Source is **historically testable**? Only Christianity rests on a public resurrection. | Acts 17:30–31 | *"Which other religion stakes everything on a public event you can investigate?"* ([▶](https://youtu.be/cPUJ9-TG54U?t=327)) |
 | **"Who created God?"** | The question assumes everything needs a cause. It doesn't. Only what **begins to exist** needs a cause. God never began; He is uncaused by definition, the cause of everything outside Himself. Asking who made Him is a category mistake, like asking who made the One who was never made. | Ps 90:2; Isa 43:10; John 1:3 | *"Does everything need a cause, or only things that begin to exist?"* |
-| **"I'm not 100% sure. I have doubts."** | Faith isn't intellectual perfection. Jesus welcomes doubters who come to Him. | **Mark 9:24** ("I believe; help my unbelief"); Rom 10:9–13 | *"Do you believe Christ died for your sins and rose again? Will you turn from your sin and trust Him as Lord?"* (A caller came to Christ live this way.) ([▶](https://youtu.be/rgTyjyoS1DE?t=2240)) |
+| **"I'm not 100% sure. I have doubts."** | Faith isn't intellectual perfection. Jesus welcomes doubters who come to Him. | **Mark 9:24** ("I believe; help my unbelief"); Rom 10:9–13 | *"Do you believe Christ died for your sins and rose again? Will you turn from your sin and trust Him as Lord?"* ([▶](https://youtu.be/rgTyjyoS1DE?t=2240)) |
 | **"There's no evidence for God."** | Creation itself is the evidence: a universe that began, runs on laws, and holds minds and morals. And God gave proof to all by raising Jesus from the dead. | Rom 1:19–20; Ps 19:1; Acts 17:31 | *"What evidence would you accept?"* |
 | **"Science has disproved God."** | Science studies how creation works. It depends on order and laws it cannot explain, and it cannot tell you why anything exists or what is right. | Ps 19:1; Col 1:17; Heb 1:3 | *"Which experiment showed there is no God?"* |
 | **"If God is good, why is there so much evil and suffering?"** | Calling something evil assumes a real standard of good. Scripture names the cause (the fall), shows God turning evil to good, entering suffering at the cross, and promising to end it. | Gen 50:20; Rom 8:28; Acts 2:23; Rev 21:4 | *"By what standard do you call it evil?"* |

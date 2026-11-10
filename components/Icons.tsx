@@ -75,6 +75,15 @@ export const NoteIcon = () => (
   </Icon>
 );
 
+export const GameIcon = () => (
+  <Icon>
+    <rect x="3" y="7.500" width="18" height="10" rx="3.500" />
+    <path d="M7.500 10.500v4M5.500 12.500h4" />
+    <circle cx="15" cy="13.500" r="0.800" fill="currentColor" />
+    <circle cx="17.500" cy="11.500" r="0.800" fill="currentColor" />
+  </Icon>
+);
+
 /** The app's emblem (the same picture as the home-screen icon). */
 export function Mark({ size = 48 }: { size?: number }) {
   // eslint-disable-next-line @next/next/no-img-element

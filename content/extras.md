@@ -32,7 +32,7 @@ When you only have a minute, walk these in order. (Rom 3:23; Rom 6:23; Rom 5:8; 
 For a step-by-step way to do this in a real conversation, using the Ten Commandments first and then the cross, open [The Way of the Master](/topic/the-way-of-the-master).
 
 ## If they respond
-Pray with them. Get them a Bible and get them into a church that preaches it, where they can be baptized as a believer. Follow up. (Acts 2:41–42; Matt 28:19–20)
+Pray with them. Get them a Bible and get them into a church that preaches it, where they can be baptized by immersion as a believer. Follow up. (Acts 2:41–42; Matt 28:19–20)
 
 ## If they don't
 Stay warm and leave the door open. You plant and water; God gives the growth. (1 Cor 3:6–7; 1 Pet 3:15–16; 2 Tim 2:24–26)
@@ -79,6 +79,45 @@ Believing a parachute exists won't save you; you have to put it on. Turn from si
 - **Tone:** kind, patient, and plainly concerned for them. (2 Tim 2:24–26)
 
 Then go back to [The Gospel](/topic/the-gospel) for the full message and what to do when they respond.
+
+# Worldviews: how do you know?
+> Everyone starts somewhere. Only God's word gives you ground to stand on.
+
+A presupposition is what a person takes for granted before the argument starts. The atheist is not neutral, and neither are you. He already knows God and suppresses that truth (Rom 1:18–21), so you are not handing him a God he has never met. You are showing him that he leans on God every time he reasons, judges or trusts his own mind. (Prov 1:7; Col 2:3; Ps 14:1; 1 Cor 1:20)
+
+## What you are showing
+He does not believe in nothing. He believes in logic, in right and wrong, in the order of nature, and in his own reasoning. Your point is that his worldview cannot **account for** any of them, and yours can. He is sitting in God's lap to slap His face.
+
+## Step 1: Don't give up your ground
+Do not agree to set the Bible aside and argue from "neutral" facts. No one is neutral, and Scripture is the standard, not the thing on trial. (Prov 26:4; 2 Cor 10:5; 1 Pet 3:15)
+**Ask:** *"Would you set aside your trust in reason to prove reason? Then why should I set aside God's word?"*
+
+## Step 2: Step into his view and show it cannot stand
+Take his view on its own terms and ask what follows. (Prov 26:5)
+- **Truth and knowledge:** *"How do you know that? How do you know anything for certain?"* If he says we can't know anything for certain: *"Are you certain of that?"*
+- **Logic:** *"Are the laws of logic made of matter? Do they change? Where do unchanging, universal laws come from in a universe of matter in motion?"*
+- **Right and wrong:** *"Is that wrong for everyone, or only for you? If only for you, why should I care? If for everyone, who set the standard?"*
+- **His own mind:** *"If your thoughts are chemistry shaped for survival, why trust them to tell you what is true?"*
+- **Science:** *"Why expect nature to act tomorrow the way it did today?"* (Gen 8:22; Col 1:17; Heb 1:3)
+- **Meaning:** *"If we came from nothing and go to nothing, on what basis does anything you do matter?"* (Eccl 1:2; Eccl 12:13–14)
+
+## Step 3: Bring him back to your ground
+Show that what he has been borrowing belongs to God. Logic reflects God's unchanging mind, morality His holy character, the order of nature His faithfulness, and our reasoning His image in us. (Gen 1:27; Mal 3:6; John 1:1–3; Acts 17:24–28)
+
+## If he says
+- **"I just lack belief. I don't have to prove anything."** → *"You still reason, judge and trust your mind every day. What do those rest on?"*
+- **"That's circular. You're using the Bible to prove the Bible."** → Everyone's final authority has to vouch for itself, or it isn't final. He uses reason to defend reason. The question is which starting point makes sense of everything else. (Heb 6:13)
+- **"Logic is just how humans think."** → Then it could have been otherwise, and it would not bind anyone who thinks differently, including you.
+- **"Morality comes from evolution or society."** → That tells you what people **do** approve of, not what they **ought** to. Was slavery right when society approved it?
+- **"I don't know where they come from, and that's fine."** → *"So you rely on them with no reason to. That is faith. I can tell you where they come from."*
+
+## Watch out
+- **Don't say "you believe in nothing."** He will name things he believes, and he'll be right. Say his worldview can't account for them.
+- **Don't treat it as a trick.** Winning the exchange saves no one. He is not confused; he is suppressing the truth, and only God opens blind eyes. (2 Cor 4:4–6; 1 Cor 2:14)
+- **Evidence still belongs.** The apostles pointed to the empty tomb and the eyewitnesses. Give the evidence as God's facts, not as something a neutral judge gets to rule on. (Acts 17:31; 1 Cor 15:3–8)
+- **Get to the cross.** This clears the ground. Then give [The Gospel](/topic/the-gospel).
+
+For a short version to run live, open [the borrowed capital play](/atheist/case/play-3).
 
 # The Trinity
 > One God in three Persons.

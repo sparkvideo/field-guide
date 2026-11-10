@@ -17,7 +17,7 @@ Source: content/field_guide_apologetics.md (597 lines)
 - The Method: 10 moves, 5 universal tools, 12 ▶ links
 - Holy Spirit Play: Step A 6 rows + 5 "if they say"; Step B 7 rows (5 OT→NT pairs) + 3 "if they say"; 20 ▶ links; 0 ➕ items
 - Video References: 38 videos
-- Extra pages (content/extras.md): The Gospel (9 sections), The Way of the Master (8 sections), The Trinity (6 sections), Is the Bible reliable? (6 sections), Words they use (6 sections); 0 ➕ items
+- Extra pages (content/extras.md): The Gospel (9 sections), The Way of the Master (8 sections), Worldviews: how do you know? (6 sections), The Trinity (6 sections), Is the Bible reliable? (6 sections), Words they use (6 sections); 0 ➕ items
 
 ## Nothing-dropped checks
 
@@ -30,10 +30,10 @@ Source: content/field_guide_apologetics.md (597 lines)
 
 ## Verses
 
-- Bible references: 380 unique (358 verses/ranges + 22 whole-chapter mentions)
-- Quran: 25 · Book of Mormon: 6 · D&C: 1 · JST: 1 · Hadith: 4
-- Resolve in the bundled BSB: 380 of 380 ✓
-- LSB slots: 358 total, **4 still empty**
+- Bible references: 392 unique (370 verses/ranges + 22 whole-chapter mentions)
+- Quran: 25 · Book of Mormon: 6 · D&C: 1 · JST: 1 · Hadith: 5
+- Resolve in the bundled BSB: 392 of 392 ✓
+- LSB slots: 370 total, **12 still empty**
 - Whole-chapter mentions (no LSB slot; they open the chapter in the reader): Num 21, Deut 34, Ps 8, Ps 22, Ps 82, Ps 95, Ps 102, Prov 8, Isa 42, Isa 43–45, Isa 53, Isa 61, Ezek 37, Dan 7, Mark 15, John 1, John 14, Acts 2, Acts 3, 1 Cor 8, Phil 2, Heb 2
 - Chapter:verse numbers written without a book name (not turned into chips):
   - Muslim objection 16: "5:16"
