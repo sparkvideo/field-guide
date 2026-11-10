@@ -46,7 +46,8 @@ export default async function TopicPage({ params }: { params: Promise<{ slug: st
                     <div key={i} className="border-t border-line py-3 first:border-t-0">
                       <dt className="font-semibold">{l.label}</dt>
                       <dd className="muted">
-                        <Md text={l.text} />
+                        <Md text={withoutRefs(l.text)} />
+                        <VerseChips verses={l.verses} context={l.text} />
                       </dd>
                     </div>
                   ))}
@@ -75,6 +76,13 @@ export default async function TopicPage({ params }: { params: Promise<{ slug: st
           );
         })}
 
+        {t.slug === "the-gospel" && (
+          <p className="mt-10">
+            <Link className="btn primary" href="/topic/the-way-of-the-master">
+              Walk someone through it: The Way of the Master
+            </Link>
+          </p>
+        )}
         {t.slug !== "the-gospel" && (
           <p className="mt-10">
             <Link className="btn primary" href="/topic/the-gospel">

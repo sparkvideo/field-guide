@@ -46,6 +46,11 @@ export const CrossIcon = () => (
     <path d="M12 3.500v17M7 8.500h10" />
   </Icon>
 );
+export const TabletsIcon = () => (
+  <Icon>
+    <path d="M4.500 19.500V9a3.500 3.500 0 0 1 7 0v10.500zM12.500 19.500V9a3.500 3.500 0 0 1 7 0v10.500zM7 12h2M7 15h2M15 12h2M15 15h2" />
+  </Icon>
+);
 export const TriangleIcon = () => (
   <Icon>
     <path d="M12 4.500l8.500 14.500h-17z" />

@@ -9,7 +9,7 @@ import { getPins, getRecent, markSeen, seen, type Pin } from "@/lib/pins";
 import { formatRef, parseReference, readerHref, type TypedRef } from "@/lib/reference";
 import { searchGuide } from "@/lib/search";
 import { Chevron } from "./Bits";
-import { BookIcon, CrossIcon, DoorIcon, DrillIcon, FlameIcon, Mark, NoteIcon, PenIcon, TargetIcon, TriangleIcon, WordsIcon } from "./Icons";
+import { BookIcon, CrossIcon, DoorIcon, DrillIcon, FlameIcon, Mark, NoteIcon, PenIcon, TabletsIcon, TargetIcon, TriangleIcon, WordsIcon } from "./Icons";
 import { NotificationsRow } from "./Notifications";
 import { readStreak } from "./Train";
 
@@ -266,6 +266,14 @@ export function Home({ groups }: { groups: GroupRow[] }) {
               <span>
                 <span className="block text-[20px] font-semibold">The Gospel</span>
                 <span className="sub">Where every conversation is headed</span>
+              </span>
+              <Chevron />
+            </Link>
+            <Link href="/topic/the-way-of-the-master" className="row">
+              <TabletsIcon />
+              <span>
+                <span className="block text-[20px] font-semibold">The Way of the Master</span>
+                <span className="sub">The Ten Commandments, then the cross</span>
               </span>
               <Chevron />
             </Link>

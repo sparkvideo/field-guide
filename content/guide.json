@@ -9338,18 +9338,154 @@
       "title": "The Gospel",
       "intro": [
         {
-          "text": "Winning the argument saves no one. Christ does. When the door opens, walk through these four truths.",
+          "text": "➕ Winning the argument saves no one. Christ does. Say the whole message plainly, call for a response, and leave the results to God.",
           "verses": [],
           "links": [],
-          "supplemental": false
+          "supplemental": true
         }
       ],
       "sections": [
         {
-          "heading": "God is holy, and He made us",
+          "heading": "Before you speak",
           "lines": [
             {
-              "text": "➕ God created all things and made us for Himself. He is holy and just, and He will judge every person. (Gen 1:1; Isa 6:3; Acts 17:24–31; Heb 9:27)",
+              "label": "God saves; you are faithful",
+              "text": "➕ your job is to say the truth clearly. God gives the growth. (1 Cor 3:6–7; Rom 1:16; John 6:44)",
+              "verses": [
+                {
+                  "label": "1 Cor 3:6–7",
+                  "kind": "bible",
+                  "key": "1-corinthians.3.6-7",
+                  "book": "1-corinthians",
+                  "chapter": 3,
+                  "verseStart": 6,
+                  "verseEnd": 7
+                },
+                {
+                  "label": "Rom 1:16",
+                  "kind": "bible",
+                  "key": "romans.1.16",
+                  "book": "romans",
+                  "chapter": 1,
+                  "verseStart": 16,
+                  "verseEnd": 16
+                },
+                {
+                  "label": "John 6:44",
+                  "kind": "bible",
+                  "key": "john.6.44",
+                  "book": "john",
+                  "chapter": 6,
+                  "verseStart": 44,
+                  "verseEnd": 44
+                }
+              ],
+              "links": [],
+              "supplemental": true
+            },
+            {
+              "label": "Law before grace",
+              "text": "➕ a person has to see their sin and God's judgment before the cross makes sense to them. (Rom 3:19–20; Gal 3:24)",
+              "verses": [
+                {
+                  "label": "Rom 3:19–20",
+                  "kind": "bible",
+                  "key": "romans.3.19-20",
+                  "book": "romans",
+                  "chapter": 3,
+                  "verseStart": 19,
+                  "verseEnd": 20
+                },
+                {
+                  "label": "Gal 3:24",
+                  "kind": "bible",
+                  "key": "galatians.3.24",
+                  "book": "galatians",
+                  "chapter": 3,
+                  "verseStart": 24,
+                  "verseEnd": 24
+                }
+              ],
+              "links": [],
+              "supplemental": true
+            },
+            {
+              "label": "Jesus is Lord",
+              "text": "➕ the call is to repent and follow Christ, not to repeat a prayer or add Jesus to a life that stays the same. (Luke 9:23; Rom 10:9; Acts 20:21)",
+              "verses": [
+                {
+                  "label": "Luke 9:23",
+                  "kind": "bible",
+                  "key": "luke.9.23",
+                  "book": "luke",
+                  "chapter": 9,
+                  "verseStart": 23,
+                  "verseEnd": 23
+                },
+                {
+                  "label": "Rom 10:9",
+                  "kind": "bible",
+                  "key": "romans.10.9",
+                  "book": "romans",
+                  "chapter": 10,
+                  "verseStart": 9,
+                  "verseEnd": 9
+                },
+                {
+                  "label": "Acts 20:21",
+                  "kind": "bible",
+                  "key": "acts.20.21",
+                  "book": "acts",
+                  "chapter": 20,
+                  "verseStart": 21,
+                  "verseEnd": 21
+                }
+              ],
+              "links": [],
+              "supplemental": true
+            },
+            {
+              "label": "No false promises",
+              "text": "➕ the gospel offers forgiveness and Christ Himself, not health, wealth or an easier life. (Phil 3:8; Mark 8:36; 2 Tim 3:12)",
+              "verses": [
+                {
+                  "label": "Phil 3:8",
+                  "kind": "bible",
+                  "key": "philippians.3.8",
+                  "book": "philippians",
+                  "chapter": 3,
+                  "verseStart": 8,
+                  "verseEnd": 8
+                },
+                {
+                  "label": "Mark 8:36",
+                  "kind": "bible",
+                  "key": "mark.8.36",
+                  "book": "mark",
+                  "chapter": 8,
+                  "verseStart": 36,
+                  "verseEnd": 36
+                },
+                {
+                  "label": "2 Tim 3:12",
+                  "kind": "bible",
+                  "key": "2-timothy.3.12",
+                  "book": "2-timothy",
+                  "chapter": 3,
+                  "verseStart": 12,
+                  "verseEnd": 12
+                }
+              ],
+              "links": [],
+              "supplemental": true
+            }
+          ]
+        },
+        {
+          "heading": "God is holy",
+          "lines": [
+            {
+              "text": "➕ God created all things and made us for Himself. He is holy and just, He cannot overlook sin, and He will judge every person. (Gen 1:1; Isa 6:3; Hab 1:13; Acts 17:24–31; Heb 9:27)",
               "verses": [
                 {
                   "label": "Gen 1:1",
@@ -9368,6 +9504,15 @@
                   "chapter": 6,
                   "verseStart": 3,
                   "verseEnd": 3
+                },
+                {
+                  "label": "Hab 1:13",
+                  "kind": "bible",
+                  "key": "habakkuk.1.13",
+                  "book": "habakkuk",
+                  "chapter": 1,
+                  "verseStart": 13,
+                  "verseEnd": 13
                 },
                 {
                   "label": "Acts 17:24–31",
@@ -9393,7 +9538,7 @@
             },
             {
               "label": "Ask",
-              "text": "*\"If you died tonight and God asked why He should let you in, what would you say?\"*",
+              "text": "*\"What do you think happens after we die?\"*",
               "verses": [],
               "links": [],
               "supplemental": false
@@ -9401,10 +9546,10 @@
           ]
         },
         {
-          "heading": "We have sinned",
+          "heading": "We are sinners under judgment",
           "lines": [
             {
-              "text": "➕ Every one of us has broken God's law. The wages of sin is death, and no amount of good works can pay it off. (Rom 3:10–12; Rom 3:23; Rom 6:23; Eph 2:1–3; Isa 64:6)",
+              "text": "➕ Every one of us has broken God's law. We are not basically good people who slip up; we are dead in sin, and the wages of sin is death. No amount of good works can pay it off. (Rom 3:10–12; Rom 3:23; Rom 6:23; Eph 2:1–3; Isa 64:6)",
               "verses": [
                 {
                   "label": "Rom 3:10–12",
@@ -9468,7 +9613,7 @@
           "heading": "Christ died and rose",
           "lines": [
             {
-              "text": "➕ God the Son became man, lived the life we have not lived, and died in the place of sinners, bearing the judgment they deserve. He was buried and rose bodily on the third day. (John 1:14; Isa 53:5–6; 2 Cor 5:21; 1 Pet 3:18; Rom 5:8; 1 Cor 15:3–4)",
+              "text": "➕ God the Son became man, lived the sinless life we have not lived, and died in the place of sinners, bearing the wrath they deserve. He was buried, rose bodily on the third day, and is Lord of all. (John 1:14; Isa 53:5–6; 2 Cor 5:21; 1 Pet 3:18; Rom 5:8; 1 Cor 15:3–4; Phil 2:9–11)",
               "verses": [
                 {
                   "label": "John 1:14",
@@ -9523,6 +9668,15 @@
                   "chapter": 15,
                   "verseStart": 3,
                   "verseEnd": 4
+                },
+                {
+                  "label": "Phil 2:9–11",
+                  "kind": "bible",
+                  "key": "philippians.2.9-11",
+                  "book": "philippians",
+                  "chapter": 2,
+                  "verseStart": 9,
+                  "verseEnd": 11
                 }
               ],
               "links": [],
@@ -9541,7 +9695,7 @@
           "heading": "Repent and believe",
           "lines": [
             {
-              "text": "➕ God commands all people everywhere to repent. Whoever turns from sin and trusts in Christ alone is forgiven and has eternal life: by grace, through faith, not by works. No one who comes to Him is turned away. (Mark 1:15; Acts 17:30; John 3:16; Eph 2:8–9; Rom 10:9–13; John 6:37)",
+              "text": "➕ God commands all people everywhere to repent. Whoever turns from sin and trusts in Christ alone is forgiven and has eternal life: by grace, through faith, not by works. Following Him costs everything, and no one who comes to Him is turned away. (Mark 1:15; Acts 17:30; John 3:16; Eph 2:8–9; Rom 10:9–13; Luke 14:27–28; John 6:37)",
               "verses": [
                 {
                   "label": "Mark 1:15",
@@ -9589,6 +9743,15 @@
                   "verseEnd": 13
                 },
                 {
+                  "label": "Luke 14:27–28",
+                  "kind": "bible",
+                  "key": "luke.14.27-28",
+                  "book": "luke",
+                  "chapter": 14,
+                  "verseStart": 27,
+                  "verseEnd": 28
+                },
+                {
                   "label": "John 6:37",
                   "kind": "bible",
                   "key": "john.6.37",
@@ -9604,6 +9767,83 @@
             {
               "label": "Ask",
               "text": "*\"What is keeping you from turning to Christ today?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ]
+        },
+        {
+          "heading": "The short version: the Romans Road",
+          "lines": [
+            {
+              "text": "➕ When you only have a minute, walk these in order. (Rom 3:23; Rom 6:23; Rom 5:8; Rom 10:9–10; Rom 10:13; Rom 8:1)",
+              "verses": [
+                {
+                  "label": "Rom 3:23",
+                  "kind": "bible",
+                  "key": "romans.3.23",
+                  "book": "romans",
+                  "chapter": 3,
+                  "verseStart": 23,
+                  "verseEnd": 23
+                },
+                {
+                  "label": "Rom 6:23",
+                  "kind": "bible",
+                  "key": "romans.6.23",
+                  "book": "romans",
+                  "chapter": 6,
+                  "verseStart": 23,
+                  "verseEnd": 23
+                },
+                {
+                  "label": "Rom 5:8",
+                  "kind": "bible",
+                  "key": "romans.5.8",
+                  "book": "romans",
+                  "chapter": 5,
+                  "verseStart": 8,
+                  "verseEnd": 8
+                },
+                {
+                  "label": "Rom 10:9–10",
+                  "kind": "bible",
+                  "key": "romans.10.9-10",
+                  "book": "romans",
+                  "chapter": 10,
+                  "verseStart": 9,
+                  "verseEnd": 10
+                },
+                {
+                  "label": "Rom 10:13",
+                  "kind": "bible",
+                  "key": "romans.10.13",
+                  "book": "romans",
+                  "chapter": 10,
+                  "verseStart": 13,
+                  "verseEnd": 13
+                },
+                {
+                  "label": "Rom 8:1",
+                  "kind": "bible",
+                  "key": "romans.8.1",
+                  "book": "romans",
+                  "chapter": 8,
+                  "verseStart": 1,
+                  "verseEnd": 1
+                }
+              ],
+              "links": [],
+              "supplemental": true
+            }
+          ]
+        },
+        {
+          "heading": "How to walk someone through it",
+          "lines": [
+            {
+              "text": "For a step-by-step way to do this in a real conversation, using the Ten Commandments first and then the cross, open [The Way of the Master](/topic/the-way-of-the-master).",
               "verses": [],
               "links": [],
               "supplemental": false
@@ -9683,14 +9923,443 @@
       "subtitle": "Every conversation is headed here."
     },
     {
+      "slug": "the-way-of-the-master",
+      "title": "The Way of the Master",
+      "intro": [
+        {
+          "text": "➕ Law to the proud, grace to the humble (James 4:6). The Ten Commandments work like a mirror: they show a person their sin so that the cross makes sense. Jesus did this with the rich young ruler. (Rom 3:19–20; Rom 7:7; Gal 3:24; Mark 10:17–22)",
+          "verses": [
+            {
+              "label": "Jas 4:6",
+              "kind": "bible",
+              "key": "james.4.6",
+              "book": "james",
+              "chapter": 4,
+              "verseStart": 6,
+              "verseEnd": 6
+            },
+            {
+              "label": "Rom 3:19–20",
+              "kind": "bible",
+              "key": "romans.3.19-20",
+              "book": "romans",
+              "chapter": 3,
+              "verseStart": 19,
+              "verseEnd": 20
+            },
+            {
+              "label": "Rom 7:7",
+              "kind": "bible",
+              "key": "romans.7.7",
+              "book": "romans",
+              "chapter": 7,
+              "verseStart": 7,
+              "verseEnd": 7
+            },
+            {
+              "label": "Gal 3:24",
+              "kind": "bible",
+              "key": "galatians.3.24",
+              "book": "galatians",
+              "chapter": 3,
+              "verseStart": 24,
+              "verseEnd": 24
+            },
+            {
+              "label": "Mark 10:17–22",
+              "kind": "bible",
+              "key": "mark.10.17-22",
+              "book": "mark",
+              "chapter": 10,
+              "verseStart": 17,
+              "verseEnd": 22
+            }
+          ],
+          "links": [],
+          "supplemental": true
+        }
+      ],
+      "sections": [
+        {
+          "heading": "1. Start with an everyday question",
+          "lines": [
+            {
+              "text": "➕ Move from ordinary talk to spiritual things with one question.",
+              "verses": [],
+              "links": [],
+              "supplemental": true
+            },
+            {
+              "label": "Ask",
+              "text": "*\"What do you think happens after we die?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ]
+        },
+        {
+          "heading": "2. Are you a good person?",
+          "lines": [
+            {
+              "text": "➕ Almost everyone says yes. Let them say it. (Prov 20:6)",
+              "verses": [
+                {
+                  "label": "Prov 20:6",
+                  "kind": "bible",
+                  "key": "proverbs.20.6",
+                  "book": "proverbs",
+                  "chapter": 20,
+                  "verseStart": 6,
+                  "verseEnd": 6
+                }
+              ],
+              "links": [],
+              "supplemental": true
+            },
+            {
+              "label": "Ask",
+              "text": "*\"Would you consider yourself a good person?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ]
+        },
+        {
+          "heading": "3. Have you kept the Ten Commandments?",
+          "lines": [
+            {
+              "text": "➕ Walk through a few, one at a time, and let them answer each. (Ex 20:1–17)",
+              "verses": [
+                {
+                  "label": "Ex 20:1–17",
+                  "kind": "bible",
+                  "key": "exodus.20.1-17",
+                  "book": "exodus",
+                  "chapter": 20,
+                  "verseStart": 1,
+                  "verseEnd": 17
+                }
+              ],
+              "links": [],
+              "supplemental": true
+            },
+            {
+              "label": "Lying",
+              "text": "➕ *\"Have you ever told a lie? What does that make you?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": true
+            },
+            {
+              "label": "Stealing",
+              "text": "➕ *\"Have you ever taken anything that wasn't yours, whatever its value?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": true
+            },
+            {
+              "label": "God's name",
+              "text": "➕ *\"Have you ever used God's name as a curse word?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": true
+            },
+            {
+              "label": "Lust",
+              "text": "➕ Jesus said that looking with lust is adultery in the heart. *\"Have you ever done that?\"* (Matt 5:27–28)",
+              "verses": [
+                {
+                  "label": "Matt 5:27–28",
+                  "kind": "bible",
+                  "key": "matthew.5.27-28",
+                  "book": "matthew",
+                  "chapter": 5,
+                  "verseStart": 27,
+                  "verseEnd": 28
+                }
+              ],
+              "links": [],
+              "supplemental": true
+            },
+            {
+              "label": "Hatred",
+              "text": "➕ Scripture counts hatred as murder in the heart. (Matt 5:21–22; 1 John 3:15)",
+              "verses": [
+                {
+                  "label": "Matt 5:21–22",
+                  "kind": "bible",
+                  "key": "matthew.5.21-22",
+                  "book": "matthew",
+                  "chapter": 5,
+                  "verseStart": 21,
+                  "verseEnd": 22
+                },
+                {
+                  "label": "1 John 3:15",
+                  "kind": "bible",
+                  "key": "1-john.3.15",
+                  "book": "1-john",
+                  "chapter": 3,
+                  "verseStart": 15,
+                  "verseEnd": 15
+                }
+              ],
+              "links": [],
+              "supplemental": true
+            }
+          ]
+        },
+        {
+          "heading": "4. Judgment: innocent or guilty?",
+          "lines": [
+            {
+              "text": "➕ Sum up what they admitted in their own words, then ask. (Heb 9:27; Rom 2:15–16; James 2:10)",
+              "verses": [
+                {
+                  "label": "Heb 9:27",
+                  "kind": "bible",
+                  "key": "hebrews.9.27",
+                  "book": "hebrews",
+                  "chapter": 9,
+                  "verseStart": 27,
+                  "verseEnd": 27
+                },
+                {
+                  "label": "Rom 2:15–16",
+                  "kind": "bible",
+                  "key": "romans.2.15-16",
+                  "book": "romans",
+                  "chapter": 2,
+                  "verseStart": 15,
+                  "verseEnd": 16
+                },
+                {
+                  "label": "Jas 2:10",
+                  "kind": "bible",
+                  "key": "james.2.10",
+                  "book": "james",
+                  "chapter": 2,
+                  "verseStart": 10,
+                  "verseEnd": 10
+                }
+              ],
+              "links": [],
+              "supplemental": true
+            },
+            {
+              "label": "Ask",
+              "text": "*\"If God judges you by that standard, will you be innocent or guilty?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ]
+        },
+        {
+          "heading": "5. Destiny: heaven or hell?",
+          "lines": [
+            {
+              "text": "➕ Don't soften it, and don't gloat. Say it because you care where they end up. (Rev 21:8; 1 Cor 6:9–10)",
+              "verses": [
+                {
+                  "label": "Rev 21:8",
+                  "kind": "bible",
+                  "key": "revelation.21.8",
+                  "book": "revelation",
+                  "chapter": 21,
+                  "verseStart": 8,
+                  "verseEnd": 8
+                },
+                {
+                  "label": "1 Cor 6:9–10",
+                  "kind": "bible",
+                  "key": "1-corinthians.6.9-10",
+                  "book": "1-corinthians",
+                  "chapter": 6,
+                  "verseStart": 9,
+                  "verseEnd": 10
+                }
+              ],
+              "links": [],
+              "supplemental": true
+            },
+            {
+              "label": "Ask",
+              "text": "*\"Would that be heaven or hell? Does that concern you?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ]
+        },
+        {
+          "heading": "6. Now give the good news",
+          "lines": [
+            {
+              "text": "➕ You stand guilty in God's courtroom, and Someone steps in and pays your fine in full. That is what Christ did on the cross, and He rose from the dead. (Rom 5:8; 2 Cor 5:21; 1 Pet 2:24; 1 Cor 15:3–4)",
+              "verses": [
+                {
+                  "label": "Rom 5:8",
+                  "kind": "bible",
+                  "key": "romans.5.8",
+                  "book": "romans",
+                  "chapter": 5,
+                  "verseStart": 8,
+                  "verseEnd": 8
+                },
+                {
+                  "label": "2 Cor 5:21",
+                  "kind": "bible",
+                  "key": "2-corinthians.5.21",
+                  "book": "2-corinthians",
+                  "chapter": 5,
+                  "verseStart": 21,
+                  "verseEnd": 21
+                },
+                {
+                  "label": "1 Pet 2:24",
+                  "kind": "bible",
+                  "key": "1-peter.2.24",
+                  "book": "1-peter",
+                  "chapter": 2,
+                  "verseStart": 24,
+                  "verseEnd": 24
+                },
+                {
+                  "label": "1 Cor 15:3–4",
+                  "kind": "bible",
+                  "key": "1-corinthians.15.3-4",
+                  "book": "1-corinthians",
+                  "chapter": 15,
+                  "verseStart": 3,
+                  "verseEnd": 4
+                }
+              ],
+              "links": [],
+              "supplemental": true
+            }
+          ]
+        },
+        {
+          "heading": "7. Repent and trust",
+          "lines": [
+            {
+              "text": "➕ Believing a parachute exists won't save you; you have to put it on. Turn from sin and put your trust in Christ alone, today. (Acts 3:19; Acts 20:21; Rom 13:14; 2 Cor 6:2)",
+              "verses": [
+                {
+                  "label": "Acts 3:19",
+                  "kind": "bible",
+                  "key": "acts.3.19",
+                  "book": "acts",
+                  "chapter": 3,
+                  "verseStart": 19,
+                  "verseEnd": 19
+                },
+                {
+                  "label": "Acts 20:21",
+                  "kind": "bible",
+                  "key": "acts.20.21",
+                  "book": "acts",
+                  "chapter": 20,
+                  "verseStart": 21,
+                  "verseEnd": 21
+                },
+                {
+                  "label": "Rom 13:14",
+                  "kind": "bible",
+                  "key": "romans.13.14",
+                  "book": "romans",
+                  "chapter": 13,
+                  "verseStart": 14,
+                  "verseEnd": 14
+                },
+                {
+                  "label": "2 Cor 6:2",
+                  "kind": "bible",
+                  "key": "2-corinthians.6.2",
+                  "book": "2-corinthians",
+                  "chapter": 6,
+                  "verseStart": 2,
+                  "verseEnd": 2
+                }
+              ],
+              "links": [],
+              "supplemental": true
+            },
+            {
+              "label": "Ask",
+              "text": "*\"When are you going to do that?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ]
+        },
+        {
+          "heading": "Keep in mind",
+          "lines": [
+            {
+              "text": "**Already humble?** ➕ If someone is broken over their sin, skip the law and go straight to grace.",
+              "verses": [],
+              "links": [],
+              "supplemental": true
+            },
+            {
+              "label": "Aim at the conscience",
+              "text": "➕ answering objections clears the path, but the law and the gospel do the work. Don't spend an hour on arguments and never get here. (Rom 2:15)",
+              "verses": [
+                {
+                  "label": "Rom 2:15",
+                  "kind": "bible",
+                  "key": "romans.2.15",
+                  "book": "romans",
+                  "chapter": 2,
+                  "verseStart": 15,
+                  "verseEnd": 15
+                }
+              ],
+              "links": [],
+              "supplemental": true
+            },
+            {
+              "label": "Tone",
+              "text": "➕ kind, patient, and plainly concerned for them. (2 Tim 2:24–26)",
+              "verses": [
+                {
+                  "label": "2 Tim 2:24–26",
+                  "kind": "bible",
+                  "key": "2-timothy.2.24-26",
+                  "book": "2-timothy",
+                  "chapter": 2,
+                  "verseStart": 24,
+                  "verseEnd": 26
+                }
+              ],
+              "links": [],
+              "supplemental": true
+            },
+            {
+              "text": "Then go back to [The Gospel](/topic/the-gospel) for the full message and what to do when they respond.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ]
+        }
+      ],
+      "subtitle": "Use the law to reach the conscience, then give the gospel."
+    },
+    {
       "slug": "the-trinity",
       "title": "The Trinity",
       "intro": [
         {
-          "text": "➕ One Being, three Persons: the Father, the Son and the Holy Spirit. One *what*, three *who's*. Each line below is taught in Scripture; the Trinity is what you get when you believe all of them at once.",
+          "text": "One Being, three Persons: the Father, the Son and the Holy Spirit. One *what*, three *who's*. Each line below is taught in Scripture; the Trinity is what you get when you believe all of them at once.",
           "verses": [],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         }
       ],
       "sections": [
@@ -9698,7 +10367,7 @@
           "heading": "There is one God",
           "lines": [
             {
-              "text": "➕ (Deut 6:4; Isa 43:10; Isa 44:6; 1 Cor 8:4; James 2:19)",
+              "text": "(Deut 6:4; Isa 43:10; Isa 44:6; 1 Cor 8:4; James 2:19)",
               "verses": [
                 {
                   "label": "Deut 6:4",
@@ -9747,7 +10416,7 @@
                 }
               ],
               "links": [],
-              "supplemental": true
+              "supplemental": false
             }
           ]
         },
@@ -9755,7 +10424,7 @@
           "heading": "The Father is God",
           "lines": [
             {
-              "text": "➕ (John 6:27; 1 Cor 8:6; Eph 4:6; 1 Pet 1:2)",
+              "text": "(John 6:27; 1 Cor 8:6; Eph 4:6; 1 Pet 1:2)",
               "verses": [
                 {
                   "label": "John 6:27",
@@ -9795,7 +10464,7 @@
                 }
               ],
               "links": [],
-              "supplemental": true
+              "supplemental": false
             }
           ]
         },
@@ -9803,7 +10472,7 @@
           "heading": "The Son is God",
           "lines": [
             {
-              "text": "➕ (John 1:1; John 8:58; John 20:28; Col 2:9; Titus 2:13; Heb 1:8)",
+              "text": "(John 1:1; John 8:58; John 20:28; Col 2:9; Titus 2:13; Heb 1:8)",
               "verses": [
                 {
                   "label": "John 1:1",
@@ -9861,7 +10530,7 @@
                 }
               ],
               "links": [],
-              "supplemental": true
+              "supplemental": false
             }
           ]
         },
@@ -9869,7 +10538,7 @@
           "heading": "The Holy Spirit is God",
           "lines": [
             {
-              "text": "➕ (Acts 5:3–4; 1 Cor 3:16; Ps 139:7–8; Heb 3:7–11)",
+              "text": "(Acts 5:3–4; 1 Cor 3:16; Ps 139:7–8; Heb 3:7–11)",
               "verses": [
                 {
                   "label": "Acts 5:3–4",
@@ -9909,7 +10578,7 @@
                 }
               ],
               "links": [],
-              "supplemental": true
+              "supplemental": false
             },
             {
               "text": "For the full argument, open [The Holy Spirit play](/holy-spirit).",
@@ -9923,7 +10592,7 @@
           "heading": "The three are distinct Persons",
           "lines": [
             {
-              "text": "➕ The Father sends the Son, the Son prays to the Father, and the Spirit is sent by both. All three are present at Jesus' baptism. (Matt 3:16–17; Matt 28:19; John 14:16–17; John 17:5; 2 Cor 13:14)",
+              "text": "The Father sends the Son, the Son prays to the Father, and the Spirit is sent by both. All three are present at Jesus' baptism. (Matt 3:16–17; Matt 28:19; John 14:16–17; John 15:26; John 17:5; Gal 4:4–6; 2 Cor 13:14)",
               "verses": [
                 {
                   "label": "Matt 3:16–17",
@@ -9953,6 +10622,15 @@
                   "verseEnd": 17
                 },
                 {
+                  "label": "John 15:26",
+                  "kind": "bible",
+                  "key": "john.15.26",
+                  "book": "john",
+                  "chapter": 15,
+                  "verseStart": 26,
+                  "verseEnd": 26
+                },
+                {
                   "label": "John 17:5",
                   "kind": "bible",
                   "key": "john.17.5",
@@ -9960,6 +10638,15 @@
                   "chapter": 17,
                   "verseStart": 5,
                   "verseEnd": 5
+                },
+                {
+                  "label": "Gal 4:4–6",
+                  "kind": "bible",
+                  "key": "galatians.4.4-6",
+                  "book": "galatians",
+                  "chapter": 4,
+                  "verseStart": 4,
+                  "verseEnd": 6
                 },
                 {
                   "label": "2 Cor 13:14",
@@ -9972,7 +10659,7 @@
                 }
               ],
               "links": [],
-              "supplemental": true
+              "supplemental": false
             }
           ]
         },
@@ -10031,7 +10718,7 @@
           "heading": "We have what they wrote",
           "lines": [
             {
-              "text": "➕ The New Testament survives in thousands of Greek manuscripts, some copied within a few generations of the originals. The Dead Sea Scrolls show the Old Testament was copied faithfully for centuries before Christ. (Isa 40:8; Matt 24:35; 1 Pet 1:24–25)",
+              "text": "The New Testament survives in thousands of Greek manuscripts, some copied within a few generations of the originals. The Dead Sea Scrolls, copied before and around the time of Christ, match the Hebrew manuscripts copied a thousand years later. (Isa 40:8; Matt 24:35; 1 Pet 1:24–25)",
               "verses": [
                 {
                   "label": "Isa 40:8",
@@ -10062,7 +10749,7 @@
                 }
               ],
               "links": [],
-              "supplemental": true
+              "supplemental": false
             }
           ]
         },
@@ -10070,7 +10757,7 @@
           "heading": "It comes from eyewitnesses",
           "lines": [
             {
-              "text": "➕ The writers were eyewitnesses or wrote down what eyewitnesses told them, while many witnesses were still alive to object. (Luke 1:1–4; 2 Pet 1:16; 1 John 1:1–3; 1 Cor 15:3–8)",
+              "text": "The writers were eyewitnesses or wrote down what eyewitnesses told them, while many witnesses were still alive to object. (Luke 1:1–4; 2 Pet 1:16; 1 John 1:1–3; 1 Cor 15:3–8)",
               "verses": [
                 {
                   "label": "Luke 1:1–4",
@@ -10110,7 +10797,7 @@
                 }
               ],
               "links": [],
-              "supplemental": true
+              "supplemental": false
             }
           ]
         },
@@ -10118,7 +10805,7 @@
           "heading": "Jesus treated Scripture as God's word",
           "lines": [
             {
-              "text": "➕ He quoted it as final, said it cannot be broken, and said every part of it would be fulfilled. (Matt 4:4; Matt 5:17–18; John 10:35; Luke 24:44)",
+              "text": "He quoted it as final, said it cannot be broken, and said every part of it would be fulfilled. (Matt 4:4; Matt 5:17–18; John 10:35; Luke 24:44)",
               "verses": [
                 {
                   "label": "Matt 4:4",
@@ -10158,7 +10845,7 @@
                 }
               ],
               "links": [],
-              "supplemental": true
+              "supplemental": false
             }
           ]
         },
@@ -10166,7 +10853,7 @@
           "heading": "God breathed it out",
           "lines": [
             {
-              "text": "➕ Men spoke from God as they were carried along by the Holy Spirit. (2 Tim 3:16–17; 2 Pet 1:20–21)",
+              "text": "Men spoke from God as they were carried along by the Holy Spirit. (2 Tim 3:16–17; 2 Pet 1:20–21)",
               "verses": [
                 {
                   "label": "2 Tim 3:16–17",
@@ -10188,7 +10875,7 @@
                 }
               ],
               "links": [],
-              "supplemental": true
+              "supplemental": false
             }
           ]
         },
@@ -10196,7 +10883,7 @@
           "heading": "Prophecy written centuries ahead",
           "lines": [
             {
-              "text": "➕ The suffering Servant, the pierced hands and feet, the birthplace of the Messiah and the pierced One were all written long before Jesus was born. (Isa 53; Ps 22; Mic 5:2; Zech 12:10)",
+              "text": "The suffering Servant, the pierced hands and feet, the birthplace of the Messiah and the pierced One were all written long before Jesus was born. (Isa 53; Ps 22; Mic 5:2; Zech 12:10)",
               "verses": [
                 {
                   "label": "Isa 53",
@@ -10232,7 +10919,7 @@
                 }
               ],
               "links": [],
-              "supplemental": true
+              "supplemental": false
             }
           ]
         },
@@ -10282,45 +10969,45 @@
           "lines": [
             {
               "label": "Jehovah",
-              "text": "➕ their preferred form of God's name (YHWH). For them it names the Father only.",
+              "text": "their preferred form of God's name (YHWH). For them it names the Father only.",
               "verses": [],
               "links": [],
-              "supplemental": true
+              "supplemental": false
             },
             {
               "label": "New World Translation (NWT)",
-              "text": "➕ the Watchtower's own Bible translation.",
+              "text": "the Watchtower's own Bible translation.",
               "verses": [],
               "links": [],
-              "supplemental": true
+              "supplemental": false
             },
             {
               "label": "Watchtower / Governing Body",
-              "text": "➕ the leadership that directs all Witness teaching and calls itself the \"faithful and discreet slave.\"",
+              "text": "the leadership that directs all Witness teaching and calls itself the \"faithful and discreet slave.\"",
               "verses": [],
               "links": [],
-              "supplemental": true
+              "supplemental": false
             },
             {
               "label": "Active force",
-              "text": "➕ their term for the Holy Spirit, whom they say is not a person.",
+              "text": "their term for the Holy Spirit, whom they say is not a person.",
               "verses": [],
               "links": [],
-              "supplemental": true
+              "supplemental": false
             },
             {
               "label": "Kingdom Interlinear",
-              "text": "➕ the Watchtower's own Greek and English New Testament. Useful because it shows the Greek under their translation.",
+              "text": "the Watchtower's own Greek and English New Testament. Useful because it prints the Greek with a word-for-word English line next to their NWT.",
               "verses": [],
               "links": [],
-              "supplemental": true
+              "supplemental": false
             },
             {
               "label": "The 144,000",
-              "text": "➕ the \"anointed\" who they say go to heaven. Everyone else hopes for life on a paradise earth.",
+              "text": "the \"anointed\" who they say go to heaven. Everyone else hopes for life on a paradise earth.",
               "verses": [],
               "links": [],
-              "supplemental": true
+              "supplemental": false
             }
           ]
         },
@@ -10329,45 +11016,45 @@
           "lines": [
             {
               "label": "Biblical Unitarian",
-              "text": "➕ holds that God is one person, the Father, and Jesus is a human Messiah.",
+              "text": "holds that God is one person, the Father, and Jesus is a human Messiah.",
               "verses": [],
               "links": [],
-              "supplemental": true
+              "supplemental": false
             },
             {
               "label": "Arian",
-              "text": "➕ holds that the Son is God's first and greatest creature.",
+              "text": "holds that the Son is God's first and greatest creature.",
               "verses": [],
               "links": [],
-              "supplemental": true
+              "supplemental": false
             },
             {
               "label": "Shaliach (agency)",
-              "text": "➕ the Jewish idea that a sent agent stands for the one who sent him. They use it to explain away texts where Jesus speaks as God.",
+              "text": "the Jewish idea that a sent agent stands for the one who sent him. They use it to explain away texts where Jesus speaks as God.",
               "verses": [],
               "links": [],
-              "supplemental": true
+              "supplemental": false
             },
             {
               "label": "Oneness / modalism",
-              "text": "➕ one Person who appears as Father, Son and Spirit at different times.",
+              "text": "God is one Person who shows Himself as Father, Son and Spirit (as roles or modes, not three Persons). Oneness Pentecostals say that one Person is Jesus.",
               "verses": [],
               "links": [],
-              "supplemental": true
+              "supplemental": false
             },
             {
               "label": "Homoousios",
-              "text": "➕ \"of the same essence,\" the Nicene term for the Son's relation to the Father.",
+              "text": "\"of the same essence,\" the Nicene term for the Son's relation to the Father.",
               "verses": [],
               "links": [],
-              "supplemental": true
+              "supplemental": false
             },
             {
               "label": "Malak / angelos",
-              "text": "➕ Hebrew and Greek for \"messenger.\" It names a job, not a nature.",
+              "text": "Hebrew and Greek for \"messenger.\" It names a job, not a nature.",
               "verses": [],
               "links": [],
-              "supplemental": true
+              "supplemental": false
             }
           ]
         },
@@ -10376,59 +11063,59 @@
           "lines": [
             {
               "label": "Godhead",
-              "text": "➕ for them, three separate beings who are one in purpose.",
+              "text": "for them, three separate beings who are one in purpose.",
               "verses": [],
               "links": [],
-              "supplemental": true
+              "supplemental": false
             },
             {
               "label": "Exaltation",
-              "text": "➕ the teaching that faithful people can become gods.",
+              "text": "the teaching that faithful people can become gods.",
               "verses": [],
               "links": [],
-              "supplemental": true
+              "supplemental": false
             },
             {
               "label": "Great Apostasy",
-              "text": "➕ their claim that the true church was lost after the apostles.",
+              "text": "their claim that the true church was lost after the apostles.",
               "verses": [],
               "links": [],
-              "supplemental": true
+              "supplemental": false
             },
             {
               "label": "Restoration",
-              "text": "➕ their claim that Joseph Smith restored the church.",
+              "text": "their claim that Joseph Smith restored the church.",
               "verses": [],
               "links": [],
-              "supplemental": true
+              "supplemental": false
             },
             {
               "label": "Standard works",
-              "text": "➕ their four books of scripture: the Bible, the Book of Mormon, the Doctrine and Covenants (D&C), and the Pearl of Great Price.",
+              "text": "their four books of scripture: the Bible, the Book of Mormon, the Doctrine and Covenants (D&C), and the Pearl of Great Price.",
               "verses": [],
               "links": [],
-              "supplemental": true
+              "supplemental": false
             },
             {
               "label": "JST",
-              "text": "➕ the Joseph Smith Translation, his revision of the Bible.",
+              "text": "the Joseph Smith Translation, his revision of the Bible.",
               "verses": [],
               "links": [],
-              "supplemental": true
+              "supplemental": false
             },
             {
               "label": "Testimony / burning in the bosom",
-              "text": "➕ an inner feeling taken as God's confirmation that the church is true.",
+              "text": "an inner feeling taken as God's confirmation that the church is true.",
               "verses": [],
               "links": [],
-              "supplemental": true
+              "supplemental": false
             },
             {
               "label": "King Follett discourse",
-              "text": "➕ Joseph Smith's 1844 sermon teaching that God was once a man.",
+              "text": "Joseph Smith's 1844 sermon teaching that God was once a man.",
               "verses": [],
               "links": [],
-              "supplemental": true
+              "supplemental": false
             }
           ]
         },
@@ -10437,66 +11124,75 @@
           "lines": [
             {
               "label": "Tawhid",
-              "text": "➕ the absolute oneness of Allah.",
+              "text": "the absolute oneness of Allah.",
               "verses": [],
               "links": [],
-              "supplemental": true
+              "supplemental": false
             },
             {
               "label": "Shirk",
-              "text": "➕ associating anything with Allah. The unforgivable sin.",
-              "verses": [],
+              "text": "associating anything with Allah. The one sin Allah will not forgive if a person dies in it (Q 4:48).",
+              "verses": [
+                {
+                  "label": "Q 4:48",
+                  "kind": "quran",
+                  "key": "q.4.48",
+                  "chapter": 4,
+                  "verseStart": 48,
+                  "verseEnd": 48
+                }
+              ],
               "links": [],
-              "supplemental": true
+              "supplemental": false
             },
             {
               "label": "Isa",
-              "text": "➕ the Quran's name for Jesus.",
+              "text": "the Quran's name for Jesus.",
               "verses": [],
               "links": [],
-              "supplemental": true
+              "supplemental": false
             },
             {
               "label": "Tawrat, Zabur, Injil",
-              "text": "➕ the Torah, the Psalms and the Gospel, which the Quran says Allah revealed.",
+              "text": "the Torah, the Psalms and the Gospel, which the Quran says Allah revealed.",
               "verses": [],
               "links": [],
-              "supplemental": true
+              "supplemental": false
             },
             {
               "label": "Tahrif",
-              "text": "➕ the claim that the earlier Scriptures were corrupted.",
+              "text": "the claim that the earlier Scriptures were corrupted.",
               "verses": [],
               "links": [],
-              "supplemental": true
+              "supplemental": false
             },
             {
               "label": "Hadith",
-              "text": "➕ reports of what Muhammad said and did.",
+              "text": "reports of what Muhammad said and did.",
               "verses": [],
               "links": [],
-              "supplemental": true
+              "supplemental": false
             },
             {
               "label": "Surah / ayah",
-              "text": "➕ a chapter and a verse of the Quran.",
+              "text": "a chapter and a verse of the Quran.",
               "verses": [],
               "links": [],
-              "supplemental": true
+              "supplemental": false
             },
             {
               "label": "Tafsir",
-              "text": "➕ commentary on the Quran.",
+              "text": "commentary on the Quran.",
               "verses": [],
               "links": [],
-              "supplemental": true
+              "supplemental": false
             },
             {
               "label": "Hafs, Warsh, Qalun",
-              "text": "➕ different transmitted readings of the Quran.",
+              "text": "different transmitted readings of the Quran.",
               "verses": [],
               "links": [],
-              "supplemental": true
+              "supplemental": false
             }
           ]
         },
@@ -10505,38 +11201,38 @@
           "lines": [
             {
               "label": "Atheist",
-              "text": "➕ does not believe in God. Some go further and say there is no God.",
+              "text": "does not believe in God. Some go further and say there is no God.",
               "verses": [],
               "links": [],
-              "supplemental": true
+              "supplemental": false
             },
             {
               "label": "Agnostic",
-              "text": "➕ says they don't know, or that no one can know.",
+              "text": "says they don't know, or that no one can know.",
               "verses": [],
               "links": [],
-              "supplemental": true
+              "supplemental": false
             },
             {
               "label": "Naturalism",
-              "text": "➕ the view that nature is all there is.",
+              "text": "the view that nature is all there is.",
               "verses": [],
               "links": [],
-              "supplemental": true
+              "supplemental": false
             },
             {
               "label": "Objective morality",
-              "text": "➕ right and wrong that are true whatever anyone thinks.",
+              "text": "right and wrong that are true whatever anyone thinks.",
               "verses": [],
               "links": [],
-              "supplemental": true
+              "supplemental": false
             },
             {
               "label": "Burden of proof",
-              "text": "➕ whoever makes a claim has to back it up. \"There is no God\" is a claim.",
+              "text": "whoever makes a claim has to back it up. \"There is no God\" is a claim.",
               "verses": [],
               "links": [],
-              "supplemental": true
+              "supplemental": false
             }
           ]
         },
@@ -10552,31 +11248,50 @@
             },
             {
               "label": "Two natures",
-              "text": "➕ Jesus is one Person who is truly God and truly man.",
+              "text": "Jesus is one Person who is truly God and truly man.",
               "verses": [],
               "links": [],
-              "supplemental": true
+              "supplemental": false
             },
             {
               "label": "Monogenes",
-              "text": "➕ Greek for \"one of a kind,\" often translated \"only begotten.\"",
+              "text": "Greek for \"one of a kind,\" often translated \"only begotten.\"",
               "verses": [],
               "links": [],
-              "supplemental": true
+              "supplemental": false
             },
             {
               "label": "Prototokos",
-              "text": "➕ Greek for \"firstborn,\" meaning the preeminent heir.",
-              "verses": [],
+              "text": "Greek for \"firstborn.\" In texts like Col 1:15 (cf. Ps 89:27) it means the preeminent heir, not the first one created.",
+              "verses": [
+                {
+                  "label": "Col 1:15",
+                  "kind": "bible",
+                  "key": "colossians.1.15",
+                  "book": "colossians",
+                  "chapter": 1,
+                  "verseStart": 15,
+                  "verseEnd": 15
+                },
+                {
+                  "label": "Ps 89:27",
+                  "kind": "bible",
+                  "key": "psalms.89.27",
+                  "book": "psalms",
+                  "chapter": 89,
+                  "verseStart": 27,
+                  "verseEnd": 27
+                }
+              ],
               "links": [],
-              "supplemental": true
+              "supplemental": false
             },
             {
               "label": "Arche",
-              "text": "➕ Greek for \"beginning,\" \"origin\" or \"ruler.\"",
+              "text": "Greek for \"beginning,\" \"origin\" or \"ruler.\"",
               "verses": [],
               "links": [],
-              "supplemental": true
+              "supplemental": false
             }
           ]
         }
