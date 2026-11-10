@@ -168,12 +168,12 @@ Pray first. Only the Spirit opens eyes (John 6:44; 2 Cor 4:4–6). Watch your ow
 #### PLAY 6: Only God can pay the ransom (Psalm 49)
 - **Opener:** *"According to Psalm 49:7, can any man redeem his brother or give God a ransom for him?"* (They'll say no.)
 - **Chain:**
-  1. **Ps 49:7–9**: no man can redeem his brother or give God a ransom for him. The price of a soul is too high. *"How many men does the psalm say can pay it?"*
+  1. **Ps 49:7–9**: no man can redeem his brother or give God a ransom for him. The redemption price for a soul is costly. *"How many men does the psalm say can pay it?"*
   2. **Ps 49:15**: "But **God** will redeem my soul from the power of Sheol." *"So who does the psalmist say will do the redeeming?"*
-  3. **Hos 13:14; Isa 43:11**: Jehovah says He Himself will ransom from the power of Sheol, and that besides Him there is no savior.
+  3. **Isa 43:11**: Jehovah says, "there is no savior besides Me."
   4. **Mark 10:45; 1 Tim 2:5–6**: Jesus came to give His life as a **ransom** for many. The one mediator gave Himself as a ransom for all.
-  5. **Titus 2:13–14**: our great **God and Savior**, Christ Jesus, gave Himself for us to **redeem** us.
-  6. **John 1:1; John 1:14; Heb 2:14–17**: the Word was God and became flesh. He took on flesh and blood so that through death He might free us. He had to be man to die in our place, and God to redeem.
+  5. **Titus 2:13–14**: our great **God and Savior**, Jesus Christ, gave Himself for us that He might **redeem** us.
+  6. **John 1:1; John 1:14; Heb 2:14–17**: the Word was God and became flesh. He **partook** of flesh and blood so that through death He might free those enslaved by the fear of death. He had to be man to die in our place, and God to redeem.
 - **The logic:** This is a cumulative case. Psalm 49 does not name Jesus, and it does not prove the Trinity on its own. It says no mere man can pay the ransom and that God will redeem. The New Testament then says Jesus paid it, and calls Him God.
 - **If they say →**
   - *"Psalm 49 is about imperfect men. Jesus was a perfect man, a corresponding ransom for Adam."* → The psalm makes no exception for a perfect man. Its answer is "God will redeem." And every creature worships the Lamb for the people He purchased (Rev 5:9; Rev 5:13–14). *"Would Jehovah share that worship with a creature?"* (Isa 42:8)
