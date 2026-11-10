@@ -356,7 +356,7 @@ export function Home({ groups }: { groups: GroupRow[] }) {
               <GameIcon />
               <span>
                 <span className="block text-[20px] font-semibold">Go and Tell</span>
-                <span className="sub">A 60-second game, just for fun</span>
+                <span className="sub">A game, just for fun</span>
               </span>
               <Chevron />
             </Link>
