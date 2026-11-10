@@ -22,7 +22,7 @@
 
 ## 🎯 The Method (read once, use everywhere)
 
-What wins informal conversations isn't knowing more verses. It's **how you run the conversation**. Use these moves every time.
+Pray first. Only the Spirit opens eyes (John 6:44; 2 Cor 4:4–6). Watch your own heart for pride; the goal is their soul, not the point (2 Tim 2:24–26). What helps in real conversations isn't knowing more verses. It's **how you run the conversation**. Use these moves every time.
 
 1. **Phase 1 = agree on the plain text. Nothing else moves until they do.**
    Read the verse and ask a yes/no question about what it *says* (not what it means). Don't go on until they answer. *"I'm not moving to Phase 2 until you answer Phase 1."* ([▶ Islamic Dilemma](https://youtu.be/xzgCmA5f7oo?t=190))
@@ -35,7 +35,7 @@ What wins informal conversations isn't knowing more verses. It's **how you run t
 
 5. **Hold them to their own analogy.** If they bring an analogy (king and messenger, software coder, three judges), don't swap it out. Push it until it proves your point: *"Can the agent of the king claim to BE the king?"* ([▶](https://youtu.be/hRYmFJqy9is?t=484))
 
-6. **No topic-hopping.** When they're losing, they'll jump to "Is Jesus God?" or "the Trinity makes no sense." Don't follow. *"You're not going to 'is Jesus God' your way out of this. Defend your claim first."* ([▶](https://youtu.be/XB83I9YYMeg?t=994))
+6. **No topic-hopping.** When a point lands, people often jump to "Is Jesus God?" or "the Trinity makes no sense." Don't follow. *"Let's finish this one first, then I'm happy to go there."* ([▶](https://youtu.be/XB83I9YYMeg?t=994))
 
 7. **Name the goalpost shift.** *"First you wanted a Bible verse. I gave you the verse. Now it has to come from Jesus' own mouth?"* ([▶](https://youtu.be/c_JWoiexhXI?t=562))
 
@@ -46,7 +46,7 @@ What wins informal conversations isn't knowing more verses. It's **how you run t
 10. **Stay warm.** Even when they rage-quit: *"I want you to be saved, brother. I love you."* ([▶](https://youtu.be/QNaYaD3ET78?t=341)) Truth with love keeps the door open (1 Pet 3:15–16).
 
 ### 🧰 Universal tools (work on any non-Trinitarian)
-- **"Yahweh" isn't one-person-only.** "Yahweh" can name the one divine nature, or any one of the Persons. Their "then Jesus is his own Father" syllogism only works if Yahweh = the Father alone. Show them "Judah" can mean a man *or* a tribe (Judges 1:1–2). ([▶](https://youtu.be/1Ro4BK8GvA4?t=20), [▶](https://youtu.be/SGyVqLKrtjE?t=441))
+- **"Yahweh" isn't one-person-only.** Yahweh is the name of the one true God, and Scripture applies it to the Father, the Son and the Spirit. Their "then Jesus is his own Father" syllogism only works if Yahweh = the Father alone. A name can have more than one referent: "Judah" can mean a man *or* a tribe (Judges 1:1–2). ([▶](https://youtu.be/1Ro4BK8GvA4?t=20), [▶](https://youtu.be/SGyVqLKrtjE?t=441))
 - **Word–concept fallacy.** "'Trinity' isn't in the Bible" → neither are "monotheism" or "Bible." The question is whether the *concept* is there. ([▶](https://youtu.be/X-aevlcvkv8?t=1810))
 - **Three in one way, one in another.** Not a contradiction. Different categories: 3 *persons*, 1 *being*. (For Muslims, hold up the Hafs, Warsh and Qalun Qurans. [▶](https://youtu.be/HwCcC0D0M08?t=14))
 - **Context decides literal vs. figurative.** Both sides agree personification exists. But personified things don't say "set apart for **me**" or "the work **I** have called them to."
@@ -174,7 +174,7 @@ What wins informal conversations isn't knowing more verses. It's **how you run t
 | **"John 1:1 says 'a god.' No article = indefinite."** | A predicate noun before the verb without the article describes **nature** (Harner: qualitative). "The Word was God" in nature: all that God is, the Word was. | John 1:1; **1 John 4:8** (*ho theos agapē estin*); **John 1:6** (*para theou*, no article) | *"Is God 'a love'? Was John sent from 'a god'? Your NWT says 'God' in 1:6. Why not in 1:1?"* ([▶](https://youtu.be/sQxbaeAJF-M?t=488)) |
 | **"*Ton theon* = the Almighty; *theos* = a lesser god."** | That's just Greek case. *Ton theon* is accusative after *pros*; *theos* is nominative. Case endings aren't ranks. | John 1:1–2 | *"Is the Father a lesser god when he's in the nominative?"* ([▶](https://youtu.be/sQxbaeAJF-M?t=775)) |
 | **"Firstborn of creation" (Col 1:15) = first created** | *Prōtotokos* = preeminent heir. v.16 gives the reason: "**because** by Him all things were created." | **Ps 89:27** (David made "firstborn"); Ex 4:22; Jer 31:9 (Ephraim) | *"Who was Israel's first king? Saul. So how is David 'firstborn' of the kings?"* ([▶](https://youtu.be/k_P2xx2NIVg?t=249)) |
-| **"Only-begotten" (John 3:16) = uniquely created** | *Monogenēs* = one-of-a-kind / unique (Heb 11:17: Isaac wasn't Abraham's only son). | John 1:18; Heb 11:17 | *"Was Isaac Abraham's only child?"* ([▶](https://youtu.be/HRuXGRkhcbw?t=508)) |
+| **"Only-begotten" (John 3:16) = uniquely created** | *Monogenēs* = the unique, only begotten Son, never "created" (Heb 11:17: Isaac wasn't Abraham's only son). | John 1:18; Heb 11:17 | *"Was Isaac Abraham's only child?"* ([▶](https://youtu.be/HRuXGRkhcbw?t=508)) |
 | **"Beginning of the creation of God" (Rev 3:14)** | *Archē* = origin / ruler / source. He's where creation comes from. | Rev 3:14; John 1:3; Col 1:18 | *"If you're the originator of your business, aren't you its origin?"* ([▶](https://youtu.be/-ph8WlJNirY?t=571)) |
 | **"John 5:19: Jesus can do nothing on his own"** | That shows the Persons are distinct and act together. Finish the verse: "whatever the Father does, **the Son does likewise**." | John 5:18–19 | *"Does the Father do anything without the Son?"* ([▶](https://youtu.be/_-JpXH9GN-E?t=522)) |
 | **"John 14:28: 'the Father is greater than I'"** | Greater in role, in the Son's humbled human state. Not in nature. Phil 2:6–7. | Phil 2:6–8; Heb 2:9 | *"Is a husband 'greater' in nature than his wife because he leads?"* |
@@ -261,7 +261,7 @@ What wins informal conversations isn't knowing more verses. It's **how you run t
 
 | They say… | Quick answer | Go to | Ask back |
 |---|---|---|---|
-| **The syllogism:** "YHWH is the Most High; Jesus is the Son of the Most High; if Jesus is YHWH, Jesus is his own Father." | Equivocation. You're treating "Yahweh" as naming only one person. It can name the **nature** or **any one Person**. Jesus is Yahweh by nature, not the person of the Father. | Gen 19:24 (Yahweh rains fire *from* Yahweh); Judges 1:1–2 ("Judah" = man or tribe) | *"Is 'Judah' a person or a tribe?"* ([▶](https://youtu.be/1Ro4BK8GvA4?t=20), [▶](https://youtu.be/nJTUGy-Wpls?t=144)) |
+| **The syllogism:** "YHWH is the Most High; Jesus is the Son of the Most High; if Jesus is YHWH, Jesus is his own Father." | Equivocation. You're treating "Yahweh" as naming only one person. Scripture applies the name to the **Father, the Son and the Spirit**. Jesus is Yahweh, and He is not the person of the Father. | Gen 19:24 (Yahweh rains fire *from* Yahweh); Judges 1:1–2 ("Judah" = man or tribe) | *"Is 'Judah' a person or a tribe?"* ([▶](https://youtu.be/1Ro4BK8GvA4?t=20), [▶](https://youtu.be/nJTUGy-Wpls?t=144)) |
 | **"John 17:3: the Father is 'the only true God'"** | Yes, the Father is the only true God. Trinitarians agree. "Only" excludes **false gods**, not the Son: the same John calls Jesus "the true God" (1 John 5:20). | 1 John 5:20; Jude 4 ("our only Master and Lord, Jesus Christ") | *"Jude calls Jesus our 'only Lord.' Does that make the Father not Lord?"* |
 | **"1 Cor 8:6: one God, the Father"** | Same verse: "one **Lord**, Jesus Christ." Paul splits the Shema (Deut 6:4) between Father and Son. If "one God, the Father" excludes Jesus from being God, "one Lord, Jesus" excludes the Father from being Lord. | Deut 6:4; 1 Cor 8:6 | *"Is the Father not Lord?"* |
 | **"God is not a man" (Num 23:19; Hos 11:9)** | God is not a man **by nature** (who lies or changes). The Son **took on** a human nature (John 1:14) and stayed God. | John 1:14; Phil 2:6–7 | *"Can the God who made human nature add it to Himself?"* |
@@ -289,7 +289,7 @@ What wins informal conversations isn't knowing more verses. It's **how you run t
 
 **What they believe:** The Father, Son and Holy Ghost are **three separate beings** (three gods) united in purpose, the "Godhead." The Father has a body of flesh and bone (D&C 130:22). "As man now is, God once was; as God now is, man may become" (Lorenzo Snow). Exaltation: faithful humans can become gods. Joseph Smith restored the church after a "great apostasy." The Book of Mormon is another testament.
 
-**Approach:** Missionaries are usually 19–20 and sincere, but haven't studied this deeply. Be warm. Your best weapon is **Isaiah 43–45** plus **their own Book of Mormon**, which is more monotheistic than later LDS teaching.
+**Approach:** Missionaries are usually 19–20 and sincere, but haven't studied this deeply. Be warm. Your best tool is **Isaiah 43–45** plus **their own Book of Mormon**, which is more monotheistic than later LDS teaching.
 
 <a id="lds-card"></a>
 ### 📇 LDS Cheat Card
@@ -373,7 +373,7 @@ What wins informal conversations isn't knowing more verses. It's **how you run t
 
 **What they believe:** Tawhid (absolute oneness. Associating anything with Allah is *shirk*, the one sin Allah won't forgive if a person dies in it, Q 4:48). Jesus (Isa) is a prophet, born of a virgin, the Messiah, but not God, not the Son of God, and not crucified (Q 4:157). Allah gave the **Tawrat** (Torah) to Moses and the **Injil** (Gospel) to Jesus, but most Muslims will say these were "corrupted." Muhammad is the final prophet, predicted in the Bible (Q 7:157; 61:6).
 
-**Signature weapon: THE ISLAMIC DILEMMA.** It's the #1 tool. Don't start by defending the Trinity. Start by putting **their book** on the stand.
+**Signature tool: THE ISLAMIC DILEMMA.** It's the #1 tool. Don't start by defending the Trinity. Start by putting **their book** on the stand.
 > *"Why would I fix something that ain't broke? If this one line has you guys squirming like this… why would I use something else?"* ([▶](https://youtu.be/xzgCmA5f7oo?t=1350))
 
 <a id="isl-card"></a>
@@ -481,7 +481,7 @@ Used against a Quran-only Muslim ([▶](https://youtu.be/DPFeuxNkxCA?t=710)): **
 
 **What they believe:** Atheist: usually "I don't believe in God" (some say "there is no God"). Agnostic: "I don't know" or "we can't know." Most hold that the universe and life came from natural causes alone and the Bible is a human book. Many see right and wrong as human-made.
 
-**Mindset:** Many "atheists" in casual talk are really saying "I don't know." The first move is to **make them define their position**, and they usually back off from "God doesn't exist" to "I don't know." ([▶](https://youtu.be/cPUJ9-TG54U?t=14))
+**Mindset:** Scripture says every person knows God and suppresses that knowledge (Rom 1:18–21). The problem isn't missing evidence; it's the heart. The first move is to **make them define their position**, and they usually back off from "God doesn't exist" to "I don't know." Then aim at the conscience. ([▶](https://youtu.be/cPUJ9-TG54U?t=14))
 
 <a id="ath-card"></a>
 ### 📇 Atheist Cheat Card
@@ -497,8 +497,8 @@ Used against a Quran-only Muslim ([▶](https://youtu.be/DPFeuxNkxCA?t=710)): **
 
 #### PLAY 1: Pin down the position
 - **Opener:** *"Are you claiming God doesn't exist, or that you don't know?"*
-- *"When you say you're an atheist, are you saying God doesn't exist, or that you lack belief?"* → If it's a claim: *"How do you know?"* If it's lack of belief: *"So you don't know. Then you're open to evidence, right?"* ([▶](https://youtu.be/cPUJ9-TG54U?t=14))
-- **If they say** *"I just believe in one less god than you."* → *"Rejecting false gods because of the evidence is exactly what I'm asking you to do with the true one. Follow the evidence."* ([▶](https://youtu.be/cPUJ9-TG54U?t=327))
+- *"When you say you're an atheist, are you saying God doesn't exist, or that you lack belief?"* → If it's a claim: *"How do you know?"* If it's lack of belief: *"So you don't know. Would you want to know if God has spoken?"* ([▶](https://youtu.be/cPUJ9-TG54U?t=14))
+- **If they say** *"I just believe in one less god than you."* → *"You already reject gods who aren't there. I'm asking about the One you already know is there."* (Rom 1:19–21) ([▶](https://youtu.be/cPUJ9-TG54U?t=327))
 
 #### PLAY 2: Design + life from life
 - **Opener:** *"Have you ever seen something this ordered come from something non-intelligent?"*
@@ -509,6 +509,8 @@ Used against a Quran-only Muslim ([▶](https://youtu.be/DPFeuxNkxCA?t=710)): **
 #### PLAY 3: The "borrowed capital" questions (presuppositional)
 - **Opener:** *"Can I ask you about three things we both rely on every day: logic, right and wrong, and your own reasoning?"*
 - **Or open with:** *"Where do you get this idea of bad from?"* (When they call something evil or unfair.)
+- **Or open with:** *"What would count as evidence for you?"* (When they say there's no evidence for God.)
+- **Or open with:** *"Is morality objective, or is it opinion?"* (When they say you're wrong about a moral issue.)
 - **Logic:** *"Are the laws of logic physical? Do they change? Where do universal, unchanging laws come from in a universe that's just matter in motion?"*
 - **Morality:** *"Is it **objectively** wrong to torture a child for fun? Wrong according to whom?"* → if they say it's subjective, then it's just preference. If they say it's objective, they need a transcendent standard. **Rom 2:14–15**, the law is written on the heart.
 - **Reason:** *"If your brain is just chemistry shaped for survival, not truth, why trust it to reason that God doesn't exist?"*
@@ -517,7 +519,7 @@ Used against a Quran-only Muslim ([▶](https://youtu.be/DPFeuxNkxCA?t=710)): **
 #### PLAY 4: The Resurrection (the center)
 - **Opener:** *"If Jesus really rose from the dead, would you become a Christian?"*
 - **Or open with:** *"What about the people who didn't believe in Jesus, persecuted His followers, then said, 'I saw Jesus'?"* (When they say it's a game of telephone.)
-- *"If Christ didn't rise from the dead, Christianity is false. Period."* (1 Cor 15:14–19) ([▶](https://youtu.be/rgTyjyoS1DE?t=1690)) Christianity puts itself on a testable, historical claim.
+- *"If Christ didn't rise from the dead, Christianity is false. Period."* (1 Cor 15:14–19) ([▶](https://youtu.be/rgTyjyoS1DE?t=1690)) Christianity puts itself on a testable, historical claim, and God has given proof to all by raising Him from the dead (Acts 17:31).
 - **Facts:** crucified publicly under Pilate · the tomb was guarded · the disciples fled as cowards, then died boldly · hostile skeptics were converted (Paul the persecutor, James the doubting brother). *"Why would eyewitnesses and enemies suffer and die for what they **knew** was a lie?"* ([▶](https://youtu.be/rgTyjyoS1DE?t=438))
 - **Closer:** *"If heaven and hell were real, wouldn't you want to know now? You wouldn't want to wait until you die to find out."* ([▶](https://youtu.be/cPUJ9-TG54U?t=430))
 
@@ -532,10 +534,10 @@ Used against a Quran-only Muslim ([▶](https://youtu.be/DPFeuxNkxCA?t=710)): **
 | **"If God knew I'd reject Him, why create me? That's unjust."** | God is just and owes no one mercy. No one is forced to reject Him: people reject Him because they love their sin, and they are responsible for it. Hell is the just penalty for real guilt, not a mistake. Yet God *freely* offers Christ to all who come, and no one who comes is turned away. | Rom 9:19–21; John 3:19; Ezek 33:11; John 6:37; Rom 1:24 ("God **gave them up**") | *"Is there anything you've done that a perfectly just judge should ignore?"* |
 | **"A jealous God who demands worship is vain."** | Not all jealousy is sinful. A husband who's jealous over an unfaithful wife is **rightly** jealous. God made every breath you take, so He has a rightful claim. | Ex 34:14; 2 Cor 11:2 | *"If your wife slept with another man, would your jealousy be ugly, or just?"* ([▶](https://youtu.be/q6gmqKpQ80o?t=481)) |
 | **"Heaven/hell is a game show: pick a door."** | It's not a game show. It's a **command and an invitation**. God commands everyone to repent and offers Himself, the greatest good. Whoever refuses Him is responsible for that refusal. | Acts 17:30; Isa 55:1–7; Rev 22:17 | *"It's not God playing games. You're playing games with Him."* ([▶](https://youtu.be/q6gmqKpQ80o?t=888)) |
-| **"So many religions. How would I know which one?"** | Follow the evidence step by step: (1) there's a Source of life → (2) which claim about that Source is **historically testable**? Only Christianity rests on a public resurrection. | Acts 17:30–31 | *"Which other religion stakes everything on a public event you can investigate?"* ([▶](https://youtu.be/cPUJ9-TG54U?t=327)) |
+| **"So many religions. How would I know which one?"** | God has spoken, and He proved it publicly by raising Jesus from the dead. Only Christianity rests on a public resurrection, an event that is **historically testable**. | Acts 17:30–31 | *"Which other religion stakes everything on a public event you can investigate?"* ([▶](https://youtu.be/cPUJ9-TG54U?t=327)) |
 | **"Who created God?"** | The question assumes everything needs a cause. It doesn't. Only what **begins to exist** needs a cause. God never began; He is uncaused by definition, the cause of everything outside Himself. Asking who made Him is a category mistake, like asking who made the One who was never made. | Ps 90:2; Isa 43:10; John 1:3 | *"Does everything need a cause, or only things that begin to exist?"* |
 | **"I'm not 100% sure. I have doubts."** | Faith isn't intellectual perfection. Jesus welcomes doubters who come to Him. | **Mark 9:24** ("I believe; help my unbelief"); Rom 10:9–13 | *"Do you believe Christ died for your sins and rose again? Will you turn from your sin and trust Him as Lord?"* ([▶](https://youtu.be/rgTyjyoS1DE?t=2240)) |
-| **"There's no evidence for God."** | Creation itself is the evidence: a universe that began, runs on laws, and holds minds and morals. And God gave proof to all by raising Jesus from the dead. | Rom 1:19–20; Ps 19:1; Acts 17:31 | *"What evidence would you accept?"* |
+| **"There's no evidence for God."** | Creation itself is the evidence: a universe that began, runs on laws, and holds minds and morals. And God gave proof to all by raising Jesus from the dead. | Rom 1:18–20; Ps 19:1; Acts 17:31; John 3:19 | *"What would count as evidence for you?"* Then: *"Is the problem the evidence, or that you don't want God to be there?"* |
 | **"Science has disproved God."** | Science studies how creation works. It depends on order and laws it cannot explain, and it cannot tell you why anything exists or what is right. | Ps 19:1; Col 1:17; Heb 1:3 | *"Which experiment showed there is no God?"* |
 | **"If God is good, why is there so much evil and suffering?"** | Calling something evil assumes a real standard of good. Scripture names the cause (the fall), shows God turning evil to good, entering suffering at the cross, and promising to end it. | Gen 50:20; Rom 8:28; Acts 2:23; Rev 21:4 | *"By what standard do you call it evil?"* |
 | **"The Bible was written by men and is full of errors."** | Men wrote as they were moved by the Holy Spirit. Ask for a specific error and read it together. | 2 Tim 3:16; 2 Pet 1:20–21 | *"Which error? Let's look at it."* |

@@ -26,13 +26,13 @@ God commands all people everywhere to repent. Whoever turns from sin and trusts 
 **Ask:** *"What is keeping you from turning to Christ today?"*
 
 ## The short version: the Romans Road
-When you only have a minute, walk these in order. (Rom 3:23; Rom 6:23; Rom 5:8; Rom 10:9–10; Rom 10:13; Rom 8:1)
+When you only have a minute, walk these in order, and call them to repent. (Rom 3:23; Rom 6:23; Rom 5:8; Acts 17:30; Rom 10:9–10; Rom 10:13; Rom 8:1)
 
 ## How to walk someone through it
 For a step-by-step way to do this in a real conversation, using the Ten Commandments first and then the cross, open [The Way of the Master](/topic/the-way-of-the-master).
 
 ## If they respond
-Pray with them. Get them a Bible and get them into a church that preaches it, where they can be baptized by immersion as a believer. Follow up. (Acts 2:41–42; Matt 28:19–20)
+Pray with them. Get them a Bible and get them into a church that preaches it, where they can be baptized by immersion as a believer. Follow up. Don't pronounce them saved. Point them to Christ, and let assurance grow from following Him. (Acts 2:41–42; Matt 28:19–20; 2 Cor 13:5; 1 John 2:3–6; John 8:31)
 
 ## If they don't
 Stay warm and leave the door open. You plant and water; God gives the growth. (1 Cor 3:6–7; 1 Pet 3:15–16; 2 Tim 2:24–26)
@@ -86,33 +86,56 @@ Then go back to [The Gospel](/topic/the-gospel) for the full message and what to
 A presupposition is what a person takes for granted before the argument starts. The atheist is not neutral, and neither are you. He already knows God and suppresses that truth (Rom 1:18–21), so you are not handing him a God he has never met. You are showing him that he leans on God every time he reasons, judges or trusts his own mind. (Prov 1:7; Col 2:3; Ps 14:1; 1 Cor 1:20)
 
 ## What you are showing
-He does not believe in nothing. He believes in logic, in right and wrong, in the order of nature, and in his own reasoning. Your point is that his worldview cannot **account for** any of them, and yours can. He is sitting in God's lap to slap His face.
+You are not saying he knows nothing or believes in nothing. He reasons, does science and knows right from wrong, because he lives in God's world and is made in God's image. You are saying his worldview cannot **account for** any of it, and yours can. He is using the tools God gave him to argue against God.
+**Say:** *"We both use reason. I'm not asking whether you reason. I'm asking why reason can be trusted if your view is true."*
 
 ## Step 1: Don't give up your ground
-Do not agree to set the Bible aside and argue from "neutral" facts. No one is neutral, and Scripture is the standard, not the thing on trial. (Prov 26:4; 2 Cor 10:5; 1 Pet 3:15)
+Do not agree to set the Bible aside and argue from "neutral" facts. No one is neutral, and Scripture is the standard, not the thing on trial. You start from what God has revealed. He starts from his own guess. (Prov 26:4; 2 Cor 10:5; 1 Pet 3:15)
 **Ask:** *"Would you set aside your trust in reason to prove reason? Then why should I set aside God's word?"*
 
-## Step 2: Step into his view and show it cannot stand
-Take his view on its own terms and ask what follows. (Prov 26:5)
-- **Truth and knowledge:** *"How do you know that? How do you know anything for certain?"* If he says we can't know anything for certain: *"Are you certain of that?"*
-- **Logic:** *"Are the laws of logic made of matter? Do they change? Where do unchanging, universal laws come from in a universe of matter in motion?"*
-- **Right and wrong:** *"Is that wrong for everyone, or only for you? If only for you, why should I care? If for everyone, who set the standard?"*
-- **His own mind:** *"If your thoughts are chemistry shaped for survival, why trust them to tell you what is true?"*
-- **Science:** *"Why expect nature to act tomorrow the way it did today?"* (Gen 8:22; Col 1:17; Heb 1:3)
-- **Meaning:** *"If we came from nothing and go to nothing, on what basis does anything you do matter?"* (Eccl 1:2; Eccl 12:13–14)
+## Step 2: Ask what he would accept
+Before you give evidence, find out what he counts as evidence. If he has no standard, he has no basis for saying there isn't any.
+**Ask:** *"What would count as evidence for you?"*
+- **"Only what can be measured or tested."** → *"Did you measure that? Which experiment showed that only tested things are true?"* That rule is not something the five senses can find.
+- **"I don't know what would convince me."** → *"Then how do you know there's no evidence?"*
+- **"God is outside the universe, so He can't be tested."** → Evidence is more than lab results. We reason, weigh testimony and draw conclusions every day. (Acts 1:3; Heb 11:1)
 
-## Step 3: Bring him back to your ground
-Show that what he has been borrowing belongs to God. Logic reflects God's unchanging mind, morality His holy character, the order of nature His faithfulness, and our reasoning His image in us. (Gen 1:27; Mal 3:6; John 1:1–3; Acts 17:24–28)
+## Step 3: Step into his view and show it cannot stand
+Take his view on its own terms and ask what follows. One question at a time, and wait for the answer. (Prov 26:5)
+- **Knowledge:** *"How do you know that? How do you know anything for certain?"* If he says we can't know anything for certain: *"Are you certain of that?"*
+- **Logic:** *"Are the laws of logic made of matter? Do they change? Where do unchanging, universal laws come from in a universe of matter in motion?"* If he says God is illogical: *"That assumes logic is reliable. In your view, where does it come from?"*
+- **His own mind:** *"You said 'mind.' Is that anything more than brain chemistry? If your thoughts are chemistry shaped for survival, why trust them to tell you what is true?"*
+- **Science:** *"Why expect nature to act tomorrow the way it did today?"* (Gen 8:22; Col 1:17; Heb 1:3)
+- **Meaning:** *"If we came from nothing and go to nothing, on what basis does anything you do matter?"* If he says nothing has meaning: *"Does that sentence have meaning?"* (Eccl 1:2; Eccl 12:13–14)
+
+## Right and wrong
+Start here when he calls something evil, unfair or hateful.
+**Ask:** *"Is morality objective, or is it opinion?"*
+- **"It's subjective."** → *"Then you can't say I'm wrong. You can only say you prefer something else, the way one person prefers burgers and another pizza."* Watch for him to keep saying you are wrong anyway. Point it out kindly.
+- **"It comes from my experience."** → *"Someone raised to hate his neighbors has experience too. Is his hatred good?"* Experience differs from person to person, so it cannot be the standard.
+- **"It comes from science."** → Science tells you what **is**. It cannot tell you what **ought** to be. *"Which experiment shows that lying is wrong?"*
+- **"That's just your interpretation of the Bible."** → Everyone interprets something: he interprets data and his own experience. Disagreement does not cancel truth. *"If someone says 1 + 1 = 3, does that make the answer uncertain?"*
+- **"That's true for you. This is my truth."** → An opinion is not the same as truth. Truth is what matches reality, whoever believes it. *"Can a person sincerely believe something and be wrong?"*
+- **"It's objective."** → *"Then who set the standard, and why does it bind everyone?"* (Rom 2:14–15)
+
+## Step 4: Bring him back to your ground
+Show that what he has been borrowing belongs to God. Logic reflects God's unchanging mind, morality His holy character, the order of nature His faithfulness, and our reasoning His image in us. All things were made through the Word. (Gen 1:27; Mal 3:6; John 1:1–3; Acts 17:24–28)
 
 ## If he says
+- **"So you're saying atheists can't know anything?"** → No. He knows a great deal. The question is whether his worldview can explain how.
 - **"I just lack belief. I don't have to prove anything."** → *"You still reason, judge and trust your mind every day. What do those rest on?"*
-- **"That's circular. You're using the Bible to prove the Bible."** → Everyone's final authority has to vouch for itself, or it isn't final. He uses reason to defend reason. The question is which starting point makes sense of everything else. (Heb 6:13)
+- **"That's circular. You're using God to prove God."** → Every final starting point has to vouch for itself, or it isn't final. *"Can you prove your words have meaning without using words?"* The question is which starting point makes sense of everything else. His explains nothing. God's word explains logic, morality, science and him. (Heb 6:13)
+- **"We both just assume our senses work."** → For him the senses are the foundation, with nothing under them. For you they are a tool, and under them is the God who made eyes, minds and the world they fit.
+- **"Logic is just a fact of the universe."** → That repeats the claim; it doesn't explain it. *"Would you accept it if I said God is just a fact of the universe?"*
 - **"Logic is just how humans think."** → Then it could have been otherwise, and it would not bind anyone who thinks differently, including you.
 - **"Morality comes from evolution or society."** → That tells you what people **do** approve of, not what they **ought** to. Was slavery right when society approved it?
 - **"I don't know where they come from, and that's fine."** → *"So you rely on them with no reason to. That is faith. I can tell you where they come from."*
 
 ## Watch out
 - **Don't say "you believe in nothing."** He will name things he believes, and he'll be right. Say his worldview can't account for them.
+- **Don't call him or his view dumb, and don't dismiss him.** Say "that doesn't hold together," and stay kind when he gets sharp. (2 Tim 2:24–26)
+- **Don't blame evil on God's hands being tied.** When evil or hell comes up, don't say God wanted to stop it but free will prevented Him. God is sovereign over all things, He is not the author of sin, and people answer for their own sin. Use [the evil and suffering answer](/atheist/objection/if-god-good-why-there) and [the "why create me?" answer](/atheist/objection/if-god-knew-id-reject). (Eph 1:11; Gen 50:20; Acts 2:23)
+- **Don't trade away creation to sound reasonable.** God made everything in six days. See [the evolution answer](/atheist/objection/evolution-explains-life-we-dont).
 - **Don't treat it as a trick.** Winning the exchange saves no one. He is not confused; he is suppressing the truth, and only God opens blind eyes. (2 Cor 4:4–6; 1 Cor 2:14)
 - **Evidence still belongs.** The apostles pointed to the empty tomb and the eyewitnesses. Give the evidence as God's facts, not as something a neutral judge gets to rule on. (Acts 17:31; 1 Cor 15:3–8)
 - **Get to the cross.** This clears the ground. Then give [The Gospel](/topic/the-gospel).
@@ -151,7 +174,7 @@ The Father sends the Son, the Son prays to the Father, and the Spirit is sent by
 > Muslims, Mormons and atheists all attack this from different sides.
 
 ## We have what they wrote
-The New Testament survives in thousands of Greek manuscripts, some copied within a few generations of the originals. The Dead Sea Scrolls, copied before and around the time of Christ, match the Hebrew manuscripts copied a thousand years later. (Isa 40:8; Matt 24:35; 1 Pet 1:24–25)
+The New Testament survives in thousands of Greek manuscripts, some copied within a few generations of the originals. The Dead Sea Scrolls, copied before and around the time of Christ, agree closely with the Hebrew manuscripts copied a thousand years later. (Isa 40:8; Matt 24:35; 1 Pet 1:24–25)
 
 ## It comes from eyewitnesses
 The writers were eyewitnesses or wrote down what eyewitnesses told them, while many witnesses were still alive to object. (Luke 1:1–4; 2 Pet 1:16; 1 John 1:1–3; 1 Cor 15:3–8)
@@ -222,6 +245,6 @@ The suffering Servant, the pierced hands and feet, the birthplace of the Messiah
 ## Words we use
 - **Trinity:** one God in three Persons. See [The Trinity](/topic/the-trinity).
 - **Two natures:** Jesus is one Person who is truly God and truly man.
-- **Monogenes:** Greek for "one of a kind," often translated "only begotten."
+- **Monogenes:** the unique, only begotten Son. It marks His unique, eternal relationship to the Father, never creation (LSB: "only begotten").
 - **Prototokos:** Greek for "firstborn." In texts like Col 1:15 (cf. Ps 89:27) it means the preeminent heir, not the first one created.
 - **Arche:** Greek for "beginning," "origin" or "ruler."

@@ -17,8 +17,36 @@
   "method": {
     "title": "🎯 The Method (read once, use everywhere)",
     "intro": {
-      "text": "What wins informal conversations isn't knowing more verses. It's **how you run the conversation**. Use these moves every time.",
-      "verses": [],
+      "text": "Pray first. Only the Spirit opens eyes (John 6:44; 2 Cor 4:4–6). Watch your own heart for pride; the goal is their soul, not the point (2 Tim 2:24–26). What helps in real conversations isn't knowing more verses. It's **how you run the conversation**. Use these moves every time.",
+      "verses": [
+        {
+          "label": "John 6:44",
+          "kind": "bible",
+          "key": "john.6.44",
+          "book": "john",
+          "chapter": 6,
+          "verseStart": 44,
+          "verseEnd": 44
+        },
+        {
+          "label": "2 Cor 4:4–6",
+          "kind": "bible",
+          "key": "2-corinthians.4.4-6",
+          "book": "2-corinthians",
+          "chapter": 4,
+          "verseStart": 4,
+          "verseEnd": 6
+        },
+        {
+          "label": "2 Tim 2:24–26",
+          "kind": "bible",
+          "key": "2-timothy.2.24-26",
+          "book": "2-timothy",
+          "chapter": 2,
+          "verseStart": 24,
+          "verseEnd": 26
+        }
+      ],
       "links": [],
       "supplemental": false
     },
@@ -110,7 +138,7 @@
           }
         ],
         "supplemental": false,
-        "text": "When they're losing, they'll jump to \"Is Jesus God?\" or \"the Trinity makes no sense.\" Don't follow. *\"You're not going to 'is Jesus God' your way out of this. Defend your claim first.\"*"
+        "text": "When a point lands, people often jump to \"Is Jesus God?\" or \"the Trinity makes no sense.\" Don't follow. *\"Let's finish this one first, then I'm happy to go there.\"*"
       },
       {
         "number": 7,
@@ -201,7 +229,7 @@
           }
         ],
         "supplemental": false,
-        "text": "\"Yahweh\" can name the one divine nature, or any one of the Persons. Their \"then Jesus is his own Father\" syllogism only works if Yahweh = the Father alone. Show them \"Judah\" can mean a man *or* a tribe (Judges 1:1–2)."
+        "text": "Yahweh is the name of the one true God, and Scripture applies it to the Father, the Son and the Spirit. Their \"then Jesus is his own Father\" syllogism only works if Yahweh = the Father alone. A name can have more than one referent: \"Judah\" can mean a man *or* a tribe (Judges 1:1–2)."
       },
       {
         "title": "Word–concept fallacy.",
@@ -2108,7 +2136,7 @@
         {
           "id": "only-begotten-john-3-16",
           "objection": "\"Only-begotten\" (John 3:16) = uniquely created",
-          "response": "*Monogenēs* = one-of-a-kind / unique (Heb 11:17: Isaac wasn't Abraham's only son).",
+          "response": "*Monogenēs* = the unique, only begotten Son, never \"created\" (Heb 11:17: Isaac wasn't Abraham's only son).",
           "goTo": "John 1:18; Heb 11:17",
           "askBack": "*\"Was Isaac Abraham's only child?\"*",
           "verses": [
@@ -3860,7 +3888,7 @@
         {
           "id": "syllogism-yhwh-most-high-jesus",
           "objection": "**The syllogism:** \"YHWH is the Most High; Jesus is the Son of the Most High; if Jesus is YHWH, Jesus is his own Father.\"",
-          "response": "Equivocation. You're treating \"Yahweh\" as naming only one person. It can name the **nature** or **any one Person**. Jesus is Yahweh by nature, not the person of the Father.",
+          "response": "Equivocation. You're treating \"Yahweh\" as naming only one person. Scripture applies the name to the **Father, the Son and the Spirit**. Jesus is Yahweh, and He is not the person of the Father.",
           "goTo": "Gen 19:24 (Yahweh rains fire *from* Yahweh); Judges 1:1–2 (\"Judah\" = man or tribe)",
           "askBack": "*\"Is 'Judah' a person or a tribe?\"*",
           "verses": [
@@ -4639,7 +4667,7 @@
       "lead": [
         {
           "label": "Approach",
-          "text": "Missionaries are usually 19–20 and sincere, but haven't studied this deeply. Be warm. Your best weapon is **Isaiah 43–45** plus **their own Book of Mormon**, which is more monotheistic than later LDS teaching.",
+          "text": "Missionaries are usually 19–20 and sincere, but haven't studied this deeply. Be warm. Your best tool is **Isaiah 43–45** plus **their own Book of Mormon**, which is more monotheistic than later LDS teaching.",
           "verses": [
             {
               "label": "Isa 43–45",
@@ -6262,7 +6290,7 @@
       },
       "lead": [
         {
-          "label": "Signature weapon",
+          "label": "Signature tool",
           "text": "**THE ISLAMIC DILEMMA.** It's the #1 tool. Don't start by defending the Trinity. Start by putting **their book** on the stand.",
           "verses": [],
           "links": [],
@@ -8127,8 +8155,18 @@
         },
         {
           "label": "Mindset",
-          "text": "Many \"atheists\" in casual talk are really saying \"I don't know.\" The first move is to **make them define their position**, and they usually back off from \"God doesn't exist\" to \"I don't know.\"",
-          "verses": [],
+          "text": "Scripture says every person knows God and suppresses that knowledge (Rom 1:18–21). The problem isn't missing evidence; it's the heart. The first move is to **make them define their position**, and they usually back off from \"God doesn't exist\" to \"I don't know.\" Then aim at the conscience.",
+          "verses": [
+            {
+              "label": "Rom 1:18–21",
+              "kind": "bible",
+              "key": "romans.1.18-21",
+              "book": "romans",
+              "chapter": 1,
+              "verseStart": 18,
+              "verseEnd": 21
+            }
+          ],
           "links": [
             {
               "videoId": "cPUJ9-TG54U",
@@ -8208,7 +8246,7 @@
           "altOpeners": [],
           "chain": [
             {
-              "text": "*\"When you say you're an atheist, are you saying God doesn't exist, or that you lack belief?\"* → If it's a claim: *\"How do you know?\"* If it's lack of belief: *\"So you don't know. Then you're open to evidence, right?\"*",
+              "text": "*\"When you say you're an atheist, are you saying God doesn't exist, or that you lack belief?\"* → If it's a claim: *\"How do you know?\"* If it's lack of belief: *\"So you don't know. Would you want to know if God has spoken?\"*",
               "verses": [],
               "links": [
                 {
@@ -8224,8 +8262,18 @@
           "ifTheySay": [
             {
               "theySay": "*\"I just believe in one less god than you.\"*",
-              "youSay": "*\"Rejecting false gods because of the evidence is exactly what I'm asking you to do with the true one. Follow the evidence.\"*",
-              "verses": [],
+              "youSay": "*\"You already reject gods who aren't there. I'm asking about the One you already know is there.\"* (Rom 1:19–21)",
+              "verses": [
+                {
+                  "label": "Rom 1:19–21",
+                  "kind": "bible",
+                  "key": "romans.1.19-21",
+                  "book": "romans",
+                  "chapter": 1,
+                  "verseStart": 19,
+                  "verseEnd": 21
+                }
+              ],
               "links": [
                 {
                   "videoId": "cPUJ9-TG54U",
@@ -8358,6 +8406,18 @@
               "verses": [],
               "links": [],
               "supplemental": false
+            },
+            {
+              "text": "*\"What would count as evidence for you?\"* (When they say there's no evidence for God.)",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "*\"Is morality objective, or is it opinion?\"* (When they say you're wrong about a moral issue.)",
+              "verses": [],
+              "links": [],
+              "supplemental": false
             }
           ],
           "chain": [
@@ -8447,7 +8507,7 @@
           ],
           "chain": [
             {
-              "text": "*\"If Christ didn't rise from the dead, Christianity is false. Period.\"* (1 Cor 15:14–19) Christianity puts itself on a testable, historical claim.",
+              "text": "*\"If Christ didn't rise from the dead, Christianity is false. Period.\"* (1 Cor 15:14–19) Christianity puts itself on a testable, historical claim, and God has given proof to all by raising Him from the dead (Acts 17:31).",
               "verses": [
                 {
                   "label": "1 Cor 15:14–19",
@@ -8457,6 +8517,15 @@
                   "chapter": 15,
                   "verseStart": 14,
                   "verseEnd": 19
+                },
+                {
+                  "label": "Acts 17:31",
+                  "kind": "bible",
+                  "key": "acts.17.31",
+                  "book": "acts",
+                  "chapter": 17,
+                  "verseStart": 31,
+                  "verseEnd": 31
                 }
               ],
               "links": [
@@ -8766,7 +8835,7 @@
         {
           "id": "many-religions-how-would-know",
           "objection": "\"So many religions. How would I know which one?\"",
-          "response": "Follow the evidence step by step: (1) there's a Source of life → (2) which claim about that Source is **historically testable**? Only Christianity rests on a public resurrection.",
+          "response": "God has spoken, and He proved it publicly by raising Jesus from the dead. Only Christianity rests on a public resurrection, an event that is **historically testable**.",
           "goTo": "Acts 17:30–31",
           "askBack": "*\"Which other religion stakes everything on a public event you can investigate?\"*",
           "verses": [
@@ -8866,16 +8935,16 @@
           "id": "theres-no-evidence-for-god",
           "objection": "\"There's no evidence for God.\"",
           "response": "Creation itself is the evidence: a universe that began, runs on laws, and holds minds and morals. And God gave proof to all by raising Jesus from the dead.",
-          "goTo": "Rom 1:19–20; Ps 19:1; Acts 17:31",
-          "askBack": "*\"What evidence would you accept?\"*",
+          "goTo": "Rom 1:18–20; Ps 19:1; Acts 17:31; John 3:19",
+          "askBack": "*\"What would count as evidence for you?\"* Then: *\"Is the problem the evidence, or that you don't want God to be there?\"*",
           "verses": [
             {
-              "label": "Rom 1:19–20",
+              "label": "Rom 1:18–20",
               "kind": "bible",
-              "key": "romans.1.19-20",
+              "key": "romans.1.18-20",
               "book": "romans",
               "chapter": 1,
-              "verseStart": 19,
+              "verseStart": 18,
               "verseEnd": 20
             },
             {
@@ -8895,6 +8964,15 @@
               "chapter": 17,
               "verseStart": 31,
               "verseEnd": 31
+            },
+            {
+              "label": "John 3:19",
+              "kind": "bible",
+              "key": "john.3.19",
+              "book": "john",
+              "chapter": 3,
+              "verseStart": 19,
+              "verseEnd": 19
             }
           ],
           "links": [],
@@ -9829,7 +9907,7 @@
           "heading": "The short version: the Romans Road",
           "lines": [
             {
-              "text": "When you only have a minute, walk these in order. (Rom 3:23; Rom 6:23; Rom 5:8; Rom 10:9–10; Rom 10:13; Rom 8:1)",
+              "text": "When you only have a minute, walk these in order, and call them to repent. (Rom 3:23; Rom 6:23; Rom 5:8; Acts 17:30; Rom 10:9–10; Rom 10:13; Rom 8:1)",
               "verses": [
                 {
                   "label": "Rom 3:23",
@@ -9857,6 +9935,15 @@
                   "chapter": 5,
                   "verseStart": 8,
                   "verseEnd": 8
+                },
+                {
+                  "label": "Acts 17:30",
+                  "kind": "bible",
+                  "key": "acts.17.30",
+                  "book": "acts",
+                  "chapter": 17,
+                  "verseStart": 30,
+                  "verseEnd": 30
                 },
                 {
                   "label": "Rom 10:9–10",
@@ -9906,7 +9993,7 @@
           "heading": "If they respond",
           "lines": [
             {
-              "text": "Pray with them. Get them a Bible and get them into a church that preaches it, where they can be baptized by immersion as a believer. Follow up. (Acts 2:41–42; Matt 28:19–20)",
+              "text": "Pray with them. Get them a Bible and get them into a church that preaches it, where they can be baptized by immersion as a believer. Follow up. Don't pronounce them saved. Point them to Christ, and let assurance grow from following Him. (Acts 2:41–42; Matt 28:19–20; 2 Cor 13:5; 1 John 2:3–6; John 8:31)",
               "verses": [
                 {
                   "label": "Acts 2:41–42",
@@ -9925,6 +10012,33 @@
                   "chapter": 28,
                   "verseStart": 19,
                   "verseEnd": 20
+                },
+                {
+                  "label": "2 Cor 13:5",
+                  "kind": "bible",
+                  "key": "2-corinthians.13.5",
+                  "book": "2-corinthians",
+                  "chapter": 13,
+                  "verseStart": 5,
+                  "verseEnd": 5
+                },
+                {
+                  "label": "1 John 2:3–6",
+                  "kind": "bible",
+                  "key": "1-john.2.3-6",
+                  "book": "1-john",
+                  "chapter": 2,
+                  "verseStart": 3,
+                  "verseEnd": 6
+                },
+                {
+                  "label": "John 8:31",
+                  "kind": "bible",
+                  "key": "john.8.31",
+                  "book": "john",
+                  "chapter": 8,
+                  "verseStart": 31,
+                  "verseEnd": 31
                 }
               ],
               "links": [],
@@ -10465,7 +10579,14 @@
           "heading": "What you are showing",
           "lines": [
             {
-              "text": "He does not believe in nothing. He believes in logic, in right and wrong, in the order of nature, and in his own reasoning. Your point is that his worldview cannot **account for** any of them, and yours can. He is sitting in God's lap to slap His face.",
+              "text": "You are not saying he knows nothing or believes in nothing. He reasons, does science and knows right from wrong, because he lives in God's world and is made in God's image. You are saying his worldview cannot **account for** any of it, and yours can. He is using the tools God gave him to argue against God.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Say",
+              "text": "*\"We both use reason. I'm not asking whether you reason. I'm asking why reason can be trusted if your view is true.\"*",
               "verses": [],
               "links": [],
               "supplemental": false
@@ -10476,7 +10597,7 @@
           "heading": "Step 1: Don't give up your ground",
           "lines": [
             {
-              "text": "Do not agree to set the Bible aside and argue from \"neutral\" facts. No one is neutral, and Scripture is the standard, not the thing on trial. (Prov 26:4; 2 Cor 10:5; 1 Pet 3:15)",
+              "text": "Do not agree to set the Bible aside and argue from \"neutral\" facts. No one is neutral, and Scripture is the standard, not the thing on trial. You start from what God has revealed. He starts from his own guess. (Prov 26:4; 2 Cor 10:5; 1 Pet 3:15)",
               "verses": [
                 {
                   "label": "Prov 26:4",
@@ -10519,10 +10640,65 @@
           ]
         },
         {
-          "heading": "Step 2: Step into his view and show it cannot stand",
+          "heading": "Step 2: Ask what he would accept",
           "lines": [
             {
-              "text": "Take his view on its own terms and ask what follows. (Prov 26:5)",
+              "text": "Before you give evidence, find out what he counts as evidence. If he has no standard, he has no basis for saying there isn't any.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Ask",
+              "text": "*\"What would count as evidence for you?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**\"Only what can be measured or tested.\"** → *\"Did you measure that? Which experiment showed that only tested things are true?\"* That rule is not something the five senses can find.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**\"I don't know what would convince me.\"** → *\"Then how do you know there's no evidence?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**\"God is outside the universe, so He can't be tested.\"** → Evidence is more than lab results. We reason, weigh testimony and draw conclusions every day. (Acts 1:3; Heb 11:1)",
+              "verses": [
+                {
+                  "label": "Acts 1:3",
+                  "kind": "bible",
+                  "key": "acts.1.3",
+                  "book": "acts",
+                  "chapter": 1,
+                  "verseStart": 3,
+                  "verseEnd": 3
+                },
+                {
+                  "label": "Heb 11:1",
+                  "kind": "bible",
+                  "key": "hebrews.11.1",
+                  "book": "hebrews",
+                  "chapter": 11,
+                  "verseStart": 1,
+                  "verseEnd": 1
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ]
+        },
+        {
+          "heading": "Step 3: Step into his view and show it cannot stand",
+          "lines": [
+            {
+              "text": "Take his view on its own terms and ask what follows. One question at a time, and wait for the answer. (Prov 26:5)",
               "verses": [
                 {
                   "label": "Prov 26:5",
@@ -10538,7 +10714,7 @@
               "supplemental": false
             },
             {
-              "label": "Truth and knowledge",
+              "label": "Knowledge",
               "text": "*\"How do you know that? How do you know anything for certain?\"* If he says we can't know anything for certain: *\"Are you certain of that?\"*",
               "verses": [],
               "links": [],
@@ -10546,21 +10722,14 @@
             },
             {
               "label": "Logic",
-              "text": "*\"Are the laws of logic made of matter? Do they change? Where do unchanging, universal laws come from in a universe of matter in motion?\"*",
-              "verses": [],
-              "links": [],
-              "supplemental": false
-            },
-            {
-              "label": "Right and wrong",
-              "text": "*\"Is that wrong for everyone, or only for you? If only for you, why should I care? If for everyone, who set the standard?\"*",
+              "text": "*\"Are the laws of logic made of matter? Do they change? Where do unchanging, universal laws come from in a universe of matter in motion?\"* If he says God is illogical: *\"That assumes logic is reliable. In your view, where does it come from?\"*",
               "verses": [],
               "links": [],
               "supplemental": false
             },
             {
               "label": "His own mind",
-              "text": "*\"If your thoughts are chemistry shaped for survival, why trust them to tell you what is true?\"*",
+              "text": "*\"You said 'mind.' Is that anything more than brain chemistry? If your thoughts are chemistry shaped for survival, why trust them to tell you what is true?\"*",
               "verses": [],
               "links": [],
               "supplemental": false
@@ -10602,7 +10771,7 @@
             },
             {
               "label": "Meaning",
-              "text": "*\"If we came from nothing and go to nothing, on what basis does anything you do matter?\"* (Eccl 1:2; Eccl 12:13–14)",
+              "text": "*\"If we came from nothing and go to nothing, on what basis does anything you do matter?\"* If he says nothing has meaning: *\"Does that sentence have meaning?\"* (Eccl 1:2; Eccl 12:13–14)",
               "verses": [
                 {
                   "label": "Eccl 1:2",
@@ -10629,10 +10798,74 @@
           ]
         },
         {
-          "heading": "Step 3: Bring him back to your ground",
+          "heading": "Right and wrong",
           "lines": [
             {
-              "text": "Show that what he has been borrowing belongs to God. Logic reflects God's unchanging mind, morality His holy character, the order of nature His faithfulness, and our reasoning His image in us. (Gen 1:27; Mal 3:6; John 1:1–3; Acts 17:24–28)",
+              "text": "Start here when he calls something evil, unfair or hateful.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Ask",
+              "text": "*\"Is morality objective, or is it opinion?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**\"It's subjective.\"** → *\"Then you can't say I'm wrong. You can only say you prefer something else, the way one person prefers burgers and another pizza.\"* Watch for him to keep saying you are wrong anyway. Point it out kindly.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**\"It comes from my experience.\"** → *\"Someone raised to hate his neighbors has experience too. Is his hatred good?\"* Experience differs from person to person, so it cannot be the standard.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**\"It comes from science.\"** → Science tells you what **is**. It cannot tell you what **ought** to be. *\"Which experiment shows that lying is wrong?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**\"That's just your interpretation of the Bible.\"** → Everyone interprets something: he interprets data and his own experience. Disagreement does not cancel truth. *\"If someone says 1 + 1 = 3, does that make the answer uncertain?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**\"That's true for you. This is my truth.\"** → An opinion is not the same as truth. Truth is what matches reality, whoever believes it. *\"Can a person sincerely believe something and be wrong?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**\"It's objective.\"** → *\"Then who set the standard, and why does it bind everyone?\"* (Rom 2:14–15)",
+              "verses": [
+                {
+                  "label": "Rom 2:14–15",
+                  "kind": "bible",
+                  "key": "romans.2.14-15",
+                  "book": "romans",
+                  "chapter": 2,
+                  "verseStart": 14,
+                  "verseEnd": 15
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ]
+        },
+        {
+          "heading": "Step 4: Bring him back to your ground",
+          "lines": [
+            {
+              "text": "Show that what he has been borrowing belongs to God. Logic reflects God's unchanging mind, morality His holy character, the order of nature His faithfulness, and our reasoning His image in us. All things were made through the Word. (Gen 1:27; Mal 3:6; John 1:1–3; Acts 17:24–28)",
               "verses": [
                 {
                   "label": "Gen 1:27",
@@ -10680,13 +10913,19 @@
           "heading": "If he says",
           "lines": [
             {
+              "text": "**\"So you're saying atheists can't know anything?\"** → No. He knows a great deal. The question is whether his worldview can explain how.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
               "text": "**\"I just lack belief. I don't have to prove anything.\"** → *\"You still reason, judge and trust your mind every day. What do those rest on?\"*",
               "verses": [],
               "links": [],
               "supplemental": false
             },
             {
-              "text": "**\"That's circular. You're using the Bible to prove the Bible.\"** → Everyone's final authority has to vouch for itself, or it isn't final. He uses reason to defend reason. The question is which starting point makes sense of everything else. (Heb 6:13)",
+              "text": "**\"That's circular. You're using God to prove God.\"** → Every final starting point has to vouch for itself, or it isn't final. *\"Can you prove your words have meaning without using words?\"* The question is which starting point makes sense of everything else. His explains nothing. God's word explains logic, morality, science and him. (Heb 6:13)",
               "verses": [
                 {
                   "label": "Heb 6:13",
@@ -10698,6 +10937,18 @@
                   "verseEnd": 13
                 }
               ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**\"We both just assume our senses work.\"** → For him the senses are the foundation, with nothing under them. For you they are a tool, and under them is the God who made eyes, minds and the world they fit.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**\"Logic is just a fact of the universe.\"** → That repeats the claim; it doesn't explain it. *\"Would you accept it if I said God is just a fact of the universe?\"*",
+              "verses": [],
               "links": [],
               "supplemental": false
             },
@@ -10726,6 +10977,62 @@
           "lines": [
             {
               "text": "**Don't say \"you believe in nothing.\"** He will name things he believes, and he'll be right. Say his worldview can't account for them.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Don't call him or his view dumb, and don't dismiss him.** Say \"that doesn't hold together,\" and stay kind when he gets sharp. (2 Tim 2:24–26)",
+              "verses": [
+                {
+                  "label": "2 Tim 2:24–26",
+                  "kind": "bible",
+                  "key": "2-timothy.2.24-26",
+                  "book": "2-timothy",
+                  "chapter": 2,
+                  "verseStart": 24,
+                  "verseEnd": 26
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Don't blame evil on God's hands being tied.** When evil or hell comes up, don't say God wanted to stop it but free will prevented Him. God is sovereign over all things, He is not the author of sin, and people answer for their own sin. Use [the evil and suffering answer](/atheist/objection/if-god-good-why-there) and [the \"why create me?\" answer](/atheist/objection/if-god-knew-id-reject). (Eph 1:11; Gen 50:20; Acts 2:23)",
+              "verses": [
+                {
+                  "label": "Eph 1:11",
+                  "kind": "bible",
+                  "key": "ephesians.1.11",
+                  "book": "ephesians",
+                  "chapter": 1,
+                  "verseStart": 11,
+                  "verseEnd": 11
+                },
+                {
+                  "label": "Gen 50:20",
+                  "kind": "bible",
+                  "key": "genesis.50.20",
+                  "book": "genesis",
+                  "chapter": 50,
+                  "verseStart": 20,
+                  "verseEnd": 20
+                },
+                {
+                  "label": "Acts 2:23",
+                  "kind": "bible",
+                  "key": "acts.2.23",
+                  "book": "acts",
+                  "chapter": 2,
+                  "verseStart": 23,
+                  "verseEnd": 23
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Don't trade away creation to sound reasonable.** God made everything in six days. See [the evolution answer](/atheist/objection/evolution-explains-life-we-dont).",
               "verses": [],
               "links": [],
               "supplemental": false
@@ -11164,7 +11471,7 @@
           "heading": "We have what they wrote",
           "lines": [
             {
-              "text": "The New Testament survives in thousands of Greek manuscripts, some copied within a few generations of the originals. The Dead Sea Scrolls, copied before and around the time of Christ, match the Hebrew manuscripts copied a thousand years later. (Isa 40:8; Matt 24:35; 1 Pet 1:24–25)",
+              "text": "The New Testament survives in thousands of Greek manuscripts, some copied within a few generations of the originals. The Dead Sea Scrolls, copied before and around the time of Christ, agree closely with the Hebrew manuscripts copied a thousand years later. (Isa 40:8; Matt 24:35; 1 Pet 1:24–25)",
               "verses": [
                 {
                   "label": "Isa 40:8",
@@ -11701,7 +12008,7 @@
             },
             {
               "label": "Monogenes",
-              "text": "Greek for \"one of a kind,\" often translated \"only begotten.\"",
+              "text": "the unique, only begotten Son. It marks His unique, eternal relationship to the Father, never creation (LSB: \"only begotten\").",
               "verses": [],
               "links": [],
               "supplemental": false
