@@ -3,7 +3,7 @@ import { TopBar } from "@/components/TopBar";
 import { APP_TITLE, BSB_NOTICE, LSB_NOTICE, LSB_URL } from "@/lib/config";
 import { guide } from "@/lib/guide";
 
-export const metadata = { title: "About · Field Guide" };
+export const metadata = { title: "About · Apologetics Field Guide" };
 
 export default function AboutPage() {
   return (

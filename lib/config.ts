@@ -1,6 +1,6 @@
 // Settings you may want to edit, all in one place.
 
-export const APP_TITLE = "Field Guide: Apologetics";
+export const APP_TITLE = "Apologetics Field Guide";
 
 // Legacy Standard Bible copyright notice, as required at LSBible.org/permission-to-quote-the-lsb/
 // (checked November 2026). For apps, the notice must include a tappable link to LSBible.org.

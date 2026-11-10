@@ -1,7 +1,7 @@
 {
-  "name": "Field Guide",
-  "short_name": "Field Guide",
-  "description": "Field Guide: Apologetics. Verses and talking points for live conversations.",
+  "name": "Apologetics Field Guide",
+  "short_name": "Apologetics Field Guide",
+  "description": "Apologetics Field Guide. Verses and talking points for live conversations.",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",

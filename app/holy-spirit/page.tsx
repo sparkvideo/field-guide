@@ -5,7 +5,7 @@ import { TopBar } from "@/components/TopBar";
 import { VerseChips } from "@/components/VerseSheet";
 import { guide } from "@/lib/guide";
 
-export const metadata = { title: "The Holy Spirit · Field Guide" };
+export const metadata = { title: "The Holy Spirit · Apologetics Field Guide" };
 
 export default function HolySpiritPage() {
   const hs = guide.holySpiritPlay;

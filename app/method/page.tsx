@@ -3,7 +3,7 @@ import { TopBar } from "@/components/TopBar";
 import { VerseChips } from "@/components/VerseSheet";
 import { guide } from "@/lib/guide";
 
-export const metadata = { title: "The Method · Field Guide" };
+export const metadata = { title: "The Method · Apologetics Field Guide" };
 
 export default function MethodPage() {
   const m = guide.method;

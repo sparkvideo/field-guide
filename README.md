@@ -1,4 +1,4 @@
-# Field Guide: Apologetics
+# Apologetics Field Guide
 
 A phone-first app that turns `content/field_guide_apologetics.md` into a fast field guide:
 pick who you're talking to, choose **Make the case** or **Answer an objection**, and get the

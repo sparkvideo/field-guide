@@ -3,7 +3,7 @@ import { Train } from "@/components/Train";
 import { guide } from "@/lib/guide";
 import { allCards, cardsFor } from "@/lib/practice";
 
-export const metadata = { title: "Train · Field Guide" };
+export const metadata = { title: "Train · Apologetics Field Guide" };
 
 export default function TrainPage() {
   return (

@@ -14,7 +14,7 @@ export function generateStaticParams() {
 export async function generateMetadata({ params }: { params: Promise<{ group: string; play: string }> }) {
   const { group, play } = await params;
   const p = getGroup(group)?.offense.find((x) => x.id === play);
-  return { title: p ? `${p.title} · Field Guide` : "Field Guide" };
+  return { title: p ? `${p.title} · Apologetics Field Guide` : "Apologetics Field Guide" };
 }
 
 export default async function PlayPage({ params }: { params: Promise<{ group: string; play: string }> }) {

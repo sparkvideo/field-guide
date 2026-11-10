@@ -116,8 +116,11 @@ export function Home({ groups }: { groups: GroupRow[] }) {
       <header className="brand">
         <Mark size={52} />
         <div>
-          <h1>Field Guide</h1>
-          <p>Apologetics</p>
+          <h1>
+            Apologetics
+            <br />
+            Field Guide
+          </h1>
         </div>
       </header>
 

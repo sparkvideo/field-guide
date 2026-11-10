@@ -68,7 +68,7 @@ function draw({ group, theySay, youSay, verses, askBack }: Props): HTMLCanvasEle
   }
   ctx.font = `600 28px ${FONT}`;
   ctx.fillStyle = "#a3a293";
-  ctx.fillText("Field Guide: Apologetics", PAD, canvas.height - PAD - 20);
+  ctx.fillText("Apologetics Field Guide", PAD, canvas.height - PAD - 20);
   return canvas;
 }
 

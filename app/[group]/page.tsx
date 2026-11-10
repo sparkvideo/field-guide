@@ -14,7 +14,7 @@ export function generateStaticParams() {
 }
 export async function generateMetadata({ params }: { params: Promise<{ group: string }> }) {
   const g = getGroup((await params).group);
-  return { title: g ? `${g.name} · Field Guide` : "Field Guide" };
+  return { title: g ? `${g.name} · Apologetics Field Guide` : "Apologetics Field Guide" };
 }
 
 export default async function GroupPage({ params }: { params: Promise<{ group: string }> }) {

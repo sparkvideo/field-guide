@@ -13,8 +13,8 @@ export const metadata: Metadata = {
   title: APP_TITLE,
   description: "Verses and talking points for live conversations.",
   manifest: "/manifest.json",
-  applicationName: "Field Guide",
-  appleWebApp: { capable: true, title: "Field Guide", statusBarStyle: "black-translucent" },
+  applicationName: "Apologetics Field Guide",
+  appleWebApp: { capable: true, title: "Apologetics Field Guide", statusBarStyle: "black-translucent" },
   icons: {
     icon: [
       { url: "/icons/icon.svg", type: "image/svg+xml" },

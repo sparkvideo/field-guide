@@ -14,7 +14,7 @@ export function generateStaticParams() {
 export async function generateMetadata({ params }: { params: Promise<{ group: string; id: string }> }) {
   const { group, id } = await params;
   const o = getGroup(group)?.defense.find((x) => x.id === id);
-  return { title: o ? `${o.objection.replace(/[*"]/g, "")} · Field Guide` : "Field Guide" };
+  return { title: o ? `${o.objection.replace(/[*"]/g, "")} · Apologetics Field Guide` : "Apologetics Field Guide" };
 }
 
 export default async function ObjectionPage({ params }: { params: Promise<{ group: string; id: string }> }) {
