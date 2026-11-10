@@ -186,7 +186,7 @@ He quoted it as final, said it cannot be broken, and said every part of it would
 Men spoke from God as they were carried along by the Holy Spirit, so the Scriptures as first written are without error. (2 Tim 3:16–17; 2 Pet 1:20–21)
 
 ## Prophecy written centuries ahead
-The suffering Servant, the pierced hands and feet, the birthplace of the Messiah and the pierced One were all written long before Jesus was born. (Isa 53; Ps 22; Mic 5:2; Zech 12:10)
+The suffering Servant, the pierced hands and feet, the birthplace of the Messiah and the pierced One were all written long before Jesus was born. (Isa 53:5–6; Ps 22:16; Mic 5:2; Zech 12:10)
 
 ## Where to go next
 - **With a Muslim:** run [The Islamic Dilemma](/muslim/case/play-1). The Quran confirms the Scriptures Christians already had.

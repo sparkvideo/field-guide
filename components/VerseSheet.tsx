@@ -137,6 +137,9 @@ export function VerseSheetProvider({ children }: { children: ReactNode }) {
                       ) : null}
                     </div>
                   )}
+                  {r.verseStart === undefined && (
+                    <p className="muted mt-2 text-[18px]">This reference is the whole chapter. Tap “Read chapter” to open it.</p>
+                  )}
                   {(lsb || bsb) && (
                     <button className="btn primary mt-5 w-full" onClick={() => setBig(true)}>
                       Show them

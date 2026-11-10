@@ -30,10 +30,10 @@ Source: content/field_guide_apologetics.md (594 lines)
 
 ## Verses
 
-- Bible references: 396 unique (374 verses/ranges + 22 whole-chapter mentions)
+- Bible references: 397 unique (375 verses/ranges + 22 whole-chapter mentions)
 - Quran: 25 · Book of Mormon: 6 · D&C: 1 · JST: 1 · Hadith: 5
-- Resolve in the bundled BSB: 396 of 396 ✓
-- LSB slots: 374 total, **0 still empty**
+- Resolve in the bundled BSB: 397 of 397 ✓
+- LSB slots: 375 total, **1 still empty**
 - Whole-chapter mentions (no LSB slot; they open the chapter in the reader): Num 21, Deut 34, Ps 8, Ps 22, Ps 82, Ps 95, Ps 102, Prov 8, Isa 42, Isa 43–45, Isa 53, Isa 61, Ezek 37, Dan 7, Mark 15, John 1, John 14, Acts 2, Acts 3, 1 Cor 8, Phil 2, Heb 2
 - Chapter:verse numbers written without a book name (not turned into chips):
   - Muslim objection 16: "5:16"

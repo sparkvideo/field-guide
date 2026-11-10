@@ -11598,21 +11598,25 @@
           "heading": "Prophecy written centuries ahead",
           "lines": [
             {
-              "text": "The suffering Servant, the pierced hands and feet, the birthplace of the Messiah and the pierced One were all written long before Jesus was born. (Isa 53; Ps 22; Mic 5:2; Zech 12:10)",
+              "text": "The suffering Servant, the pierced hands and feet, the birthplace of the Messiah and the pierced One were all written long before Jesus was born. (Isa 53:5–6; Ps 22:16; Mic 5:2; Zech 12:10)",
               "verses": [
                 {
-                  "label": "Isa 53",
+                  "label": "Isa 53:5–6",
                   "kind": "bible",
-                  "key": "isaiah.53",
+                  "key": "isaiah.53.5-6",
                   "book": "isaiah",
-                  "chapter": 53
+                  "chapter": 53,
+                  "verseStart": 5,
+                  "verseEnd": 6
                 },
                 {
-                  "label": "Ps 22",
+                  "label": "Ps 22:16",
                   "kind": "bible",
-                  "key": "psalms.22",
+                  "key": "psalms.22.16",
                   "book": "psalms",
-                  "chapter": 22
+                  "chapter": 22,
+                  "verseStart": 16,
+                  "verseEnd": 16
                 },
                 {
                   "label": "Mic 5:2",

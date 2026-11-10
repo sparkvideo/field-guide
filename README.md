@@ -93,6 +93,8 @@ From then on, every time you push a change in GitHub Desktop (**Commit**, then *
 ## Extras
 
 - **Show them:** tap a verse, then "Show them", for the verse alone in large type to hand across.
+- **Go and Tell** (on Home): a 60-second 8-bit game, just for fun. Tackle people and tell them Jesus loves them; hold Shield when flaming arrows fall (Eph 6:16). The code is `components/Game.tsx`; it draws everything itself, so there are no image files.
+- **Worldviews: how do you know?** (on Home): the presuppositional approach. Its text is in `content/extras.md` like the other extra pages.
 - **Train** (on Home): one question a day with a streak, plus a drill for each group. In a drill you answer from memory,
   flip the card, and mark "Got it" or "Missed it"; missed cards come back. Cards are the objections and "If they say"
   lines already in the guide, so new content shows up in training automatically. Each drill also has a **Quiz** side:
