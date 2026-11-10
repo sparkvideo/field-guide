@@ -75,6 +75,14 @@ export function Train({ cards, groups }: { cards: PracticeCard[]; groups: { slug
       <section className="section">
         <h2 className="label">Drill</h2>
         <div className="rows">
+          <Link href="/train/verses" className="row">
+            <span className="bar" style={{ background: "var(--color-accent)" }} aria-hidden="true" />
+            <span>
+              <span className="block font-semibold">Verses to memorize</span>
+              <span className="sub">The 20 the guide leans on most</span>
+            </span>
+            <Chevron />
+          </Link>
           {groups.map((g) => (
             <Link key={g.slug} href={`/${g.slug}/practice`} className="row">
               <span className="bar" style={{ background: g.color }} aria-hidden="true" />

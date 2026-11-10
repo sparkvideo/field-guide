@@ -9,7 +9,7 @@ import { getPins, getRecent, markSeen, seen, type Pin } from "@/lib/pins";
 import { formatRef, parseReference, readerHref, type TypedRef } from "@/lib/reference";
 import { searchGuide } from "@/lib/search";
 import { Chevron } from "./Bits";
-import { DrillIcon, FlameIcon, Mark, TargetIcon } from "./Icons";
+import { BookIcon, CrossIcon, DoorIcon, DrillIcon, FlameIcon, Mark, NoteIcon, PenIcon, TargetIcon, TriangleIcon, WordsIcon } from "./Icons";
 import { NotificationsRow } from "./Notifications";
 import { readStreak } from "./Train";
 
@@ -261,11 +261,35 @@ export function Home({ groups }: { groups: GroupRow[] }) {
 
           <h2 className="label" style={{ marginTop: 30 }}>For any conversation</h2>
           <nav className="rows" aria-label="For any conversation">
+            <Link href="/topic/the-gospel" className="row">
+              <CrossIcon />
+              <span>
+                <span className="block text-[20px] font-semibold">The Gospel</span>
+                <span className="sub">Where every conversation is headed</span>
+              </span>
+              <Chevron />
+            </Link>
+            <Link href="/topic/the-trinity" className="row">
+              <TriangleIcon />
+              <span>
+                <span className="block text-[20px] font-semibold">The Trinity</span>
+                <span className="sub">One God in three Persons</span>
+              </span>
+              <Chevron />
+            </Link>
             <Link href="/holy-spirit" className="row">
               <FlameIcon />
               <span>
                 <span className="block text-[20px] font-semibold">The Holy Spirit</span>
                 <span className="sub">Anyone denying the Trinity</span>
+              </span>
+              <Chevron />
+            </Link>
+            <Link href="/topic/is-the-bible-reliable" className="row">
+              <BookIcon />
+              <span>
+                <span className="block text-[20px] font-semibold">Is the Bible reliable?</span>
+                <span className="sub">Manuscripts, eyewitnesses, prophecy</span>
               </span>
               <Chevron />
             </Link>
@@ -277,11 +301,47 @@ export function Home({ groups }: { groups: GroupRow[] }) {
               </span>
               <Chevron />
             </Link>
+            <Link href="/topic/words-they-use" className="row">
+              <WordsIcon />
+              <span>
+                <span className="block text-[20px] font-semibold">Words they use</span>
+                <span className="sub">Quick lookup for their terms</span>
+              </span>
+              <Chevron />
+            </Link>
+            <Link href="/sideways" className="row">
+              <DoorIcon />
+              <span>
+                <span className="block text-[20px] font-semibold">When it goes sideways</span>
+                <span className="sub">How they leave, and what to do</span>
+              </span>
+              <Chevron />
+            </Link>
+          </nav>
+
+          <h2 className="label" style={{ marginTop: 30 }}>For you</h2>
+          <nav className="rows" aria-label="For you">
             <Link href="/train" className="row">
               <DrillIcon />
               <span>
                 <span className="block text-[20px] font-semibold">Train</span>
-                <span className="sub">Daily question and drills{streak > 0 ? `, ${streak}-day streak` : ""}</span>
+                <span className="sub">Daily question, drills, memory verses{streak > 0 ? `, ${streak}-day streak` : ""}</span>
+              </span>
+              <Chevron />
+            </Link>
+            <Link href="/testimony" className="row">
+              <PenIcon />
+              <span>
+                <span className="block text-[20px] font-semibold">My testimony</span>
+                <span className="sub">Your story in one minute</span>
+              </span>
+              <Chevron />
+            </Link>
+            <Link href="/notes" className="row">
+              <NoteIcon />
+              <span>
+                <span className="block text-[20px] font-semibold">Conversation notes</span>
+                <span className="sub">Who you talked to and how to pray</span>
               </span>
               <Chevron />
             </Link>

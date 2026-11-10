@@ -41,6 +41,42 @@ export const BellIcon = () => (
   </Icon>
 );
 
+export const CrossIcon = () => (
+  <Icon>
+    <path d="M12 3.500v17M7 8.500h10" />
+  </Icon>
+);
+export const TriangleIcon = () => (
+  <Icon>
+    <path d="M12 4.500l8.500 14.500h-17z" />
+  </Icon>
+);
+export const BookIcon = () => (
+  <Icon>
+    <path d="M12 6.500c-2-1.300-4.800-1.700-8-1.300v12.300c3.200-.4 6 0 8 1.300 2-1.300 4.800-1.700 8-1.300V5.200c-3.200-.4-6 0-8 1.300zM12 6.500v12.300" />
+  </Icon>
+);
+export const WordsIcon = () => (
+  <Icon>
+    <path d="M4 6.500h16M4 12h16M4 17.500h9" />
+  </Icon>
+);
+export const DoorIcon = () => (
+  <Icon>
+    <path d="M13.500 4.500h5v15h-5M10 8.500l-3.500 3.500 3.500 3.500M6.500 12h8" />
+  </Icon>
+);
+export const PenIcon = () => (
+  <Icon>
+    <path d="M4.500 19.500l1-4.500L16 4.500l3.500 3.500L9 18.500z" />
+  </Icon>
+);
+export const NoteIcon = () => (
+  <Icon>
+    <path d="M6 3.500h9l4 4v13H6zM9.500 12h6M9.500 16h4" />
+  </Icon>
+);
+
 /** The app's emblem (same drawing as the home-screen icon). */
 export function Mark({ size = 48 }: { size?: number }) {
   return (

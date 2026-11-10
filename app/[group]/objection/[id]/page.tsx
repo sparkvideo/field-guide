@@ -77,6 +77,11 @@ export default async function ObjectionPage({ params }: { params: Promise<{ grou
           <ShareCard group={g.name} theySay={o.objection} youSay={o.response} verses={o.verses.map((v) => v.label)} askBack={o.askBack} />
         </p>
         <p className="mt-6">
+          <Link className="btn primary" href="/topic/the-gospel">
+            Give the gospel
+          </Link>
+        </p>
+        <p className="mt-3">
           <Link className="btn" href={`/${g.slug}#first`}>
             Now go on offense: make the case
           </Link>

@@ -174,6 +174,11 @@ export default async function PlayPage({ params }: { params: Promise<{ group: st
           ))}
 
         <p className="mt-10">
+          <Link className="btn primary" href="/topic/the-gospel">
+            Give the gospel
+          </Link>
+        </p>
+        <p className="mt-3">
           <Link className="btn" href={`/${g.slug}#objections`}>
             They pushed back? Answer an objection
           </Link>

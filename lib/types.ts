@@ -95,6 +95,15 @@ export type HolySpiritPlay = {
   };
 };
 
+/** A page under "For any conversation" (The Gospel, The Trinity…), written in content/extras.md. */
+export type Topic = {
+  slug: string;
+  title: string;
+  subtitle?: string;
+  intro: Line[];
+  sections: { heading: string; lines: Labeled[] }[];
+};
+
 export type Guide = {
   title: string;
   intro: Line[];
@@ -107,6 +116,7 @@ export type Guide = {
   };
   holySpiritPlay: HolySpiritPlay;
   groups: Group[];
+  topics: Topic[];
   videos: { id: string; title: string; topic: string; url: string }[];
   footnote?: Line;
 };

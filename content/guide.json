@@ -658,7 +658,7 @@
         },
         {
           "kind": "pair",
-          "first": "➕ **Isa 6:8–10**: the voice of **the Lord** (Yahweh of hosts, v.3–5) says \"Go, and say to this people…\"",
+          "first": "**Isa 6:8–10**: the voice of **the Lord** (Yahweh of hosts, v.3–5) says \"Go, and say to this people…\"",
           "firstVerses": [
             {
               "label": "Isa 6:8–10",
@@ -670,7 +670,7 @@
               "verseEnd": 10
             }
           ],
-          "second": "➕ **Acts 28:25–26**: \"**The Holy Spirit** was right in saying to your fathers through Isaiah, 'Go to this people…'\"",
+          "second": "**Acts 28:25–26**: \"**The Holy Spirit** was right in saying to your fathers through Isaiah, 'Go to this people…'\"",
           "secondVerses": [
             {
               "label": "Acts 28:25–26",
@@ -713,11 +713,11 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "kind": "pair",
-          "first": "➕ **Jer 31:31–34**: \"This is the covenant **I** will make… **declares Yahweh**\"",
+          "first": "**Jer 31:31–34**: \"This is the covenant **I** will make… **declares Yahweh**\"",
           "firstVerses": [
             {
               "label": "Jer 31:31–34",
@@ -729,7 +729,7 @@
               "verseEnd": 34
             }
           ],
-          "second": "➕ **Heb 10:15–17**: \"**The Holy Spirit** also bears witness… 'This is the covenant **I** will make'\"",
+          "second": "**Heb 10:15–17**: \"**The Holy Spirit** also bears witness… 'This is the covenant **I** will make'\"",
           "secondVerses": [
             {
               "label": "Heb 10:15–17",
@@ -763,11 +763,11 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "kind": "pair",
-          "first": "➕ **Ex 17:7**: Israel \"tested **Yahweh**\"",
+          "first": "**Ex 17:7**: Israel \"tested **Yahweh**\"",
           "firstVerses": [
             {
               "label": "Ex 17:7",
@@ -779,7 +779,7 @@
               "verseEnd": 7
             }
           ],
-          "second": "➕ **Heb 3:7–9** (above)",
+          "second": "**Heb 3:7–9** (above)",
           "secondVerses": [
             {
               "label": "Heb 3:7–9",
@@ -813,11 +813,11 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "kind": "single",
-          "first": "➕ **Acts 5:3–4**: \"lie to **the Holy Spirit**\" = \"you have not lied to men but to **God**\"",
+          "first": "**Acts 5:3–4**: \"lie to **the Holy Spirit**\" = \"you have not lied to men but to **God**\"",
           "firstVerses": [
             {
               "label": "Acts 5:3–4",
@@ -844,7 +844,7 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "kind": "single",
@@ -1229,7 +1229,7 @@
           "title": "Jesus is the uncreated Creator",
           "subtitle": "John 1:3 / Col 1:16",
           "warning": false,
-          "supplemental": true,
+          "supplemental": false,
           "altOpeners": [],
           "chain": [
             {
@@ -1294,7 +1294,7 @@
               "supplemental": false
             },
             {
-              "text": "➕ **Isa 44:24**: \"I, Jehovah… stretched out the heavens **by myself**, who spread out the earth. **Who was with me?**\" → *\"If Jehovah created alone, and all things were created through Jesus, who is Jesus?\"*",
+              "text": "**Isa 44:24**: \"I, Jehovah… stretched out the heavens **by myself**, who spread out the earth. **Who was with me?**\" → *\"If Jehovah created alone, and all things were created through Jesus, who is Jesus?\"*",
               "verses": [
                 {
                   "label": "Isa 44:24",
@@ -1307,7 +1307,7 @@
                 }
               ],
               "links": [],
-              "supplemental": true
+              "supplemental": false
             }
           ],
           "questions": [],
@@ -1448,7 +1448,7 @@
           "title": "Jesus is Yahweh",
           "subtitle": "the \"First and Last\" / Hebrews 1 chain",
           "warning": false,
-          "supplemental": true,
+          "supplemental": false,
           "altOpeners": [],
           "chain": [
             {
@@ -1564,7 +1564,7 @@
               "supplemental": false
             },
             {
-              "text": "➕ **Isa 45:23 → Phil 2:10–11**: \"To **me** every knee will bow\" (Yahweh) → \"at the name of **Jesus** every knee should bow.\"",
+              "text": "**Isa 45:23 → Phil 2:10–11**: \"To **me** every knee will bow\" (Yahweh) → \"at the name of **Jesus** every knee should bow.\"",
               "verses": [
                 {
                   "label": "Isa 45:23",
@@ -1586,10 +1586,10 @@
                 }
               ],
               "links": [],
-              "supplemental": true
+              "supplemental": false
             },
             {
-              "text": "➕ **Isa 6:1–5 → John 12:41**: Isaiah \"saw **his** [Jesus'] glory.\" The one Isaiah saw was Yahweh of hosts.",
+              "text": "**Isa 6:1–5 → John 12:41**: Isaiah \"saw **his** [Jesus'] glory.\" The one Isaiah saw was Yahweh of hosts.",
               "verses": [
                 {
                   "label": "Isa 6:1–5",
@@ -1611,7 +1611,7 @@
                 }
               ],
               "links": [],
-              "supplemental": true
+              "supplemental": false
             }
           ],
           "questions": [],
@@ -2229,11 +2229,11 @@
           "supplemental": false
         },
         {
-          "id": "john-6-57-14-28",
-          "objection": "\"John 6:57 / 14:28: 'the Father is greater'\"",
+          "id": "john-14-28-father-greater",
+          "objection": "\"John 14:28: 'the Father is greater than I'\"",
           "response": "Greater in role, in the Son's humbled human state. Not in nature. Phil 2:6–7.",
           "goTo": "Phil 2:6–8; Heb 2:9",
-          "askBack": "*\"Is a husband 'greater' in nature than his wife because he leads?\"* ➕",
+          "askBack": "*\"Is a husband 'greater' in nature than his wife because he leads?\"*",
           "verses": [
             {
               "label": "Phil 2:6–8",
@@ -2263,15 +2263,6 @@
               "verseEnd": 7
             },
             {
-              "label": "John 6:57",
-              "kind": "bible",
-              "key": "john.6.57",
-              "book": "john",
-              "chapter": 6,
-              "verseStart": 57,
-              "verseEnd": 57
-            },
-            {
               "label": "John 14:28",
               "kind": "bible",
               "key": "john.14.28",
@@ -2282,7 +2273,7 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "psalm-8-heb-2-everything",
@@ -2470,7 +2461,7 @@
         {
           "id": "jesus-michael-archangel",
           "objection": "\"Jesus is Michael the Archangel.\"",
-          "response": "➕ Scripture never says it. Michael did not dare rebuke Satan himself (Jude 9); Jesus commands him directly (Matt 4:10). God never called any angel \"My Son,\" and **all** the angels worship the Son.",
+          "response": "Scripture never says it. Michael did not dare rebuke Satan himself (Jude 9); Jesus commands him directly (Matt 4:10). God never called any angel \"My Son,\" and **all** the angels worship the Son.",
           "goTo": "Heb 1:5–6; Jude 9; Matt 4:10",
           "askBack": "*\"To which of the angels did God ever say, 'You are My Son'?\"*",
           "verses": [
@@ -2503,12 +2494,12 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "jesus-was-raised-as-spirit",
           "objection": "\"Jesus was raised as a spirit, not in a body.\"",
-          "response": "➕ He said a spirit does not have flesh and bones as He has, He showed His wounds, and He said He would raise **His body**.",
+          "response": "He said a spirit does not have flesh and bones as He has, He showed His wounds, and He said He would raise **His body**.",
           "goTo": "Luke 24:39; John 2:19–21; John 20:27",
           "askBack": "*\"In John 2:19–21, what did Jesus say He would raise?\"*",
           "verses": [
@@ -2541,12 +2532,12 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "only-144-000-go-heaven",
           "objection": "\"Only 144,000 go to heaven.\"",
-          "response": "➕ Right after the 144,000, John sees a great multitude **no one could count** standing before the throne, serving God in His temple.",
+          "response": "Right after the 144,000, John sees a great multitude **no one could count** standing before the throne, serving God in His temple.",
           "goTo": "Rev 7:9; Rev 7:15; Rev 19:1",
           "askBack": "*\"Where is the great multitude standing in Rev 7:9?\"*",
           "verses": [
@@ -2579,12 +2570,12 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "dead-are-unconscious-soul-stops",
           "objection": "\"The dead are unconscious. The soul stops existing.\"",
-          "response": "➕ Paul expected to depart and **be with Christ**, away from the body and at home with the Lord. The souls under the altar speak.",
+          "response": "Paul expected to depart and **be with Christ**, away from the body and at home with the Lord. The souls under the altar speak.",
           "goTo": "Phil 1:23; 2 Cor 5:8; Rev 6:9–10; Luke 23:43",
           "askBack": "*\"How do the souls in Rev 6:10 cry out if they don't exist?\"*",
           "verses": [
@@ -2635,12 +2626,12 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "hell-isnt-eternal-wicked-are",
           "objection": "\"Hell isn't eternal. The wicked are simply destroyed.\"",
-          "response": "➕ Jesus uses the same word, \"eternal,\" for the punishment and for the life in one sentence.",
+          "response": "Jesus uses the same word, \"eternal,\" for the punishment and for the life in one sentence.",
           "goTo": "Matt 25:46; Rev 14:11; Rev 20:10",
           "askBack": "*\"If the punishment isn't eternal, is the life?\"*",
           "verses": [
@@ -2673,12 +2664,12 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "jesus-died-stake-not-cross",
           "objection": "\"Jesus died on a stake, not a cross.\"",
-          "response": "➕ Don't make this the fight. Thomas speaks of **nails**, plural, in His hands, and the sign was placed above His **head**. Then go back to who Jesus is.",
+          "response": "Don't make this the fight. Thomas speaks of **nails**, plural, in His hands, and the sign was placed above His **head**. Then go back to who Jesus is.",
           "goTo": "John 20:25; Matt 27:37",
           "askBack": "*\"Why 'nails,' plural, for His hands?\"*",
           "verses": [
@@ -2702,12 +2693,12 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "must-use-gods-name-jehovah",
           "objection": "\"You must use God's name, Jehovah.\"",
-          "response": "➕ The apostles take the Old Testament \"name\" texts and apply them to **Jesus**. Joel's \"call on the name of Yahweh\" becomes confessing Jesus as Lord.",
+          "response": "The apostles take the Old Testament \"name\" texts and apply them to **Jesus**. Joel's \"call on the name of Yahweh\" becomes confessing Jesus as Lord.",
           "goTo": "Rom 10:9–13; Joel 2:32; Acts 4:12; Phil 2:9–11",
           "askBack": "*\"In Rom 10:13, whose name is in view, given verse 9?\"*",
           "verses": [
@@ -2758,12 +2749,12 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "jesus-god-mighty-one-but",
           "objection": "\"Jesus is a god, a mighty one, but not the true God.\"",
-          "response": "➕ Jehovah says no god was formed before or after Him and He knows of no other. So is Jesus a true God or a false god? Thomas calls Him \"my Lord and **my God**\" and Jesus accepts it.",
+          "response": "Jehovah says no god was formed before or after Him and He knows of no other. So is Jesus a true God or a false god? Thomas calls Him \"my Lord and **my God**\" and Jesus accepts it.",
           "goTo": "Isa 43:10; Isa 44:8; John 20:28",
           "askBack": "*\"Is Jesus a true god or a false god?\"*",
           "verses": [
@@ -2796,12 +2787,12 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "people-only-did-obeisance-jesus",
           "objection": "\"People only did obeisance to Jesus, not worship.\"",
-          "response": "➕ All the angels worship the Son. Every creature gives the same honor to God and to the Lamb. An angel refuses it; Jesus receives it.",
+          "response": "All the angels worship the Son. Every creature gives the same honor to God and to the Lamb. An angel refuses it; Jesus receives it.",
           "goTo": "Heb 1:6; Rev 5:13–14; Rev 22:8–9; Matt 28:17",
           "askBack": "*\"Why does the angel refuse what Jesus accepts?\"*",
           "verses": [
@@ -2843,12 +2834,12 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "need-jehovahs-organization-saved",
           "objection": "\"You need Jehovah's organization to be saved.\"",
-          "response": "➕ Salvation is by grace through faith, not works, and not membership. When others left, Peter did not ask **where** to go, but **to whom**.",
+          "response": "Salvation is by grace through faith, not works, and not membership. When others left, Peter did not ask **where** to go, but **to whom**.",
           "goTo": "Eph 2:8–9; John 6:68; John 14:6",
           "askBack": "*\"To whom did Peter say we should go?\"*",
           "verses": [
@@ -2881,7 +2872,7 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         }
       ],
       "exits": {
@@ -3459,7 +3450,7 @@
           "title": "Christ is the Yahweh of the Exodus",
           "subtitle": "1 Cor 8:6 → 10:9",
           "warning": false,
-          "supplemental": true,
+          "supplemental": false,
           "altOpeners": [
             {
               "text": "*\"In Numbers 21, who did Israel test, and who sent the serpents?\"* (They'll say Yahweh.)",
@@ -3526,7 +3517,7 @@
               "supplemental": false
             },
             {
-              "text": "➕ Also: **Jude 5** (in the strongest manuscripts): \"**Jesus**, who saved a people out of Egypt.\"",
+              "text": "Also: **Jude 5** (in many of the earliest manuscripts and the current critical Greek text, followed by the LSB and ESV): \"**Jesus**, who saved a people out of Egypt.\"",
               "verses": [
                 {
                   "label": "Jude 5",
@@ -3539,7 +3530,7 @@
                 }
               ],
               "links": [],
-              "supplemental": true
+              "supplemental": false
             }
           ],
           "questions": [
@@ -3911,7 +3902,7 @@
           "objection": "\"John 17:3: the Father is 'the only true God'\"",
           "response": "Yes, the Father is the only true God. Trinitarians agree. \"Only\" excludes **false gods**, not the Son: the same John calls Jesus \"the true God\" (1 John 5:20).",
           "goTo": "1 John 5:20; Jude 4 (\"our only Master and Lord, Jesus Christ\")",
-          "askBack": "➕ *\"Jude calls Jesus our 'only Lord.' Does that make the Father not Lord?\"*",
+          "askBack": "*\"Jude calls Jesus our 'only Lord.' Does that make the Father not Lord?\"*",
           "verses": [
             {
               "label": "1 John 5:20",
@@ -3942,14 +3933,14 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "1-cor-8-6-one",
           "objection": "\"1 Cor 8:6: one God, the Father\"",
           "response": "Same verse: \"one **Lord**, Jesus Christ.\" Paul splits the Shema (Deut 6:4) between Father and Son. If \"one God, the Father\" excludes Jesus from being God, \"one Lord, Jesus\" excludes the Father from being Lord.",
           "goTo": "Deut 6:4; 1 Cor 8:6",
-          "askBack": "➕ *\"Is the Father not Lord?\"*",
+          "askBack": "*\"Is the Father not Lord?\"*",
           "verses": [
             {
               "label": "Deut 6:4",
@@ -3971,7 +3962,7 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "god-not-man-num-23",
@@ -4025,7 +4016,7 @@
           "objection": "\"Jesus died, and God can't die\"",
           "response": "The Person of the Son died **in His human nature**. The divine nature doesn't die. Two natures, one Person (WCF 8.2).",
           "goTo": "Acts 20:28; 1 Cor 2:8 (\"crucified the **Lord of glory**\")",
-          "askBack": "➕ *\"Who was crucified in 1 Cor 2:8?\"*",
+          "askBack": "*\"Who was crucified in 1 Cor 2:8?\"*",
           "verses": [
             {
               "label": "Acts 20:28",
@@ -4047,7 +4038,7 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "homoousios-nicaea-church-invented",
@@ -4214,7 +4205,7 @@
         {
           "id": "jesus-has-god-john-20",
           "objection": "\"Jesus has a God (John 20:17), so He isn't God.\"",
-          "response": "➕ As true man He has a God. The same chapter has Thomas call Him \"my God,\" and Hebrews calls the Son \"God\" while speaking of \"Your God.\" Both are true of the one Person.",
+          "response": "As true man He has a God. The same chapter has Thomas call Him \"my God,\" and Hebrews calls the Son \"God\" while speaking of \"Your God.\" Both are true of the one Person.",
           "goTo": "John 20:17; John 20:28; Heb 1:8–9",
           "askBack": "*\"In Heb 1:8–9, who is called God, and who is His God?\"*",
           "verses": [
@@ -4247,12 +4238,12 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "jesus-didnt-know-day-or",
           "objection": "\"Jesus didn't know the day or the hour (Mark 13:32).\"",
-          "response": "➕ Two natures. As man He grew in wisdom; as God He knows all things.",
+          "response": "Two natures. As man He grew in wisdom; as God He knows all things.",
           "goTo": "Mark 13:32; Luke 2:52; John 21:17; Col 2:3",
           "askBack": "*\"How can Peter say, 'Lord, You know all things'?\"*",
           "verses": [
@@ -4294,12 +4285,12 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "god-cannot-tempted-james-1",
           "objection": "\"God cannot be tempted (James 1:13), but Jesus was.\"",
-          "response": "➕ He was tempted **as man**, from outside, and never sinned. That is the point of the incarnation: a true human High Priest.",
+          "response": "He was tempted **as man**, from outside, and never sinned. That is the point of the incarnation: a true human High Priest.",
           "goTo": "Heb 4:15; Heb 2:17–18",
           "askBack": "*\"Did the temptation ever find sin in Him?\"*",
           "verses": [
@@ -4332,12 +4323,12 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "no-one-has-ever-seen",
           "objection": "\"No one has ever seen God, but people saw Jesus.\"",
-          "response": "➕ Finish the verse: the only begotten **God** has explained Him. No one has seen the Father apart from the Son. And Isaiah saw Yahweh, and John says he saw Christ's glory.",
+          "response": "Finish the verse: the only begotten **God** has explained Him. No one has seen the Father apart from the Son. And Isaiah saw Yahweh, and John says he saw Christ's glory.",
           "goTo": "John 1:18; John 14:9; John 12:41",
           "askBack": "*\"Who did Isaiah see in the temple?\"*",
           "verses": [
@@ -4370,12 +4361,12 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "philippians-2-only-jesus-didnt",
           "objection": "\"Philippians 2 only says Jesus didn't grasp at being equal with God.\"",
-          "response": "➕ He was **existing in the form of God** and then **took** the form of a slave. You cannot take on humanity if you were only ever human.",
+          "response": "He was **existing in the form of God** and then **took** the form of a slave. You cannot take on humanity if you were only ever human.",
           "goTo": "Phil 2:6–8; John 17:5",
           "askBack": "*\"When did He 'take' the form of a slave, if He was only ever a man?\"*",
           "verses": [
@@ -4406,12 +4397,12 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "word-john-1-gods-plan",
           "objection": "\"The 'Word' in John 1 is God's plan, not a person.\"",
-          "response": "➕ The Word is **with** God, makes all things, becomes flesh, and shares glory with the Father before the world existed. Plans don't do that.",
+          "response": "The Word is **with** God, makes all things, becomes flesh, and shares glory with the Father before the world existed. Plans don't do that.",
           "goTo": "John 1:1–3; John 1:14; John 17:5; 1 John 1:1–2",
           "askBack": "*\"Can a plan share glory with the Father before the world existed?\"*",
           "verses": [
@@ -4460,12 +4451,12 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "before-abraham-was-am-just",
           "objection": "\"'Before Abraham was, I am' just means He was foreordained.\"",
-          "response": "➕ His hearers understood Him. They picked up stones. Nobody is stoned for being part of God's plan.",
+          "response": "His hearers understood Him. They picked up stones. Nobody is stoned for being part of God's plan.",
           "goTo": "John 8:58–59; Ex 3:14; Isa 43:10",
           "askBack": "*\"Why did they try to stone Him?\"*",
           "verses": [
@@ -4498,12 +4489,12 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "thomas-was-only-exclaiming-surprise",
           "objection": "\"Thomas was only exclaiming in surprise (John 20:28).\"",
-          "response": "➕ The text says Thomas said it **to Him**, and Jesus blesses the confession instead of rebuking it.",
+          "response": "The text says Thomas said it **to Him**, and Jesus blesses the confession instead of rebuking it.",
           "goTo": "John 20:28–29",
           "askBack": "*\"Does Jesus correct Thomas or commend him?\"*",
           "verses": [
@@ -4527,12 +4518,12 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "jesus-called-god-way-judges",
           "objection": "\"Jesus is called 'god' the way judges and Moses were.\"",
-          "response": "➕ No judge is worshiped by angels, called Creator, or called the true God. And all are to honor the Son **just as** they honor the Father.",
+          "response": "No judge is worshiped by angels, called Creator, or called the true God. And all are to honor the Son **just as** they honor the Father.",
           "goTo": "John 5:23; Heb 1:6; 1 John 5:20",
           "askBack": "*\"Is anyone told to honor Moses just as they honor the Father?\"*",
           "verses": [
@@ -4565,12 +4556,12 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "matthew-28-19-was-added",
           "objection": "\"Matthew 28:19 was added later.\"",
-          "response": "➕ Every Greek manuscript that contains the passage has the three-fold name, and Paul blesses in the same three-fold way.",
+          "response": "Every Greek manuscript that contains the passage has the three-fold name, and Paul blesses in the same three-fold way.",
           "goTo": "Matt 28:19; 2 Cor 13:14",
           "askBack": "*\"Which manuscript leaves it out?\"*",
           "verses": [
@@ -4594,7 +4585,7 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         }
       ],
       "exits": {
@@ -4723,7 +4714,7 @@
           "supplemental": false
         },
         {
-          "text": "➕ **Alma 11:28–29** (BoM): \"Is there more than one God? … **No**.\"",
+          "text": "**Alma 11:28–29** (BoM): \"Is there more than one God? … **No**.\"",
           "verses": [
             {
               "label": "Alma 11:28–29",
@@ -4732,10 +4723,10 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
-          "text": "➕ **Moroni 8:18** (BoM): God is \"**unchangeable from all eternity to all eternity**.\"",
+          "text": "**Moroni 8:18** (BoM): God is \"**unchangeable from all eternity to all eternity**.\"",
           "verses": [
             {
               "label": "Moroni 8:18",
@@ -4744,7 +4735,7 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "text": "**John 1:1**: \"the Word was God,\" not \"a god.\"",
@@ -4995,7 +4986,7 @@
           "title": "God has always been God",
           "subtitle": "against \"God was once a man\"",
           "warning": false,
-          "supplemental": true,
+          "supplemental": false,
           "altOpeners": [
             {
               "text": "*\"Joseph Smith taught God was not always God, but became God. Is that hearsay or fact?\"* (Use when they bring up exaltation themselves.)",
@@ -5077,7 +5068,7 @@
             },
             {
               "label": "Their own book",
-              "text": "➕ **Moroni 8:18**, \"God is not… a changeable being; but he is unchangeable from all eternity to all eternity.\" **Mormon 9:9**, \"God is the same yesterday, today, and forever, and in him there is no variableness.\"",
+              "text": "**Moroni 8:18**, \"God is not… a changeable being; but he is unchangeable from all eternity to all eternity.\" **Mormon 9:9**, \"God is the same yesterday, today, and forever, and in him there is no variableness.\"",
               "verses": [
                 {
                   "label": "Moroni 8:18",
@@ -5091,7 +5082,7 @@
                 }
               ],
               "links": [],
-              "supplemental": true
+              "supplemental": false
             }
           ],
           "questions": [
@@ -5105,7 +5096,7 @@
           "ifTheySay": [
             {
               "theySay": "*\"That's not official doctrine / just my thought\"*",
-              "youSay": "King Follett discourse (Joseph Smith, 1844), *\"God himself was once as we are now.\"* ➕ Then: *\"Whether it's official or not, if a teaching contradicts the eternal God, it's a false teaching.\"*",
+              "youSay": "King Follett discourse (Joseph Smith, 1844), *\"God himself was once as we are now.\"* Then: *\"Whether it's official or not, if a teaching contradicts the eternal God, it's a false teaching.\"*",
               "verses": [],
               "links": [
                 {
@@ -5114,7 +5105,7 @@
                   "url": "https://youtu.be/qbkqdRh-5qE?t=473"
                 }
               ],
-              "supplemental": true
+              "supplemental": false
             }
           ],
           "notes": [],
@@ -5143,7 +5134,7 @@
           "title": "Three separate gods vs. one God",
           "subtitle": "the \"Godhead\"",
           "warning": false,
-          "supplemental": true,
+          "supplemental": false,
           "altOpeners": [],
           "chain": [
             {
@@ -5239,7 +5230,7 @@
               "supplemental": false
             },
             {
-              "text": "➕ **Alma 11:26–29**: Zeezrom: \"Is there more than one God?\" Amulek: \"**No**.\"",
+              "text": "**Alma 11:26–29**: Zeezrom: \"Is there more than one God?\" Amulek: \"**No**.\"",
               "verses": [
                 {
                   "label": "Alma 11:26–29",
@@ -5248,7 +5239,7 @@
                 }
               ],
               "links": [],
-              "supplemental": true
+              "supplemental": false
             }
           ],
           "questions": [],
@@ -5523,7 +5514,7 @@
           "id": "there-was-great-apostasy-god",
           "objection": "\"There was a Great Apostasy, so God restored the church through Joseph Smith.\"",
           "response": "Jesus promised the gates of hell would **not** prevail and that He'd be with His church always.",
-          "goTo": "Matt 16:18; 28:20; Jude 3 (\"**once for all** delivered\") ➕",
+          "goTo": "Matt 16:18; 28:20; Jude 3 (\"**once for all** delivered\")",
           "askBack": "*\"Did Jesus fail to keep His promise for 1,700 years?\"*",
           "verses": [
             {
@@ -5555,13 +5546,13 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "pray-about-book-mormon-youll",
           "objection": "\"Pray about the Book of Mormon and you'll feel a burning in the bosom.\"",
           "response": "Feelings test nothing. Scripture tells us to test by Scripture. The heart is deceitful.",
-          "goTo": "Jer 17:9; Gal 1:8; 1 John 4:1; Acts 17:11 ➕",
+          "goTo": "Jer 17:9; Gal 1:8; 1 John 4:1; Acts 17:11",
           "askBack": "*\"If a Muslim feels a burning about the Quran, is it true too?\"*",
           "verses": [
             {
@@ -5602,14 +5593,14 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "ye-are-gods-ps-82",
           "objection": "\"Ye are gods\" (Ps 82:6 / John 10:34)",
           "response": "Ps 82 is about **unjust human judges** who \"will **die** like men\" (v.7). It's irony and judgment, not a promise of exaltation.",
           "goTo": "Ps 82:6–7",
-          "askBack": "*\"Do these 'gods' die?\"* ➕",
+          "askBack": "*\"Do these 'gods' die?\"*",
           "verses": [
             {
               "label": "Ps 82:6–7",
@@ -5647,13 +5638,13 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "father-has-body-flesh-bone",
           "objection": "\"The Father has a body of flesh and bone.\"",
           "response": "God is spirit, invisible, and fills heaven and earth.",
-          "goTo": "John 4:24; Luke 24:39; 1 Tim 1:17; Jer 23:24 ➕",
+          "goTo": "John 4:24; Luke 24:39; 1 Tim 1:17; Jer 23:24",
           "askBack": "*\"Does a spirit have flesh and bones?\"* (Luke 24:39)",
           "verses": [
             {
@@ -5694,7 +5685,7 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "ezekiel-37s-two-sticks-bible",
@@ -5777,7 +5768,7 @@
           "id": "baptism-for-dead-1-cor",
           "objection": "\"Baptism for the dead\" (1 Cor 15:29)",
           "response": "Paul says \"**they**\" (some group), not \"we.\" It's an ad hominem for the resurrection, not a command. Heb 9:27.",
-          "goTo": "1 Cor 15:29; Heb 9:27 ➕",
+          "goTo": "1 Cor 15:29; Heb 9:27",
           "askBack": "*\"Where is it ever commanded?\"*",
           "verses": [
             {
@@ -5800,12 +5791,12 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "we-are-saved-by-grace",
           "objection": "\"We are saved by grace after all we can do (2 Nephi 25:23).\"",
-          "response": "➕ Scripture says grace through faith, **not of works**. God justifies the one who does not work but believes. Good works are the fruit, not the price.",
+          "response": "Scripture says grace through faith, **not of works**. God justifies the one who does not work but believes. Good works are the fruit, not the price.",
           "goTo": "Eph 2:8–10; Rom 4:4–5; Titus 3:5; Rom 11:6",
           "askBack": "*\"Have you done all you can do?\"*",
           "verses": [
@@ -5852,12 +5843,12 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "bible-true-only-as-far",
           "objection": "\"The Bible is true only as far as it is translated correctly. Plain and precious things were lost.\"",
-          "response": "➕ God promised His word would stand forever. We have manuscripts more than a thousand years older than Joseph Smith, and they read the same.",
+          "response": "God promised His word would stand forever. We have manuscripts more than a thousand years older than Joseph Smith, and none of them contain the \"lost\" material he added.",
           "goTo": "Isa 40:8; Matt 24:35; 1 Pet 1:25",
           "askBack": "*\"Which verse was lost, and which manuscript shows it?\"*",
           "verses": [
@@ -5890,13 +5881,13 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "we-have-living-prophet-today",
           "objection": "\"We have a living prophet today.\"",
-          "response": "➕ In these last days God has spoken **in His Son**. Any prophet is tested by Scripture, and a different gospel is rejected even from an angel.",
-          "goTo": "Heb 1:1–2; Deut 18:22; Gal 1:8",
+          "response": "In these last days God has spoken **in His Son**. Any prophet is tested by Scripture, and a different gospel is rejected even from an angel.",
+          "goTo": "Heb 1:1–2; Deut 13:1–5; Deut 18:22; Gal 1:8",
           "askBack": "*\"What happens to a prophet whose word contradicts Scripture?\"*",
           "verses": [
             {
@@ -5907,6 +5898,15 @@
               "chapter": 1,
               "verseStart": 1,
               "verseEnd": 2
+            },
+            {
+              "label": "Deut 13:1–5",
+              "kind": "bible",
+              "key": "deuteronomy.13.1-5",
+              "book": "deuteronomy",
+              "chapter": 13,
+              "verseStart": 1,
+              "verseEnd": 5
             },
             {
               "label": "Deut 18:22",
@@ -5928,12 +5928,12 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "jesus-lucifer-are-spirit-brothers",
           "objection": "\"Jesus and Lucifer are spirit brothers.\"",
-          "response": "➕ Jesus created **all things** in heaven and on earth, visible and invisible, including every angelic power. The Creator is not the brother of His creature.",
+          "response": "Jesus created **all things** in heaven and on earth, visible and invisible, including every angelic power. The Creator is not the brother of His creature.",
           "goTo": "Col 1:16; John 1:3",
           "askBack": "*\"If Jesus made everything invisible in heaven, who made Lucifer?\"*",
           "verses": [
@@ -5957,13 +5957,13 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "we-all-lived-as-spirits",
           "objection": "\"We all lived as spirits with God before we were born.\"",
-          "response": "➕ God forms the spirit of man **within him**. The natural comes first, then the spiritual. Only Christ is \"from above.\"",
-          "goTo": "Zech 12:1; 1 Cor 15:46; John 8:23",
+          "response": "God forms the spirit of man **within him**. Only Christ is \"from above.\"",
+          "goTo": "Zech 12:1; John 8:23",
           "askBack": "*\"Who does Jesus say is from above, and who is from below?\"*",
           "verses": [
             {
@@ -5976,15 +5976,6 @@
               "verseEnd": 1
             },
             {
-              "label": "1 Cor 15:46",
-              "kind": "bible",
-              "key": "1-corinthians.15.46",
-              "book": "1-corinthians",
-              "chapter": 15,
-              "verseStart": 46,
-              "verseEnd": 46
-            },
-            {
               "label": "John 8:23",
               "kind": "bible",
               "key": "john.8.23",
@@ -5995,12 +5986,12 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "priesthood-was-restored-through-joseph",
           "objection": "\"The priesthood was restored through Joseph Smith.\"",
-          "response": "➕ The Aaronic priesthood was set aside, and Jesus holds His priesthood **permanently**. Every believer is already part of a royal priesthood.",
+          "response": "The Aaronic priesthood was set aside, and Jesus holds His priesthood **permanently**. Every believer is already part of a royal priesthood.",
           "goTo": "Heb 7:11–12; Heb 7:23–24; 1 Pet 2:9",
           "askBack": "*\"If Jesus holds it permanently, who else needs to?\"*",
           "verses": [
@@ -6033,12 +6024,12 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "families-are-forever-through-temple",
           "objection": "\"Families are forever through temple marriage.\"",
-          "response": "➕ Jesus says that in the resurrection they neither marry nor are given in marriage. The temple veil was torn, and God does not dwell in temples made with hands.",
+          "response": "Jesus says that in the resurrection they neither marry nor are given in marriage. The temple veil was torn, and God does not dwell in temples made with hands.",
           "goTo": "Matt 22:30; Matt 27:51; Acts 17:24",
           "askBack": "*\"What did Jesus say about marriage in the resurrection?\"*",
           "verses": [
@@ -6071,12 +6062,12 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "there-are-three-degrees-glory",
           "objection": "\"There are three degrees of glory. Almost everyone is saved somewhere.\"",
-          "response": "➕ Jesus speaks of two roads and two ends: eternal punishment or eternal life.",
+          "response": "Jesus speaks of two roads and two ends: eternal punishment or eternal life.",
           "goTo": "Matt 7:13–14; Matt 25:46; John 3:36",
           "askBack": "*\"How many destinations does Jesus name?\"*",
           "verses": [
@@ -6109,12 +6100,12 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "were-christians-too-we-believe",
           "objection": "\"We're Christians too. We believe in Jesus.\"",
-          "response": "➕ Be gentle here. Paul warns of \"another Jesus.\" The question is which Jesus: the eternal God who made all things, or a created spirit who became a god.",
+          "response": "Be gentle here. Paul warns of \"another Jesus.\" The question is which Jesus: the eternal God who made all things, or a created spirit who became a god.",
           "goTo": "2 Cor 11:4; John 1:1; Gal 1:6–8",
           "askBack": "*\"Is the Jesus you trust the eternal Creator, or a being who became a god?\"*",
           "verses": [
@@ -6147,12 +6138,12 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "james-1-5-ask-god",
           "objection": "\"James 1:5: ask God, and He will tell you it's true.\"",
-          "response": "➕ James is about wisdom in trials, not a test for new scripture. The Bereans were praised for checking everything against the Scriptures.",
+          "response": "James is about wisdom in trials, not a test for new scripture. The Bereans were praised for checking everything against the Scriptures.",
           "goTo": "James 1:5; Acts 17:11; Gal 1:8",
           "askBack": "*\"What did the Bereans check Paul against?\"*",
           "verses": [
@@ -6185,7 +6176,7 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         }
       ],
       "exits": {
@@ -6345,7 +6336,7 @@
           "supplemental": false
         },
         {
-          "text": "➕ **Q 6:115 / 18:27**: \"**None can change His words**.\"",
+          "text": "**Q 6:115 / 18:27**: \"**None can change His words**.\"",
           "verses": [
             {
               "label": "Q 6:115",
@@ -6365,7 +6356,7 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "text": "**John 14:16–17**: the Helper \"**dwells with you** and will be in you.\" *\"Was Muhammad living with the disciples?\"*",
@@ -6392,7 +6383,7 @@
           "subtitle": "run it in phases",
           "whenToUse": "run it in phases",
           "warning": false,
-          "supplemental": true,
+          "supplemental": false,
           "altOpeners": [],
           "chain": [
             {
@@ -6460,7 +6451,7 @@
             },
             {
               "phase": "Phase 1: plain text only. Don't move on until they agree.",
-              "text": "**Q 5:47**: \"Let the people of the Gospel judge by what Allah revealed **therein**.\" ➕ **Q 5:68**: \"You stand on nothing until you uphold the Torah and the Gospel.\" ➕ **Q 10:94**: \"If you are in doubt… **ask those who have been reading the Scripture before you**.\"",
+              "text": "**Q 5:47**: \"Let the people of the Gospel judge by what Allah revealed **therein**.\" **Q 5:68**: \"You stand on nothing until you uphold the Torah and the Gospel.\" **Q 10:94**: \"If you are in doubt… **ask those who have been reading the Scripture before you**.\"",
               "verses": [
                 {
                   "label": "Q 5:47",
@@ -6488,7 +6479,7 @@
                 }
               ],
               "links": [],
-              "supplemental": true
+              "supplemental": false
             },
             {
               "phase": "Phase 2: spring it.",
@@ -6565,7 +6556,7 @@
             },
             {
               "theySay": "*\"Q 5:13: they distort words from their places.\"*",
-              "youSay": "Distorting **meaning / misquoting** ≠ the text is lost. The same chapter tells them to judge by what they have (5:43, 47). ➕ And Q 6:115: \"None can change His words.\"",
+              "youSay": "Distorting **meaning / misquoting** ≠ the text is lost. The same chapter tells them to judge by what they have (5:43, 47). And Q 6:115: \"None can change His words.\"",
               "verses": [
                 {
                   "label": "Q 5:13",
@@ -6601,7 +6592,7 @@
                 }
               ],
               "links": [],
-              "supplemental": true
+              "supplemental": false
             },
             {
               "theySay": "*\"Having it is like having $100. You can still lose it.\"*",
@@ -6737,7 +6728,7 @@
           "title": "Muhammad isn't in the Bible",
           "subtitle": "the John 14 and Q 61:6 claims",
           "warning": false,
-          "supplemental": true,
+          "supplemental": false,
           "altOpeners": [
             {
               "text": "*\"So the Comforter here, you believe that's Muhammad?\"* (Once they cite John 14.)",
@@ -6756,7 +6747,7 @@
           ],
           "chain": [
             {
-              "text": "**John 14:16–17**: the Helper is \"the **Spirit** of truth… you **know** him, for he **dwells with you** and will be **in you**.\" *\"Was Muhammad living with the disciples? So this can't be Muhammad, right?\"* ➕ v.26: \"the **Holy Spirit**, whom the Father will send.\" Acts 1:5, 8 → Pentecost (Acts 2), a few weeks later, not 600 years.",
+              "text": "**John 14:16–17**: the Helper is \"the **Spirit** of truth… you **know** him, for he **dwells with you** and will be **in you**.\" *\"Was Muhammad living with the disciples? So this can't be Muhammad, right?\"* v.26: \"the **Holy Spirit**, whom the Father will send.\" Acts 1:5, 8 → Pentecost (Acts 2), a few weeks later, not 600 years.",
               "verses": [
                 {
                   "label": "John 14:16–17",
@@ -6800,7 +6791,7 @@
                   "url": "https://youtu.be/qKfI6OlRhtM?t=357"
                 }
               ],
-              "supplemental": true
+              "supplemental": false
             },
             {
               "text": "**Q 61:6** says Jesus foretold \"Ahmad.\" → *\"Show me where Jesus mentions Ahmad by name. And show me from your Quran that Ahmad is Muhammad.\"* Same root? Allah is called *Mahmud* (same root). Same root doesn't mean same person.",
@@ -6841,7 +6832,7 @@
               "supplemental": false
             },
             {
-              "text": "➕ **Deut 18:18** (\"a prophet like you from among their **brothers**\"): Deut 17:15 and 18:2 define \"brothers\" as fellow **Israelites**. Acts 3:22 applies it to Jesus.",
+              "text": "**Deut 18:18** (\"a prophet like you from among their **brothers**\"): Deut 17:15 and 18:2 define \"brothers\" as fellow **Israelites**. Acts 3:22 applies it to Jesus.",
               "verses": [
                 {
                   "label": "Deut 18:18",
@@ -6881,7 +6872,7 @@
                 }
               ],
               "links": [],
-              "supplemental": true
+              "supplemental": false
             }
           ],
           "questions": [],
@@ -6921,7 +6912,7 @@
           "number": 3,
           "title": "Only God gives eternal life",
           "warning": false,
-          "supplemental": true,
+          "supplemental": false,
           "altOpeners": [],
           "chain": [
             {
@@ -6960,7 +6951,7 @@
               "supplemental": false
             },
             {
-              "text": "➕ Pair with **Mark 2:5–10** (forgives sins: \"Who can forgive sins but God alone?\") and **Mark 14:61–64** (Son of Man, Dan 7: the high priest calls it blasphemy).",
+              "text": "Pair with **Mark 2:5–10** (forgives sins: \"Who can forgive sins but God alone?\") and **Mark 14:61–64** (Son of Man, Dan 7: the high priest calls it blasphemy).",
               "verses": [
                 {
                   "label": "Mark 2:5–10",
@@ -6989,7 +6980,7 @@
                 }
               ],
               "links": [],
-              "supplemental": true
+              "supplemental": false
             }
           ],
           "questions": [],
@@ -7449,7 +7440,7 @@
           "objection": "\"Which God sent Jesus? Who was He praying to?\"",
           "response": "One God, three Persons. The **Father** sent the **Son**. Jesus prayed as a true man.",
           "goTo": "John 3:16–17; John 17:5",
-          "askBack": "➕ *\"In John 17:5 Jesus asks for the glory He had with the Father before the world existed. Can a mere prophet pray that?\"*",
+          "askBack": "*\"In John 17:5 Jesus asks for the glory He had with the Father before the world existed. Can a mere prophet pray that?\"*",
           "verses": [
             {
               "label": "John 3:16–17",
@@ -7477,14 +7468,14 @@
               "url": "https://youtu.be/5V2_IKb2Xtk?t=1207"
             }
           ],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "jesus-wasnt-crucified-q-4",
           "objection": "\"Jesus wasn't crucified\" (Q 4:157)",
-          "response": "Every 1st-century source (friendly and hostile, including Tacitus and Josephus) agrees He was crucified. The Quran denies it 600 years later with no source. And the Injil the Quran confirms teaches it. ➕",
+          "response": "Every early source, Christian and non-Christian (Josephus c. AD 93, Tacitus c. AD 116), agrees He was crucified. The Quran denies it 600 years later with no source. And the Injil the Quran confirms teaches it.",
           "goTo": "1 Cor 15:3–8; Mark 15",
-          "askBack": "*\"Who did Allah make look like Jesus, and did he deceive the disciples into starting Christianity?\"* ➕",
+          "askBack": "*\"Who did Allah make look like Jesus, and did he deceive the disciples into starting Christianity?\"*",
           "verses": [
             {
               "label": "1 Cor 15:3–8",
@@ -7512,14 +7503,14 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "paul-corrupted-jesus-message",
           "objection": "\"Paul corrupted Jesus' message.\"",
-          "response": "Paul's gospel was checked and approved by Peter, James and John. And Q 61:14 praises Jesus' disciples as Allah's helpers, who won. ➕",
+          "response": "Paul's gospel was checked and approved by Peter, James and John. And Q 61:14 praises Jesus' disciples as Allah's helpers, who won.",
           "goTo": "Gal 2:7–9; 2 Pet 3:15–16",
-          "askBack": "*\"Who's Paul? 'Bulus' is Paul!\"*",
+          "askBack": "*\"Q 61:14 says Allah made Jesus' followers victorious. The faith that won taught what Paul taught. Did Allah back the wrong side?\"*",
           "verses": [
             {
               "label": "Gal 2:7–9",
@@ -7555,14 +7546,14 @@
               "url": "https://youtu.be/XB83I9YYMeg?t=1681"
             }
           ],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "torah-one-book-but-have",
           "objection": "\"The Torah is one book, but you have five.\"",
-          "response": "The Torah = Genesis to Deuteronomy (the 5 books of Moses). Deut 34 (Moses' death) was added at the end, as normal.",
+          "response": "The Torah = Genesis to Deuteronomy, the five books of Moses: one Torah in five scrolls. Jewish tradition says Joshua added the account of Moses' death (Deut 34).",
           "goTo": "Deut 34",
-          "askBack": "➕ *\"The Quran has 114 surahs. Is it 114 books, or one?\"*",
+          "askBack": "*\"The Quran has 114 surahs. Is it 114 books, or one?\"*",
           "verses": [
             {
               "label": "Deut 34",
@@ -7579,14 +7570,14 @@
               "url": "https://youtu.be/5V2_IKb2Xtk?t=995"
             }
           ],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "trinity-pagan-allah-third-three",
           "objection": "\"The Trinity is pagan / Allah is 'the third of three'\"",
-          "response": "The Quran's version of the Trinity (God, Jesus, **Mary**: Q 5:116; 5:73) is not what Christians believe. ➕",
+          "response": "The Quran pictures worship of God, Jesus and **Mary** (Q 5:116; cf. Q 5:73–75). That is not the Trinity Christians believe: one God in three Persons, Father, Son and Holy Spirit.",
           "goTo": "Q 5:116 vs. Matt 28:19",
-          "askBack": "*\"Which Christian ever taught Mary is part of the Trinity?\"* ➕",
+          "askBack": "*\"Which Christian ever taught Mary is part of the Trinity?\"*",
           "verses": [
             {
               "label": "Q 5:116",
@@ -7606,21 +7597,21 @@
               "verseEnd": 19
             },
             {
-              "label": "Q 5:73",
+              "label": "Q 5:73–75",
               "kind": "quran",
-              "key": "q.5.73",
+              "key": "q.5.73-75",
               "chapter": 5,
               "verseStart": 73,
-              "verseEnd": 73
+              "verseEnd": 75
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "jesus-ate-slept-prayed-god",
           "objection": "\"Jesus ate, slept and prayed. God doesn't do that.\"",
-          "response": "➕ He is truly God and truly man. The Word **became flesh**. Hunger and sleep belong to His human nature; they don't cancel His divine nature.",
+          "response": "He is truly God and truly man. The Word **became flesh**. Hunger and sleep belong to His human nature; they don't cancel His divine nature.",
           "goTo": "John 1:1; John 1:14; Phil 2:6–8; Heb 2:17",
           "askBack": "*\"If God chose to enter His creation as a man, who could stop Him?\"*",
           "verses": [
@@ -7662,12 +7653,12 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "injil-was-one-book-given",
           "objection": "\"The Injil was one book given to Jesus. You have four, written by men.\"",
-          "response": "➕ \"Gospel\" means the good news about Jesus. And the Quran tells the people of the Gospel to judge by what they **had** in the 7th century, which was these four.",
+          "response": "\"Gospel\" means the good news about Jesus. And the Quran tells the people of the Gospel to judge by what they **had** in the 7th century, which was these four.",
           "goTo": "Mark 1:1; 1 Cor 15:1–4; Q 5:47",
           "askBack": "*\"What Gospel did Christians have in Muhammad's day?\"*",
           "verses": [
@@ -7699,12 +7690,12 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "jesus-was-sent-only-lost",
           "objection": "\"Jesus was sent only to the lost sheep of Israel.\"",
-          "response": "➕ His earthly ministry went to Israel first, as promised. Then He sent His disciples to **all nations**, as Isaiah foretold.",
+          "response": "His earthly ministry went to Israel first, as promised. Then He sent His disciples to **all nations**, as Isaiah foretold.",
           "goTo": "Matt 15:24; Matt 28:19; John 10:16; Isa 49:6",
           "askBack": "*\"Who does Jesus send them to in Matt 28:19?\"*",
           "verses": [
@@ -7746,12 +7737,12 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "bible-has-contradictions-too-many",
           "objection": "\"The Bible has contradictions and too many versions.\"",
-          "response": "➕ Translations are not different Bibles. The manuscript differences are known and printed in the footnotes, and no teaching depends on them. Ask for one and read it together.",
+          "response": "Translations are not different Bibles. The manuscript differences are known and printed in the footnotes, and no teaching depends on them. Ask for one and read it together.",
           "goTo": "Isa 40:8; Matt 24:35",
           "askBack": "*\"Which contradiction? Let's read it.\"*",
           "verses": [
@@ -7775,12 +7766,12 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "god-can-simply-forgive-he",
           "objection": "\"God can simply forgive. He doesn't need a sacrifice.\"",
-          "response": "➕ A judge who lets the guilty go is unjust. God will by no means leave the guilty unpunished. At the cross He is both **just and the justifier**. Even the Quran ransoms Abraham's son with a great sacrifice.",
+          "response": "A judge who lets the guilty go is unjust. God will by no means leave the guilty unpunished. At the cross He is both **just and the justifier**. Even the Quran ransoms Abraham's son with a great sacrifice.",
           "goTo": "Ex 34:7; Prov 17:15; Heb 9:22; Rom 3:25–26; Q 37:107",
           "askBack": "*\"If a judge lets the guilty go free, is he a just judge?\"*",
           "verses": [
@@ -7830,12 +7821,12 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "no-one-can-carry-another",
           "objection": "\"No one can carry another person's sins (Q 6:164).\"",
-          "response": "➕ The Torah the Quran confirms is built on substitution: the sins of the people laid on another. Isaiah foretold One who would bear the iniquity of us all.",
+          "response": "The Torah the Quran confirms is built on substitution: the sins of the people laid on another. Isaiah foretold One who would bear the iniquity of us all.",
           "goTo": "Lev 16:21–22; Isa 53:5–6; 2 Cor 5:21; Q 6:164",
           "askBack": "*\"What does Isaiah 53:6 say Yahweh laid on Him?\"*",
           "verses": [
@@ -7885,12 +7876,12 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "jesus-his-disciples-were-muslims",
           "objection": "\"Jesus and His disciples were Muslims.\"",
-          "response": "➕ His disciples worshiped Him, called Him Lord and God, and preached that He was crucified and raised.",
+          "response": "His disciples worshiped Him, called Him Lord and God, and preached that He was crucified and raised.",
           "goTo": "Matt 28:17; John 20:28; Acts 2:23–24; Acts 2:36",
           "askBack": "*\"Would a Muslim say 'My Lord and my God' to Jesus?\"*",
           "verses": [
@@ -7932,12 +7923,12 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "muhammad-named-song-songs-5",
           "objection": "\"Muhammad is named in Song of Songs 5:16.\"",
-          "response": "➕ The Hebrew word there is an ordinary word for \"desirable,\" used by a bride about her beloved. The same word family describes Ezekiel's wife and children in Hosea.",
+          "response": "The Hebrew word there is an ordinary word for \"desirable,\" used by a bride about her beloved. The same word family describes Ezekiel's wife and children in Hosea.",
           "goTo": "Song 5:16; Ezek 24:16; Hos 9:16",
           "askBack": "*\"Is Muhammad also in Ezekiel 24:16, where the same word is used?\"*",
           "verses": [
@@ -7970,12 +7961,12 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "islam-fastest-growing-religion-must",
           "objection": "\"Islam is the fastest-growing religion, so it must be true.\"",
-          "response": "➕ Truth isn't a headcount. Jesus said the many take the wide road.",
+          "response": "Truth isn't a headcount. Jesus said the many take the wide road.",
           "goTo": "Matt 7:13–14",
           "askBack": "*\"Is something true because many people believe it?\"*",
           "verses": [
@@ -7990,12 +7981,12 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "quran-miracle-no-one-can",
           "objection": "\"The Quran is a miracle. No one can produce a chapter like it.\"",
-          "response": "➕ That test has no judge and no standard. The Quran gives a better test: check with those who read the Scripture before.",
+          "response": "That test has no judge and no standard. The Quran gives a better test: check with those who read the Scripture before.",
           "goTo": "Q 2:23; Q 10:94",
           "askBack": "*\"Who judges the contest, and by what standard?\"*",
           "verses": [
@@ -8017,12 +8008,12 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "jesus-said-why-do-call",
           "objection": "\"Jesus said, 'Why do you call Me good? Only God is good.'\"",
-          "response": "➕ He didn't say He isn't good. He asked the man **why** he said it. Jesus calls Himself the Good Shepherd.",
+          "response": "He didn't say He isn't good. He asked the man **why** he said it. Jesus calls Himself the Good Shepherd.",
           "goTo": "Mark 10:18; John 10:11",
           "askBack": "*\"Is Jesus good?\"*",
           "verses": [
@@ -8046,7 +8037,7 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         }
       ],
       "exits": {
@@ -8108,10 +8099,10 @@
       "color": "#a3a3ad",
       "emoji": "⬛",
       "beliefs": {
-        "text": "➕ Atheist: there is no God. Agnostic: we can't know. Either way, the universe and life came from natural causes alone, right and wrong are human opinions, and the Bible is a human book.",
+        "text": "Atheist: usually \"I don't believe in God\" (some say \"there is no God\"). Agnostic: \"I don't know\" or \"we can't know.\" Most hold that the universe and life came from natural causes alone and the Bible is a human book. Many see right and wrong as human-made.",
         "verses": [],
         "links": [],
-        "supplemental": true
+        "supplemental": false
       },
       "lead": [
         {
@@ -8178,7 +8169,7 @@
           "supplemental": false
         },
         {
-          "text": "➕ **Rom 1:18–21**: they know God and suppress it. Appeal to the conscience, not just the intellect.",
+          "text": "**Rom 1:18–21**: they know God and suppress it. Appeal to the conscience, not just the intellect.",
           "verses": [
             {
               "label": "Rom 1:18–21",
@@ -8191,7 +8182,7 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         }
       ],
       "offense": [
@@ -8257,7 +8248,7 @@
           "number": 2,
           "title": "Design + life from life",
           "warning": false,
-          "supplemental": true,
+          "supplemental": false,
           "altOpeners": [],
           "chain": [
             {
@@ -8285,7 +8276,7 @@
               "supplemental": false
             },
             {
-              "text": "➕ **Ps 19:1; Rom 1:20; Acts 17:24–28** (\"in Him we live and move and have our being\").",
+              "text": "**Ps 19:1; Rom 1:20; Acts 17:24–28** (\"in Him we live and move and have our being\").",
               "verses": [
                 {
                   "label": "Ps 19:1",
@@ -8316,7 +8307,7 @@
                 }
               ],
               "links": [],
-              "supplemental": true
+              "supplemental": false
             }
           ],
           "questions": [],
@@ -8347,7 +8338,7 @@
           "title": "The \"borrowed capital\" questions",
           "subtitle": "Reformed / presuppositional",
           "warning": false,
-          "supplemental": true,
+          "supplemental": false,
           "altOpeners": [
             {
               "text": "*\"Where do you get this idea of bad from?\"* (When they call something evil or unfair.)",
@@ -8627,9 +8618,9 @@
         {
           "id": "if-god-knew-id-reject",
           "objection": "\"If God knew I'd reject Him, why create me? That's unjust.\"",
-          "response": "Common answer: free will. **➕ Reformed framing:** God is just and owes no one mercy. Hell is the just penalty for real guilt, not a mistake. Yet God *freely* offers Christ to all who come, and no one who comes is turned away.",
+          "response": "Common answer: free will. **Reformed framing:** God is just and owes no one mercy. Hell is the just penalty for real guilt, not a mistake. Yet God *freely* offers Christ to all who come, and no one who comes is turned away.",
           "goTo": "Rom 9:19–21; Ezek 33:11; John 6:37; Rom 1:24 (\"God **gave them up**\")",
-          "askBack": "*\"Is there anything you've done that a perfectly just judge should ignore?\"* ➕",
+          "askBack": "*\"Is there anything you've done that a perfectly just judge should ignore?\"*",
           "verses": [
             {
               "label": "Rom 9:19–21",
@@ -8675,7 +8666,7 @@
               "url": "https://youtu.be/q6gmqKpQ80o?t=106"
             }
           ],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "jealous-god-who-demands-worship",
@@ -8752,7 +8743,7 @@
           "objection": "\"So many religions. How would I know which one?\"",
           "response": "Follow the evidence step by step: (1) there's a Source of life → (2) which claim about that Source is **historically testable**? Only Christianity rests on a public resurrection.",
           "goTo": "Acts 17:30–31",
-          "askBack": "➕ *\"Which other religion stakes everything on a public event you can investigate?\"*",
+          "askBack": "*\"Which other religion stakes everything on a public event you can investigate?\"*",
           "verses": [
             {
               "label": "Acts 17:30–31",
@@ -8771,13 +8762,13 @@
               "url": "https://youtu.be/cPUJ9-TG54U?t=327"
             }
           ],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "who-created-god",
           "objection": "\"Who created God?\"",
           "response": "The question assumes everything needs a cause. It doesn't. Only what **begins to exist** needs a cause. God never began; He is uncaused by definition, the cause of everything outside Himself. Asking who made Him is a category mistake, like asking who made the One who was never made.",
-          "goTo": "➕ Ps 90:2; Isa 43:10; John 1:3",
+          "goTo": "Ps 90:2; Isa 43:10; John 1:3",
           "askBack": "*\"Does everything need a cause, or only things that begin to exist?\"*",
           "verses": [
             {
@@ -8809,7 +8800,7 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "im-not-100-sure-have",
@@ -8849,7 +8840,7 @@
         {
           "id": "theres-no-evidence-for-god",
           "objection": "\"There's no evidence for God.\"",
-          "response": "➕ Creation itself is the evidence: a universe that began, runs on laws, and holds minds and morals. And God gave proof to all by raising Jesus from the dead.",
+          "response": "Creation itself is the evidence: a universe that began, runs on laws, and holds minds and morals. And God gave proof to all by raising Jesus from the dead.",
           "goTo": "Rom 1:19–20; Ps 19:1; Acts 17:31",
           "askBack": "*\"What evidence would you accept?\"*",
           "verses": [
@@ -8882,12 +8873,12 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "science-has-disproved-god",
           "objection": "\"Science has disproved God.\"",
-          "response": "➕ Science studies how creation works. It depends on order and laws it cannot explain, and it cannot tell you why anything exists or what is right.",
+          "response": "Science studies how creation works. It depends on order and laws it cannot explain, and it cannot tell you why anything exists or what is right.",
           "goTo": "Ps 19:1; Col 1:17; Heb 1:3",
           "askBack": "*\"Which experiment showed there is no God?\"*",
           "verses": [
@@ -8920,12 +8911,12 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "if-god-good-why-there",
           "objection": "\"If God is good, why is there so much evil and suffering?\"",
-          "response": "➕ Calling something evil assumes a real standard of good. Scripture names the cause (the fall), shows God turning evil to good, entering suffering at the cross, and promising to end it.",
+          "response": "Calling something evil assumes a real standard of good. Scripture names the cause (the fall), shows God turning evil to good, entering suffering at the cross, and promising to end it.",
           "goTo": "Gen 50:20; Rom 8:28; Acts 2:23; Rev 21:4",
           "askBack": "*\"By what standard do you call it evil?\"*",
           "verses": [
@@ -8967,12 +8958,12 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "bible-was-written-by-men",
           "objection": "\"The Bible was written by men and is full of errors.\"",
-          "response": "➕ Men wrote as they were moved by the Holy Spirit. Ask for a specific error and read it together.",
+          "response": "Men wrote as they were moved by the Holy Spirit. Ask for a specific error and read it together.",
           "goTo": "2 Tim 3:16; 2 Pet 1:20–21",
           "askBack": "*\"Which error? Let's look at it.\"*",
           "verses": [
@@ -8996,12 +8987,12 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "god-old-testament-moral-monster",
           "objection": "\"The God of the Old Testament is a moral monster.\"",
-          "response": "➕ To judge Him you need an objective standard, which only He supplies. He judged wicked nations after centuries of patience, He takes no pleasure in the death of the wicked, and He bore judgment Himself at the cross.",
+          "response": "To judge Him you need an objective standard, which only He supplies. He judged wicked nations after centuries of patience, He takes no pleasure in the death of the wicked, and He bore judgment Himself at the cross.",
           "goTo": "Gen 15:16; Deut 9:4–5; Ezek 18:23",
           "askBack": "*\"If there is no God, what makes anything objectively wrong?\"*",
           "verses": [
@@ -9034,12 +9025,12 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "religion-causes-wars-christians-are",
           "objection": "\"Religion causes wars, and Christians are hypocrites.\"",
-          "response": "➕ People sin, which is exactly what the Bible says. Jesus condemned hypocrisy harder than anyone. Judge Christianity by Christ.",
+          "response": "People sin, which is exactly what the Bible says. Jesus condemned hypocrisy harder than anyone. Judge Christianity by Christ.",
           "goTo": "Rom 3:23; Matt 23:27–28; Matt 7:21–23",
           "askBack": "*\"Does a counterfeit bill prove there's no real money?\"*",
           "verses": [
@@ -9072,12 +9063,12 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "im-good-person-dont-need",
           "objection": "\"I'm a good person. I don't need God.\"",
-          "response": "➕ Good by whose standard? By God's law, none is righteous, and breaking one point makes us guilty of all. Then give the gospel: Christ died for sinners.",
+          "response": "Good by whose standard? By God's law, none is righteous, and breaking one point makes us guilty of all. Then give the gospel: Christ died for sinners.",
           "goTo": "Rom 3:10–12; Rom 3:23; James 2:10; Rom 6:23; Rom 5:8",
           "askBack": "*\"Have you ever lied, stolen, or hated someone? What does that make you before a perfect Judge?\"*",
           "verses": [
@@ -9128,12 +9119,12 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "evolution-explains-life-we-dont",
           "objection": "\"Evolution explains life. We don't need a Creator.\"",
-          "response": "➕ Change in living things doesn't explain the first life, the information inside it, or the universe it lives in.",
+          "response": "Change in living things doesn't explain the first life, the information inside it, or the universe it lives in.",
           "goTo": "Gen 1:1; Heb 11:3; Rom 1:20",
           "askBack": "*\"Where did the first life, and the information in it, come from?\"*",
           "verses": [
@@ -9166,12 +9157,12 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "miracles-are-impossible",
           "objection": "\"Miracles are impossible.\"",
-          "response": "➕ Only if there is no God, which assumes the answer. If God made the universe, raising a man is not hard for Him.",
+          "response": "Only if there is no God, which assumes the answer. If God made the universe, raising a man is not hard for Him.",
           "goTo": "Jer 32:17; Luke 1:37; Acts 26:8",
           "askBack": "*\"If God created everything, is a resurrection too hard for Him?\"*",
           "verses": [
@@ -9204,12 +9195,12 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "what-about-people-who-have",
           "objection": "\"What about people who have never heard?\"",
-          "response": "➕ Everyone has creation and conscience, and everyone suppresses them. No one is condemned for not hearing, but for sin. The Judge of all the earth will do right. And you have heard.",
+          "response": "Everyone has creation and conscience, and everyone suppresses them. No one is condemned for not hearing, but for sin. The Judge of all the earth will do right. And you have heard.",
           "goTo": "Rom 1:18–20; Rom 2:14–16; Gen 18:25; Rom 10:14–15",
           "askBack": "*\"You've heard. What will you do with Jesus?\"*",
           "verses": [
@@ -9251,12 +9242,12 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "faith-believing-without-evidence",
           "objection": "\"Faith is believing without evidence.\"",
-          "response": "➕ Biblical faith is trust in a Person on good grounds: eyewitness testimony and many convincing proofs.",
+          "response": "Biblical faith is trust in a Person on good grounds: eyewitness testimony and many convincing proofs.",
           "goTo": "Acts 1:3; 1 Cor 15:3–8; Luke 1:1–4; Heb 11:1",
           "askBack": "*\"Do you trust anyone on the basis of testimony?\"*",
           "verses": [
@@ -9298,12 +9289,12 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         },
         {
           "id": "jesus-never-existed",
           "objection": "\"Jesus never existed.\"",
-          "response": "➕ Paul received the resurrection report within a few years and met Peter and James, the Lord's brother, in person.",
+          "response": "Paul received the resurrection report within a few years and met Peter and James, the Lord's brother, in person.",
           "goTo": "1 Cor 15:3–8; Gal 1:18–19; Luke 1:1–4",
           "askBack": "*\"Who did Paul meet in Galatians 1:18–19?\"*",
           "verses": [
@@ -9336,9 +9327,1261 @@
             }
           ],
           "links": [],
-          "supplemental": true
+          "supplemental": false
         }
       ]
+    }
+  ],
+  "topics": [
+    {
+      "slug": "the-gospel",
+      "title": "The Gospel",
+      "intro": [
+        {
+          "text": "Winning the argument saves no one. Christ does. When the door opens, walk through these four truths.",
+          "verses": [],
+          "links": [],
+          "supplemental": false
+        }
+      ],
+      "sections": [
+        {
+          "heading": "God is holy, and He made us",
+          "lines": [
+            {
+              "text": "➕ God created all things and made us for Himself. He is holy and just, and He will judge every person. (Gen 1:1; Isa 6:3; Acts 17:24–31; Heb 9:27)",
+              "verses": [
+                {
+                  "label": "Gen 1:1",
+                  "kind": "bible",
+                  "key": "genesis.1.1",
+                  "book": "genesis",
+                  "chapter": 1,
+                  "verseStart": 1,
+                  "verseEnd": 1
+                },
+                {
+                  "label": "Isa 6:3",
+                  "kind": "bible",
+                  "key": "isaiah.6.3",
+                  "book": "isaiah",
+                  "chapter": 6,
+                  "verseStart": 3,
+                  "verseEnd": 3
+                },
+                {
+                  "label": "Acts 17:24–31",
+                  "kind": "bible",
+                  "key": "acts.17.24-31",
+                  "book": "acts",
+                  "chapter": 17,
+                  "verseStart": 24,
+                  "verseEnd": 31
+                },
+                {
+                  "label": "Heb 9:27",
+                  "kind": "bible",
+                  "key": "hebrews.9.27",
+                  "book": "hebrews",
+                  "chapter": 9,
+                  "verseStart": 27,
+                  "verseEnd": 27
+                }
+              ],
+              "links": [],
+              "supplemental": true
+            },
+            {
+              "label": "Ask",
+              "text": "*\"If you died tonight and God asked why He should let you in, what would you say?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ]
+        },
+        {
+          "heading": "We have sinned",
+          "lines": [
+            {
+              "text": "➕ Every one of us has broken God's law. The wages of sin is death, and no amount of good works can pay it off. (Rom 3:10–12; Rom 3:23; Rom 6:23; Eph 2:1–3; Isa 64:6)",
+              "verses": [
+                {
+                  "label": "Rom 3:10–12",
+                  "kind": "bible",
+                  "key": "romans.3.10-12",
+                  "book": "romans",
+                  "chapter": 3,
+                  "verseStart": 10,
+                  "verseEnd": 12
+                },
+                {
+                  "label": "Rom 3:23",
+                  "kind": "bible",
+                  "key": "romans.3.23",
+                  "book": "romans",
+                  "chapter": 3,
+                  "verseStart": 23,
+                  "verseEnd": 23
+                },
+                {
+                  "label": "Rom 6:23",
+                  "kind": "bible",
+                  "key": "romans.6.23",
+                  "book": "romans",
+                  "chapter": 6,
+                  "verseStart": 23,
+                  "verseEnd": 23
+                },
+                {
+                  "label": "Eph 2:1–3",
+                  "kind": "bible",
+                  "key": "ephesians.2.1-3",
+                  "book": "ephesians",
+                  "chapter": 2,
+                  "verseStart": 1,
+                  "verseEnd": 3
+                },
+                {
+                  "label": "Isa 64:6",
+                  "kind": "bible",
+                  "key": "isaiah.64.6",
+                  "book": "isaiah",
+                  "chapter": 64,
+                  "verseStart": 6,
+                  "verseEnd": 6
+                }
+              ],
+              "links": [],
+              "supplemental": true
+            },
+            {
+              "label": "Ask",
+              "text": "*\"Have you kept God's law perfectly?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ]
+        },
+        {
+          "heading": "Christ died and rose",
+          "lines": [
+            {
+              "text": "➕ God the Son became man, lived the life we have not lived, and died in the place of sinners, bearing the judgment they deserve. He was buried and rose bodily on the third day. (John 1:14; Isa 53:5–6; 2 Cor 5:21; 1 Pet 3:18; Rom 5:8; 1 Cor 15:3–4)",
+              "verses": [
+                {
+                  "label": "John 1:14",
+                  "kind": "bible",
+                  "key": "john.1.14",
+                  "book": "john",
+                  "chapter": 1,
+                  "verseStart": 14,
+                  "verseEnd": 14
+                },
+                {
+                  "label": "Isa 53:5–6",
+                  "kind": "bible",
+                  "key": "isaiah.53.5-6",
+                  "book": "isaiah",
+                  "chapter": 53,
+                  "verseStart": 5,
+                  "verseEnd": 6
+                },
+                {
+                  "label": "2 Cor 5:21",
+                  "kind": "bible",
+                  "key": "2-corinthians.5.21",
+                  "book": "2-corinthians",
+                  "chapter": 5,
+                  "verseStart": 21,
+                  "verseEnd": 21
+                },
+                {
+                  "label": "1 Pet 3:18",
+                  "kind": "bible",
+                  "key": "1-peter.3.18",
+                  "book": "1-peter",
+                  "chapter": 3,
+                  "verseStart": 18,
+                  "verseEnd": 18
+                },
+                {
+                  "label": "Rom 5:8",
+                  "kind": "bible",
+                  "key": "romans.5.8",
+                  "book": "romans",
+                  "chapter": 5,
+                  "verseStart": 8,
+                  "verseEnd": 8
+                },
+                {
+                  "label": "1 Cor 15:3–4",
+                  "kind": "bible",
+                  "key": "1-corinthians.15.3-4",
+                  "book": "1-corinthians",
+                  "chapter": 15,
+                  "verseStart": 3,
+                  "verseEnd": 4
+                }
+              ],
+              "links": [],
+              "supplemental": true
+            },
+            {
+              "label": "Ask",
+              "text": "*\"Why did Jesus have to die?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ]
+        },
+        {
+          "heading": "Repent and believe",
+          "lines": [
+            {
+              "text": "➕ God commands all people everywhere to repent. Whoever turns from sin and trusts in Christ alone is forgiven and has eternal life: by grace, through faith, not by works. No one who comes to Him is turned away. (Mark 1:15; Acts 17:30; John 3:16; Eph 2:8–9; Rom 10:9–13; John 6:37)",
+              "verses": [
+                {
+                  "label": "Mark 1:15",
+                  "kind": "bible",
+                  "key": "mark.1.15",
+                  "book": "mark",
+                  "chapter": 1,
+                  "verseStart": 15,
+                  "verseEnd": 15
+                },
+                {
+                  "label": "Acts 17:30",
+                  "kind": "bible",
+                  "key": "acts.17.30",
+                  "book": "acts",
+                  "chapter": 17,
+                  "verseStart": 30,
+                  "verseEnd": 30
+                },
+                {
+                  "label": "John 3:16",
+                  "kind": "bible",
+                  "key": "john.3.16",
+                  "book": "john",
+                  "chapter": 3,
+                  "verseStart": 16,
+                  "verseEnd": 16
+                },
+                {
+                  "label": "Eph 2:8–9",
+                  "kind": "bible",
+                  "key": "ephesians.2.8-9",
+                  "book": "ephesians",
+                  "chapter": 2,
+                  "verseStart": 8,
+                  "verseEnd": 9
+                },
+                {
+                  "label": "Rom 10:9–13",
+                  "kind": "bible",
+                  "key": "romans.10.9-13",
+                  "book": "romans",
+                  "chapter": 10,
+                  "verseStart": 9,
+                  "verseEnd": 13
+                },
+                {
+                  "label": "John 6:37",
+                  "kind": "bible",
+                  "key": "john.6.37",
+                  "book": "john",
+                  "chapter": 6,
+                  "verseStart": 37,
+                  "verseEnd": 37
+                }
+              ],
+              "links": [],
+              "supplemental": true
+            },
+            {
+              "label": "Ask",
+              "text": "*\"What is keeping you from turning to Christ today?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ]
+        },
+        {
+          "heading": "If they respond",
+          "lines": [
+            {
+              "text": "➕ Pray with them. Get them a Bible and get them into a church that preaches it. Follow up. (Acts 2:41–42; Matt 28:19–20)",
+              "verses": [
+                {
+                  "label": "Acts 2:41–42",
+                  "kind": "bible",
+                  "key": "acts.2.41-42",
+                  "book": "acts",
+                  "chapter": 2,
+                  "verseStart": 41,
+                  "verseEnd": 42
+                },
+                {
+                  "label": "Matt 28:19–20",
+                  "kind": "bible",
+                  "key": "matthew.28.19-20",
+                  "book": "matthew",
+                  "chapter": 28,
+                  "verseStart": 19,
+                  "verseEnd": 20
+                }
+              ],
+              "links": [],
+              "supplemental": true
+            }
+          ]
+        },
+        {
+          "heading": "If they don't",
+          "lines": [
+            {
+              "text": "➕ Stay warm and leave the door open. You plant and water; God gives the growth. (1 Cor 3:6–7; 1 Pet 3:15–16; 2 Tim 2:24–26)",
+              "verses": [
+                {
+                  "label": "1 Cor 3:6–7",
+                  "kind": "bible",
+                  "key": "1-corinthians.3.6-7",
+                  "book": "1-corinthians",
+                  "chapter": 3,
+                  "verseStart": 6,
+                  "verseEnd": 7
+                },
+                {
+                  "label": "1 Pet 3:15–16",
+                  "kind": "bible",
+                  "key": "1-peter.3.15-16",
+                  "book": "1-peter",
+                  "chapter": 3,
+                  "verseStart": 15,
+                  "verseEnd": 16
+                },
+                {
+                  "label": "2 Tim 2:24–26",
+                  "kind": "bible",
+                  "key": "2-timothy.2.24-26",
+                  "book": "2-timothy",
+                  "chapter": 2,
+                  "verseStart": 24,
+                  "verseEnd": 26
+                }
+              ],
+              "links": [],
+              "supplemental": true
+            }
+          ]
+        }
+      ],
+      "subtitle": "Every conversation is headed here."
+    },
+    {
+      "slug": "the-trinity",
+      "title": "The Trinity",
+      "intro": [
+        {
+          "text": "➕ One Being, three Persons: the Father, the Son and the Holy Spirit. One *what*, three *who's*. Each line below is taught in Scripture; the Trinity is what you get when you believe all of them at once.",
+          "verses": [],
+          "links": [],
+          "supplemental": true
+        }
+      ],
+      "sections": [
+        {
+          "heading": "There is one God",
+          "lines": [
+            {
+              "text": "➕ (Deut 6:4; Isa 43:10; Isa 44:6; 1 Cor 8:4; James 2:19)",
+              "verses": [
+                {
+                  "label": "Deut 6:4",
+                  "kind": "bible",
+                  "key": "deuteronomy.6.4",
+                  "book": "deuteronomy",
+                  "chapter": 6,
+                  "verseStart": 4,
+                  "verseEnd": 4
+                },
+                {
+                  "label": "Isa 43:10",
+                  "kind": "bible",
+                  "key": "isaiah.43.10",
+                  "book": "isaiah",
+                  "chapter": 43,
+                  "verseStart": 10,
+                  "verseEnd": 10
+                },
+                {
+                  "label": "Isa 44:6",
+                  "kind": "bible",
+                  "key": "isaiah.44.6",
+                  "book": "isaiah",
+                  "chapter": 44,
+                  "verseStart": 6,
+                  "verseEnd": 6
+                },
+                {
+                  "label": "1 Cor 8:4",
+                  "kind": "bible",
+                  "key": "1-corinthians.8.4",
+                  "book": "1-corinthians",
+                  "chapter": 8,
+                  "verseStart": 4,
+                  "verseEnd": 4
+                },
+                {
+                  "label": "Jas 2:19",
+                  "kind": "bible",
+                  "key": "james.2.19",
+                  "book": "james",
+                  "chapter": 2,
+                  "verseStart": 19,
+                  "verseEnd": 19
+                }
+              ],
+              "links": [],
+              "supplemental": true
+            }
+          ]
+        },
+        {
+          "heading": "The Father is God",
+          "lines": [
+            {
+              "text": "➕ (John 6:27; 1 Cor 8:6; Eph 4:6; 1 Pet 1:2)",
+              "verses": [
+                {
+                  "label": "John 6:27",
+                  "kind": "bible",
+                  "key": "john.6.27",
+                  "book": "john",
+                  "chapter": 6,
+                  "verseStart": 27,
+                  "verseEnd": 27
+                },
+                {
+                  "label": "1 Cor 8:6",
+                  "kind": "bible",
+                  "key": "1-corinthians.8.6",
+                  "book": "1-corinthians",
+                  "chapter": 8,
+                  "verseStart": 6,
+                  "verseEnd": 6
+                },
+                {
+                  "label": "Eph 4:6",
+                  "kind": "bible",
+                  "key": "ephesians.4.6",
+                  "book": "ephesians",
+                  "chapter": 4,
+                  "verseStart": 6,
+                  "verseEnd": 6
+                },
+                {
+                  "label": "1 Pet 1:2",
+                  "kind": "bible",
+                  "key": "1-peter.1.2",
+                  "book": "1-peter",
+                  "chapter": 1,
+                  "verseStart": 2,
+                  "verseEnd": 2
+                }
+              ],
+              "links": [],
+              "supplemental": true
+            }
+          ]
+        },
+        {
+          "heading": "The Son is God",
+          "lines": [
+            {
+              "text": "➕ (John 1:1; John 8:58; John 20:28; Col 2:9; Titus 2:13; Heb 1:8)",
+              "verses": [
+                {
+                  "label": "John 1:1",
+                  "kind": "bible",
+                  "key": "john.1.1",
+                  "book": "john",
+                  "chapter": 1,
+                  "verseStart": 1,
+                  "verseEnd": 1
+                },
+                {
+                  "label": "John 8:58",
+                  "kind": "bible",
+                  "key": "john.8.58",
+                  "book": "john",
+                  "chapter": 8,
+                  "verseStart": 58,
+                  "verseEnd": 58
+                },
+                {
+                  "label": "John 20:28",
+                  "kind": "bible",
+                  "key": "john.20.28",
+                  "book": "john",
+                  "chapter": 20,
+                  "verseStart": 28,
+                  "verseEnd": 28
+                },
+                {
+                  "label": "Col 2:9",
+                  "kind": "bible",
+                  "key": "colossians.2.9",
+                  "book": "colossians",
+                  "chapter": 2,
+                  "verseStart": 9,
+                  "verseEnd": 9
+                },
+                {
+                  "label": "Titus 2:13",
+                  "kind": "bible",
+                  "key": "titus.2.13",
+                  "book": "titus",
+                  "chapter": 2,
+                  "verseStart": 13,
+                  "verseEnd": 13
+                },
+                {
+                  "label": "Heb 1:8",
+                  "kind": "bible",
+                  "key": "hebrews.1.8",
+                  "book": "hebrews",
+                  "chapter": 1,
+                  "verseStart": 8,
+                  "verseEnd": 8
+                }
+              ],
+              "links": [],
+              "supplemental": true
+            }
+          ]
+        },
+        {
+          "heading": "The Holy Spirit is God",
+          "lines": [
+            {
+              "text": "➕ (Acts 5:3–4; 1 Cor 3:16; Ps 139:7–8; Heb 3:7–11)",
+              "verses": [
+                {
+                  "label": "Acts 5:3–4",
+                  "kind": "bible",
+                  "key": "acts.5.3-4",
+                  "book": "acts",
+                  "chapter": 5,
+                  "verseStart": 3,
+                  "verseEnd": 4
+                },
+                {
+                  "label": "1 Cor 3:16",
+                  "kind": "bible",
+                  "key": "1-corinthians.3.16",
+                  "book": "1-corinthians",
+                  "chapter": 3,
+                  "verseStart": 16,
+                  "verseEnd": 16
+                },
+                {
+                  "label": "Ps 139:7–8",
+                  "kind": "bible",
+                  "key": "psalms.139.7-8",
+                  "book": "psalms",
+                  "chapter": 139,
+                  "verseStart": 7,
+                  "verseEnd": 8
+                },
+                {
+                  "label": "Heb 3:7–11",
+                  "kind": "bible",
+                  "key": "hebrews.3.7-11",
+                  "book": "hebrews",
+                  "chapter": 3,
+                  "verseStart": 7,
+                  "verseEnd": 11
+                }
+              ],
+              "links": [],
+              "supplemental": true
+            },
+            {
+              "text": "For the full argument, open [The Holy Spirit play](/holy-spirit).",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ]
+        },
+        {
+          "heading": "The three are distinct Persons",
+          "lines": [
+            {
+              "text": "➕ The Father sends the Son, the Son prays to the Father, and the Spirit is sent by both. All three are present at Jesus' baptism. (Matt 3:16–17; Matt 28:19; John 14:16–17; John 17:5; 2 Cor 13:14)",
+              "verses": [
+                {
+                  "label": "Matt 3:16–17",
+                  "kind": "bible",
+                  "key": "matthew.3.16-17",
+                  "book": "matthew",
+                  "chapter": 3,
+                  "verseStart": 16,
+                  "verseEnd": 17
+                },
+                {
+                  "label": "Matt 28:19",
+                  "kind": "bible",
+                  "key": "matthew.28.19",
+                  "book": "matthew",
+                  "chapter": 28,
+                  "verseStart": 19,
+                  "verseEnd": 19
+                },
+                {
+                  "label": "John 14:16–17",
+                  "kind": "bible",
+                  "key": "john.14.16-17",
+                  "book": "john",
+                  "chapter": 14,
+                  "verseStart": 16,
+                  "verseEnd": 17
+                },
+                {
+                  "label": "John 17:5",
+                  "kind": "bible",
+                  "key": "john.17.5",
+                  "book": "john",
+                  "chapter": 17,
+                  "verseStart": 5,
+                  "verseEnd": 5
+                },
+                {
+                  "label": "2 Cor 13:14",
+                  "kind": "bible",
+                  "key": "2-corinthians.13.14",
+                  "book": "2-corinthians",
+                  "chapter": 13,
+                  "verseStart": 14,
+                  "verseEnd": 14
+                }
+              ],
+              "links": [],
+              "supplemental": true
+            }
+          ]
+        },
+        {
+          "heading": "What it is not",
+          "lines": [
+            {
+              "label": "Not three gods",
+              "text": "that is tritheism. Scripture says there is one God.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Not one Person in three masks",
+              "text": "that is modalism. The Father, Son and Spirit speak to and about one another.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Not a created Son or Spirit",
+              "text": "that is Arianism. All things were made through the Son (John 1:3).",
+              "verses": [
+                {
+                  "label": "John 1:3",
+                  "kind": "bible",
+                  "key": "john.1.3",
+                  "book": "john",
+                  "chapter": 1,
+                  "verseStart": 3,
+                  "verseEnd": 3
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Ask",
+              "text": "*\"Which of these lines do you disagree with? Let's read the verses for that one.\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ]
+        }
+      ],
+      "subtitle": "One God in three Persons."
+    },
+    {
+      "slug": "is-the-bible-reliable",
+      "title": "Is the Bible reliable?",
+      "intro": [],
+      "sections": [
+        {
+          "heading": "We have what they wrote",
+          "lines": [
+            {
+              "text": "➕ The New Testament survives in thousands of Greek manuscripts, some copied within a few generations of the originals. The Dead Sea Scrolls show the Old Testament was copied faithfully for centuries before Christ. (Isa 40:8; Matt 24:35; 1 Pet 1:24–25)",
+              "verses": [
+                {
+                  "label": "Isa 40:8",
+                  "kind": "bible",
+                  "key": "isaiah.40.8",
+                  "book": "isaiah",
+                  "chapter": 40,
+                  "verseStart": 8,
+                  "verseEnd": 8
+                },
+                {
+                  "label": "Matt 24:35",
+                  "kind": "bible",
+                  "key": "matthew.24.35",
+                  "book": "matthew",
+                  "chapter": 24,
+                  "verseStart": 35,
+                  "verseEnd": 35
+                },
+                {
+                  "label": "1 Pet 1:24–25",
+                  "kind": "bible",
+                  "key": "1-peter.1.24-25",
+                  "book": "1-peter",
+                  "chapter": 1,
+                  "verseStart": 24,
+                  "verseEnd": 25
+                }
+              ],
+              "links": [],
+              "supplemental": true
+            }
+          ]
+        },
+        {
+          "heading": "It comes from eyewitnesses",
+          "lines": [
+            {
+              "text": "➕ The writers were eyewitnesses or wrote down what eyewitnesses told them, while many witnesses were still alive to object. (Luke 1:1–4; 2 Pet 1:16; 1 John 1:1–3; 1 Cor 15:3–8)",
+              "verses": [
+                {
+                  "label": "Luke 1:1–4",
+                  "kind": "bible",
+                  "key": "luke.1.1-4",
+                  "book": "luke",
+                  "chapter": 1,
+                  "verseStart": 1,
+                  "verseEnd": 4
+                },
+                {
+                  "label": "2 Pet 1:16",
+                  "kind": "bible",
+                  "key": "2-peter.1.16",
+                  "book": "2-peter",
+                  "chapter": 1,
+                  "verseStart": 16,
+                  "verseEnd": 16
+                },
+                {
+                  "label": "1 John 1:1–3",
+                  "kind": "bible",
+                  "key": "1-john.1.1-3",
+                  "book": "1-john",
+                  "chapter": 1,
+                  "verseStart": 1,
+                  "verseEnd": 3
+                },
+                {
+                  "label": "1 Cor 15:3–8",
+                  "kind": "bible",
+                  "key": "1-corinthians.15.3-8",
+                  "book": "1-corinthians",
+                  "chapter": 15,
+                  "verseStart": 3,
+                  "verseEnd": 8
+                }
+              ],
+              "links": [],
+              "supplemental": true
+            }
+          ]
+        },
+        {
+          "heading": "Jesus treated Scripture as God's word",
+          "lines": [
+            {
+              "text": "➕ He quoted it as final, said it cannot be broken, and said every part of it would be fulfilled. (Matt 4:4; Matt 5:17–18; John 10:35; Luke 24:44)",
+              "verses": [
+                {
+                  "label": "Matt 4:4",
+                  "kind": "bible",
+                  "key": "matthew.4.4",
+                  "book": "matthew",
+                  "chapter": 4,
+                  "verseStart": 4,
+                  "verseEnd": 4
+                },
+                {
+                  "label": "Matt 5:17–18",
+                  "kind": "bible",
+                  "key": "matthew.5.17-18",
+                  "book": "matthew",
+                  "chapter": 5,
+                  "verseStart": 17,
+                  "verseEnd": 18
+                },
+                {
+                  "label": "John 10:35",
+                  "kind": "bible",
+                  "key": "john.10.35",
+                  "book": "john",
+                  "chapter": 10,
+                  "verseStart": 35,
+                  "verseEnd": 35
+                },
+                {
+                  "label": "Luke 24:44",
+                  "kind": "bible",
+                  "key": "luke.24.44",
+                  "book": "luke",
+                  "chapter": 24,
+                  "verseStart": 44,
+                  "verseEnd": 44
+                }
+              ],
+              "links": [],
+              "supplemental": true
+            }
+          ]
+        },
+        {
+          "heading": "God breathed it out",
+          "lines": [
+            {
+              "text": "➕ Men spoke from God as they were carried along by the Holy Spirit. (2 Tim 3:16–17; 2 Pet 1:20–21)",
+              "verses": [
+                {
+                  "label": "2 Tim 3:16–17",
+                  "kind": "bible",
+                  "key": "2-timothy.3.16-17",
+                  "book": "2-timothy",
+                  "chapter": 3,
+                  "verseStart": 16,
+                  "verseEnd": 17
+                },
+                {
+                  "label": "2 Pet 1:20–21",
+                  "kind": "bible",
+                  "key": "2-peter.1.20-21",
+                  "book": "2-peter",
+                  "chapter": 1,
+                  "verseStart": 20,
+                  "verseEnd": 21
+                }
+              ],
+              "links": [],
+              "supplemental": true
+            }
+          ]
+        },
+        {
+          "heading": "Prophecy written centuries ahead",
+          "lines": [
+            {
+              "text": "➕ The suffering Servant, the pierced hands and feet, the birthplace of the Messiah and the pierced One were all written long before Jesus was born. (Isa 53; Ps 22; Mic 5:2; Zech 12:10)",
+              "verses": [
+                {
+                  "label": "Isa 53",
+                  "kind": "bible",
+                  "key": "isaiah.53",
+                  "book": "isaiah",
+                  "chapter": 53
+                },
+                {
+                  "label": "Ps 22",
+                  "kind": "bible",
+                  "key": "psalms.22",
+                  "book": "psalms",
+                  "chapter": 22
+                },
+                {
+                  "label": "Mic 5:2",
+                  "kind": "bible",
+                  "key": "micah.5.2",
+                  "book": "micah",
+                  "chapter": 5,
+                  "verseStart": 2,
+                  "verseEnd": 2
+                },
+                {
+                  "label": "Zech 12:10",
+                  "kind": "bible",
+                  "key": "zechariah.12.10",
+                  "book": "zechariah",
+                  "chapter": 12,
+                  "verseStart": 10,
+                  "verseEnd": 10
+                }
+              ],
+              "links": [],
+              "supplemental": true
+            }
+          ]
+        },
+        {
+          "heading": "Where to go next",
+          "lines": [
+            {
+              "label": "With a Muslim",
+              "text": "run [The Islamic Dilemma](/muslim/case/play-1). The Quran confirms the Scriptures Christians already had.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "With a Mormon",
+              "text": "see \"translated correctly\" under [Mormon objections](/lds#objections).",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "With an atheist",
+              "text": "see \"written by men\" under [Atheist objections](/atheist#objections).",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Ask",
+              "text": "*\"Which part do you think was changed, and which manuscript shows the change?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ]
+        }
+      ],
+      "subtitle": "Muslims, Mormons and atheists all attack this from different sides."
+    },
+    {
+      "slug": "words-they-use",
+      "title": "Words they use",
+      "intro": [],
+      "sections": [
+        {
+          "heading": "Jehovah's Witness",
+          "lines": [
+            {
+              "label": "Jehovah",
+              "text": "➕ their preferred form of God's name (YHWH). For them it names the Father only.",
+              "verses": [],
+              "links": [],
+              "supplemental": true
+            },
+            {
+              "label": "New World Translation (NWT)",
+              "text": "➕ the Watchtower's own Bible translation.",
+              "verses": [],
+              "links": [],
+              "supplemental": true
+            },
+            {
+              "label": "Watchtower / Governing Body",
+              "text": "➕ the leadership that directs all Witness teaching and calls itself the \"faithful and discreet slave.\"",
+              "verses": [],
+              "links": [],
+              "supplemental": true
+            },
+            {
+              "label": "Active force",
+              "text": "➕ their term for the Holy Spirit, whom they say is not a person.",
+              "verses": [],
+              "links": [],
+              "supplemental": true
+            },
+            {
+              "label": "Kingdom Interlinear",
+              "text": "➕ the Watchtower's own Greek and English New Testament. Useful because it shows the Greek under their translation.",
+              "verses": [],
+              "links": [],
+              "supplemental": true
+            },
+            {
+              "label": "The 144,000",
+              "text": "➕ the \"anointed\" who they say go to heaven. Everyone else hopes for life on a paradise earth.",
+              "verses": [],
+              "links": [],
+              "supplemental": true
+            }
+          ]
+        },
+        {
+          "heading": "Unitarian",
+          "lines": [
+            {
+              "label": "Biblical Unitarian",
+              "text": "➕ holds that God is one person, the Father, and Jesus is a human Messiah.",
+              "verses": [],
+              "links": [],
+              "supplemental": true
+            },
+            {
+              "label": "Arian",
+              "text": "➕ holds that the Son is God's first and greatest creature.",
+              "verses": [],
+              "links": [],
+              "supplemental": true
+            },
+            {
+              "label": "Shaliach (agency)",
+              "text": "➕ the Jewish idea that a sent agent stands for the one who sent him. They use it to explain away texts where Jesus speaks as God.",
+              "verses": [],
+              "links": [],
+              "supplemental": true
+            },
+            {
+              "label": "Oneness / modalism",
+              "text": "➕ one Person who appears as Father, Son and Spirit at different times.",
+              "verses": [],
+              "links": [],
+              "supplemental": true
+            },
+            {
+              "label": "Homoousios",
+              "text": "➕ \"of the same essence,\" the Nicene term for the Son's relation to the Father.",
+              "verses": [],
+              "links": [],
+              "supplemental": true
+            },
+            {
+              "label": "Malak / angelos",
+              "text": "➕ Hebrew and Greek for \"messenger.\" It names a job, not a nature.",
+              "verses": [],
+              "links": [],
+              "supplemental": true
+            }
+          ]
+        },
+        {
+          "heading": "Mormon",
+          "lines": [
+            {
+              "label": "Godhead",
+              "text": "➕ for them, three separate beings who are one in purpose.",
+              "verses": [],
+              "links": [],
+              "supplemental": true
+            },
+            {
+              "label": "Exaltation",
+              "text": "➕ the teaching that faithful people can become gods.",
+              "verses": [],
+              "links": [],
+              "supplemental": true
+            },
+            {
+              "label": "Great Apostasy",
+              "text": "➕ their claim that the true church was lost after the apostles.",
+              "verses": [],
+              "links": [],
+              "supplemental": true
+            },
+            {
+              "label": "Restoration",
+              "text": "➕ their claim that Joseph Smith restored the church.",
+              "verses": [],
+              "links": [],
+              "supplemental": true
+            },
+            {
+              "label": "Standard works",
+              "text": "➕ their four books of scripture: the Bible, the Book of Mormon, the Doctrine and Covenants (D&C), and the Pearl of Great Price.",
+              "verses": [],
+              "links": [],
+              "supplemental": true
+            },
+            {
+              "label": "JST",
+              "text": "➕ the Joseph Smith Translation, his revision of the Bible.",
+              "verses": [],
+              "links": [],
+              "supplemental": true
+            },
+            {
+              "label": "Testimony / burning in the bosom",
+              "text": "➕ an inner feeling taken as God's confirmation that the church is true.",
+              "verses": [],
+              "links": [],
+              "supplemental": true
+            },
+            {
+              "label": "King Follett discourse",
+              "text": "➕ Joseph Smith's 1844 sermon teaching that God was once a man.",
+              "verses": [],
+              "links": [],
+              "supplemental": true
+            }
+          ]
+        },
+        {
+          "heading": "Muslim",
+          "lines": [
+            {
+              "label": "Tawhid",
+              "text": "➕ the absolute oneness of Allah.",
+              "verses": [],
+              "links": [],
+              "supplemental": true
+            },
+            {
+              "label": "Shirk",
+              "text": "➕ associating anything with Allah. The unforgivable sin.",
+              "verses": [],
+              "links": [],
+              "supplemental": true
+            },
+            {
+              "label": "Isa",
+              "text": "➕ the Quran's name for Jesus.",
+              "verses": [],
+              "links": [],
+              "supplemental": true
+            },
+            {
+              "label": "Tawrat, Zabur, Injil",
+              "text": "➕ the Torah, the Psalms and the Gospel, which the Quran says Allah revealed.",
+              "verses": [],
+              "links": [],
+              "supplemental": true
+            },
+            {
+              "label": "Tahrif",
+              "text": "➕ the claim that the earlier Scriptures were corrupted.",
+              "verses": [],
+              "links": [],
+              "supplemental": true
+            },
+            {
+              "label": "Hadith",
+              "text": "➕ reports of what Muhammad said and did.",
+              "verses": [],
+              "links": [],
+              "supplemental": true
+            },
+            {
+              "label": "Surah / ayah",
+              "text": "➕ a chapter and a verse of the Quran.",
+              "verses": [],
+              "links": [],
+              "supplemental": true
+            },
+            {
+              "label": "Tafsir",
+              "text": "➕ commentary on the Quran.",
+              "verses": [],
+              "links": [],
+              "supplemental": true
+            },
+            {
+              "label": "Hafs, Warsh, Qalun",
+              "text": "➕ different transmitted readings of the Quran.",
+              "verses": [],
+              "links": [],
+              "supplemental": true
+            }
+          ]
+        },
+        {
+          "heading": "Atheist",
+          "lines": [
+            {
+              "label": "Atheist",
+              "text": "➕ does not believe in God. Some go further and say there is no God.",
+              "verses": [],
+              "links": [],
+              "supplemental": true
+            },
+            {
+              "label": "Agnostic",
+              "text": "➕ says they don't know, or that no one can know.",
+              "verses": [],
+              "links": [],
+              "supplemental": true
+            },
+            {
+              "label": "Naturalism",
+              "text": "➕ the view that nature is all there is.",
+              "verses": [],
+              "links": [],
+              "supplemental": true
+            },
+            {
+              "label": "Objective morality",
+              "text": "➕ right and wrong that are true whatever anyone thinks.",
+              "verses": [],
+              "links": [],
+              "supplemental": true
+            },
+            {
+              "label": "Burden of proof",
+              "text": "➕ whoever makes a claim has to back it up. \"There is no God\" is a claim.",
+              "verses": [],
+              "links": [],
+              "supplemental": true
+            }
+          ]
+        },
+        {
+          "heading": "Words we use",
+          "lines": [
+            {
+              "label": "Trinity",
+              "text": "one God in three Persons. See [The Trinity](/topic/the-trinity).",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Two natures",
+              "text": "➕ Jesus is one Person who is truly God and truly man.",
+              "verses": [],
+              "links": [],
+              "supplemental": true
+            },
+            {
+              "label": "Monogenes",
+              "text": "➕ Greek for \"one of a kind,\" often translated \"only begotten.\"",
+              "verses": [],
+              "links": [],
+              "supplemental": true
+            },
+            {
+              "label": "Prototokos",
+              "text": "➕ Greek for \"firstborn,\" meaning the preeminent heir.",
+              "verses": [],
+              "links": [],
+              "supplemental": true
+            },
+            {
+              "label": "Arche",
+              "text": "➕ Greek for \"beginning,\" \"origin\" or \"ruler.\"",
+              "verses": [],
+              "links": [],
+              "supplemental": true
+            }
+          ]
+        }
+      ],
+      "subtitle": "A quick lookup for terms that come up in conversation."
     }
   ],
   "videos": [

@@ -16,7 +16,7 @@ const PREPARED = ALL.map((item) => ({
 }));
 
 // What they SAY matters most, then plays, then everything else.
-const KIND_BONUS: Record<string, number> = { objection: 30, branch: 30, play: 15, card: 5, "holy-spirit": 10, method: 0 };
+const KIND_BONUS: Record<string, number> = { objection: 30, branch: 30, play: 15, card: 5, "holy-spirit": 10, method: 0, topic: 12 };
 
 let fuse: Fuse<GuideItem> | undefined;
 

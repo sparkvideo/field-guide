@@ -13,7 +13,7 @@ import fs from "fs";
 import path from "path";
 import { BOOKS, isOldTestament } from "../lib/books";
 import type {
-  Branch, Group, Guide, HolySpiritPlay, Labeled, Line, Meta, Note, Objection, Play, Step, VerseRef, VideoLink,
+  Branch, Group, Guide, HolySpiritPlay, Labeled, Line, Meta, Note, Objection, Play, Step, Topic, VerseRef, VideoLink,
 } from "../lib/types";
 import { bareRefs, extractRefs } from "./refs";
 
@@ -556,14 +556,50 @@ function parseVideos(): { videos: Guide["videos"]; footnote?: Line } {
   return { videos, ...(foot ? { footnote: line(foot.text, "Footnote", { explainsPlus: true }) } : {}) };
 }
 
+// ───────────────────────── Extra pages (content/extras.md) ─────────────────────────
+// "# Title" starts a page, "> ..." is its subtitle, "## Heading" starts a section.
+// Inside a section: plain lines, "**Ask:** ..." lines, and "- **Term:** ..." bullets.
+
+const EXTRAS = path.join(CONTENT, "extras.md");
+const extrasSource = fs.existsSync(EXTRAS) ? fs.readFileSync(EXTRAS, "utf8").replace(/\r\n/g, "\n") : "";
+
+function parseTopics(): Topic[] {
+  const topics: Topic[] = [];
+  let topic: Topic | undefined;
+  let section: Topic["sections"][number] | undefined;
+  for (const raw of extrasSource.split("\n")) {
+    const text = raw.trim();
+    if (!text) continue;
+    let m: RegExpMatchArray | null;
+    if ((m = text.match(/^# (.*)$/))) {
+      topic = { slug: slugify(m[1]), title: m[1], intro: [], sections: [] };
+      topics.push(topic);
+      section = undefined;
+    } else if (!topic) continue;
+    else if ((m = text.match(/^## (.*)$/))) {
+      section = { heading: m[1], lines: [] };
+      topic.sections.push(section);
+    } else if ((m = text.match(/^> ?(.*)$/)) && !section) topic.subtitle = m[1];
+    else {
+      const where = `${topic.title}${section ? `, ${section.heading}` : ""}`;
+      const { label, rest } = splitLabel(text.replace(/^- /, ""));
+      const entry: Labeled = { ...(label ? { label } : {}), ...line(rest, where) };
+      if (section) section.lines.push(entry);
+      else topic.intro.push(entry);
+    }
+  }
+  return topics;
+}
+
 // ───────────────────────── build ─────────────────────────
 
 const method = parseMethod();
 const holySpiritPlay = parseHolySpirit();
 const groups = sections.filter((s) => s.level === 1 && GROUPS.some((g) => g.match.test(s.heading))).map(parseGroup);
 const { videos, footnote } = parseVideos();
+const topics = parseTopics();
 
-const guide: Guide = { title, intro, method, holySpiritPlay, groups, videos, ...(footnote ? { footnote } : {}) };
+const guide: Guide = { title, intro, method, holySpiritPlay, groups, topics, videos, ...(footnote ? { footnote } : {}) };
 fs.writeFileSync(path.join(CONTENT, "guide.json"), JSON.stringify(guide, null, 2));
 
 // ───────────────────────── checks ─────────────────────────
@@ -573,7 +609,7 @@ const unplaced = lines.map((s, n) => ({ n, s })).filter((l) => !used.has(l.n));
 
 // 2) Every ▶ and ➕ in the markdown made it into the JSON
 const sourceLinks = (source.match(new RegExp(LINK.source, "g")) || []).length;
-const sourcePlus = (source.match(/➕/g) || []).length;
+const sourcePlus = ((source + extrasSource).match(/➕/g) || []).length;
 const json = JSON.stringify(guide);
 const jsonPlus = (json.match(/➕/g) || []).length;
 const walkLinks = (o: unknown, key = ""): number =>
@@ -772,6 +808,20 @@ for (const g of groups) {
   method.moves.forEach((m) => (item("method", "Method", m.title, m.text, "/method", m), useVerses(m, mu)));
   method.universalTools.forEach((m) => (item("method", "Method · universal tool", m.title, m.text, "/method", m), useVerses(m, mu)));
 }
+for (const t of topics) {
+  const href = `/topic/${t.slug}`;
+  const use = { href, title: t.title, label: t.title };
+  item("topic", "For any conversation", t.title, `${t.subtitle || ""} ${t.intro.map((l) => l.text).join(" ")}`, href);
+  t.intro.forEach((l) => useVerses(l, use));
+  for (const sec of t.sections) {
+    const isGlossary = sec.lines.every((l) => l.label && l.label !== "Ask");
+    if (isGlossary) sec.lines.forEach((l) => (item("topic", `${t.title} · ${sec.heading}`, l.label!, l.text, href, l), useVerses(l, use)));
+    else {
+      item("topic", t.title, sec.heading, sec.lines.map((l) => l.text).join(" "), href, merge(sec.lines));
+      sec.lines.forEach((l) => useVerses(l, use));
+    }
+  }
+}
 fs.writeFileSync(path.join(CONTENT, "verse-index.json"), JSON.stringify(verseIndex));
 fs.writeFileSync(path.join(CONTENT, "search-items.json"), JSON.stringify(searchItems));
 
@@ -825,6 +875,7 @@ say(
   `- Holy Spirit Play: Step A ${holySpiritPlay.stepA.rows.length} rows + ${holySpiritPlay.stepA.ifTheySay.length} "if they say"; Step B ${holySpiritPlay.stepB.rows.length} rows (${holySpiritPlay.stepB.rows.filter((r) => r.kind === "pair").length} OT→NT pairs) + ${holySpiritPlay.stepB.ifTheySay.length} "if they say"; ${walkLinks(holySpiritPlay)} ▶ links; ${countPlus(holySpiritPlay)} ➕ items`
 );
 say(`- Video References: ${videos.length} videos`);
+say(`- Extra pages (content/extras.md): ${topics.map((t) => `${t.title} (${t.sections.length} sections)`).join(", ")}; ${countPlus(topics)} ➕ items`);
 say();
 say(`## Nothing-dropped checks`);
 say();

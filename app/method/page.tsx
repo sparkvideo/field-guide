@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { Md } from "@/components/Md";
 import { TopBar } from "@/components/TopBar";
 import { VerseChips } from "@/components/VerseSheet";
@@ -48,6 +49,11 @@ export default function MethodPage() {
             </div>
           ))}
         </section>
+        <p className="mt-10">
+          <Link className="btn primary" href="/topic/the-gospel">
+            End with the gospel
+          </Link>
+        </p>
       </main>
     </>
   );
