@@ -644,3 +644,29 @@ main.page.with-flowbar {
 .field::placeholder {
   color: var(--color-muted);
 }
+
+/* Welcome screen: shown on a first visit to the home page (see the small script in app/layout.tsx) */
+.welcome {
+  display: none;
+}
+.welcome.always,
+html[data-welcome] .welcome {
+  display: block;
+}
+html[data-welcome] .home-main {
+  display: none;
+}
+html[data-standalone] .welcome-install {
+  display: none;
+}
+.brand .welcome-name {
+  color: var(--color-ink);
+  margin: 0;
+  font-family: var(--font-serif);
+  font-size: 30px;
+  line-height: 1.08;
+  font-weight: 700;
+}
+.steps.tight > li {
+  padding-bottom: 12px;
+}

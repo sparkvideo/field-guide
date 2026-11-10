@@ -5,12 +5,13 @@ import Link from "next/link";
 import { useEffect, useMemo, useRef, useState } from "react";
 import { loadBook, searchBible, warmSearch, normalize, type Hit } from "@/lib/bible";
 import { lsbLink } from "@/lib/config";
-import { getPins, getRecent, markSeen, seen, type Pin } from "@/lib/pins";
+import { getPins, getRecent, type Pin } from "@/lib/pins";
 import { formatRef, parseReference, readerHref, type TypedRef } from "@/lib/reference";
 import { searchGuide } from "@/lib/search";
 import { Chevron } from "./Bits";
 import { BookIcon, CrossIcon, DoorIcon, DrillIcon, FlameIcon, Mark, NoteIcon, PenIcon, TabletsIcon, TargetIcon, TriangleIcon, WordsIcon } from "./Icons";
 import { readStreak } from "./Train";
+import { Welcome } from "./Welcome";
 
 type GroupRow = { slug: string; name: string; color: string; plays: number; objections: number };
 
@@ -39,7 +40,6 @@ export function Home({ groups }: { groups: GroupRow[] }) {
   const [hits, setHits] = useState<Hit[]>([]);
   const [searching, setSearching] = useState(false);
   const [limit, setLimit] = useState(50);
-  const [tip, setTip] = useState(false);
   const run = useRef(0);
 
   // Restore the last search when coming back from a result.
@@ -51,11 +51,6 @@ export function Home({ groups }: { groups: GroupRow[] }) {
     const pinned = getPins();
     setPins(pinned);
     setRecent(getRecent().slice(0, 1).filter((r) => !pinned.some((p) => p.href === r.href)));
-    const ua = navigator.userAgent;
-    const ios = /iphone|ipad|ipod/i.test(ua) || (/macintosh/i.test(ua) && navigator.maxTouchPoints > 1);
-    const safari = /safari/i.test(ua) && !/crios|fxios|edgios|gsa\//i.test(ua);
-    const standalone = window.matchMedia("(display-mode: standalone)").matches || (navigator as unknown as { standalone?: boolean }).standalone === true;
-    if (ios && safari && !standalone && !seen("fg-install-tip")) setTip(true);
   }, []);
 
   const q = query.trim();
@@ -104,13 +99,10 @@ export function Home({ groups }: { groups: GroupRow[] }) {
     return () => clearTimeout(timer);
   }, [q, typedRef, query]);
 
-  const dismissTip = () => {
-    markSeen("fg-install-tip");
-    setTip(false);
-  };
-
   return (
-    <main className="page relative" style={{ paddingTop: "calc(env(safe-area-inset-top) + 26px)" }}>
+    <>
+    <Welcome />
+    <main className="page relative home-main" style={{ paddingTop: "calc(env(safe-area-inset-top) + 26px)" }}>
       <div className="home-glow" aria-hidden="true" />
       <header className="brand">
         <Mark size={52} />
@@ -362,14 +354,7 @@ export function Home({ groups }: { groups: GroupRow[] }) {
         </>
       )}
 
-      {tip && (
-        <div className="toast" role="status">
-          <span>Tap Share ⬆️ then &lsquo;Add to Home Screen&rsquo; to install.</span>
-          <button aria-label="Dismiss" onClick={dismissTip}>
-            ✕
-          </button>
-        </div>
-      )}
     </main>
+    </>
   );
 }

@@ -37,6 +37,15 @@ export const viewport: Viewport = {
 export default function RootLayout({ children }: { children: ReactNode }) {
   return (
     <html lang="en" style={{ colorScheme: "dark" }}>
+      <head>
+        {/* Decides, before anything is drawn, whether to show the welcome screen (first visit to the home page). */}
+        <script
+          dangerouslySetInnerHTML={{
+            __html:
+              "try{var d=document.documentElement;if(window.matchMedia('(display-mode: standalone)').matches||navigator.standalone===true)d.setAttribute('data-standalone','');if(location.pathname==='/'&&localStorage.getItem('fg-welcome')!=='1')d.setAttribute('data-welcome','');}catch(e){}",
+          }}
+        />
+      </head>
       <body>
         <VerseSheetProvider>{children}</VerseSheetProvider>
         <AppShell />

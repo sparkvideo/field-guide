@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { Md } from "@/components/Md";
 import { TopBar } from "@/components/TopBar";
 import { APP_TITLE, BSB_NOTICE, LSB_NOTICE, LSB_URL } from "@/lib/config";
@@ -37,6 +38,11 @@ export default function AboutPage() {
           <h2 className="label">Privacy</h2>
           <p className="small">No accounts, no analytics, no tracking. Pins are saved only on this phone.</p>
         </section>
+        <p className="mt-8">
+          <Link className="btn" href="/welcome">
+            How to install and use the app
+          </Link>
+        </p>
       </main>
     </>
   );
