@@ -1,15 +1,17 @@
 @import "tailwindcss";
 
-/* Colours. The app is always dark. One neutral text colour, one accent. */
+/* Colours. Always dark: a deep green-black, parchment text, and one brass accent
+   (the gilt edge of a Bible). Group colours appear only as a thin bar. */
 @theme {
-  --color-bg: #0c0d10;
-  --color-card: #16181d;
-  --color-ink: #f1f1f3;
-  --color-muted: #9d9daa;
-  --color-line: #272a33;
-  --color-accent: #7fb0ff;
-  --color-soft: #18253f;
+  --color-bg: #0e1210;
+  --color-card: #161b18;
+  --color-ink: #efe9dc;
+  --color-muted: #a3a293;
+  --color-line: #29302b;
+  --color-accent: #d4b062;
+  --color-soft: #25281a;
   --font-sans: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --font-serif: "Spectral", "Iowan Old Style", Georgia, "Times New Roman", serif;
 }
 
 html {
@@ -82,21 +84,27 @@ button {
 }
 
 /* Small grey label above a section: "Say this", "Walk through" */
+h1,
+.serif {
+  font-family: var(--font-serif);
+}
+h1 {
+  letter-spacing: -0.005em;
+}
 .label {
-  font-size: 13px;
+  font-size: 15px;
   font-weight: 600;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-  color: var(--color-muted);
+  color: var(--color-accent);
   margin: 0 0 8px;
 }
 .section {
   margin-top: 36px;
 }
 .big {
-  font-size: 23px;
-  line-height: 1.4;
-  font-weight: 600;
+  font-family: var(--font-serif);
+  font-size: 25px;
+  line-height: 1.38;
+  font-weight: 700;
 }
 
 /* Large list rows */
@@ -127,7 +135,8 @@ button {
 }
 .row .chev {
   margin-left: auto;
-  color: var(--color-muted);
+  color: var(--color-accent);
+  opacity: 0.75;
   font-size: 20px;
   flex: none;
 }
@@ -142,6 +151,44 @@ button {
   height: 10px;
   border-radius: 999px;
   flex: none;
+}
+.bar {
+  width: 4px;
+  align-self: stretch;
+  min-height: 34px;
+  border-radius: 999px;
+  flex: none;
+}
+.icon {
+  color: var(--color-accent);
+  flex: none;
+}
+
+/* Home header */
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  margin-bottom: 22px;
+}
+.brand h1 {
+  font-size: 30px;
+  line-height: 1.05;
+  font-weight: 700;
+}
+.brand p {
+  font-size: 15px;
+  color: var(--color-accent);
+  font-weight: 600;
+  margin-top: 3px;
+}
+.home-glow {
+  position: absolute;
+  inset: 0 0 auto 0;
+  height: 320px;
+  background: radial-gradient(120% 100% at 50% 0%, rgb(212 176 98 / 0.11), transparent 70%);
+  pointer-events: none;
+  z-index: -1;
 }
 
 /* Verse chips */
@@ -162,6 +209,7 @@ button {
   font-weight: 600;
   cursor: pointer;
   white-space: nowrap;
+  box-shadow: inset 0 0 0 1px rgb(212 176 98 / 0.28);
 }
 .chip:active {
   opacity: 0.7;
@@ -276,9 +324,10 @@ details.plain > summary::-webkit-details-marker {
 .ask {
   border-left: 3px solid var(--color-accent);
   padding: 4px 0 4px 16px;
-  font-size: 22px;
+  font-family: var(--font-serif);
+  font-size: 23px;
   line-height: 1.4;
-  font-weight: 600;
+  font-weight: 700;
 }
 .steps {
   list-style: none;
@@ -291,6 +340,7 @@ details.plain > summary::-webkit-details-marker {
   padding: 0 0 22px 40px;
 }
 .steps > li::before {
+  box-shadow: inset 0 0 0 1px rgb(212 176 98 / 0.28);
   counter-increment: step;
   content: counter(step);
   position: absolute;
@@ -403,7 +453,7 @@ mark {
 .btn.primary {
   background: var(--color-accent);
   border-color: var(--color-accent);
-  color: var(--color-bg);
+  color: #171305;
 }
 
 /* Small notes at the bottom of the screen */
@@ -415,7 +465,7 @@ mark {
   transform: translateX(-50%);
   z-index: 60;
   max-width: calc(100vw - 32px);
-  background: #23262e;
+  background: #232a25;
   color: var(--color-ink);
   font-size: 15px;
   padding: 12px 16px;
@@ -474,8 +524,9 @@ sup.vn {
   margin-bottom: 16px;
 }
 .showthem-text {
-  font-size: 30px;
-  line-height: 1.45;
+  font-family: var(--font-serif);
+  font-size: 31px;
+  line-height: 1.42;
   font-weight: 500;
 }
 

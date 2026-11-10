@@ -12,7 +12,7 @@ export default function MethodPage() {
       <TopBar back="/" share={{ title: "The Method" }} />
       <main className="page">
         <h1 className="text-[28px] font-bold leading-tight">
-          <span aria-hidden="true">🎯 </span>The Method
+          The Method
         </h1>
         <p className="muted mt-2">
           <Md text={m.intro.text} />

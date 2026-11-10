@@ -9,4 +9,5 @@ await make(192, "icon-192.png");
 await make(512, "icon-512.png");
 await make(512, "icon-maskable-512.png");
 await make(48, "favicon.png");
+await make(32, "favicon-32.png");
 console.log("Icons written to public/icons/");

@@ -29,7 +29,7 @@ export default async function ObjectionPage({ params }: { params: Promise<{ grou
       <TopBar back={`/${g.slug}#objections`} pin={{ href, title: plainTitle, label: `${shortName(g)} · objection` }} share={{ title: plainTitle }} />
       <main className="page">
         <p className="label" style={{ borderLeft: `3px solid ${g.color}`, paddingLeft: 8 }}>
-          {g.name} · They say
+          {g.name}: they say
         </p>
         <h1 className="text-[24px] font-bold leading-snug">
           <Md text={o.objection} />

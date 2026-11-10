@@ -17,7 +17,7 @@ export default async function CardPage({ params }: { params: Promise<{ group: st
     <>
       <TopBar back={`/${g.slug}`} share={{ title: `${g.name}: quick card` }} />
       <main className="page">
-        <p className="label">📇 Quick card</p>
+        <p className="label">Quick card</p>
         <h1 className="text-[26px] font-bold leading-tight">{g.name}</h1>
         <ol className="steps mt-6">
           {g.cheatCard.map((c, i) => (

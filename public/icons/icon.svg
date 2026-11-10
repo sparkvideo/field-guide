@@ -1,7 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-  <rect width="512" height="512" fill="#16233a"/>
+  <defs>
+    <radialGradient id="g" cx="50%" cy="38%" r="75%">
+      <stop offset="0" stop-color="#222b25"/>
+      <stop offset="1" stop-color="#0c0f0d"/>
+    </radialGradient>
+  </defs>
+  <rect width="512" height="512" fill="url(#g)"/>
+  <!-- guiding star -->
+  <path d="M256 92l15 45 45 15-45 15-15 45-15-45-45-15 45-15z" fill="#e6c877"/>
   <!-- open book -->
-  <path d="M256 176c-34-22-76-30-124-26v188c48-4 90 4 124 26z" fill="#ffffff"/>
-  <path d="M256 176c34-22 76-30 124-26v188c-48-4-90 4-124 26z" fill="#dfe7f5"/>
-  <rect x="250" y="172" width="12" height="194" rx="6" fill="#16233a"/>
+  <path d="M256 254c-36-24-86-30-138-22v172c52-8 102-2 138 22z" fill="#d4b062"/>
+  <path d="M256 254c36-24 86-30 138-22v172c-52-8-102-2-138 22z" fill="#efe3bd"/>
+  <path d="M256 254v172" stroke="#0c0f0d" stroke-width="10" stroke-linecap="round"/>
 </svg>

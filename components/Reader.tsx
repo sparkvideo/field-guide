@@ -123,7 +123,7 @@ export function Reader() {
               </p>
             )}
 
-            <div className="mt-6 text-[20px] leading-[1.7]">
+            <div className="serif mt-6 text-[21px] leading-[1.7]">
               {verses.map((text, i) => {
                 const n = i + 1;
                 if (!text) return null;

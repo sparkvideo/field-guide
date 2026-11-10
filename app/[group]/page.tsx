@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Chevron } from "@/components/Bits";
+import { CardIcon } from "@/components/Icons";
 import { Md } from "@/components/Md";
 import { Toggle } from "@/components/Toggle";
 import { TopBar } from "@/components/TopBar";
@@ -27,7 +28,7 @@ export default async function GroupPage({ params }: { params: Promise<{ group: s
         <Link key={p.id} href={`/${g.slug}/case/${p.id}`} className="row">
           <span>
             <span className="block font-semibold">
-              {p.warning && <span aria-hidden="true">⚠️ </span>}
+              
               <Md text={p.title} />
             </span>
             {p.subtitle && (
@@ -77,11 +78,11 @@ export default async function GroupPage({ params }: { params: Promise<{ group: s
       <main className="page">
         <div className="flex items-center justify-between gap-3">
           <h1 className="flex items-center gap-3 text-[28px] font-bold leading-tight">
-            <span className="dot" style={{ background: g.color }} aria-hidden="true" />
+            <span className="bar" style={{ background: g.color, minHeight: 30 }} aria-hidden="true" />
             {g.name}
           </h1>
-          <Link href={`/${g.slug}/card`} className="link small inline-flex min-h-[48px] items-center whitespace-nowrap">
-            📇 Quick card
+          <Link href={`/${g.slug}/card`} className="link small inline-flex min-h-[48px] items-center gap-2 whitespace-nowrap">
+            <CardIcon /> Quick card
           </Link>
         </div>
 

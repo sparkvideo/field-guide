@@ -113,7 +113,7 @@ export default function HolySpiritPage() {
       <TopBar back="/" pin={{ href: "/holy-spirit", title: "The Holy Spirit", label: "Holy Spirit" }} share={{ title: "The Holy Spirit" }} />
       <main className="page">
         <h1 className="text-[28px] font-bold leading-tight">
-          <span aria-hidden="true">🔥 </span>The Holy Spirit
+          The Holy Spirit
         </h1>
         <details className="mt-2">
           <summary className="list-none cursor-pointer [&::-webkit-details-marker]:hidden">

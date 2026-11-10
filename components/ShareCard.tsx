@@ -26,15 +26,15 @@ function draw({ group, theySay, youSay, verses, askBack }: Props): HTMLCanvasEle
   const PAD = 84;
   const FONT = '-apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif';
   const blocks: { text: string; font: string; color: string; gap: number; line: number }[] = [
-    { text: `${group.toUpperCase()} · THEY SAY`, font: `600 30px ${FONT}`, color: "#9d9daa", gap: 0, line: 44 },
-    { text: plain(theySay), font: `700 52px ${FONT}`, color: "#f1f1f3", gap: 14, line: 68 },
-    { text: "YOU SAY", font: `600 30px ${FONT}`, color: "#9d9daa", gap: 64, line: 44 },
-    { text: plain(youSay), font: `500 44px ${FONT}`, color: "#f1f1f3", gap: 14, line: 62 },
-    ...(verses.length ? [{ text: verses.join("  ·  "), font: `600 36px ${FONT}`, color: "#7fb0ff", gap: 40, line: 52 }] : []),
+    { text: `${group}: they say`, font: `600 30px ${FONT}`, color: "#d4b062", gap: 0, line: 44 },
+    { text: plain(theySay), font: `700 52px ${FONT}`, color: "#efe9dc", gap: 14, line: 68 },
+    { text: "You say", font: `600 30px ${FONT}`, color: "#d4b062", gap: 64, line: 44 },
+    { text: plain(youSay), font: `500 44px ${FONT}`, color: "#efe9dc", gap: 14, line: 62 },
+    ...(verses.length ? [{ text: verses.join("  ·  "), font: `600 36px ${FONT}`, color: "#d4b062", gap: 40, line: 52 }] : []),
     ...(askBack
       ? [
-          { text: "ASK THEM BACK", font: `600 30px ${FONT}`, color: "#9d9daa", gap: 64, line: 44 },
-          { text: plain(askBack), font: `italic 600 44px ${FONT}`, color: "#f1f1f3", gap: 14, line: 62 },
+          { text: "Ask them back", font: `600 30px ${FONT}`, color: "#d4b062", gap: 64, line: 44 },
+          { text: plain(askBack), font: `italic 600 44px ${FONT}`, color: "#efe9dc", gap: 14, line: 62 },
         ]
       : []),
   ];
@@ -53,7 +53,7 @@ function draw({ group, theySay, youSay, verses, askBack }: Props): HTMLCanvasEle
   canvas.width = W;
   canvas.height = Math.max(height, 1080);
 
-  ctx.fillStyle = "#0c0d10";
+  ctx.fillStyle = "#0e1210";
   ctx.fillRect(0, 0, canvas.width, canvas.height);
   ctx.textBaseline = "top";
   let y = PAD;
@@ -67,7 +67,7 @@ function draw({ group, theySay, youSay, verses, askBack }: Props): HTMLCanvasEle
     }
   }
   ctx.font = `600 28px ${FONT}`;
-  ctx.fillStyle = "#63636b";
+  ctx.fillStyle = "#a3a293";
   ctx.fillText("Field Guide: Apologetics", PAD, canvas.height - PAD - 20);
   return canvas;
 }

@@ -5,6 +5,7 @@
 
 import { useEffect, useState } from "react";
 import { ONESIGNAL_APP_ID } from "@/lib/config";
+import { BellIcon } from "./Icons";
 
 type OneSignalSDK = {
   init(options: Record<string, unknown>): Promise<void>;
@@ -56,7 +57,7 @@ export function NotificationsRow() {
   return (
     <div className="rows mt-8">
       <button className="row" onClick={turnOn}>
-        <span aria-hidden="true">🔔</span>
+        <BellIcon />
         <span>Turn on notifications</span>
       </button>
     </div>

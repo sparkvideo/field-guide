@@ -11,7 +11,7 @@ export default function TrainPage() {
       <TopBar back="/" />
       <main className="page">
         <h1 className="text-[28px] font-bold leading-tight">
-          <span aria-hidden="true">💪 </span>Train
+          Train
         </h1>
         <Train cards={allCards()} groups={guide.groups.map((g) => ({ slug: g.slug, name: g.name, color: g.color, count: cardsFor(g).length }))} />
       </main>

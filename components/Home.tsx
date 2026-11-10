@@ -9,10 +9,11 @@ import { getPins, getRecent, markSeen, seen, type Pin } from "@/lib/pins";
 import { formatRef, parseReference, readerHref, type TypedRef } from "@/lib/reference";
 import { searchGuide } from "@/lib/search";
 import { Chevron } from "./Bits";
+import { DrillIcon, FlameIcon, Mark, TargetIcon } from "./Icons";
 import { NotificationsRow } from "./Notifications";
 import { readStreak } from "./Train";
 
-type GroupRow = { slug: string; name: string; color: string };
+type GroupRow = { slug: string; name: string; color: string; plays: number; objections: number };
 
 const esc = (w: string) => w.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 const SMALL_WORDS = new Set(["the", "and", "of", "a", "an", "to", "in", "is", "for", "on"]);
@@ -110,8 +111,15 @@ export function Home({ groups }: { groups: GroupRow[] }) {
   };
 
   return (
-    <main className="page" style={{ paddingTop: "calc(env(safe-area-inset-top) + 20px)" }}>
-      <h1 className="mb-4 text-[15px] font-semibold tracking-wide text-muted">Field Guide: Apologetics</h1>
+    <main className="page relative" style={{ paddingTop: "calc(env(safe-area-inset-top) + 26px)" }}>
+      <div className="home-glow" aria-hidden="true" />
+      <header className="brand">
+        <Mark size={52} />
+        <div>
+          <h1>Field Guide</h1>
+          <p>Apologetics</p>
+        </div>
+      </header>
 
       <div className="search" role="search">
         <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" className="text-muted" aria-hidden="true">
@@ -146,7 +154,7 @@ export function Home({ groups }: { groups: GroupRow[] }) {
               <h2 className="label">Verse</h2>
               <Link href={readerHref(verse.ref.book.slug, verse.ref.chapter, verse.ref.verseStart, verse.ref.verseEnd)} className="rows block p-4">
                 <span className="font-bold">{formatRef(verse.ref)}</span> <span className="tag ml-1">BSB</span>
-                <span className="mt-2 block text-[19px] leading-[1.55]">
+                <span className="serif mt-2 block text-[20px] leading-[1.55]">
                   {verse.lines.slice(0, 12).map(([n, t]) => (
                     <span key={n}>
                       {verse.lines.length > 1 && <sup className="vn">{n}</sup>}
@@ -171,7 +179,7 @@ export function Home({ groups }: { groups: GroupRow[] }) {
                 {guideResults.map((r, i) => (
                   <Link key={i} href={r.href} className="row">
                     <span>
-                      <span className="block text-[13px] font-semibold uppercase tracking-wide text-muted">{r.label}</span>
+                      <span className="block text-[14px] font-semibold text-accent">{r.label}</span>
                       <span className="block">{r.title}</span>
                     </span>
                     <Chevron />
@@ -221,7 +229,7 @@ export function Home({ groups }: { groups: GroupRow[] }) {
                     {group.list.map((p) => (
                       <Link key={p.href} href={p.href} className="row">
                         <span>
-                          <span className="block text-[13px] font-semibold uppercase tracking-wide text-muted">{p.label}</span>
+                          <span className="block text-[14px] font-semibold text-accent">{p.label}</span>
                           <span className="block">{p.title}</span>
                         </span>
                         <Chevron />
@@ -232,32 +240,45 @@ export function Home({ groups }: { groups: GroupRow[] }) {
               )
           )}
 
-          <nav className="rows mt-6" aria-label="Who are you talking to?">
+          <h2 className="label" style={{ marginTop: 30 }}>Who are you talking to?</h2>
+          <nav className="rows" aria-label="Who are you talking to?">
             {groups.map((g) => (
-              <Link key={g.slug} href={`/${g.slug}`} className="row text-[20px] font-semibold">
-                <span className="dot" style={{ background: g.color }} aria-hidden="true" />
-                {g.name}
+              <Link key={g.slug} href={`/${g.slug}`} className="row">
+                <span className="bar" style={{ background: g.color }} aria-hidden="true" />
+                <span>
+                  <span className="block text-[20px] font-semibold">{g.name}</span>
+                  <span className="sub">
+                    {g.plays} plays, {g.objections} objections
+                  </span>
+                </span>
                 <Chevron />
               </Link>
             ))}
+          </nav>
+
+          <h2 className="label" style={{ marginTop: 30 }}>For any conversation</h2>
+          <nav className="rows" aria-label="For any conversation">
             <Link href="/holy-spirit" className="row">
-              <span aria-hidden="true">🔥</span>
+              <FlameIcon />
               <span>
                 <span className="block text-[20px] font-semibold">The Holy Spirit</span>
                 <span className="sub">Anyone denying the Trinity</span>
               </span>
               <Chevron />
             </Link>
-            <Link href="/method" className="row text-[20px] font-semibold">
-              <span aria-hidden="true">🎯</span>
-              The Method
+            <Link href="/method" className="row">
+              <TargetIcon />
+              <span>
+                <span className="block text-[20px] font-semibold">The Method</span>
+                <span className="sub">How to run the conversation</span>
+              </span>
               <Chevron />
             </Link>
             <Link href="/train" className="row">
-              <span aria-hidden="true">💪</span>
+              <DrillIcon />
               <span>
                 <span className="block text-[20px] font-semibold">Train</span>
-                <span className="sub">Daily question and drills{streak > 0 ? ` · 🔥 ${streak}` : ""}</span>
+                <span className="sub">Daily question and drills{streak > 0 ? `, ${streak}-day streak` : ""}</span>
               </span>
               <Chevron />
             </Link>

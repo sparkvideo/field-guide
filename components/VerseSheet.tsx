@@ -87,7 +87,7 @@ export function VerseSheetProvider({ children }: { children: ReactNode }) {
             <div className="sheet-inner">
               <div className="grabber" aria-hidden="true" />
               <div className="flex items-center justify-between gap-3">
-                <h2 className="text-[20px] font-bold">{fullRef}</h2>
+                <h2 className="serif text-[22px] font-bold">{fullRef}</h2>
                 <span className="flex items-center">
                   {r.kind === "bible" && (
                     <button
@@ -108,7 +108,7 @@ export function VerseSheetProvider({ children }: { children: ReactNode }) {
               {r.kind === "bible" && (
                 <>
                   {r.verseStart !== undefined && (
-                    <div className="mt-2 text-[20px] leading-[1.55]">
+                    <div className="serif mt-2 text-[21px] leading-[1.55]">
                       {!data ? (
                         <p className="muted">…</p>
                       ) : lsb ? (

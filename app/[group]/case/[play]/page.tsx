@@ -32,7 +32,7 @@ export default async function PlayPage({ params }: { params: Promise<{ group: st
       <TopBar back={`/${g.slug}`} pin={{ href, title: p.title, label: `${shortName(g)} · play` }} share={{ title: p.title }} />
       <main className="page">
         <p className="label" style={{ borderLeft: `3px solid ${g.color}`, paddingLeft: 8 }}>
-          {g.name} · Make the case
+          {g.name}: make the case
         </p>
         <h1 className="text-[26px] font-bold leading-tight">
           {p.title.includes("*") ? <Md text={p.title} /> : p.title}

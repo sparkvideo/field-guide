@@ -60,7 +60,7 @@ export function Train({ cards, groups }: { cards: PracticeCard[]; groups: { slug
           </h2>
           {streak.count > 0 && (
             <span className="small ml-3 whitespace-nowrap font-semibold" aria-label={`${streak.count} day streak`}>
-              🔥 {streak.count}
+              {streak.count}-day streak
             </span>
           )}
         </div>
@@ -77,7 +77,7 @@ export function Train({ cards, groups }: { cards: PracticeCard[]; groups: { slug
         <div className="rows">
           {groups.map((g) => (
             <Link key={g.slug} href={`/${g.slug}/practice`} className="row">
-              <span className="dot" style={{ background: g.color }} aria-hidden="true" />
+              <span className="bar" style={{ background: g.color }} aria-hidden="true" />
               <span>
                 <span className="block font-semibold">{g.name}</span>
                 <span className="sub">{g.count} cards</span>
