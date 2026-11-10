@@ -1,82 +1,82 @@
 # The Gospel
 > Every conversation is headed here.
 
-➕ Winning the argument saves no one. Christ does. Say the whole message plainly, call for a response, and leave the results to God.
+Winning the argument saves no one. Christ does. Say the whole message plainly, call for a response, and leave the results to God.
 
 ## Before you speak
-- **God saves; you are faithful:** ➕ your job is to say the truth clearly. God gives the growth. (1 Cor 3:6–7; Rom 1:16; John 6:44)
-- **Law before grace:** ➕ a person has to see their sin and God's judgment before the cross makes sense to them. (Rom 3:19–20; Gal 3:24)
-- **Jesus is Lord:** ➕ the call is to repent and follow Christ, not to repeat a prayer or add Jesus to a life that stays the same. (Luke 9:23; Rom 10:9; Acts 20:21)
-- **No false promises:** ➕ the gospel offers forgiveness and Christ Himself, not health, wealth or an easier life. (Phil 3:8; Mark 8:36; 2 Tim 3:12)
+- **God saves; you are faithful:** your job is to say the truth clearly. God gives the growth. (1 Cor 3:6–7; Rom 1:16; John 6:44)
+- **Law before grace:** a person has to see their sin and God's judgment before the cross makes sense to them. (Rom 3:19–20; Gal 3:24)
+- **Jesus is Lord:** the call is to repent and follow Christ, not to repeat a prayer or add Jesus to a life that stays the same. (Luke 9:23; Rom 10:9; Acts 20:21)
+- **No false promises:** the gospel offers forgiveness and Christ Himself, not health, wealth or an easier life. (Phil 3:8; Mark 8:36; 2 Tim 3:12)
 
 ## God is holy
-➕ God created all things and made us for Himself. He is holy and just, He cannot overlook sin, and He will judge every person. (Gen 1:1; Isa 6:3; Hab 1:13; Acts 17:24–31; Heb 9:27)
+God created all things and made us for Himself. He is holy and just, He cannot overlook sin, and He will judge every person. (Gen 1:1; Isa 6:3; Hab 1:13; Acts 17:24–31; Heb 9:27)
 **Ask:** *"What do you think happens after we die?"*
 
 ## We are sinners under judgment
-➕ Every one of us has broken God's law. We are not basically good people who slip up; we are dead in sin, and the wages of sin is death. No amount of good works can pay it off. (Rom 3:10–12; Rom 3:23; Rom 6:23; Eph 2:1–3; Isa 64:6)
+Every one of us has broken God's law. We are not basically good people who slip up; we are dead in sin, and the wages of sin is death. No amount of good works can pay it off. (Rom 3:10–12; Rom 3:23; Rom 6:23; Eph 2:1–3; Isa 64:6)
 **Ask:** *"Have you kept God's law perfectly?"*
 
 ## Christ died and rose
-➕ God the Son became man, lived the sinless life we have not lived, and died in the place of sinners, bearing the wrath they deserve. He was buried, rose bodily on the third day, and is Lord of all. (John 1:14; Isa 53:5–6; 2 Cor 5:21; 1 Pet 3:18; Rom 5:8; 1 Cor 15:3–4; Phil 2:9–11)
+God the Son became man, lived the sinless life we have not lived, and died in the place of sinners, bearing the wrath they deserve. He was buried, rose bodily on the third day, and is Lord of all. (John 1:14; Isa 53:5–6; 2 Cor 5:21; 1 Pet 3:18; Rom 5:8; 1 Cor 15:3–4; Phil 2:9–11)
 **Ask:** *"Why did Jesus have to die?"*
 
 ## Repent and believe
-➕ God commands all people everywhere to repent. Whoever turns from sin and trusts in Christ alone is forgiven and has eternal life: by grace, through faith, not by works. Following Him costs everything, and no one who comes to Him is turned away. (Mark 1:15; Acts 17:30; John 3:16; Eph 2:8–9; Rom 10:9–13; Luke 14:27–28; John 6:37)
+God commands all people everywhere to repent. Whoever turns from sin and trusts in Christ alone is forgiven and has eternal life: by grace, through faith, not by works. Following Him costs everything, and no one who comes to Him is turned away. (Mark 1:15; Acts 17:30; John 3:16; Eph 2:8–9; Rom 10:9–13; Luke 14:27–28; John 6:37)
 **Ask:** *"What is keeping you from turning to Christ today?"*
 
 ## The short version: the Romans Road
-➕ When you only have a minute, walk these in order. (Rom 3:23; Rom 6:23; Rom 5:8; Rom 10:9–10; Rom 10:13; Rom 8:1)
+When you only have a minute, walk these in order. (Rom 3:23; Rom 6:23; Rom 5:8; Rom 10:9–10; Rom 10:13; Rom 8:1)
 
 ## How to walk someone through it
 For a step-by-step way to do this in a real conversation, using the Ten Commandments first and then the cross, open [The Way of the Master](/topic/the-way-of-the-master).
 
 ## If they respond
-➕ Pray with them. Get them a Bible and get them into a church that preaches it. Follow up. (Acts 2:41–42; Matt 28:19–20)
+Pray with them. Get them a Bible and get them into a church that preaches it. Follow up. (Acts 2:41–42; Matt 28:19–20)
 
 ## If they don't
-➕ Stay warm and leave the door open. You plant and water; God gives the growth. (1 Cor 3:6–7; 1 Pet 3:15–16; 2 Tim 2:24–26)
+Stay warm and leave the door open. You plant and water; God gives the growth. (1 Cor 3:6–7; 1 Pet 3:15–16; 2 Tim 2:24–26)
 
 # The Way of the Master
 > Use the law to reach the conscience, then give the gospel.
 
-➕ Law to the proud, grace to the humble (James 4:6). The Ten Commandments work like a mirror: they show a person their sin so that the cross makes sense. Jesus did this with the rich young ruler. (Rom 3:19–20; Rom 7:7; Gal 3:24; Mark 10:17–22)
+God opposes the proud but gives grace to the humble (James 4:6), so: law to the proud, grace to the humble. The Ten Commandments work like a mirror: they show a person their sin so that the cross makes sense. Jesus did this with the rich young ruler. (Rom 3:19–20; Rom 7:7; Gal 3:24; Mark 10:17–22)
 
 ## 1. Start with an everyday question
-➕ Move from ordinary talk to spiritual things with one question.
+Move from ordinary talk to spiritual things with one question.
 **Ask:** *"What do you think happens after we die?"*
 
 ## 2. Are you a good person?
-➕ Almost everyone says yes. Let them say it. (Prov 20:6)
+Almost everyone says yes. Let them say it. (Prov 20:6)
 **Ask:** *"Would you consider yourself a good person?"*
 
 ## 3. Have you kept the Ten Commandments?
-➕ Walk through a few, one at a time, and let them answer each. (Ex 20:1–17)
-- **Lying:** ➕ *"Have you ever told a lie? What does that make you?"*
-- **Stealing:** ➕ *"Have you ever taken anything that wasn't yours, whatever its value?"*
-- **God's name:** ➕ *"Have you ever used God's name as a curse word?"*
-- **Lust:** ➕ Jesus said that looking with lust is adultery in the heart. *"Have you ever done that?"* (Matt 5:27–28)
-- **Hatred:** ➕ Scripture counts hatred as murder in the heart. (Matt 5:21–22; 1 John 3:15)
+Walk through a few, one at a time, and let them answer each. (Ex 20:1–17)
+- **Lying:** *"Have you ever told a lie? What does that make you?"*
+- **Stealing:** *"Have you ever taken anything that wasn't yours, whatever its value?"*
+- **God's name:** *"Have you ever used God's name as a curse word?"*
+- **Lust:** Jesus said that looking with lust is adultery in the heart. *"Have you ever done that?"* (Matt 5:27–28)
+- **Hatred:** Jesus put anger under the command "You shall not murder" (Matt 5:21–22), and John says whoever hates his brother is a murderer (1 John 3:15).
 
 ## 4. Judgment: innocent or guilty?
-➕ Sum up what they admitted in their own words, then ask. (Heb 9:27; Rom 2:15–16; James 2:10)
+Sum up what they admitted in their own words, then ask. (Heb 9:27; Rom 2:15–16; James 2:10)
 **Ask:** *"If God judges you by that standard, will you be innocent or guilty?"*
 
 ## 5. Destiny: heaven or hell?
-➕ Don't soften it, and don't gloat. Say it because you care where they end up. (Rev 21:8; 1 Cor 6:9–10)
+Don't soften it, and don't gloat. Say it because you care where they end up. (Rev 21:8; 1 Cor 6:9–10)
 **Ask:** *"Would that be heaven or hell? Does that concern you?"*
 
 ## 6. Now give the good news
-➕ You stand guilty in God's courtroom, and Someone steps in and pays your fine in full. That is what Christ did on the cross, and He rose from the dead. (Rom 5:8; 2 Cor 5:21; 1 Pet 2:24; 1 Cor 15:3–4)
+You stand guilty in God's courtroom, and Someone steps in and pays your fine in full. That is what Christ did on the cross, and He rose from the dead. (Rom 5:8; 2 Cor 5:21; 1 Pet 2:24; 1 Cor 15:3–4)
 
 ## 7. Repent and trust
-➕ Believing a parachute exists won't save you; you have to put it on. Turn from sin and put your trust in Christ alone, today. (Acts 3:19; Acts 20:21; Rom 13:14; 2 Cor 6:2)
+Believing a parachute exists won't save you; you have to put it on. Turn from sin and put your trust in Christ alone, today. (Acts 3:19; Acts 20:21; Rom 13:14; 2 Cor 6:2)
 **Ask:** *"When are you going to do that?"*
 
 ## Keep in mind
-- **Already humble?** ➕ If someone is broken over their sin, skip the law and go straight to grace.
-- **Aim at the conscience:** ➕ answering objections clears the path, but the law and the gospel do the work. Don't spend an hour on arguments and never get here. (Rom 2:15)
-- **Tone:** ➕ kind, patient, and plainly concerned for them. (2 Tim 2:24–26)
+- **Already humble?** If someone is broken over their sin, skip the law and go straight to grace.
+- **Aim at the conscience:** answering objections clears the path, but the law and the gospel do the work. Don't spend an hour on arguments and never get here. (Rom 2:15)
+- **Tone:** kind, patient, and plainly concerned for them. (2 Tim 2:24–26)
 
 Then go back to [The Gospel](/topic/the-gospel) for the full message and what to do when they respond.
 
