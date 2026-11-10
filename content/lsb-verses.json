@@ -10,6 +10,16 @@
     "text": "And the earth was formless and void, and darkness was over the surface of the deep, and the Spirit of God was hovering over the surface of the waters."
   },
   {
+    "ref": "Genesis 1:27",
+    "key": "genesis.1.27",
+    "text": ""
+  },
+  {
+    "ref": "Genesis 2:7",
+    "key": "genesis.2.7",
+    "text": ""
+  },
+  {
     "ref": "Genesis 15:16",
     "key": "genesis.15.16",
     "text": "Then in the fourth generation they will return here, for the iniquity of the Amorite is not yet complete.”"
@@ -68,6 +78,11 @@
     "ref": "Exodus 20:1–17",
     "key": "exodus.20.1-17",
     "text": "¹ Then God spoke all these words, saying, ² “I am Yahweh your God, who brought you out of the land of Egypt, out of the house of slavery. ³ “You shall have no other gods before Me. ⁴ “You shall not make for yourself an idol, or any likeness of what is in heaven above or on the earth beneath or in the water under the earth. ⁵ You shall not worship them or serve them; for I, Yahweh your God, am a jealous God, visiting the iniquity of the fathers on the children, on the third and the fourth generations of those who hate Me, ⁶ but showing lovingkindness to thousands, to those who love Me and keep My commandments. ⁷ “You shall not take the name of Yahweh your God in vain, for Yahweh will not leave him unpunished who takes His name in vain. ⁸ “Remember the sabbath day, to keep it holy. ⁹ Six days you shall labor and do all your work, ¹⁰ but the seventh day is a sabbath of Yahweh your God; in it you shall not do any work, you or your son or your daughter, your male or your female slave or your cattle or your sojourner who is within your gates. ¹¹ For in six days Yahweh made the heavens and the earth, the sea and all that is in them, and rested on the seventh day; therefore Yahweh blessed the sabbath day and made it holy. ¹² “Honor your father and your mother, that your days may be prolonged in the land which Yahweh your God gives you. ¹³ “You shall not murder. ¹⁴ “You shall not commit adultery. ¹⁵ “You shall not steal. ¹⁶ “You shall not bear false witness against your neighbor. ¹⁷ “You shall not covet your neighbor’s house; you shall not covet your neighbor’s wife or his male slave or his female slave or his ox or his donkey or anything that belongs to your neighbor.”"
+  },
+  {
+    "ref": "Exodus 20:11",
+    "key": "exodus.20.11",
+    "text": ""
   },
   {
     "ref": "Exodus 34:7",
@@ -690,6 +705,11 @@
     "text": "¹⁶ “For God so loved the world, that He gave His only begotten Son, that whoever believes in Him shall not perish, but have eternal life. ¹⁷ For God did not send the Son into the world to judge the world, but that the world might be saved through Him."
   },
   {
+    "ref": "John 3:19",
+    "key": "john.3.19",
+    "text": ""
+  },
+  {
     "ref": "John 3:36",
     "key": "john.3.36",
     "text": "He who believes in the Son has eternal life; but he who does not obey the Son will not see life, but the wrath of God abides on him.”"
@@ -965,14 +985,14 @@
     "text": "²⁴ The God who made the world and all things in it, since He is Lord of heaven and earth, does not dwell in temples made with hands; ²⁵ nor is He served by human hands, as though He needed anything, since He Himself gives to all people life and breath and all things; ²⁶ and He made from one man every nation of mankind to inhabit all the face of the earth, having determined their appointed times and the boundaries of their habitation, ²⁷ that they would seek God, if perhaps they might grope for Him and find Him, though He is not far from each one of us; ²⁸ for in Him we live and move and exist, as even some of your own poets have said, ‘For we also are His offspring.’ ²⁹ Being then the offspring of God, we ought not to suppose that the Divine Nature is like gold or silver or stone, an image formed by the craft and thought of man. ³⁰ Therefore having overlooked the times of ignorance, God is now commanding men that everyone everywhere should repent, ³¹ because He has fixed a day in which He will judge the world in righteousness through a Man whom He determined, having furnished proof to all by raising Him from the dead.”"
   },
   {
-    "ref": "Acts 17:30–31",
-    "key": "acts.17.30-31",
-    "text": "³⁰ Therefore having overlooked the times of ignorance, God is now commanding men that everyone everywhere should repent, ³¹ because He has fixed a day in which He will judge the world in righteousness through a Man whom He determined, having furnished proof to all by raising Him from the dead.”"
-  },
-  {
     "ref": "Acts 17:30",
     "key": "acts.17.30",
     "text": "Therefore having overlooked the times of ignorance, God is now commanding men that everyone everywhere should repent,"
+  },
+  {
+    "ref": "Acts 17:30–31",
+    "key": "acts.17.30-31",
+    "text": "³⁰ Therefore having overlooked the times of ignorance, God is now commanding men that everyone everywhere should repent, ³¹ because He has fixed a day in which He will judge the world in righteousness through a Man whom He determined, having furnished proof to all by raising Him from the dead.”"
   },
   {
     "ref": "Acts 17:31",

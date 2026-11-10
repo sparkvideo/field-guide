@@ -10,7 +10,7 @@ Source: content/field_guide_apologetics.md (597 lines)
 | Unitarian | 5 | 14 | 1 | 4 | 19 | 6 | 3 | 23 | 0 |
 | Mormon | 4 | 18 | 3 | 8 | 17 | 6 | 3 | 20 | 0 |
 | Muslim | 6 | 17 | 0 | 7 | 19 | 6 | 3 | 33 | 0 |
-| Atheist | 4 | 10 | 0 | 1 | 21 | 6 | 0 | 16 | 0 |
+| Atheist | 4 | 10 | 0 | 1 | 21 | 6 | 0 | 15 | 0 |
 
 ## Shared sections
 
@@ -22,7 +22,7 @@ Source: content/field_guide_apologetics.md (597 lines)
 ## Nothing-dropped checks
 
 - Lines the parser could not place: **0**
-- ▶ links: 152 in the markdown, 152 in guide.json ✓
+- ▶ links: 151 in the markdown, 151 in guide.json ✓
 - ➕ tags: 3 in the markdown, 3 in guide.json ✓
 - Words in the markdown missing from guide.json: **0** ✓ (Quick Jump table excluded on purpose)
 - Video links pointing at a video not in the Video References table: 0 ✓
@@ -30,10 +30,10 @@ Source: content/field_guide_apologetics.md (597 lines)
 
 ## Verses
 
-- Bible references: 376 unique (354 verses/ranges + 22 whole-chapter mentions)
+- Bible references: 380 unique (358 verses/ranges + 22 whole-chapter mentions)
 - Quran: 25 · Book of Mormon: 6 · D&C: 1 · JST: 1 · Hadith: 4
-- Resolve in the bundled BSB: 376 of 376 ✓
-- LSB slots: 354 total, **0 still empty**
+- Resolve in the bundled BSB: 380 of 380 ✓
+- LSB slots: 358 total, **4 still empty**
 - Whole-chapter mentions (no LSB slot; they open the chapter in the reader): Num 21, Deut 34, Ps 8, Ps 22, Ps 82, Ps 95, Ps 102, Prov 8, Isa 42, Isa 43–45, Isa 53, Isa 61, Ezek 37, Dan 7, Mark 15, John 1, John 14, Acts 2, Acts 3, 1 Cor 8, Phil 2, Heb 2
 - Chapter:verse numbers written without a book name (not turned into chips):
   - Muslim objection 16: "5:16"

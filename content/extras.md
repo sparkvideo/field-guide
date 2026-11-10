@@ -32,7 +32,7 @@ When you only have a minute, walk these in order. (Rom 3:23; Rom 6:23; Rom 5:8; 
 For a step-by-step way to do this in a real conversation, using the Ten Commandments first and then the cross, open [The Way of the Master](/topic/the-way-of-the-master).
 
 ## If they respond
-Pray with them. Get them a Bible and get them into a church that preaches it. Follow up. (Acts 2:41–42; Matt 28:19–20)
+Pray with them. Get them a Bible and get them into a church that preaches it, where they can be baptized as a believer. Follow up. (Acts 2:41–42; Matt 28:19–20)
 
 ## If they don't
 Stay warm and leave the door open. You plant and water; God gives the growth. (1 Cor 3:6–7; 1 Pet 3:15–16; 2 Tim 2:24–26)
@@ -121,7 +121,7 @@ The writers were eyewitnesses or wrote down what eyewitnesses told them, while m
 He quoted it as final, said it cannot be broken, and said every part of it would be fulfilled. (Matt 4:4; Matt 5:17–18; John 10:35; Luke 24:44)
 
 ## God breathed it out
-Men spoke from God as they were carried along by the Holy Spirit. (2 Tim 3:16–17; 2 Pet 1:20–21)
+Men spoke from God as they were carried along by the Holy Spirit, so the Scriptures as first written are without error. (2 Tim 3:16–17; 2 Pet 1:20–21)
 
 ## Prophecy written centuries ahead
 The suffering Servant, the pierced hands and feet, the birthplace of the Messiah and the pierced One were all written long before Jesus was born. (Isa 53; Ps 22; Mic 5:2; Zech 12:10)

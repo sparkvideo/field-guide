@@ -8,7 +8,7 @@
       "supplemental": false
     },
     {
-      "text": "**How to use the links:** every ▶ link jumps to a live conversation where the move is demonstrated. Lines tagged **➕** are supplemental material. Double-check those before leaning on them.\nDoctrinal frame: historic Reformed orthodoxy (WCF / 1689). One Being, three Persons; Christ has two natures; Scripture alone.",
+      "text": "**How to use the links:** every ▶ link jumps to a live conversation where the move is demonstrated. Lines tagged **➕** are supplemental material. Double-check those before leaning on them.\nDoctrinal frame: our church's Articles of Faith. One Being, three Persons; Christ has two natures; Scripture alone.",
       "verses": [],
       "links": [],
       "supplemental": false
@@ -4014,7 +4014,7 @@
         {
           "id": "jesus-died-god-cant-die",
           "objection": "\"Jesus died, and God can't die\"",
-          "response": "The Person of the Son died **in His human nature**. The divine nature doesn't die. Two natures, one Person (WCF 8.2).",
+          "response": "The Person of the Son died **in His human nature**. The divine nature doesn't die. Two natures, one Person.",
           "goTo": "Acts 20:28; 1 Cor 2:8 (\"crucified the **Lord of glory**\")",
           "askBack": "*\"Who was crucified in 1 Cor 2:8?\"*",
           "verses": [
@@ -8618,8 +8618,8 @@
         {
           "id": "if-god-knew-id-reject",
           "objection": "\"If God knew I'd reject Him, why create me? That's unjust.\"",
-          "response": "Common answer: free will. **Reformed framing:** God is just and owes no one mercy. Hell is the just penalty for real guilt, not a mistake. Yet God *freely* offers Christ to all who come, and no one who comes is turned away.",
-          "goTo": "Rom 9:19–21; Ezek 33:11; John 6:37; Rom 1:24 (\"God **gave them up**\")",
+          "response": "God is just and owes no one mercy. No one is forced to reject Him: people reject Him because they love their sin, and they are responsible for it. Hell is the just penalty for real guilt, not a mistake. Yet God *freely* offers Christ to all who come, and no one who comes is turned away.",
+          "goTo": "Rom 9:19–21; John 3:19; Ezek 33:11; John 6:37; Rom 1:24 (\"God **gave them up**\")",
           "askBack": "*\"Is there anything you've done that a perfectly just judge should ignore?\"*",
           "verses": [
             {
@@ -8630,6 +8630,15 @@
               "chapter": 9,
               "verseStart": 19,
               "verseEnd": 21
+            },
+            {
+              "label": "John 3:19",
+              "kind": "bible",
+              "key": "john.3.19",
+              "book": "john",
+              "chapter": 3,
+              "verseStart": 19,
+              "verseEnd": 19
             },
             {
               "label": "Ezek 33:11",
@@ -8659,13 +8668,7 @@
               "verseEnd": 24
             }
           ],
-          "links": [
-            {
-              "videoId": "q6gmqKpQ80o",
-              "seconds": 106,
-              "url": "https://youtu.be/q6gmqKpQ80o?t=106"
-            }
-          ],
+          "links": [],
           "supplemental": false
         },
         {
@@ -8706,10 +8709,19 @@
         {
           "id": "heaven-hell-game-show-pick",
           "objection": "\"Heaven/hell is a game show: pick a door.\"",
-          "response": "It's not a game show. It's a **proposal**. God offers Himself, the greatest good. You can accept or reject it.",
-          "goTo": "Isa 55:1–7; Rev 22:17",
+          "response": "It's not a game show. It's a **command and an invitation**. God commands everyone to repent and offers Himself, the greatest good. Whoever refuses Him is responsible for that refusal.",
+          "goTo": "Acts 17:30; Isa 55:1–7; Rev 22:17",
           "askBack": "*\"It's not God playing games. You're playing games with Him.\"*",
           "verses": [
+            {
+              "label": "Acts 17:30",
+              "kind": "bible",
+              "key": "acts.17.30",
+              "book": "acts",
+              "chapter": 17,
+              "verseStart": 30,
+              "verseEnd": 30
+            },
             {
               "label": "Isa 55:1–7",
               "kind": "bible",
@@ -8807,7 +8819,7 @@
           "objection": "\"I'm not 100% sure. I have doubts.\"",
           "response": "Faith isn't intellectual perfection. Jesus welcomes doubters who come to Him.",
           "goTo": "**Mark 9:24** (\"I believe; help my unbelief\"); Rom 10:9–13",
-          "askBack": "*\"Do you believe Christ died for your sins and rose again?\"* (A caller came to Christ live this way.)",
+          "askBack": "*\"Do you believe Christ died for your sins and rose again? Will you turn from your sin and trust Him as Lord?\"* (A caller came to Christ live this way.)",
           "verses": [
             {
               "label": "Mark 9:24",
@@ -9124,8 +9136,8 @@
         {
           "id": "evolution-explains-life-we-dont",
           "objection": "\"Evolution explains life. We don't need a Creator.\"",
-          "response": "Change in living things doesn't explain the first life, the information inside it, or the universe it lives in.",
-          "goTo": "Gen 1:1; Heb 11:3; Rom 1:20",
+          "response": "Change in living things doesn't explain the first life, the information inside it, or the universe it lives in. And Scripture says God made everything in six days and made man directly, in His image. We are not the product of evolution.",
+          "goTo": "Gen 1:1; Gen 1:27; Gen 2:7; Ex 20:11; Heb 11:3; Rom 1:20",
           "askBack": "*\"Where did the first life, and the information in it, come from?\"*",
           "verses": [
             {
@@ -9136,6 +9148,33 @@
               "chapter": 1,
               "verseStart": 1,
               "verseEnd": 1
+            },
+            {
+              "label": "Gen 1:27",
+              "kind": "bible",
+              "key": "genesis.1.27",
+              "book": "genesis",
+              "chapter": 1,
+              "verseStart": 27,
+              "verseEnd": 27
+            },
+            {
+              "label": "Gen 2:7",
+              "kind": "bible",
+              "key": "genesis.2.7",
+              "book": "genesis",
+              "chapter": 2,
+              "verseStart": 7,
+              "verseEnd": 7
+            },
+            {
+              "label": "Ex 20:11",
+              "kind": "bible",
+              "key": "exodus.20.11",
+              "book": "exodus",
+              "chapter": 20,
+              "verseStart": 11,
+              "verseEnd": 11
             },
             {
               "label": "Heb 11:3",
@@ -9854,7 +9893,7 @@
           "heading": "If they respond",
           "lines": [
             {
-              "text": "Pray with them. Get them a Bible and get them into a church that preaches it. Follow up. (Acts 2:41–42; Matt 28:19–20)",
+              "text": "Pray with them. Get them a Bible and get them into a church that preaches it, where they can be baptized as a believer. Follow up. (Acts 2:41–42; Matt 28:19–20)",
               "verses": [
                 {
                   "label": "Acts 2:41–42",
@@ -10853,7 +10892,7 @@
           "heading": "God breathed it out",
           "lines": [
             {
-              "text": "Men spoke from God as they were carried along by the Holy Spirit. (2 Tim 3:16–17; 2 Pet 1:20–21)",
+              "text": "Men spoke from God as they were carried along by the Holy Spirit, so the Scriptures as first written are without error. (2 Tim 3:16–17; 2 Pet 1:20–21)",
               "verses": [
                 {
                   "label": "2 Tim 3:16–17",
