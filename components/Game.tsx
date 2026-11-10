@@ -1,142 +1,19 @@
 "use client";
-// "Go and Tell": a small 8-bit side-scroller, just for fun.
+// "Go and Tell": a small side-scroller in the style of an early PlayStation game, just for fun.
 // You are a disciple. Walk left or right, tackle someone, then tell them Jesus loves them.
 // Flaming arrows fall from the sky; raise the shield of faith to put them out (Eph 6:16).
-// Everything is drawn in code on a 192x108 canvas, so there are no image files and it works offline.
+// Everything is drawn in code in 3D by components/game3d.ts, so there are no image or model files and it works offline.
 
 import { useEffect, useRef, useState } from "react";
 import { useKeepAwake } from "./KeepAwake";
+import { createStage, VIEW_W, VIEW_H, type Look, type Rig, type Stage } from "./game3d";
 
-const W = 192;
-const H = 108;
+const OW = 960; // the text layer on top of the 3D picture
+const OH = 540;
+const S = 0.1; // game units to metres in the 3D scene
 const GROUND = 88; // y of everyone's feet
 const ROUND = 60; // seconds
 const BEST_KEY = "fg-game-best";
-
-// ---------- tiny 3x5 pixel font ----------
-const GLYPHS: Record<string, string> = {
-  A: "010101111101101", B: "110101110101110", C: "011100100100011", D: "110101101101110",
-  E: "111100110100111", F: "111100110100100", G: "011100101101011", H: "101101111101101",
-  I: "111010010010111", J: "001001001101010", K: "101101110101101", L: "100100100100111",
-  M: "101111111101101", N: "110101101101101", O: "010101101101010", P: "110101110100100",
-  Q: "010101101111011", R: "110101110101101", S: "011100010001110", T: "111010010010010",
-  U: "101101101101111", V: "101101101101010", W: "101101111111101", X: "101101010101101",
-  Y: "101101010010010", Z: "111001010100111",
-  "0": "111101101101111", "1": "010110010010111", "2": "110001010100111", "3": "110001010001110",
-  "4": "101101111001001", "5": "111100110001110", "6": "011100111101111", "7": "111001010010010",
-  "8": "111101111101111", "9": "111101111001110",
-  "!": "010010010000010", "?": "110001010000010", ".": "000000000000010", ",": "000000000010100",
-  "'": "010010000000000", ":": "000010000010000", "-": "000000111000000",
-};
-
-function textWidth(s: string, scale = 1) {
-  return (s.length * 4 - 1) * scale;
-}
-
-function drawText(ctx: CanvasRenderingContext2D, s: string, x: number, y: number, color: string, scale = 1) {
-  ctx.fillStyle = color;
-  let cx = Math.round(x);
-  const cy = Math.round(y);
-  for (const ch of s.toUpperCase()) {
-    const g = GLYPHS[ch];
-    if (g) {
-      for (let i = 0; i < 15; i++) {
-        if (g[i] === "1") ctx.fillRect(cx + (i % 3) * scale, cy + Math.floor(i / 3) * scale, scale, scale);
-      }
-    }
-    cx += 4 * scale;
-  }
-}
-
-function centerText(ctx: CanvasRenderingContext2D, s: string, y: number, color: string, scale = 1) {
-  const x = (W - textWidth(s, scale)) / 2;
-  drawText(ctx, s, x + scale, y + scale, "#0b0d14", scale);
-  drawText(ctx, s, x, y, color, scale);
-}
-
-function bubble(ctx: CanvasRenderingContext2D, s: string, cx: number, bottom: number) {
-  const w = textWidth(s) + 8;
-  const x = Math.max(2, Math.min(W - w - 2, Math.round(cx - w / 2)));
-  const y = Math.max(12, Math.round(bottom - 13));
-  ctx.fillStyle = "#0b0d14";
-  ctx.fillRect(x - 1, y - 1, w + 2, 13);
-  ctx.fillStyle = "#fff8e7";
-  ctx.fillRect(x, y, w, 11);
-  const tx = Math.max(x + 3, Math.min(x + w - 6, Math.round(cx)));
-  ctx.fillStyle = "#0b0d14";
-  ctx.fillRect(tx - 1, y + 11, 5, 1);
-  ctx.fillRect(tx, y + 12, 3, 1);
-  ctx.fillStyle = "#fff8e7";
-  ctx.fillRect(tx, y + 11, 3, 1);
-  ctx.fillRect(tx + 1, y + 12, 1, 1);
-  drawText(ctx, s, x + 4, y + 3, "#0b0d14");
-}
-
-const HEART = [".#.#.", "#####", ".###.", "..#.."];
-function heart(ctx: CanvasRenderingContext2D, x: number, y: number, color = "#e2556b") {
-  ctx.fillStyle = color;
-  HEART.forEach((row, j) => {
-    for (let i = 0; i < 5; i++) if (row[i] === "#") ctx.fillRect(Math.round(x) + i, Math.round(y) + j, 1, 1);
-  });
-}
-
-// ---------- people ----------
-type Look = { shirt: string; pants: string; skin: string; hair: string };
-type Pose = { face: number; step: boolean; lying?: boolean; happy?: boolean; reach?: boolean; shield?: boolean };
-
-function person(ctx: CanvasRenderingContext2D, cx: number, feet: number, disciple: boolean, look: Look, p: Pose) {
-  ctx.save();
-  ctx.translate(Math.round(cx), Math.round(feet));
-  if (p.lying) {
-    ctx.translate(-8 * p.face, -5);
-    ctx.rotate((Math.PI / 2) * p.face);
-  }
-  if (p.face < 0) ctx.scale(-1, 1);
-  const r = (x: number, y: number, w: number, h: number, c: string) => {
-    ctx.fillStyle = c;
-    ctx.fillRect(x, y, w, h);
-  };
-  const a = p.step ? 1 : 0;
-  if (disciple) {
-    r(-2, -16, 4, 2, "#f1e7cf"); // head cloth
-    r(-3, -15, 1, 3, "#f1e7cf");
-    r(-2, -14, 4, 3, look.skin);
-    r(1, -14, 1, 1, "#16110c");
-    r(-1, -12, 3, 2, "#5b3a1e"); // beard
-    r(-3, -10, 6, 8, "#d9c9a3"); // robe
-    r(-3, -7, 6, 1, "#d4b062"); // sash
-    r(-4, -10, 1, 4, "#c8b78e");
-    if (p.reach) r(3, -9, 4, 1, look.skin);
-    else r(3, -10, 1, 4, "#c8b78e");
-    r(-3, -2, 2, 2 - a, look.skin); // sandals
-    r(1, -2, 2, 1 + a, look.skin);
-    r(-3, -1 + (a ? -1 : 0), 3, 1, "#6b4a2a");
-    r(1, -1 + (a ? 0 : -1), 3, 1, "#6b4a2a");
-    if (p.shield) {
-      r(-4, -17, 1, 5, look.skin); // arms up
-      r(3, -17, 1, 5, look.skin);
-      r(-6, -21, 12, 1, "#8a6a2c"); // the shield of faith, held overhead
-      r(-7, -20, 14, 3, "#d4b062");
-      r(-6, -17, 12, 1, "#8a6a2c");
-      r(-1, -20, 2, 3, "#fff8e7");
-      r(-3, -19, 6, 1, "#fff8e7");
-    }
-  } else {
-    r(-2, -16, 4, 1, look.hair);
-    r(-3, -15, 1, 2, look.hair);
-    r(-2, -15, 4, 4, look.skin);
-    r(1, -14, 1, 1, "#16110c");
-    if (p.happy) r(0, -12, 2, 1, "#ffffff");
-    r(-3, -11, 6, 6, look.shirt);
-    r(-4, -11, 1, 4, look.skin);
-    r(3, -11, 1, 4, look.skin);
-    r(-3, -5, 2, 4 + (1 - a), look.pants);
-    r(1, -5, 2, 4 + a, look.pants);
-    r(-3, -1 - a, 3, 1, "#1b1b1f");
-    r(1, -2 + a, 3, 1, "#1b1b1f");
-  }
-  ctx.restore();
-}
 
 const SHIRTS = ["#c0453a", "#3f7fbf", "#4f9d69", "#8a5fbf", "#d08a2e", "#3aa7a3", "#b84f86", "#6d7684"];
 const PANTS = ["#2c3350", "#3b3b46", "#4a3728", "#1f3a3a"];
@@ -148,6 +25,7 @@ type Kind = "walker" | "jogger" | "runner" | "phone";
 type Npc = {
   x: number; dir: number; kind: Kind; look: Look; walk: number;
   told: boolean; pinned: boolean; bolt: number; turn: number; say: string; sayT: number;
+  z: number; rig: Rig | null;
 };
 type Arrow = { x: number; y: number; vx: number; vy: number; tx: number };
 type Bit = { x: number; y: number; vx: number; vy: number; t: number; heart: boolean };
@@ -168,6 +46,7 @@ function newNpc(x: number, score: number): Npc {
     x, dir: Math.random() < 0.5 ? -1 : 1, kind, walk: Math.random() * 10,
     look: { shirt: pick(SHIRTS), pants: pick(PANTS), skin: pick(SKINS), hair: pick(HAIRS) },
     told: false, pinned: false, bolt: 0, turn: 1 + Math.random() * 3, say: "", sayT: 0,
+    z: -0.9 + Math.random() * 1.1, rig: null,
   };
 }
 
@@ -175,15 +54,55 @@ type Mode = "title" | "play" | "over";
 
 export function Game() {
   const canvasRef = useRef<HTMLCanvasElement>(null);
+  const hudRef = useRef<HTMLCanvasElement>(null);
+  const [broken, setBroken] = useState(false);
   const keys = useRef({ left: false, right: false, jump: false, act: false, shield: false, jumpHit: false, actHit: false });
   const [pinning, setPinning] = useState(false);
   const [mode, setMode] = useState<Mode>("title");
   useKeepAwake(mode === "play");
 
   useEffect(() => {
-    const canvas = canvasRef.current!;
-    const ctx = canvas.getContext("2d")!;
-    ctx.imageSmoothingEnabled = false;
+    let stage: Stage;
+    try {
+      stage = createStage(canvasRef.current!);
+    } catch {
+      setBroken(true);
+      return;
+    }
+    const hud = hudRef.current!.getContext("2d")!;
+
+    // Tiny synth sounds, made on the spot so there are no audio files.
+    let audio: AudioContext | null = null;
+    const wake = () => {
+      try {
+        audio = audio ?? new (window.AudioContext || (window as unknown as { webkitAudioContext: typeof AudioContext }).webkitAudioContext)();
+        if (audio.state === "suspended") audio.resume();
+      } catch {}
+    };
+    const tone = (freq: number, dur: number, type: OscillatorType = "square", delay = 0, vol = 0.06) => {
+      if (!audio) return;
+      const o = audio.createOscillator();
+      const g = audio.createGain();
+      const t0 = audio.currentTime + delay;
+      o.type = type;
+      o.frequency.setValueAtTime(freq, t0);
+      g.gain.setValueAtTime(vol, t0);
+      g.gain.exponentialRampToValueAtTime(0.001, t0 + dur);
+      o.connect(g).connect(audio.destination);
+      o.start(t0);
+      o.stop(t0 + dur);
+    };
+    const sfx = {
+      pin: () => { tone(160, 0.12, "sawtooth"); tone(110, 0.16, "sawtooth", 0.05); },
+      tell: () => [523, 659, 784, 1047].forEach((f, i) => tone(f, 0.16, "square", i * 0.08)),
+      block: () => { tone(1320, 0.08, "triangle", 0, 0.1); tone(1760, 0.2, "triangle", 0.06, 0.1); },
+      hit: () => { tone(140, 0.3, "sawtooth", 0, 0.09); tone(90, 0.35, "square", 0.08, 0.07); },
+      miss: () => tone(200, 0.12, "triangle"),
+      jump: () => tone(440, 0.09, "triangle"),
+      end: () => [784, 659, 523].forEach((f, i) => tone(f, 0.22, "square", i * 0.14)),
+    };
+    window.addEventListener("pointerdown", wake);
+    window.addEventListener("keydown", wake);
 
     let best = 0;
     try {
@@ -193,12 +112,13 @@ export function Game() {
     const s = {
       mode: "title" as Mode, t: 0, time: ROUND, score: 0, overT: 0, newBest: false,
       p: { x: 0, y: GROUND, vy: 0, face: 1, walk: 0, lunge: 0, cool: 0, down: 0, stun: 0, pin: null as Npc | null, pinT: 0, tell: 0 },
-      npcs: [] as Npc[], bits: [] as Bit[], arrows: [] as Arrow[], arrowT: 5, shielding: false, blocked: 0, flash: "", flashT: 0,
+      moving: false, npcs: [] as Npc[], bits: [] as Bit[], arrows: [] as Arrow[], arrowT: 5, shielding: false, blocked: 0, flash: "", flashT: 0,
     };
 
     const start = () => {
       s.mode = "play"; s.time = ROUND; s.score = 0; s.newBest = false;
       Object.assign(s.p, { x: 0, y: GROUND, vy: 0, face: 1, lunge: 0, cool: 0, down: 0, stun: 0, pin: null, pinT: 0, tell: 0 });
+      for (const n of s.npcs) if (n.rig) stage.freeRig(n.rig);
       s.npcs = [newNpc(45, 0), newNpc(-60, 0), newNpc(100, 0)];
       s.npcs[0].kind = "phone";
       s.bits = [];
@@ -237,6 +157,7 @@ export function Game() {
           try { localStorage.setItem(BEST_KEY, String(best)); } catch {}
         }
         setMode("over");
+        sfx.end();
         return;
       }
       p.cool = Math.max(0, p.cool - dt);
@@ -251,6 +172,7 @@ export function Game() {
             const n = p.pin;
             n.told = true; n.say = pick(REPLIES); n.sayT = 1.4; n.dir = Math.random() < 0.5 ? -1 : 1;
             s.score++;
+            sfx.tell();
             for (let i = 0; i < 6; i++) s.bits.push({ x: n.x - 2, y: GROUND - 14, vx: (Math.random() - 0.5) * 40, vy: -30 - Math.random() * 30, t: 0.9, heart: true });
             release();
             p.x -= 10 * p.face; p.cool = 0.25;
@@ -277,12 +199,14 @@ export function Game() {
               n.pinned = true; n.bolt = 0; n.sayT = 0;
               p.pin = n; p.pinT = 2.6; p.tell = 0; p.lunge = 0; p.x = n.x; p.y = GROUND; p.vy = 0;
               setPinning(true);
+              sfx.pin();
               for (let i = 0; i < 5; i++) s.bits.push({ x: n.x, y: GROUND - 1, vx: (Math.random() - 0.5) * 60, vy: -20 - Math.random() * 20, t: 0.4, heart: false });
               break;
             }
           }
           if (!p.pin && p.lunge <= 0 && p.y >= GROUND) {
             p.down = 0.45; // missed: face-plant
+            sfx.miss();
             for (let i = 0; i < 4; i++) s.bits.push({ x: p.x + 6 * p.face, y: GROUND - 1, vx: (Math.random() - 0.5) * 50, vy: -15 - Math.random() * 15, t: 0.35, heart: false });
           }
         } else if (p.stun > 0) {
@@ -292,12 +216,13 @@ export function Game() {
         } else {
           if (k.left) { vx = -55; p.face = -1; }
           if (k.right) { vx = 55; p.face = 1; }
-          if (jump && p.y >= GROUND) p.vy = -165;
+          if (jump && p.y >= GROUND) { p.vy = -165; sfx.jump(); }
           if (act && p.cool <= 0) { p.lunge = 0.26; p.cool = 0.6; }
         }
         if (!p.pin) {
           const before = p.x;
           p.x += vx * dt;
+          s.moving = !!vx;
           if (vx) p.walk += dt * 9;
           p.vy += 520 * dt;
           p.y = Math.min(GROUND, p.y + p.vy * dt);
@@ -337,7 +262,11 @@ export function Game() {
         n.x += v * dt;
         if (v) n.walk += dt * Math.min(12, 4 + Math.abs(v) / 6);
       }
-      s.npcs = s.npcs.filter((n) => n.pinned || Math.abs(n.x - p.x) < 300);
+      s.npcs = s.npcs.filter((n) => {
+        const keep = n.pinned || Math.abs(n.x - p.x) < 300;
+        if (!keep && n.rig) { stage.freeRig(n.rig); n.rig = null; }
+        return keep;
+      });
       while (s.npcs.filter((n) => !n.told).length < 5) {
         const side = Math.random() < 0.6 ? p.face : -p.face;
         s.npcs.push(newNpc(p.x + side * (112 + Math.random() * 90), s.score));
@@ -357,12 +286,12 @@ export function Game() {
         if (Math.abs(a.x - p.x) < 7 && a.y > p.y - 21 && a.y < p.y && p.down <= 0) {
           a.y = 999;
           if (s.shielding) {
-            s.blocked++; s.flash = "FAITH!"; s.flashT = 0.7;
+            s.blocked++; s.flash = "FAITH!"; s.flashT = 0.7; sfx.block();
             for (let i = 0; i < 6; i++) s.bits.push({ x: p.x, y: p.y - 20, vx: (Math.random() - 0.5) * 70, vy: -20 - Math.random() * 30, t: 0.4, heart: false });
           } else {
             if (p.pin) { const n = p.pin; n.bolt = 3; release(); }
             p.down = 0.8; p.lunge = 0; p.vy = 0; p.y = GROUND; p.tell = 0;
-            s.time = Math.max(0.1, s.time - 3); s.flash = "OUCH! -3"; s.flashT = 1;
+            s.time = Math.max(0.1, s.time - 3); s.flash = "OUCH! -3"; s.flashT = 1; sfx.hit();
           }
         } else if (a.y >= GROUND) {
           a.y = 999;
@@ -375,118 +304,98 @@ export function Game() {
       s.bits = s.bits.filter((b) => b.t > 0);
     };
 
+    // ----- text on top of the 3D picture: score, clock, speech -----
+    const face = '"Arial Black", "Helvetica Neue", Arial, sans-serif';
+    const label = (text: string, x: number, y: number, size: number, color: string, align: CanvasTextAlign = "left") => {
+      hud.font = `900 italic ${size}px ${face}`;
+      hud.textAlign = align;
+      hud.textBaseline = "top";
+      hud.lineJoin = "round";
+      hud.lineWidth = Math.max(4, size / 6);
+      hud.strokeStyle = "#0b0d14";
+      hud.strokeText(text, x, y);
+      hud.fillStyle = color;
+      hud.fillText(text, x, y);
+    };
+    const speech = (text: string, wx: number, wy: number) => {
+      const [fx, fy] = stage.project(wx, wy, 0);
+      hud.font = `900 26px ${face}`;
+      const w = hud.measureText(text).width + 28;
+      const x = Math.max(8, Math.min(OW - w - 8, fx * OW - w / 2));
+      const y = Math.max(60, fy * OH - 46);
+      hud.fillStyle = "#0b0d14";
+      hud.fillRect(x - 4, y - 4, w + 8, 48);
+      hud.fillStyle = "#fff8e7";
+      hud.fillRect(x, y, w, 40);
+      const tx = Math.max(x + 14, Math.min(x + w - 26, fx * OW - 6));
+      hud.fillStyle = "#0b0d14";
+      hud.beginPath(); hud.moveTo(tx - 4, y + 40); hud.lineTo(tx + 20, y + 40); hud.lineTo(tx + 8, y + 58); hud.fill();
+      hud.fillStyle = "#fff8e7";
+      hud.beginPath(); hud.moveTo(tx, y + 38); hud.lineTo(tx + 16, y + 38); hud.lineTo(tx + 8, y + 51); hud.fill();
+      hud.fillStyle = "#0b0d14";
+      hud.textAlign = "left";
+      hud.textBaseline = "top";
+      hud.fillText(text, x + 14, y + 6);
+    };
+
     const draw = () => {
       const p = s.p;
-      const cam = Math.round(p.x - W / 2);
-      // sky
-      const bands = ["#161a33", "#1f2547", "#2f2f5a", "#4d3a66", "#7c4a6a", "#b8665f", "#e09a62"];
-      bands.forEach((c, i) => { ctx.fillStyle = c; ctx.fillRect(0, i * 10, W, 10); });
-      ctx.fillStyle = "#e09a62"; ctx.fillRect(0, 70, W, 20);
-      // stars and sun
-      ctx.fillStyle = "#f4e9c9";
-      for (let i = 0; i < 22; i++) ctx.fillRect(Math.floor(hash(i + 3) * W), Math.floor(hash(i + 71) * 26), 1, 1);
-      ctx.fillStyle = "#ffd98a"; ctx.fillRect(138, 44, 16, 16);
-      ctx.fillStyle = "#ffe9b5"; ctx.fillRect(140, 46, 12, 12);
-      // far hills
-      ctx.fillStyle = "#5a3f63";
-      for (let x = 0; x < W; x += 4) {
-        const wx = x + cam * 0.15;
-        const hgt = 12 + Math.sin(wx / 37) * 6 + Math.sin(wx / 13) * 2;
-        ctx.fillRect(x, GROUND - 14 - hgt, 4, hgt + 6);
-      }
-      // town
-      const off = cam * 0.5;
-      for (let c = Math.floor(off / 26) - 1; c <= Math.floor((off + W) / 26) + 1; c++) {
-        const bx = Math.round(c * 26 - off);
-        const bh = 18 + Math.floor(hash(c * 3.7) * 34);
-        ctx.fillStyle = hash(c) < 0.5 ? "#2a2440" : "#332a4a";
-        ctx.fillRect(bx, GROUND - 12 - bh, 23, bh);
-        ctx.fillStyle = "#f2c66a";
-        for (let wy = 0; wy < bh - 8; wy += 7) for (let wx = 0; wx < 3; wx++) {
-          if (hash(c * 91 + wy * 7 + wx) < 0.45) ctx.fillRect(bx + 3 + wx * 6, GROUND - 9 - bh + wy, 3, 4);
-        }
-      }
-      // pavement and road
-      ctx.fillStyle = "#3b3550"; ctx.fillRect(0, GROUND - 12, W, 12);
-      ctx.fillStyle = "#8f8a9c"; ctx.fillRect(0, GROUND, W, 12);
-      ctx.fillStyle = "#b9b4c4"; ctx.fillRect(0, GROUND, W, 2);
-      ctx.fillStyle = "#6f6a7d";
-      for (let x = -(((cam % 24) + 24) % 24); x < W; x += 24) ctx.fillRect(x, GROUND + 2, 1, 10);
-      ctx.fillStyle = "#26232f"; ctx.fillRect(0, GROUND + 12, W, H - GROUND - 12);
-      ctx.fillStyle = "#d4b062";
-      for (let x = -(((cam % 40) + 40) % 40); x < W; x += 40) ctx.fillRect(x, GROUND + 16, 14, 1);
-      // hydrants
-      for (let c = Math.floor(cam / 230) - 1; c <= Math.floor((cam + W) / 230) + 1; c++) {
-        const hx = hydrantAt(c);
-        if (hx === null) continue;
-        const x = Math.round(hx - cam);
-        ctx.fillStyle = "#c0392b"; ctx.fillRect(x - 2, GROUND - 7, 4, 7);
-        ctx.fillRect(x - 3, GROUND - 5, 6, 2);
-        ctx.fillStyle = "#e8604f"; ctx.fillRect(x - 1, GROUND - 8, 2, 1);
-      }
+      const cx = p.x * S;
+      stage.setCamera(cx);
 
-      // people
+      const hx: number[] = [];
+      const cell = Math.floor(p.x / 230);
+      for (const c of [cell - 1, cell, cell + 1]) {
+        const h = hydrantAt(c);
+        if (h !== null && Math.abs(h - p.x) < 150) hx.push(h * S);
+      }
+      stage.setHydrants(hx);
+
       for (const n of s.npcs) {
-        const x = n.x - cam;
-        if (x < -20 || x > W + 20) continue;
-        person(ctx, x, GROUND, false, n.look, { face: n.dir, step: Math.floor(n.walk) % 2 === 0, lying: n.pinned, happy: n.told });
-        if (n.kind === "phone" && !n.told && !n.pinned) { ctx.fillStyle = "#dfe7f2"; ctx.fillRect(Math.round(x) + 3 * n.dir, GROUND - 13, 1, 2); }
-        if (n.told) heart(ctx, x - 2, GROUND - 23 + Math.sin(s.t * 4 + n.x) * 1.5);
+        if (!n.rig) n.rig = stage.takeRig(n.look);
+        const still = n.kind === "phone" && !n.told && n.bolt <= 0;
+        stage.pose(n.rig, {
+          x: n.x * S, y: 0, z: n.pinned ? 0 : n.z, face: n.dir, phase: still ? 0 : n.walk * 1.2,
+          mode: n.pinned ? "lie" : "stand", flail: n.pinned, happy: n.told, phone: still && !n.pinned, t: s.t,
+        });
       }
-      const px = p.x - cam;
-      const disc: Look = { shirt: "", pants: "", hair: "", skin: "#d9a273" };
-      if (p.pin) person(ctx, px, GROUND - 6 + (Math.floor(s.t * 8) % 2), true, disc, { face: p.face, step: false, reach: !s.shielding, shield: s.shielding });
-      else if (p.down > 0) person(ctx, px, GROUND, true, disc, { face: p.face, step: false, lying: true });
-      else person(ctx, px, p.y, true, disc, { face: p.face, step: Math.floor(p.walk) % 2 === 0, reach: p.lunge > 0, shield: s.shielding });
+      const py = (GROUND - p.y) * S;
+      if (p.pin) stage.pose(stage.player, { x: cx, y: 0.36, z: 0.06, face: p.face, phase: 0, mode: "kneel", reach: !s.shielding, shield: s.shielding, t: s.t });
+      else if (p.down > 0) stage.pose(stage.player, { x: cx, y: 0, z: 0, face: p.face, phase: 0, mode: "lie", t: s.t });
+      else if (p.lunge > 0) stage.pose(stage.player, { x: cx, y: py, z: 0, face: p.face, phase: 0, mode: "dive", reach: true, t: s.t });
+      else stage.pose(stage.player, { x: cx, y: py, z: 0, face: p.face, phase: s.moving ? p.walk * 1.2 : 0, mode: "stand", shield: s.shielding, t: s.t });
 
-      for (const a of s.arrows) {
-        const ax = a.x - cam;
-        const len = Math.hypot(a.vx, a.vy);
-        const ux = a.vx / len, uy = a.vy / len;
-        if (Math.floor(s.t * 10) % 2 === 0) { ctx.fillStyle = "#ff6b4a"; ctx.fillRect(Math.round(a.tx - cam) - 3, GROUND, 6, 1); }
-        ctx.fillStyle = "#3a2a1c";
-        for (let i = 2; i < 9; i++) ctx.fillRect(Math.round(ax - ux * i), Math.round(a.y - uy * i), 1, 1);
-        ctx.fillStyle = "#ff6b2a"; ctx.fillRect(Math.round(ax) - 1, Math.round(a.y) - 1, 3, 3);
-        ctx.fillStyle = Math.floor(s.t * 16) % 2 ? "#ffd24a" : "#fff3b0"; ctx.fillRect(Math.round(ax), Math.round(a.y), 1, 1);
-        ctx.fillStyle = "#ff9a3a"; ctx.fillRect(Math.round(ax - ux * 3), Math.round(a.y - uy * 3) - 1, 1, 1);
-      }
+      stage.setArrows(s.arrows.map((a) => ({ x: a.x * S, y: (GROUND - a.y) * S, vx: a.vx, vy: -a.vy, tx: a.tx * S })), s.t);
+      stage.setBits(s.bits.map((b) => ({ x: b.x * S, y: (GROUND - b.y) * S, heart: b.heart, t: b.t })));
+      stage.render();
 
-      for (const b of s.bits) {
-        if (b.heart) heart(ctx, b.x - cam, b.y);
-        else { ctx.fillStyle = "#d8d2e0"; ctx.fillRect(Math.round(b.x - cam), Math.round(b.y), 2, 2); }
-      }
-
-      // speech
-      for (const n of s.npcs) if (n.sayT > 0) bubble(ctx, n.say, n.x - cam, GROUND - 20);
+      hud.clearRect(0, 0, OW, OH);
+      for (const n of s.npcs) if (n.sayT > 0) speech(n.say, n.x * S, 2.2);
       if (p.pin) {
-        if (p.tell > 0) bubble(ctx, "JESUS LOVES YOU!", px, GROUND - 26);
-        else if (Math.floor(s.t * 5) % 2 === 0) bubble(ctx, "TELL THEM!", px, GROUND - 26);
+        if (p.tell > 0) speech("JESUS LOVES YOU!", cx, 2.7);
+        else if (Math.floor(s.t * 5) % 2 === 0) speech("TELL THEM!", cx, 2.7);
       }
-      if (s.flashT > 0 && !(p.pin && p.tell > 0)) bubble(ctx, s.flash, px, p.y - (p.pin ? 40 : 24));
+      if (s.flashT > 0 && !(p.pin && p.tell > 0)) speech(s.flash, cx, py + (p.pin ? 3.6 : 2.9));
 
-      // score and clock
       if (s.mode === "play") {
-        const told = `TOLD ${s.score}`;
-        drawText(ctx, told, 5, 5, "#0b0d14", 2); drawText(ctx, told, 4, 4, "#fff8e7", 2);
-        const tm = `${Math.ceil(s.time)}`;
-        const tw = textWidth(tm, 2);
-        drawText(ctx, tm, W - tw - 3, 5, "#0b0d14", 2);
-        drawText(ctx, tm, W - tw - 4, 4, s.time < 10 ? "#ff8f7a" : "#fff8e7", 2);
+        label(`TOLD ${s.score}`, 22, 16, 40, "#fff8e7");
+        label(`${Math.ceil(s.time)}`, OW - 22, 16, 44, s.time < 10 ? "#ff8f7a" : "#fff8e7", "right");
       } else {
-        ctx.fillStyle = "rgba(11,13,20,0.62)"; ctx.fillRect(0, 0, W, H);
+        hud.fillStyle = "rgba(11,13,20,0.6)";
+        hud.fillRect(0, 0, OW, OH);
+        const blink = Math.floor(s.t * 2) % 2 === 0;
         if (s.mode === "title") {
-          centerText(ctx, "GO AND TELL", 14, "#d4b062", 4);
-          centerText(ctx, "CATCH THEM. PIN THEM.", 42, "#fff8e7");
-          centerText(ctx, "TELL THEM JESUS LOVES THEM.", 51, "#fff8e7");
-          centerText(ctx, "SHIELD UP WHEN ARROWS FALL.", 60, "#ff9a6a");
-          if (best > 0) centerText(ctx, `BEST ${best}`, 72, "#d4b062");
-          if (Math.floor(s.t * 2) % 2 === 0) centerText(ctx, "PRESS START", 86, "#fff8e7", 2);
+          label("GO AND TELL", OW / 2, 70, 104, "#d4b062", "center");
+          label("Catch them. Pin them. Tell them Jesus loves them.", OW / 2, 226, 30, "#fff8e7", "center");
+          label("Raise your shield when the arrows fall.", OW / 2, 270, 30, "#ff9a6a", "center");
+          if (best > 0) label(`BEST ${best}`, OW / 2, 334, 34, "#d4b062", "center");
+          if (blink) label("PRESS START", OW / 2, 420, 46, "#fff8e7", "center");
         } else {
-          centerText(ctx, "TIME!", 10, "#d4b062", 4);
-          centerText(ctx, `YOU TOLD ${s.score}`, 40, "#fff8e7", 3);
-          centerText(ctx, s.newBest ? "NEW BEST!" : `BEST ${best}`, 62, "#d4b062", 2);
-          if (s.blocked > 0) centerText(ctx, `ARROWS BLOCKED ${s.blocked}`, 77, "#ff9a6a");
-          if (s.overT > 1 && Math.floor(s.t * 2) % 2 === 0) centerText(ctx, "PRESS START TO GO AGAIN", 88, "#fff8e7");
+          label("TIME!", OW / 2, 50, 104, "#d4b062", "center");
+          label(`YOU TOLD ${s.score}`, OW / 2, 200, 66, "#fff8e7", "center");
+          label(s.newBest ? "NEW BEST!" : `BEST ${best}`, OW / 2, 296, 40, "#d4b062", "center");
+          if (s.blocked > 0) label(`ARROWS BLOCKED ${s.blocked}`, OW / 2, 356, 30, "#ff9a6a", "center");
+          if (s.overT > 1 && blink) label("PRESS AGAIN TO PLAY", OW / 2, 430, 40, "#fff8e7", "center");
         }
       }
     };
@@ -522,6 +431,10 @@ export function Game() {
     window.addEventListener("keyup", ku);
     return () => {
       cancelAnimationFrame(raf);
+      window.removeEventListener("pointerdown", wake);
+      window.removeEventListener("keydown", wake);
+      audio?.close().catch(() => {});
+      stage.dispose();
       window.removeEventListener("keydown", kd);
       window.removeEventListener("keyup", ku);
     };
@@ -542,7 +455,11 @@ export function Game() {
 
   return (
     <div className="game">
-      <canvas ref={canvasRef} width={W} height={H} className="game-screen" aria-label="Go and Tell game screen" />
+      <div className="game-frame">
+        <canvas ref={canvasRef} width={VIEW_W} height={VIEW_H} className="game-screen" aria-label="Go and Tell game screen" />
+        <canvas ref={hudRef} width={OW} height={OH} className="game-hud" aria-hidden="true" />
+        {broken && <p className="game-broken">This game needs 3D graphics, which this browser has turned off.</p>}
+      </div>
       <div className="game-pad">
         <div className="game-move">
           <button type="button" className="game-btn" aria-label="Walk left" {...hold("left")}>‹</button>
