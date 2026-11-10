@@ -8,7 +8,7 @@
       "supplemental": false
     },
     {
-      "text": "**How to use the links:** every ▶ link jumps to a live conversation where the move is demonstrated. Lines tagged **➕** are supplemental material. Double-check those before leaning on them.\nDoctrinal frame: our church's Articles of Faith. One Being, three Persons; Christ has two natures; Scripture alone.",
+      "text": "Doctrinal frame: our church's Articles of Faith. One Being, three Persons; Christ has two natures; Scripture alone.",
       "verses": [],
       "links": [],
       "supplemental": false
@@ -198,7 +198,7 @@
           }
         ],
         "supplemental": false,
-        "text": "Even when they rage-quit: *\"I want you to be saved, brother. I love you.\"* Truth with love keeps the door open (1 Pet 3:15–16)."
+        "text": "Even when they get angry or walk away: *\"I want you to be saved, brother. I love you.\"* Truth with love keeps the door open (1 Pet 3:15–16)."
       }
     ],
     "toolsTitle": "🧰 Universal tools (work on any non-Trinitarian)",
@@ -255,7 +255,7 @@
           }
         ],
         "supplemental": false,
-        "text": "Not a contradiction. Different categories: 3 *persons*, 1 *being*. (For Muslims, hold up the Hafs, Warsh and Qalun Qurans.)"
+        "text": "Not a contradiction. Different categories: 3 *persons*, 1 *being*. (With a Muslim: the Quran comes in several transmitted readings, such as Hafs, Warsh and Qalun, and Muslims still say it is one Quran.)"
       },
       {
         "title": "Context decides literal vs. figurative.",
@@ -286,7 +286,7 @@
   "holySpiritPlay": {
     "title": "🔥 THE HOLY SPIRIT PLAY: \"the Spirit is Yahweh\" (Unitarians, JWs, Oneness, Muslims)",
     "intro": {
-      "text": "**Why this is the kill shot:** Unitarians spend all their energy on Jesus (agency, *shaliach*, \"a god\"). They usually have **no prepared answer for the Spirit**. *\"Holy Spirit: kryptonite for these guys.\"* Two steps: **(A) the Spirit is a Person → (B) that Person is Yahweh.**",
+      "text": "**Why this works:** Unitarians spend all their energy on Jesus (agency, *shaliach*, \"a god\"). They usually have **no prepared answer for the Spirit**. Two steps: **(A) the Spirit is a Person → (B) that Person is Yahweh.**",
       "verses": [],
       "links": [
         {
@@ -1055,8 +1055,8 @@
           "supplemental": false
         },
         {
-          "theySay": "They admit it but leave the Bible (an ex-JW who became Muslim because \"the Bible says the Spirit is God\")",
-          "youSay": "that's 2 Tim 4:3, \"itching ears.\" He's conceding the Bible teaches it.",
+          "theySay": "They admit it but walk away from the Bible (\"then I can't trust the Bible\")",
+          "youSay": "that's 2 Tim 4:3, \"itching ears.\" They are conceding the Bible teaches it.",
           "verses": [
             {
               "label": "2 Tim 4:3",
@@ -1283,7 +1283,7 @@
               "supplemental": false
             },
             {
-              "text": "*\"If not one thing came into existence without Him, and Jesus came into existence, then Jehovah used Jesus to make Jesus?\"* *\"That dog won't hunt.\"*",
+              "text": "*\"If not one thing came into existence without Him, and Jesus came into existence, then Jehovah used Jesus to make Jesus?\"*",
               "verses": [],
               "links": [
                 {
@@ -1740,7 +1740,7 @@
             "supplemental": false
           },
           "lead": {
-            "text": "→ Run the full [🔥 Holy Spirit Play](#holy-spirit-play). Best JW order: **Acts 13:2 → Eph 4:30 → 2 Sam 23:2–3 + Acts 4:24–25.** JW panels often go quiet at this point because they have no answer.",
+            "text": "→ Run the full [🔥 Holy Spirit Play](#holy-spirit-play). Best JW order: **Acts 13:2 → Eph 4:30 → 2 Sam 23:2–3 + Acts 4:24–25.** Witnesses often have no prepared answer at this point.",
             "verses": [
               {
                 "label": "Acts 13:2",
@@ -1892,7 +1892,7 @@
           "supplemental": false,
           "altOpeners": [
             {
-              "text": "*\"It was built in 1929. You know by who?\"* (Show a photo of Beth Sarim.)",
+              "text": "*\"Have you heard of Beth Sarim, the mansion the Watchtower built in San Diego in 1929? Do you know who it was built for?\"*",
               "verses": [],
               "links": [],
               "supplemental": false
@@ -3132,31 +3132,12 @@
           "chain": [],
           "questions": [],
           "ifTheySay": [],
-          "notes": [
-            {
-              "kind": "quote",
-              "text": "*\"You can't even answer one of three.\"*",
-              "verses": [],
-              "links": [
-                {
-                  "videoId": "SGyVqLKrtjE",
-                  "seconds": 1230,
-                  "url": "https://youtu.be/SGyVqLKrtjE?t=1230"
-                }
-              ],
-              "supplemental": false
-            }
-          ],
+          "notes": [],
           "links": [
             {
               "videoId": "SGyVqLKrtjE",
               "seconds": 3,
               "url": "https://youtu.be/SGyVqLKrtjE?t=3"
-            },
-            {
-              "videoId": "SGyVqLKrtjE",
-              "seconds": 1230,
-              "url": "https://youtu.be/SGyVqLKrtjE?t=1230"
             }
           ],
           "opener": {
@@ -4620,7 +4601,7 @@
         "label": "Typical exits",
         "items": [
           {
-            "text": "\"bot mode\" (repeating \"it communicates information.\" Keep asking the same yes/no question)",
+            "text": "repeating one line over and over, like \"it communicates information\" (keep asking the same yes/no question)",
             "verses": [],
             "links": [
               {
@@ -4632,7 +4613,7 @@
             "supplemental": false
           },
           {
-            "text": "pulling out church history books (let them finish, then bring it back to the verse)",
+            "text": "turning to church history (let them finish, then bring it back to the verse)",
             "verses": [],
             "links": [],
             "supplemental": false
@@ -6295,18 +6276,6 @@
           "verses": [],
           "links": [],
           "supplemental": false
-        },
-        {
-          "text": "*\"Why would I fix something that ain't broke? If this one line has you guys squirming like this… why would I use something else?\"*",
-          "verses": [],
-          "links": [
-            {
-              "videoId": "xzgCmA5f7oo",
-              "seconds": 1350,
-              "url": "https://youtu.be/xzgCmA5f7oo?t=1350"
-            }
-          ],
-          "supplemental": false
         }
       ],
       "cheatCardTitle": "Muslim Cheat Card",
@@ -7244,7 +7213,7 @@
           ],
           "chain": [
             {
-              "text": "Used against a Quran-only Muslim: **Q 4:24** (married captive women \"your right hands possess\"), **Q 2:230** (*halala*: must marry and consummate with another man before remarrying the first husband. Compare Deut 24:1–4, an \"abomination\"), **Q 65:4 + 33:49** (waiting period for girls \"who have not yet menstruated\"; the waiting period applies only after consummation). Use sparingly. It turns hostile fast. Keep it on the text, and keep the goal the gospel, not winning.",
+              "text": "Verses to read: **Q 4:24** (married captive women \"your right hands possess\"), **Q 2:230** (*halala*: must marry and consummate with another man before remarrying the first husband. Compare Deut 24:1–4, an \"abomination\"), **Q 65:4 + 33:49** (waiting period for girls \"who have not yet menstruated\"; the waiting period applies only after consummation). Use sparingly. It turns hostile fast. Keep it on the text, and keep the goal the gospel, not winning.",
               "verses": [
                 {
                   "label": "Q 4:24",
@@ -7322,7 +7291,7 @@
           "objection": "\"How can God be 3 and 1?\"",
           "response": "Three in one sense (**Persons**), one in another (**Being**). Different categories, no contradiction.",
           "goTo": "Deut 6:4; Matt 28:19",
-          "askBack": "Hold up the Hafs, Warsh and Qalun Qurans: *\"How many Qurans am I holding? These three are one?\"*",
+          "askBack": "*\"The Quran has several transmitted readings: Hafs, Warsh, Qalun. Is that three Qurans, or one?\"*",
           "verses": [
             {
               "label": "Deut 6:4",
@@ -8146,13 +8115,6 @@
         "supplemental": false
       },
       "lead": [
-        {
-          "label": "Note",
-          "text": "▶ links show the move in a real conversation. ➕ marks standard classical apologetics material added so the section is complete. Same style throughout: short questions, burden on them.",
-          "verses": [],
-          "links": [],
-          "supplemental": false
-        },
         {
           "label": "Mindset",
           "text": "Scripture says every person knows God and suppresses that knowledge (Rom 1:18–21). The problem isn't missing evidence; it's the heart. The first move is to **make them define their position**, and they usually back off from \"God doesn't exist\" to \"I don't know.\" Then aim at the conscience.",

@@ -2,7 +2,6 @@
 
 **Built for live conversations.** Pick who you're talking to, then go to **🗡️ Offense** (you bring the case) or **🛡️ Defense** (they raised an objection).
 
-> **How to use the links:** every ▶ link jumps to a live conversation where the move is demonstrated. Lines tagged **➕** are supplemental material. Double-check those before leaning on them.
 > Doctrinal frame: our church's Articles of Faith. One Being, three Persons; Christ has two natures; Scripture alone.
 
 ---
@@ -43,12 +42,12 @@ Pray first. Only the Spirit opens eyes (John 6:44; 2 Cor 4:4–6). Watch your ow
 
 9. **Ask the question back.** End with a question they have to answer on their own (*"Who is the Father hearing from?"*), not a speech.
 
-10. **Stay warm.** Even when they rage-quit: *"I want you to be saved, brother. I love you."* ([▶](https://youtu.be/QNaYaD3ET78?t=341)) Truth with love keeps the door open (1 Pet 3:15–16).
+10. **Stay warm.** Even when they get angry or walk away: *"I want you to be saved, brother. I love you."* ([▶](https://youtu.be/QNaYaD3ET78?t=341)) Truth with love keeps the door open (1 Pet 3:15–16).
 
 ### 🧰 Universal tools (work on any non-Trinitarian)
 - **"Yahweh" isn't one-person-only.** Yahweh is the name of the one true God, and Scripture applies it to the Father, the Son and the Spirit. Their "then Jesus is his own Father" syllogism only works if Yahweh = the Father alone. A name can have more than one referent: "Judah" can mean a man *or* a tribe (Judges 1:1–2). ([▶](https://youtu.be/1Ro4BK8GvA4?t=20), [▶](https://youtu.be/SGyVqLKrtjE?t=441))
 - **Word–concept fallacy.** "'Trinity' isn't in the Bible" → neither are "monotheism" or "Bible." The question is whether the *concept* is there. ([▶](https://youtu.be/X-aevlcvkv8?t=1810))
-- **Three in one way, one in another.** Not a contradiction. Different categories: 3 *persons*, 1 *being*. (For Muslims, hold up the Hafs, Warsh and Qalun Qurans. [▶](https://youtu.be/HwCcC0D0M08?t=14))
+- **Three in one way, one in another.** Not a contradiction. Different categories: 3 *persons*, 1 *being*. (With a Muslim: the Quran comes in several transmitted readings, such as Hafs, Warsh and Qalun, and Muslims still say it is one Quran. [▶](https://youtu.be/HwCcC0D0M08?t=14))
 - **Context decides literal vs. figurative.** Both sides agree personification exists. But personified things don't say "set apart for **me**" or "the work **I** have called them to."
 - **"Firstborn" = rank, not birth order.** David was the *youngest* son and the *second* king, yet God calls him "firstborn, the highest of the kings of the earth" (Ps 89:27).
 
@@ -57,7 +56,7 @@ Pray first. Only the Spirit opens eyes (John 6:44; 2 Cor 4:4–6). Watch your ow
 <a id="holy-spirit-play"></a>
 ## 🔥 THE HOLY SPIRIT PLAY: "the Spirit is Yahweh" (Unitarians, JWs, Oneness, Muslims)
 
-> **Why this is the kill shot:** Unitarians spend all their energy on Jesus (agency, *shaliach*, "a god"). They usually have **no prepared answer for the Spirit**. *"Holy Spirit: kryptonite for these guys."* ([▶](https://youtu.be/SGyVqLKrtjE?t=1)) Two steps: **(A) the Spirit is a Person → (B) that Person is Yahweh.**
+> **Why this works:** Unitarians spend all their energy on Jesus (agency, *shaliach*, "a god"). They usually have **no prepared answer for the Spirit**. ([▶](https://youtu.be/SGyVqLKrtjE?t=1)) Two steps: **(A) the Spirit is a Person → (B) that Person is Yahweh.**
 
 ### Step A: The Spirit is a *Who*, not a *what*
 
@@ -98,7 +97,7 @@ Pray first. Only the Spirit opens eyes (John 6:44; 2 Cor 4:4–6). Watch your ow
 **If they say →**
 - *"The 'Spirit of Yahweh' means 'from Yahweh,' not 'is Yahweh.'"* → *"The answer is yes to all of them."* From Yahweh, and also Yahweh. Not either/or. ([▶](https://youtu.be/M2smkArcRnU?t=15)) Then: *"He's also the Spirit of Christ, right?"* (Rom 8:9). If they deny it, read the verse.
 - *"OK, so the Spirit is just the Father."* → John 16:13 (He hears from another), John 14:16 (*another* Helper whom the Father sends). *"Then the Father sends Himself and listens to Himself?"* ([▶](https://youtu.be/LJTQKtT4cjU?t=70))
-- They admit it but leave the Bible (an ex-JW who became Muslim because "the Bible says the Spirit is God"): that's 2 Tim 4:3, "itching ears." He's conceding the Bible teaches it. ([▶](https://youtu.be/6b6VOzdPJAQ?t=54))
+- They admit it but walk away from the Bible ("then I can't trust the Bible"): that's 2 Tim 4:3, "itching ears." They are conceding the Bible teaches it. ([▶](https://youtu.be/6b6VOzdPJAQ?t=54))
 
 **Closer:** *"You've agreed the Spirit speaks, chooses, and is grieved, so He's a who. And Scripture says that Who is Yahweh. So Yahweh is more than one Person. Now let's talk about the Son."*
 
@@ -126,7 +125,7 @@ Pray first. Only the Spirit opens eyes (John 6:44; 2 Cor 4:4–6). Watch your ow
 - **Opener:** *"According to John 1:3, how many things came into existence without the Word?"* (Answer: not one.)
 - **Chain:**
   1. **John 1:3**: "All things came into existence through him, and apart from him not even one thing came into existence." *"Does it say 'except himself'?"* ([▶](https://youtu.be/_-JpXH9GN-E?t=644))
-  2. *"If not one thing came into existence without Him, and Jesus came into existence, then Jehovah used Jesus to make Jesus?"* ([▶](https://youtu.be/sQxbaeAJF-M?t=945)) *"That dog won't hunt."*
+  2. *"If not one thing came into existence without Him, and Jesus came into existence, then Jehovah used Jesus to make Jesus?"* ([▶](https://youtu.be/sQxbaeAJF-M?t=945))
   3. **Col 1:16–17 (NWT)**: point out "all *other* things," four times. *"Where is 'other' in the Greek?"* It's *ta panta*, "all things." The Watchtower's **own Kingdom Interlinear** has no "other." ([▶](https://youtu.be/HRuXGRkhcbw?t=146), [▶](https://youtu.be/k_P2xx2NIVg?t=951))
   4. **Isa 44:24**: "I, Jehovah… stretched out the heavens **by myself**, who spread out the earth. **Who was with me?**" → *"If Jehovah created alone, and all things were created through Jesus, who is Jesus?"*
 - **If they say →**
@@ -151,7 +150,7 @@ Pray first. Only the Spirit opens eyes (John 6:44; 2 Cor 4:4–6). Watch your ow
 #### PLAY 3: The Spirit is a Person and is Jehovah
 **Opener:** *"Does the Holy Spirit speak? Yes or no?"*
 
-→ Run the full [🔥 Holy Spirit Play](#holy-spirit-play). Best JW order: **Acts 13:2 → Eph 4:30 → 2 Sam 23:2–3 + Acts 4:24–25.** JW panels often go quiet at this point because they have no answer. ([▶](https://youtu.be/QNaYaD3ET78?t=646))
+→ Run the full [🔥 Holy Spirit Play](#holy-spirit-play). Best JW order: **Acts 13:2 → Eph 4:30 → 2 Sam 23:2–3 + Acts 4:24–25.** Witnesses often have no prepared answer at this point. ([▶](https://youtu.be/QNaYaD3ET78?t=646))
 
 #### PLAY 4: Jesus is good, so He is God (Mark 10:18)
 - **Opener:** *"Is Jesus good?"* (They'll hesitate.) ([▶](https://youtu.be/_-JpXH9GN-E?t=927))
@@ -160,7 +159,7 @@ Pray first. Only the Spirit opens eyes (John 6:44; 2 Cor 4:4–6). Watch your ow
 
 #### PLAY 5: Watchtower prophecy test (use when they lean on the organization)
 - **Opener:** *"Has the Watchtower ever announced a date in Jehovah's name that didn't happen?"*
-- **Or open with:** *"It was built in 1929. You know by who?"* (Show a photo of Beth Sarim.)
+- **Or open with:** *"Have you heard of Beth Sarim, the mansion the Watchtower built in San Diego in 1929? Do you know who it was built for?"*
 - **Chain:** "Millions Now Living Will Never Die" (Rutherford, 1920): the patriarchs were to be resurrected by **1925** → it failed → **Beth Sarim** mansion (San Diego, 1929) deeded "for Abraham, Isaac, Jacob," and Rutherford lived in it himself → sold in 1948 ([▶](https://youtu.be/mjDkOgvdCe8?t=46)) → **Deut 18:21–22**.
 - **Question:** *"Are millions of people who were alive in 1920 still alive today?"* ([▶](https://youtu.be/mjDkOgvdCe8?t=465)) *"When someone speaks in the Lord's name and it doesn't happen, what does Deuteronomy call him?"*
 - **If they say** *"We're not prophets, just students making calculations"* → *"Announcing future dates as God's truth is prophecy by definition."* ([▶](https://youtu.be/mjDkOgvdCe8?t=423))
@@ -220,7 +219,6 @@ Pray first. Only the Spirit opens eyes (John 6:44; 2 Cor 4:4–6). Watch your ow
 **Opener:** *"Does the Spirit have a mind? Yes or no?"*
 
 → [🔥 Holy Spirit Play](#holy-spirit-play). Best order against Unitarians: **"Does the Spirit have a mind? Yes or no?"** ([▶](https://youtu.be/SGyVqLKrtjE?t=3)) → Acts 13:2 → Heb 3:7–11 → 2 Sam 23:2–3 / Acts 4:25 → Rom 8:9 ("Spirit of Christ").
-> *"You can't even answer one of three."* ([▶](https://youtu.be/SGyVqLKrtjE?t=1230))
 
 #### PLAY 2: The Angel of Yahweh claims to be God, with no "thus says the Lord"
 - **Opener:** *"Can we be honest with the text: does the Angel of God claim to be the God of Bethel? Yes or no?"* ([▶](https://youtu.be/nJTUGy-Wpls?t=746))
@@ -281,7 +279,7 @@ Pray first. Only the Spirit opens eyes (John 6:44; 2 Cor 4:4–6). Watch your ow
 | **"Jesus is called 'god' the way judges and Moses were."** | No judge is worshiped by angels, called Creator, or called the true God. And all are to honor the Son **just as** they honor the Father. | John 5:23; Heb 1:6; 1 John 5:20 | *"Is anyone told to honor Moses just as they honor the Father?"* |
 | **"Matthew 28:19 was added later."** | Every Greek manuscript that contains the passage has the three-fold name, and Paul blesses in the same three-fold way. | Matt 28:19; 2 Cor 13:14 | *"Which manuscript leaves it out?"* |
 
-**Typical exits:** "bot mode" (repeating "it communicates information." Keep asking the same yes/no question) ([▶](https://youtu.be/3AF8giy2H7Y?t=41)) · pulling out church history books (let them finish, then bring it back to the verse) · "no NT allowed" (fine, use the OT-only chain in the Holy Spirit Play).
+**Typical exits:** repeating one line over and over, like "it communicates information" (keep asking the same yes/no question) ([▶](https://youtu.be/3AF8giy2H7Y?t=41)) · turning to church history (let them finish, then bring it back to the verse) · "no NT allowed" (fine, use the OT-only chain in the Holy Spirit Play).
 
 ---
 
@@ -374,7 +372,6 @@ Pray first. Only the Spirit opens eyes (John 6:44; 2 Cor 4:4–6). Watch your ow
 **What they believe:** Tawhid (absolute oneness. Associating anything with Allah is *shirk*, the one sin Allah won't forgive if a person dies in it, Q 4:48). Jesus (Isa) is a prophet, born of a virgin, the Messiah, but not God, not the Son of God, and not crucified (Q 4:157). Allah gave the **Tawrat** (Torah) to Moses and the **Injil** (Gospel) to Jesus, but most Muslims will say these were "corrupted." Muhammad is the final prophet, predicted in the Bible (Q 7:157; 61:6).
 
 **Signature tool: THE ISLAMIC DILEMMA.** It's the #1 tool. Don't start by defending the Trinity. Start by putting **their book** on the stand.
-> *"Why would I fix something that ain't broke? If this one line has you guys squirming like this… why would I use something else?"* ([▶](https://youtu.be/xzgCmA5f7oo?t=1350))
 
 <a id="isl-card"></a>
 ### 📇 Muslim Cheat Card
@@ -444,14 +441,14 @@ Pray first. Only the Spirit opens eyes (John 6:44; 2 Cor 4:4–6). Watch your ow
 
 **Or open with:** *"It talks about the women that you're allowed to have, right?"* (On Q 4:24.)
 
-Used against a Quran-only Muslim ([▶](https://youtu.be/DPFeuxNkxCA?t=710)): **Q 4:24** (married captive women "your right hands possess"), **Q 2:230** (*halala*: must marry and consummate with another man before remarrying the first husband. Compare Deut 24:1–4, an "abomination"), **Q 65:4 + 33:49** (waiting period for girls "who have not yet menstruated"; the waiting period applies only after consummation). Use sparingly. It turns hostile fast. Keep it on the text, and keep the goal the gospel, not winning.
+Verses to read ([▶](https://youtu.be/DPFeuxNkxCA?t=710)): **Q 4:24** (married captive women "your right hands possess"), **Q 2:230** (*halala*: must marry and consummate with another man before remarrying the first husband. Compare Deut 24:1–4, an "abomination"), **Q 65:4 + 33:49** (waiting period for girls "who have not yet menstruated"; the waiting period applies only after consummation). Use sparingly. It turns hostile fast. Keep it on the text, and keep the goal the gospel, not winning.
 
 <a id="isl-defense"></a>
 ### 🛡️ MUSLIM DEFENSE
 
 | They say… | Quick answer | Go to | Ask back |
 |---|---|---|---|
-| **"How can God be 3 and 1?"** | Three in one sense (**Persons**), one in another (**Being**). Different categories, no contradiction. | Deut 6:4; Matt 28:19 | Hold up the Hafs, Warsh and Qalun Qurans: *"How many Qurans am I holding? These three are one?"* ([▶](https://youtu.be/HwCcC0D0M08?t=14)) |
+| **"How can God be 3 and 1?"** | Three in one sense (**Persons**), one in another (**Being**). Different categories, no contradiction. | Deut 6:4; Matt 28:19 | *"The Quran has several transmitted readings: Hafs, Warsh, Qalun. Is that three Qurans, or one?"* ([▶](https://youtu.be/HwCcC0D0M08?t=14)) |
 | **"Jesus never said 'I am God, worship me.'"** | He said things only God could say, and accepted what only God receives. Watch for the goalpost shift. | John 8:58 (Ex 3:14); John 10:28–33; Mark 2:5–10; John 20:28; Heb 1:3 | *"First you wanted a verse. Now it has to come from Jesus' mouth?"* ([▶](https://youtu.be/c_JWoiexhXI?t=562)) |
 | **"God is not a man" (Hosea 11:9)** | Correct by nature. The Son **added** a human nature. Two natures, one Person. And don't let them skip the verse you gave first. | John 1:14; Phil 2:6–7; Heb 1:3 | *"Do you acknowledge Heb 1:3 says the Son is the exact imprint of God's nature?"* ([▶](https://youtu.be/c_JWoiexhXI?t=272)) |
 | **"Which God sent Jesus? Who was He praying to?"** | One God, three Persons. The **Father** sent the **Son**. Jesus prayed as a true man. | John 3:16–17; John 17:5 | *"In John 17:5 Jesus asks for the glory He had with the Father before the world existed. Can a mere prophet pray that?"* ([▶](https://youtu.be/5V2_IKb2Xtk?t=1207)) |
@@ -476,8 +473,6 @@ Used against a Quran-only Muslim ([▶](https://youtu.be/DPFeuxNkxCA?t=710)): **
 ---
 
 # ⬛ ATHEISTS / AGNOSTICS
-
-> **Note:** ▶ links show the move in a real conversation. ➕ marks standard classical apologetics material added so the section is complete. Same style throughout: short questions, burden on them.
 
 **What they believe:** Atheist: usually "I don't believe in God" (some say "there is no God"). Agnostic: "I don't know" or "we can't know." Most hold that the universe and life came from natural causes alone and the Bible is a human book. Many see right and wrong as human-made.
 

@@ -1,15 +1,15 @@
 # Parse report
 
-Source: content/field_guide_apologetics.md (599 lines)
+Source: content/field_guide_apologetics.md (594 lines)
 
 ## Per group
 
 | Group | Plays | Steps | Questions | "If they say" (plays) | Objections | Cheat card | Exits | ▶ links | ➕ items |
 |---|---|---|---|---|---|---|---|---|---|
 | Jehovah's Witness | 5 | 18 | 1 | 6 | 21 | 6 | 3 | 28 | 0 |
-| Unitarian | 5 | 14 | 1 | 4 | 19 | 6 | 3 | 23 | 0 |
+| Unitarian | 5 | 14 | 1 | 4 | 19 | 6 | 3 | 22 | 0 |
 | Mormon | 4 | 18 | 3 | 8 | 17 | 6 | 3 | 20 | 0 |
-| Muslim | 6 | 17 | 0 | 7 | 19 | 6 | 3 | 33 | 0 |
+| Muslim | 6 | 17 | 0 | 7 | 19 | 6 | 3 | 32 | 0 |
 | Atheist | 4 | 10 | 0 | 1 | 21 | 6 | 0 | 15 | 0 |
 
 ## Shared sections
@@ -22,8 +22,8 @@ Source: content/field_guide_apologetics.md (599 lines)
 ## Nothing-dropped checks
 
 - Lines the parser could not place: **0**
-- ▶ links: 151 in the markdown, 151 in guide.json ✓
-- ➕ tags: 3 in the markdown, 3 in guide.json ✓
+- ▶ links: 149 in the markdown, 149 in guide.json ✓
+- ➕ tags: 1 in the markdown, 1 in guide.json ✓
 - Words in the markdown missing from guide.json: **0** ✓ (Quick Jump table excluded on purpose)
 - Video links pointing at a video not in the Video References table: 0 ✓
 - Videos in the table that no line links to: 0
@@ -33,7 +33,7 @@ Source: content/field_guide_apologetics.md (599 lines)
 - Bible references: 396 unique (374 verses/ranges + 22 whole-chapter mentions)
 - Quran: 25 · Book of Mormon: 6 · D&C: 1 · JST: 1 · Hadith: 5
 - Resolve in the bundled BSB: 396 of 396 ✓
-- LSB slots: 374 total, **17 still empty** (1 filled slot(s) no longer cited: Romans 1:19–20)
+- LSB slots: 374 total, **17 still empty**
 - Whole-chapter mentions (no LSB slot; they open the chapter in the reader): Num 21, Deut 34, Ps 8, Ps 22, Ps 82, Ps 95, Ps 102, Prov 8, Isa 42, Isa 43–45, Isa 53, Isa 61, Ezek 37, Dan 7, Mark 15, John 1, John 14, Acts 2, Acts 3, 1 Cor 8, Phil 2, Heb 2
 - Chapter:verse numbers written without a book name (not turned into chips):
   - Muslim objection 16: "5:16"
