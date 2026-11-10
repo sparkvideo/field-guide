@@ -22,7 +22,7 @@ const hash = (list) => {
   return h.digest("hex").slice(0, 12);
 };
 
-const skip = (f) => f === "/sw.js" || f.startsWith("/push/") || f.endsWith(".map");
+const skip = (f) => f === "/sw.js" || f.endsWith(".map");
 const bible = files.filter((f) => f.startsWith("/bible/"));
 const shell = files.filter((f) => !f.startsWith("/bible/") && !skip(f));
 

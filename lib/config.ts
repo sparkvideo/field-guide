@@ -20,6 +20,3 @@ export function lsbLink(ref: string): string {
 export function quranLink(sura: number, from: number, to?: number): string {
   return `https://quran.com/${sura}/${from}${to && to !== from ? `-${to}` : ""}`;
 }
-
-// Set in Vercel → Settings → Environment Variables (see README). Empty = notifications row is hidden.
-export const ONESIGNAL_APP_ID = process.env.NEXT_PUBLIC_ONESIGNAL_APP_ID || "";

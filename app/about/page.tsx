@@ -35,7 +35,7 @@ export default function AboutPage() {
 
         <section className="section">
           <h2 className="label">Privacy</h2>
-          <p className="small">No accounts, no analytics, no tracking. Pins are saved only on this phone. If you turn on notifications, they are delivered by OneSignal.</p>
+          <p className="small">No accounts, no analytics, no tracking. Pins are saved only on this phone.</p>
         </section>
       </main>
     </>

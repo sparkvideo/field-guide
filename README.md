@@ -3,7 +3,7 @@
 A phone-first app that turns `content/field_guide_apologetics.md` into a fast field guide:
 pick who you're talking to, choose **Make the case** or **Answer an objection**, and get the
 opener, the verses in order, and what to say if they push back. It installs to the iPhone home
-screen, works with no signal, and can send notifications.
+screen and works with no signal.
 
 There is no server and no database. Everything is plain files.
 
@@ -80,38 +80,6 @@ Keep the markdown in the same shape it has now (`#### PLAY 1: …`, `- **Opener:
 
 From then on, every time you push a change in GitHub Desktop (**Commit**, then **Push**), Vercel redeploys.
 
-## Setting up OneSignal (notifications)
-
-You only do this once. Until it's done, the "🔔 Turn on notifications" row simply doesn't appear.
-
-1. Create a free account at [onesignal.com](https://onesignal.com).
-2. Click **New App/Website**. Name it "Field Guide" and choose **Web** as the platform.
-3. Choose **Custom Code** as the integration type.
-4. Enter the site name ("Field Guide") and your **Site URL**: your Vercel link exactly, starting with `https://`.
-5. Save. OneSignal shows your **App ID** (a long code with dashes). Copy it.
-   You can skip their code snippets and their file download; the app already includes them.
-6. In Vercel: your project → **Settings → Environment Variables**. Add:
-   - Name: `NEXT_PUBLIC_ONESIGNAL_APP_ID`
-   - Value: the App ID you copied
-7. In Vercel: **Deployments** → the ⋯ menu on the latest one → **Redeploy**.
-
-Now, inside the installed app, the "🔔 Turn on notifications" row appears on Home. Each person taps it once and allows notifications.
-On iPhone this only works from the home-screen app (not from Safari), on iOS 16.4 or newer.
-
-OneSignal's menus change from time to time. If a button is named differently, their guide is at
-documentation.onesignal.com (search "Web SDK setup").
-
-## How Charlie sends a notification
-
-1. Go to [onesignal.com](https://onesignal.com) and open the **Field Guide** app.
-2. Click **Messages → Push → New Push**.
-3. Audience: leave it on **Total Subscriptions** (everyone).
-4. Type a **Title** (e.g. "Study tonight at 7") and a **Message**.
-5. Optional: to open a specific page when tapped, put its full link in **Launch URL**,
-   e.g. `https://YOUR-LINK/holy-spirit` or `https://YOUR-LINK/jw/case/play-2`.
-   (In the app, the share button on any page gives you its link.)
-6. Click **Review and Send**, then **Send**.
-
 ## How it works (short version)
 
 - **Screens:** Home → group → play or objection. Three levels, plus one search bar.
@@ -120,7 +88,7 @@ documentation.onesignal.com (search "Web SDK setup").
 - **Offline:** on first open, a background worker saves every page; then it saves the Bible (about 2.5 MB of download).
 - **Updates:** each deploy gets a new version number. Installed apps notice it on the next open and swap in the new files.
 - **Pins:** saved on the phone only.
-- **Privacy:** no accounts, analytics or tracking. OneSignal is the only outside service, and only if you set it up.
+- **Privacy:** no accounts, analytics, tracking or outside services.
 
 ## Extras
 

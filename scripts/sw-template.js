@@ -75,7 +75,7 @@ self.addEventListener("fetch", (event) => {
   const request = event.request;
   if (request.method !== "GET") return;
   const url = new URL(request.url);
-  if (url.origin !== self.location.origin || url.pathname.startsWith("/push/") || url.pathname === "/sw.js") return;
+  if (url.origin !== self.location.origin || url.pathname === "/sw.js") return;
 
   event.respondWith(
     (async () => {

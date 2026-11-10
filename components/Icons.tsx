@@ -34,13 +34,6 @@ export const CardIcon = ({ size = 18 }: { size?: number }) => (
     <path d="M7 10h10M7 14h6" />
   </Icon>
 );
-export const BellIcon = () => (
-  <Icon>
-    <path d="M6 16.500V11a6 6 0 1 1 12 0v5.500l1.500 1.500h-15z" />
-    <path d="M10 20.500a2 2 0 0 0 4 0" />
-  </Icon>
-);
-
 export const CrossIcon = () => (
   <Icon>
     <path d="M12 3.500v17M7 8.500h10" />

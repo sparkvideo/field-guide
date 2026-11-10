@@ -10,7 +10,6 @@ import { formatRef, parseReference, readerHref, type TypedRef } from "@/lib/refe
 import { searchGuide } from "@/lib/search";
 import { Chevron } from "./Bits";
 import { BookIcon, CrossIcon, DoorIcon, DrillIcon, FlameIcon, Mark, NoteIcon, PenIcon, TabletsIcon, TargetIcon, TriangleIcon, WordsIcon } from "./Icons";
-import { NotificationsRow } from "./Notifications";
 import { readStreak } from "./Train";
 
 type GroupRow = { slug: string; name: string; color: string; plays: number; objections: number };
@@ -354,8 +353,6 @@ export function Home({ groups }: { groups: GroupRow[] }) {
               <Chevron />
             </Link>
           </nav>
-
-          <NotificationsRow />
 
           <p className="mt-8 text-center">
             <Link href="/about" className="muted small inline-flex min-h-[48px] items-center px-4">
