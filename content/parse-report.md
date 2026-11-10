@@ -1,16 +1,16 @@
 # Parse report
 
-Source: content/field_guide_apologetics.md (531 lines)
+Source: content/field_guide_apologetics.md (584 lines)
 
 ## Per group
 
 | Group | Plays | Steps | Questions | "If they say" (plays) | Objections | Cheat card | Exits | ▶ links | ➕ items |
 |---|---|---|---|---|---|---|---|---|---|
-| Jehovah's Witness | 5 | 18 | 1 | 6 | 11 | 6 | 3 | 28 | 4 |
-| Unitarian | 5 | 14 | 1 | 4 | 9 | 6 | 3 | 23 | 4 |
-| Mormon | 4 | 18 | 3 | 8 | 7 | 6 | 3 | 20 | 10 |
-| Muslim | 6 | 17 | 0 | 7 | 8 | 6 | 3 | 33 | 11 |
-| Atheist | 4 | 10 | 0 | 1 | 9 | 6 | 0 | 16 | 6 |
+| Jehovah's Witness | 5 | 18 | 1 | 6 | 21 | 6 | 3 | 28 | 14 |
+| Unitarian | 5 | 14 | 1 | 4 | 19 | 6 | 3 | 23 | 14 |
+| Mormon | 4 | 18 | 3 | 8 | 17 | 6 | 3 | 20 | 20 |
+| Muslim | 6 | 17 | 0 | 7 | 19 | 6 | 3 | 33 | 22 |
+| Atheist | 4 | 10 | 0 | 1 | 21 | 6 | 0 | 16 | 18 |
 
 ## Shared sections
 
@@ -22,18 +22,20 @@ Source: content/field_guide_apologetics.md (531 lines)
 
 - Lines the parser could not place: **0**
 - ▶ links: 152 in the markdown, 152 in guide.json ✓
-- ➕ tags: 50 in the markdown, 50 in guide.json ✓
+- ➕ tags: 103 in the markdown, 103 in guide.json ✓
 - Words in the markdown missing from guide.json: **0** ✓ (Quick Jump table excluded on purpose)
 - Video links pointing at a video not in the Video References table: 0 ✓
 - Videos in the table that no line links to: 0
 
 ## Verses
 
-- Bible references: 194 unique (176 verses/ranges + 18 whole-chapter mentions)
-- Quran: 21 · Book of Mormon: 5 · D&C: 1 · JST: 1 · Hadith: 4
-- Resolve in the bundled BSB: 194 of 194 ✓
-- LSB slots: 176 total, **0 still empty**
-- Whole-chapter mentions (no LSB slot; they open the chapter in the reader): Num 21, Deut 34, Ps 8, Ps 22, Ps 82, Ps 95, Ps 102, Prov 8, Isa 42, Isa 43–45, Isa 53, Isa 61, Ezek 37, Dan 7, Mark 15, Acts 2, Acts 3, Heb 2
+- Bible references: 314 unique (294 verses/ranges + 20 whole-chapter mentions)
+- Quran: 24 · Book of Mormon: 6 · D&C: 1 · JST: 1 · Hadith: 4
+- Resolve in the bundled BSB: 314 of 314 ✓
+- LSB slots: 294 total, **118 still empty**
+- Whole-chapter mentions (no LSB slot; they open the chapter in the reader): Num 21, Deut 34, Ps 8, Ps 22, Ps 82, Ps 95, Ps 102, Prov 8, Isa 42, Isa 43–45, Isa 53, Isa 61, Ezek 37, Dan 7, Mark 15, John 1, Acts 2, Acts 3, Phil 2, Heb 2
+- Chapter:verse numbers written without a book name (not turned into chips):
+  - Muslim objection 16: "5:16"
 
 ## For Charlie to look at
 

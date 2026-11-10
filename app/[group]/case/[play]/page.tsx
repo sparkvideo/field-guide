@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Branches } from "@/components/Bits";
+import { FlowBar } from "@/components/FlowBar";
 import { Md } from "@/components/Md";
 import { TopBar } from "@/components/TopBar";
 import { VerseChips } from "@/components/VerseSheet";
@@ -22,6 +23,8 @@ export default async function PlayPage({ params }: { params: Promise<{ group: st
   const p = g?.offense.find((x) => x.id === play);
   if (!g || !p) notFound();
   const href = `/${g.slug}/case/${p.id}`;
+  const at = g.offense.indexOf(p);
+  const step = (x: (typeof g.offense)[number] | undefined) => (x ? { href: `/${g.slug}/case/${x.id}`, title: x.title } : undefined);
 
   // No line marked "Opener"? Then the first step is where you start, shown large.
   const startHere = !p.opener && !p.lead && p.chain.length > 0 ? p.chain[0] : undefined;
@@ -30,7 +33,7 @@ export default async function PlayPage({ params }: { params: Promise<{ group: st
   return (
     <>
       <TopBar back={`/${g.slug}`} pin={{ href, title: p.title, label: `${shortName(g)} · play` }} share={{ title: p.title }} />
-      <main className="page">
+      <main className="page with-flowbar">
         <p className="label" style={{ borderLeft: `3px solid ${g.color}`, paddingLeft: 8 }}>
           {g.name}: make the case
         </p>
@@ -155,7 +158,13 @@ export default async function PlayPage({ params }: { params: Promise<{ group: st
             </blockquote>
           ))}
 
+        <p className="mt-10">
+          <Link className="btn" href={`/${g.slug}#objections`}>
+            They pushed back? Answer an objection
+          </Link>
+        </p>
       </main>
+      <FlowBar prev={step(g.offense[at - 1])} next={step(g.offense[at + 1])} position={`Play ${at + 1} of ${g.offense.length}`} listHref={`/${g.slug}#first`} />
     </>
   );
 }

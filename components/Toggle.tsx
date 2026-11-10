@@ -7,6 +7,7 @@ export function Toggle({ id, labels, panels, hashForSecond }: { id: string; labe
   const [tab, setTab] = useState(0);
   useEffect(() => {
     if (hashForSecond && window.location.hash === hashForSecond) return setTab(1);
+    if (window.location.hash === "#first") return setTab(0);
     try {
       if (sessionStorage.getItem(`fg-tab-${id}`) === "1") setTab(1);
     } catch {}

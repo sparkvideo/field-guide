@@ -1,6 +1,123 @@
-# LSB verses still to fill in (0 of 176)
+# LSB verses still to fill in (118 of 294)
 
 Open `content/lsb-verses.json`, find the reference, and paste the LSB text between the quotes after "text".
 Until a slot is filled, the app shows the BSB text with a small "BSB" label.
 
-
+- [ ] Genesis 1:1
+- [ ] Genesis 15:16
+- [ ] Genesis 18:25
+- [ ] Genesis 50:20
+- [ ] Exodus 34:7
+- [ ] Leviticus 16:21–22
+- [ ] Deuteronomy 9:4–5
+- [ ] Deuteronomy 18:22
+- [ ] Proverbs 17:15
+- [ ] Song of Solomon 5:16
+- [ ] Isaiah 40:8
+- [ ] Isaiah 49:6
+- [ ] Isaiah 53:5–6
+- [ ] Isaiah 53:6
+- [ ] Jeremiah 32:17
+- [ ] Ezekiel 18:23
+- [ ] Ezekiel 24:16
+- [ ] Hosea 9:16
+- [ ] Joel 2:32
+- [ ] Zechariah 12:1
+- [ ] Matthew 4:10
+- [ ] Matthew 7:13–14
+- [ ] Matthew 7:21–23
+- [ ] Matthew 15:24
+- [ ] Matthew 22:30
+- [ ] Matthew 23:27–28
+- [ ] Matthew 24:35
+- [ ] Matthew 25:46
+- [ ] Matthew 27:37
+- [ ] Matthew 27:51
+- [ ] Matthew 28:17
+- [ ] Mark 1:1
+- [ ] Mark 13:32
+- [ ] Luke 1:37
+- [ ] Luke 2:52
+- [ ] Luke 23:43
+- [ ] John 2:19–21
+- [ ] John 3:36
+- [ ] John 5:23
+- [ ] John 6:68
+- [ ] John 8:23
+- [ ] John 8:58–59
+- [ ] John 10:11
+- [ ] John 10:16
+- [ ] John 14:6
+- [ ] John 14:9
+- [ ] John 20:17
+- [ ] John 20:25
+- [ ] John 20:27
+- [ ] John 20:28–29
+- [ ] John 21:17
+- [ ] Acts 1:3
+- [ ] Acts 2:23–24
+- [ ] Acts 2:23
+- [ ] Acts 2:36
+- [ ] Acts 4:12
+- [ ] Acts 17:24
+- [ ] Acts 17:31
+- [ ] Acts 26:8
+- [ ] Romans 1:18–20
+- [ ] Romans 1:19–20
+- [ ] Romans 2:14–16
+- [ ] Romans 3:10–12
+- [ ] Romans 3:23
+- [ ] Romans 3:25–26
+- [ ] Romans 4:4–5
+- [ ] Romans 5:8
+- [ ] Romans 6:23
+- [ ] Romans 8:28
+- [ ] Romans 10:13
+- [ ] Romans 10:14–15
+- [ ] Romans 11:6
+- [ ] 1 Corinthians 15:1–4
+- [ ] 1 Corinthians 15:46
+- [ ] 2 Corinthians 5:8
+- [ ] 2 Corinthians 5:21
+- [ ] 2 Corinthians 11:4
+- [ ] 2 Corinthians 13:14
+- [ ] Galatians 1:6–8
+- [ ] Galatians 1:18–19
+- [ ] Ephesians 2:8–9
+- [ ] Ephesians 2:8–10
+- [ ] Philippians 1:23
+- [ ] Philippians 2:9–11
+- [ ] Colossians 1:17
+- [ ] Colossians 2:3
+- [ ] 2 Timothy 3:16
+- [ ] Titus 3:5
+- [ ] Hebrews 1:1–2
+- [ ] Hebrews 1:5–6
+- [ ] Hebrews 1:6
+- [ ] Hebrews 1:8–9
+- [ ] Hebrews 2:17–18
+- [ ] Hebrews 2:17
+- [ ] Hebrews 4:15
+- [ ] Hebrews 7:11–12
+- [ ] Hebrews 7:23–24
+- [ ] Hebrews 9:22
+- [ ] Hebrews 11:1
+- [ ] Hebrews 11:3
+- [ ] James 1:5
+- [ ] James 1:13
+- [ ] James 2:10
+- [ ] 1 Peter 1:25
+- [ ] 1 Peter 2:9
+- [ ] 2 Peter 1:20–21
+- [ ] 1 John 1:1–2
+- [ ] Jude 9
+- [ ] Revelation 5:13–14
+- [ ] Revelation 6:9–10
+- [ ] Revelation 6:10
+- [ ] Revelation 7:9
+- [ ] Revelation 7:15
+- [ ] Revelation 14:11
+- [ ] Revelation 19:1
+- [ ] Revelation 20:10
+- [ ] Revelation 21:4
+- [ ] Revelation 22:8–9

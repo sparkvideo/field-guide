@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import { Chevron } from "@/components/Bits";
 import { CardIcon } from "@/components/Icons";
 import { Md } from "@/components/Md";
+import { ObjectionList } from "@/components/ObjectionList";
 import { Toggle } from "@/components/Toggle";
 import { TopBar } from "@/components/TopBar";
 import { getGroup, guide } from "@/lib/guide";
@@ -45,16 +46,7 @@ export default async function GroupPage({ params }: { params: Promise<{ group: s
 
   const objections = (
     <>
-      <div className="rows">
-        {g.defense.map((o) => (
-          <Link key={o.id} href={`/${g.slug}/objection/${o.id}`} className="row">
-            <span>
-              <Md text={o.objection} />
-            </span>
-            <Chevron />
-          </Link>
-        ))}
-      </div>
+      <ObjectionList slug={g.slug} items={g.defense.map((o) => ({ id: o.id, text: o.objection }))} />
       {g.exits && (
         <details className="plain mt-6">
           <summary>

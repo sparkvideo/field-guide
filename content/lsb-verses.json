@@ -1,8 +1,23 @@
 [
   {
+    "ref": "Genesis 1:1",
+    "key": "genesis.1.1",
+    "text": ""
+  },
+  {
     "ref": "Genesis 1:2",
     "key": "genesis.1.2",
     "text": "And the earth was formless and void, and darkness was over the surface of the deep, and the Spirit of God was hovering over the surface of the waters."
+  },
+  {
+    "ref": "Genesis 15:16",
+    "key": "genesis.15.16",
+    "text": ""
+  },
+  {
+    "ref": "Genesis 18:25",
+    "key": "genesis.18.25",
+    "text": ""
   },
   {
     "ref": "Genesis 19:24",
@@ -25,6 +40,11 @@
     "text": "Then God said to Jacob, “Arise, go up to Bethel and live there, and make an altar there to God, who appeared to you when you fled from your brother Esau.”"
   },
   {
+    "ref": "Genesis 50:20",
+    "key": "genesis.50.20",
+    "text": ""
+  },
+  {
     "ref": "Exodus 3:2–6",
     "key": "exodus.3.2-6",
     "text": "² And the angel of Yahweh appeared to him in a blazing fire from the midst of the bush; and he looked, and behold, the bush was burning with fire, yet the bush was not consumed. ³ So Moses said, “I must turn aside now and see this marvelous sight. Why is the bush not burned up?” ⁴ And Yahweh saw that he turned aside to look, so God called to him from the midst of the bush and said, “Moses, Moses!” And he said, “Here I am.” ⁵ Then He said, “Do not come near here. Remove your sandals from your feet, for the place on which you are standing is holy ground.” ⁶ He said also, “I am the God of your father, the God of Abraham, the God of Isaac, and the God of Jacob.” Then Moses hid his face, for he was afraid to look at God."
@@ -45,9 +65,19 @@
     "text": "So he named the place Massah and Meribah because of the contending of the sons of Israel, and because they tested Yahweh, saying, “Is Yahweh among us or not?”"
   },
   {
+    "ref": "Exodus 34:7",
+    "key": "exodus.34.7",
+    "text": ""
+  },
+  {
     "ref": "Exodus 34:14",
     "key": "exodus.34.14",
     "text": "—for you shall not worship any other god, for Yahweh, whose name is Jealous, is a jealous God—"
+  },
+  {
+    "ref": "Leviticus 16:21–22",
+    "key": "leviticus.16.21-22",
+    "text": ""
   },
   {
     "ref": "Numbers 21:5–6",
@@ -63,6 +93,11 @@
     "ref": "Deuteronomy 6:4",
     "key": "deuteronomy.6.4",
     "text": "“Hear, O Israel! Yahweh is our God, Yahweh is one!"
+  },
+  {
+    "ref": "Deuteronomy 9:4–5",
+    "key": "deuteronomy.9.4-5",
+    "text": ""
   },
   {
     "ref": "Deuteronomy 17:15",
@@ -83,6 +118,11 @@
     "ref": "Deuteronomy 18:21–22",
     "key": "deuteronomy.18.21-22",
     "text": "²¹ Now you may say in your heart, ‘How will we know the word which Yahweh has not spoken?’ ²² When a prophet speaks in the name of Yahweh, if the thing does not come about or come true, that is the thing which Yahweh has not spoken. The prophet has spoken it presumptuously; you shall not be afraid of him."
+  },
+  {
+    "ref": "Deuteronomy 18:22",
+    "key": "deuteronomy.18.22",
+    "text": ""
   },
   {
     "ref": "Deuteronomy 24:1–4",
@@ -160,6 +200,16 @@
     "text": "Then I was beside Him, as a master workman; And I was a daily delight, Rejoicing always before Him,"
   },
   {
+    "ref": "Proverbs 17:15",
+    "key": "proverbs.17.15",
+    "text": ""
+  },
+  {
+    "ref": "Song of Solomon 5:16",
+    "key": "song-of-solomon.5.16",
+    "text": ""
+  },
+  {
     "ref": "Isaiah 6:1–5",
     "key": "isaiah.6.1-5",
     "text": "¹ In the year of King Uzziah’s death I saw the Lord sitting on a throne, high and lifted up, with the train of His robe filling the temple. ² Seraphim stood above Him, each having six wings: with two he covered his face, and with two he covered his feet, and with two he flew. ³ And one called out to another and said, “Holy, Holy, Holy, is Yahweh of hosts; The whole earth is full of His glory.” ⁴ And the foundations of the thresholds shook at the voice of him who called out, while the house of God was filling with smoke. ⁵ Then I said, “Woe is me, for I am ruined! For I am a man of unclean lips, And I live among a people of unclean lips; For my eyes have seen the King, Yahweh of hosts.”"
@@ -168,6 +218,11 @@
     "ref": "Isaiah 6:8–10",
     "key": "isaiah.6.8-10",
     "text": "⁸ Then I heard the voice of the Lord, saying, “Whom shall I send, and who will go for Us?” Then I said, “Here am I. Send me!” ⁹ He said, “Go, and tell this people: ‘Keep on hearing, but do not understand; Keep on seeing, but do not know.’ ¹⁰ Render the hearts of this people insensitive, Their ears dull, And their eyes dim, Lest they see with their eyes, And hear with their ears, And understand with their hearts, And return and be healed.”"
+  },
+  {
+    "ref": "Isaiah 40:8",
+    "key": "isaiah.40.8",
+    "text": ""
   },
   {
     "ref": "Isaiah 40:28",
@@ -215,6 +270,21 @@
     "text": "“Hear Me, O Jacob, even Israel whom I called; I am He, I am the first, I am also the last."
   },
   {
+    "ref": "Isaiah 49:6",
+    "key": "isaiah.49.6",
+    "text": ""
+  },
+  {
+    "ref": "Isaiah 53:5–6",
+    "key": "isaiah.53.5-6",
+    "text": ""
+  },
+  {
+    "ref": "Isaiah 53:6",
+    "key": "isaiah.53.6",
+    "text": ""
+  },
+  {
     "ref": "Isaiah 55:1–7",
     "key": "isaiah.55.1-7",
     "text": "¹ “Ho! Every one who thirsts, come to the waters; And you who have no money come, buy and eat. Come, buy wine and milk Without money and without cost. ² Why do you spend money for what is not bread, And your wages for what does not satisfy? Listen carefully to Me, and eat what is good, And delight your soul in richness. ³ Incline your ear and come to Me. Listen, that your soul may live; And I will cut an everlasting covenant with you, According to the faithful lovingkindnesses of David. ⁴ Behold, I have given him as a witness to the peoples, A ruler and commander for the peoples. ⁵ Behold, you will call a nation you do not know, And a nation which knows you not will run to you, Because of Yahweh your God, even the Holy One of Israel; For He has adorned you with beautiful glory.” ⁶ Seek Yahweh while He may be found; Call upon Him while He is near. ⁷ Let the wicked forsake his way And the unrighteous man his thoughts; And let him return to Yahweh, And He will have compassion on him, And to our God, For He will abundantly pardon."
@@ -245,9 +315,24 @@
     "text": "³¹ “Behold, days are coming,” declares Yahweh, “when I will cut a new covenant with the house of Israel and with the house of Judah, ³² not like the covenant which I cut with their fathers in the day I took them by the hand to bring them out of the land of Egypt, My covenant which they broke, but I was a husband to them,” declares Yahweh. ³³ “But this is the covenant which I will cut with the house of Israel after those days,” declares Yahweh: “I will put My law within them, and on their heart I will write it; and I will be their God, and they shall be My people. ³⁴ And they will not teach again, each man his neighbor and each man his brother, saying, ‘Know Yahweh,’ for they will all know Me, from the least of them to the greatest of them,” declares Yahweh, “for I will forgive their iniquity, and their sin I will remember no more.”"
   },
   {
+    "ref": "Jeremiah 32:17",
+    "key": "jeremiah.32.17",
+    "text": ""
+  },
+  {
     "ref": "Jeremiah 50:34",
     "key": "jeremiah.50.34",
     "text": "Their Redeemer is strong, Yahweh of hosts is His name; He will vigorously plead their case So that He may bring relief to the earth, But turmoil to the inhabitants of Babylon."
+  },
+  {
+    "ref": "Ezekiel 18:23",
+    "key": "ezekiel.18.23",
+    "text": ""
+  },
+  {
+    "ref": "Ezekiel 24:16",
+    "key": "ezekiel.24.16",
+    "text": ""
   },
   {
     "ref": "Ezekiel 33:11",
@@ -265,14 +350,29 @@
     "text": "¹³ “I kept looking in the night visions, And behold, with the clouds of heaven One like a Son of Man was coming, And He came up to the Ancient of Days And came near before Him. ¹⁴ And to Him was given dominion, Glory, and a kingdom, That all the peoples, nations, and men of every tongue Might serve Him. His dominion is an everlasting dominion Which will not be taken away; And His kingdom is one Which will not be destroyed."
   },
   {
+    "ref": "Hosea 9:16",
+    "key": "hosea.9.16",
+    "text": ""
+  },
+  {
     "ref": "Hosea 11:9",
     "key": "hosea.11.9",
     "text": "I will not execute My burning anger; I will not make Ephraim a ruin again. For I am God and not man, the Holy One in your midst, And I will not come in wrath."
   },
   {
+    "ref": "Joel 2:32",
+    "key": "joel.2.32",
+    "text": ""
+  },
+  {
     "ref": "Zechariah 1:12–13",
     "key": "zechariah.1.12-13",
     "text": "¹² Then the angel of Yahweh answered and said, “O Yahweh of hosts, how long will You have no compassion for Jerusalem and the cities of Judah, with which You have been indignant these seventy years?” ¹³ Yahweh answered the angel who was speaking with me with good words, comforting words."
+  },
+  {
+    "ref": "Zechariah 12:1",
+    "key": "zechariah.12.1",
+    "text": ""
   },
   {
     "ref": "Zechariah 12:10",
@@ -290,14 +390,69 @@
     "text": "“For I, Yahweh, do not change; therefore you, O sons of Jacob, are not consumed."
   },
   {
+    "ref": "Matthew 4:10",
+    "key": "matthew.4.10",
+    "text": ""
+  },
+  {
+    "ref": "Matthew 7:13–14",
+    "key": "matthew.7.13-14",
+    "text": ""
+  },
+  {
+    "ref": "Matthew 7:21–23",
+    "key": "matthew.7.21-23",
+    "text": ""
+  },
+  {
+    "ref": "Matthew 15:24",
+    "key": "matthew.15.24",
+    "text": ""
+  },
+  {
     "ref": "Matthew 16:18",
     "key": "matthew.16.18",
     "text": "And I also say to you that you are Peter, and upon this rock I will build My church; and the gates of Hades will not overpower it."
   },
   {
+    "ref": "Matthew 22:30",
+    "key": "matthew.22.30",
+    "text": ""
+  },
+  {
+    "ref": "Matthew 23:27–28",
+    "key": "matthew.23.27-28",
+    "text": ""
+  },
+  {
+    "ref": "Matthew 24:35",
+    "key": "matthew.24.35",
+    "text": ""
+  },
+  {
+    "ref": "Matthew 25:46",
+    "key": "matthew.25.46",
+    "text": ""
+  },
+  {
     "ref": "Matthew 26:31",
     "key": "matthew.26.31",
     "text": "Then Jesus *said to them, “You will all fall away because of Me this night, for it is written, ‘I will strike down the shepherd, and the sheep of the flock shall be scattered.’"
+  },
+  {
+    "ref": "Matthew 27:37",
+    "key": "matthew.27.37",
+    "text": ""
+  },
+  {
+    "ref": "Matthew 27:51",
+    "key": "matthew.27.51",
+    "text": ""
+  },
+  {
+    "ref": "Matthew 28:17",
+    "key": "matthew.28.17",
+    "text": ""
   },
   {
     "ref": "Matthew 28:19",
@@ -308,6 +463,11 @@
     "ref": "Matthew 28:20",
     "key": "matthew.28.20",
     "text": "teaching them to keep all that I commanded you; and behold, I am with you always, even to the end of the age.”"
+  },
+  {
+    "ref": "Mark 1:1",
+    "key": "mark.1.1",
+    "text": ""
   },
   {
     "ref": "Mark 1:2",
@@ -330,6 +490,11 @@
     "text": "And Jesus said to him, “Why do you call Me good? No one is good except God alone."
   },
   {
+    "ref": "Mark 13:32",
+    "key": "mark.13.32",
+    "text": ""
+  },
+  {
     "ref": "Mark 14:61–64",
     "key": "mark.14.61-64",
     "text": "⁶¹ But He kept silent and did not answer. Again the high priest was questioning Him and *said to Him, “Are You the Christ, the Son of the Blessed One?” ⁶² And Jesus said, “I am; and you shall see the Son of Man sitting at the right hand of the Power, and coming with the clouds of heaven.” ⁶³ And tearing his tunics, the high priest *said, “What further need do we have of witnesses? ⁶⁴ You have heard the blasphemy; how does it seem to you?” And they all condemned Him to be deserving of death."
@@ -338,6 +503,16 @@
     "ref": "Luke 1:1–4",
     "key": "luke.1.1-4",
     "text": "¹ Inasmuch as many have undertaken to compile an account of the things that have been fulfilled among us, ² just as those, who from the beginning were eyewitnesses and servants of the word, handed them down to us, ³ it seemed fitting for me as well, having investigated everything carefully from the beginning, to write it out for you in orderly sequence, most excellent Theophilus, ⁴ so that you may know the certainty about the things you have been taught."
+  },
+  {
+    "ref": "Luke 1:37",
+    "key": "luke.1.37",
+    "text": ""
+  },
+  {
+    "ref": "Luke 2:52",
+    "key": "luke.2.52",
+    "text": ""
   },
   {
     "ref": "Luke 4:18–21",
@@ -353,6 +528,11 @@
     "ref": "Luke 7:24",
     "key": "luke.7.24",
     "text": "And when the messengers of John had left, He began to speak to the crowds about John, “What did you go out into the wilderness to behold? A reed shaken by the wind?"
+  },
+  {
+    "ref": "Luke 23:43",
+    "key": "luke.23.43",
+    "text": ""
   },
   {
     "ref": "Luke 24:39",
@@ -395,6 +575,11 @@
     "text": "No one has seen God at any time; the only begotten God who is in the bosom of the Father, He has explained Him."
   },
   {
+    "ref": "John 2:19–21",
+    "key": "john.2.19-21",
+    "text": ""
+  },
+  {
     "ref": "John 3:16",
     "key": "john.3.16",
     "text": "“For God so loved the world, that He gave His only begotten Son, that whoever believes in Him shall not perish, but have eternal life."
@@ -403,6 +588,11 @@
     "ref": "John 3:16–17",
     "key": "john.3.16-17",
     "text": "¹⁶ “For God so loved the world, that He gave His only begotten Son, that whoever believes in Him shall not perish, but have eternal life. ¹⁷ For God did not send the Son into the world to judge the world, but that the world might be saved through Him."
+  },
+  {
+    "ref": "John 3:36",
+    "key": "john.3.36",
+    "text": ""
   },
   {
     "ref": "John 4:24",
@@ -420,6 +610,11 @@
     "text": "Therefore Jesus answered and was saying to them, “Truly, truly, I say to you, the Son can do nothing from Himself, unless it is something He sees the Father doing; for whatever the Father does, these things the Son also does in the same manner."
   },
   {
+    "ref": "John 5:23",
+    "key": "john.5.23",
+    "text": ""
+  },
+  {
     "ref": "John 6:37",
     "key": "john.6.37",
     "text": "All that the Father gives Me will come to Me, and the one who comes to Me I will never cast out."
@@ -430,14 +625,39 @@
     "text": "As the living Father sent Me, and I live because of the Father, so he who eats Me, he also will live because of Me."
   },
   {
+    "ref": "John 6:68",
+    "key": "john.6.68",
+    "text": ""
+  },
+  {
+    "ref": "John 8:23",
+    "key": "john.8.23",
+    "text": ""
+  },
+  {
     "ref": "John 8:35–36",
     "key": "john.8.35-36",
     "text": "³⁵ And the slave does not remain in the house forever; the son does remain forever. ³⁶ So if the Son makes you free, you will be free indeed."
   },
   {
+    "ref": "John 8:58–59",
+    "key": "john.8.58-59",
+    "text": ""
+  },
+  {
     "ref": "John 8:58",
     "key": "john.8.58",
     "text": "Jesus said to them, “Truly, truly, I say to you, before Abraham was, I am.”"
+  },
+  {
+    "ref": "John 10:11",
+    "key": "john.10.11",
+    "text": ""
+  },
+  {
+    "ref": "John 10:16",
+    "key": "john.10.16",
+    "text": ""
   },
   {
     "ref": "John 10:28",
@@ -458,6 +678,16 @@
     "ref": "John 12:41",
     "key": "john.12.41",
     "text": "These things Isaiah said because he saw His glory, and he spoke about Him."
+  },
+  {
+    "ref": "John 14:6",
+    "key": "john.14.6",
+    "text": ""
+  },
+  {
+    "ref": "John 14:9",
+    "key": "john.14.9",
+    "text": ""
   },
   {
     "ref": "John 14:16",
@@ -490,9 +720,39 @@
     "text": "Now, Father, glorify Me together with Yourself, with the glory which I had with You before the world was."
   },
   {
+    "ref": "John 20:17",
+    "key": "john.20.17",
+    "text": ""
+  },
+  {
+    "ref": "John 20:25",
+    "key": "john.20.25",
+    "text": ""
+  },
+  {
+    "ref": "John 20:27",
+    "key": "john.20.27",
+    "text": ""
+  },
+  {
     "ref": "John 20:28",
     "key": "john.20.28",
     "text": "Thomas answered and said to Him, “My Lord and my God!”"
+  },
+  {
+    "ref": "John 20:28–29",
+    "key": "john.20.28-29",
+    "text": ""
+  },
+  {
+    "ref": "John 21:17",
+    "key": "john.21.17",
+    "text": ""
+  },
+  {
+    "ref": "Acts 1:3",
+    "key": "acts.1.3",
+    "text": ""
   },
   {
     "ref": "Acts 1:5",
@@ -505,6 +765,21 @@
     "text": "but you will receive power when the Holy Spirit has come upon you; and you shall be My witnesses both in Jerusalem, and in all Judea and Samaria, and even to the end of the earth.”"
   },
   {
+    "ref": "Acts 2:23–24",
+    "key": "acts.2.23-24",
+    "text": ""
+  },
+  {
+    "ref": "Acts 2:23",
+    "key": "acts.2.23",
+    "text": ""
+  },
+  {
+    "ref": "Acts 2:36",
+    "key": "acts.2.36",
+    "text": ""
+  },
+  {
     "ref": "Acts 3:15",
     "key": "acts.3.15",
     "text": "but put to death the Author of life, whom God raised from the dead, a fact to which we are witnesses."
@@ -513,6 +788,11 @@
     "ref": "Acts 3:22",
     "key": "acts.3.22",
     "text": "Moses said, ‘The Lord God will raise up for you a prophet like me from your brothers; to Him you shall listen to everything He says to you."
+  },
+  {
+    "ref": "Acts 4:12",
+    "key": "acts.4.12",
+    "text": ""
   },
   {
     "ref": "Acts 4:24–25",
@@ -545,6 +825,11 @@
     "text": "Now these were more noble-minded than those in Thessalonica, for they received the word with great eagerness, examining the Scriptures daily to see whether these things were so."
   },
   {
+    "ref": "Acts 17:24",
+    "key": "acts.17.24",
+    "text": ""
+  },
+  {
     "ref": "Acts 17:24–28",
     "key": "acts.17.24-28",
     "text": "²⁴ The God who made the world and all things in it, since He is Lord of heaven and earth, does not dwell in temples made with hands; ²⁵ nor is He served by human hands, as though He needed anything, since He Himself gives to all people life and breath and all things; ²⁶ and He made from one man every nation of mankind to inhabit all the face of the earth, having determined their appointed times and the boundaries of their habitation, ²⁷ that they would seek God, if perhaps they might grope for Him and find Him, though He is not far from each one of us; ²⁸ for in Him we live and move and exist, as even some of your own poets have said, ‘For we also are His offspring.’"
@@ -555,9 +840,19 @@
     "text": "³⁰ Therefore having overlooked the times of ignorance, God is now commanding men that everyone everywhere should repent, ³¹ because He has fixed a day in which He will judge the world in righteousness through a Man whom He determined, having furnished proof to all by raising Him from the dead.”"
   },
   {
+    "ref": "Acts 17:31",
+    "key": "acts.17.31",
+    "text": ""
+  },
+  {
     "ref": "Acts 20:28",
     "key": "acts.20.28",
     "text": "Be on guard for yourselves and for all the flock, among which the Holy Spirit has made you overseers, to shepherd the church of God which He purchased with His own blood."
+  },
+  {
+    "ref": "Acts 26:8",
+    "key": "acts.26.8",
+    "text": ""
   },
   {
     "ref": "Acts 28:25–26",
@@ -568,6 +863,16 @@
     "ref": "Romans 1:18–21",
     "key": "romans.1.18-21",
     "text": "¹⁸ For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men who suppress the truth in unrighteousness, ¹⁹ because that which is known about God is evident within them; for God made it evident to them. ²⁰ For since the creation of the world His invisible attributes, both His eternal power and divine nature, have been clearly seen, being understood through what has been made, so that they are without excuse. ²¹ For even though they knew God, they did not glorify Him as God or give thanks, but they became futile in their thoughts, and their foolish heart was darkened."
+  },
+  {
+    "ref": "Romans 1:18–20",
+    "key": "romans.1.18-20",
+    "text": ""
+  },
+  {
+    "ref": "Romans 1:19–20",
+    "key": "romans.1.19-20",
+    "text": ""
   },
   {
     "ref": "Romans 1:20",
@@ -585,9 +890,44 @@
     "text": "¹⁴ For when Gentiles who do not have the Law naturally do the things of the Law, these, not having the Law, are a law to themselves, ¹⁵ in that they demonstrate the work of the Law written in their hearts, their conscience bearing witness and their thoughts alternately accusing or else defending them,"
   },
   {
+    "ref": "Romans 2:14–16",
+    "key": "romans.2.14-16",
+    "text": ""
+  },
+  {
+    "ref": "Romans 3:10–12",
+    "key": "romans.3.10-12",
+    "text": ""
+  },
+  {
+    "ref": "Romans 3:23",
+    "key": "romans.3.23",
+    "text": ""
+  },
+  {
+    "ref": "Romans 3:25–26",
+    "key": "romans.3.25-26",
+    "text": ""
+  },
+  {
+    "ref": "Romans 4:4–5",
+    "key": "romans.4.4-5",
+    "text": ""
+  },
+  {
+    "ref": "Romans 5:8",
+    "key": "romans.5.8",
+    "text": ""
+  },
+  {
     "ref": "Romans 5:12–21",
     "key": "romans.5.12-21",
     "text": "¹² Therefore, just as through one man sin entered into the world, and death through sin, and so death spread to all men, because all sinned— ¹³ for until the Law sin was in the world, but sin is not imputed when there is no law. ¹⁴ Nevertheless death reigned from Adam until Moses, even over those who had not sinned in the likeness of the trespass of Adam, who is a type of Him who was to come. ¹⁵ But the gracious gift is not like the transgression. For if by the transgression of the one the many died, much more did the grace of God and the gift by the grace of the one Man, Jesus Christ, abound to the many. ¹⁶ And the gift is not like that which came through the one who sinned; for on the one hand the judgment arose from one transgression resulting in condemnation, but on the other hand the gracious gift arose from many transgressions resulting in justification. ¹⁷ For if by the transgression of the one, death reigned through the one, much more those who receive the abundance of grace and of the gift of righteousness will reign in life through the One, Jesus Christ. ¹⁸ So then as through one transgression there resulted condemnation to all men, even so through one act of righteousness there resulted justification of life to all men. ¹⁹ For as through the one man’s disobedience the many were appointed sinners, even so through the obedience of the One the many will be appointed righteous. ²⁰ Now the Law came in so that the transgression would increase, but where sin increased, grace abounded all the more, ²¹ so that, as sin reigned in death, even so grace would reign through righteousness to eternal life through Jesus Christ our Lord."
+  },
+  {
+    "ref": "Romans 6:23",
+    "key": "romans.6.23",
+    "text": ""
   },
   {
     "ref": "Romans 8:9",
@@ -605,6 +945,11 @@
     "text": "²⁰ For the creation was subjected to futility, not willingly, but because of Him who subjected it, in hope ²¹ that the creation itself also will be set free from its slavery to corruption into the freedom of the glory of the children of God. ²² For we know that the whole creation groans and suffers the pains of childbirth together until now. ²³ And not only this, but also we ourselves, having the first fruits of the Spirit, even we ourselves groan within ourselves, eagerly waiting for our adoption as sons, the redemption of our body."
   },
   {
+    "ref": "Romans 8:28",
+    "key": "romans.8.28",
+    "text": ""
+  },
+  {
     "ref": "Romans 9:19–21",
     "key": "romans.9.19-21",
     "text": "¹⁹ You will say to me then, “Why does He still find fault? For who resists His will?” ²⁰ On the contrary, who are you, O man, who answers back to God? Will the thing molded say to the molder, “Why did you make me like this”? ²¹ Or does not the potter have authority over the clay, to make from the same lump one vessel for honorable use and another for dishonorable use?"
@@ -613,6 +958,21 @@
     "ref": "Romans 10:9–13",
     "key": "romans.10.9-13",
     "text": "⁹ that if you confess with your mouth Jesus as Lord, and believe in your heart that God raised Him from the dead, you will be saved; ¹⁰ for with the heart a person believes, leading to righteousness, and with the mouth he confesses, leading to salvation. ¹¹ For the Scripture says, “Whoever believes upon Him will not be put to shame.” ¹² For there is no distinction between Jew and Greek, for the same Lord is Lord of all, abounding in riches for all who call on Him, ¹³ for “Whoever calls on the name of the Lord will be saved.”"
+  },
+  {
+    "ref": "Romans 10:13",
+    "key": "romans.10.13",
+    "text": ""
+  },
+  {
+    "ref": "Romans 10:14–15",
+    "key": "romans.10.14-15",
+    "text": ""
+  },
+  {
+    "ref": "Romans 11:6",
+    "key": "romans.11.6",
+    "text": ""
   },
   {
     "ref": "1 Corinthians 1:24",
@@ -633,6 +993,11 @@
     "ref": "1 Corinthians 10:9",
     "key": "1-corinthians.10.9",
     "text": "Nor let us put Christ to the test, as some of them did, and were destroyed by the serpents."
+  },
+  {
+    "ref": "1 Corinthians 15:1–4",
+    "key": "1-corinthians.15.1-4",
+    "text": ""
   },
   {
     "ref": "1 Corinthians 15:3–8",
@@ -660,9 +1025,39 @@
     "text": "⁴⁰ There are also heavenly bodies and earthly bodies, but the glory of the heavenly is one, and the glory of the earthly is another. ⁴¹ There is one glory of the sun, and another glory of the moon, and another glory of the stars; for star differs from star in glory."
   },
   {
+    "ref": "1 Corinthians 15:46",
+    "key": "1-corinthians.15.46",
+    "text": ""
+  },
+  {
+    "ref": "2 Corinthians 5:8",
+    "key": "2-corinthians.5.8",
+    "text": ""
+  },
+  {
+    "ref": "2 Corinthians 5:21",
+    "key": "2-corinthians.5.21",
+    "text": ""
+  },
+  {
     "ref": "2 Corinthians 11:2",
     "key": "2-corinthians.11.2",
     "text": "For I am jealous for you with a godly jealousy, for I betrothed you to one husband, so that I might present you as a pure virgin to Christ."
+  },
+  {
+    "ref": "2 Corinthians 11:4",
+    "key": "2-corinthians.11.4",
+    "text": ""
+  },
+  {
+    "ref": "2 Corinthians 13:14",
+    "key": "2-corinthians.13.14",
+    "text": ""
+  },
+  {
+    "ref": "Galatians 1:6–8",
+    "key": "galatians.1.6-8",
+    "text": ""
   },
   {
     "ref": "Galatians 1:8",
@@ -670,14 +1065,34 @@
     "text": "But even if we, or an angel from heaven, should proclaim to you a gospel contrary to the gospel we have proclaimed to you, let him be accursed!"
   },
   {
+    "ref": "Galatians 1:18–19",
+    "key": "galatians.1.18-19",
+    "text": ""
+  },
+  {
     "ref": "Galatians 2:7–9",
     "key": "galatians.2.7-9",
     "text": "⁷ But on the contrary, seeing that I had been entrusted with the gospel to the uncircumcised, just as Peter had been to the circumcised ⁸ (for He who worked in Peter unto his apostleship to the circumcised worked in me also unto the Gentiles), ⁹ and recognizing the grace that had been given to me, James and Cephas and John, who were reputed to be pillars, gave to me and Barnabas the right hand of fellowship, so that we might go to the Gentiles and they to the circumcised."
   },
   {
+    "ref": "Ephesians 2:8–9",
+    "key": "ephesians.2.8-9",
+    "text": ""
+  },
+  {
+    "ref": "Ephesians 2:8–10",
+    "key": "ephesians.2.8-10",
+    "text": ""
+  },
+  {
     "ref": "Ephesians 4:30",
     "key": "ephesians.4.30",
     "text": "And do not grieve the Holy Spirit of God, by whom you were sealed for the day of redemption."
+  },
+  {
+    "ref": "Philippians 1:23",
+    "key": "philippians.1.23",
+    "text": ""
   },
   {
     "ref": "Philippians 2:6–8",
@@ -688,6 +1103,11 @@
     "ref": "Philippians 2:6–7",
     "key": "philippians.2.6-7",
     "text": "⁶ who, although existing in the form of God, did not regard equality with God a thing to be grasped, ⁷ but emptied Himself, by taking the form of a slave, by being made in the likeness of men."
+  },
+  {
+    "ref": "Philippians 2:9–11",
+    "key": "philippians.2.9-11",
+    "text": ""
   },
   {
     "ref": "Philippians 2:10–11",
@@ -710,14 +1130,29 @@
     "text": "For in Him all things were created, both in the heavens and on earth, visible and invisible, whether thrones or dominions or rulers or authorities— all things have been created through Him and for Him."
   },
   {
+    "ref": "Colossians 1:17",
+    "key": "colossians.1.17",
+    "text": ""
+  },
+  {
     "ref": "Colossians 1:18",
     "key": "colossians.1.18",
     "text": "And He is the head of the body, the church; Who is the beginning, the firstborn from the dead, so that He Himself will come to have first place in everything."
   },
   {
+    "ref": "Colossians 2:3",
+    "key": "colossians.2.3",
+    "text": ""
+  },
+  {
     "ref": "1 Timothy 1:17",
     "key": "1-timothy.1.17",
     "text": "Now to the King of the ages, immortal, invisible, the only God, be honor and glory forever and ever. Amen."
+  },
+  {
+    "ref": "2 Timothy 3:16",
+    "key": "2-timothy.3.16",
+    "text": ""
   },
   {
     "ref": "2 Timothy 4:3",
@@ -730,9 +1165,24 @@
     "text": "looking for the blessed hope and the appearing of the glory of our great God and Savior, Jesus Christ,"
   },
   {
+    "ref": "Titus 3:5",
+    "key": "titus.3.5",
+    "text": ""
+  },
+  {
+    "ref": "Hebrews 1:1–2",
+    "key": "hebrews.1.1-2",
+    "text": ""
+  },
+  {
     "ref": "Hebrews 1:3",
     "key": "hebrews.1.3",
     "text": "who is the radiance of His glory and the exact representation of His nature, and upholds all things by the word of His power; who, having accomplished cleansing for sins, sat down at the right hand of the Majesty on high,"
+  },
+  {
+    "ref": "Hebrews 1:5–6",
+    "key": "hebrews.1.5-6",
+    "text": ""
   },
   {
     "ref": "Hebrews 1:5–12",
@@ -740,9 +1190,19 @@
     "text": "⁵ For to which of the angels did He ever say, “You are My Son, Today I have begotten You”? And again, “I will be a Father to Him And He shall be a Son to Me”? ⁶ And when He again brings the firstborn into the world, He says, “And let all the angels of God worship Him.” ⁷ And of the angels He says, “Who makes His angels winds, And His ministers flaming fire.” ⁸ But of the Son He says, “Your throne, O God, is forever and ever, And the scepter of uprightness is the scepter of Your kingdom. ⁹ You have loved righteousness and hated lawlessness; Therefore God, Your God, has anointed You With the oil of gladness above Your companions.” ¹⁰ And, “You, Lord, in the beginning founded the earth, And the heavens are the works of Your hands; ¹¹ They will perish, but You remain; And they all will wear out like a garment, ¹² And like a mantle You will roll them up; Like a garment they will also be changed. But You are the same, And Your years will not come to an end.”"
   },
   {
+    "ref": "Hebrews 1:6",
+    "key": "hebrews.1.6",
+    "text": ""
+  },
+  {
     "ref": "Hebrews 1:8",
     "key": "hebrews.1.8",
     "text": "But of the Son He says, “Your throne, O God, is forever and ever, And the scepter of uprightness is the scepter of Your kingdom."
+  },
+  {
+    "ref": "Hebrews 1:8–9",
+    "key": "hebrews.1.8-9",
+    "text": ""
   },
   {
     "ref": "Hebrews 1:10–12",
@@ -760,6 +1220,16 @@
     "text": "But we do see Him who was made for a little while lower than the angels—Jesus, because of the suffering of death crowned with glory and honor, so that by the grace of God He might taste death for everyone."
   },
   {
+    "ref": "Hebrews 2:17–18",
+    "key": "hebrews.2.17-18",
+    "text": ""
+  },
+  {
+    "ref": "Hebrews 2:17",
+    "key": "hebrews.2.17",
+    "text": ""
+  },
+  {
     "ref": "Hebrews 3:7",
     "key": "hebrews.3.7",
     "text": "Therefore, just as the Holy Spirit says, “Today if you hear His voice,"
@@ -775,6 +1245,26 @@
     "text": "⁷ Therefore, just as the Holy Spirit says, “Today if you hear His voice, ⁸ Do not harden your hearts as when they provoked Me, As in the day of trial in the wilderness, ⁹ Where your fathers tried Me by testing Me, And saw My works for forty years."
   },
   {
+    "ref": "Hebrews 4:15",
+    "key": "hebrews.4.15",
+    "text": ""
+  },
+  {
+    "ref": "Hebrews 7:11–12",
+    "key": "hebrews.7.11-12",
+    "text": ""
+  },
+  {
+    "ref": "Hebrews 7:23–24",
+    "key": "hebrews.7.23-24",
+    "text": ""
+  },
+  {
+    "ref": "Hebrews 9:22",
+    "key": "hebrews.9.22",
+    "text": ""
+  },
+  {
     "ref": "Hebrews 9:27",
     "key": "hebrews.9.27",
     "text": "And inasmuch as it is appointed for men to die once and after this comes judgment,"
@@ -785,14 +1275,49 @@
     "text": "¹⁵ And the Holy Spirit also testifies to us, for after saying, ¹⁶ “This is the covenant that I will make with them After those days, says the Lord: I will put My laws upon their heart, And on their mind I will write them,” He then says, ¹⁷ “And their sins and their lawless deeds I will remember no more.”"
   },
   {
+    "ref": "Hebrews 11:1",
+    "key": "hebrews.11.1",
+    "text": ""
+  },
+  {
+    "ref": "Hebrews 11:3",
+    "key": "hebrews.11.3",
+    "text": ""
+  },
+  {
     "ref": "Hebrews 11:17",
     "key": "hebrews.11.17",
     "text": "By faith Abraham, when he was tested, offered up Isaac, and he who had received the promises was offering up his only son,"
   },
   {
+    "ref": "James 1:5",
+    "key": "james.1.5",
+    "text": ""
+  },
+  {
+    "ref": "James 1:13",
+    "key": "james.1.13",
+    "text": ""
+  },
+  {
+    "ref": "James 2:10",
+    "key": "james.2.10",
+    "text": ""
+  },
+  {
     "ref": "1 Peter 1:10–11",
     "key": "1-peter.1.10-11",
     "text": "¹⁰ Concerning this salvation, the prophets, who prophesied of the grace that would come to you, made careful searches and inquiries, ¹¹ inquiring to know what time or what kind of time the Spirit of Christ within them was indicating as He was predicting the sufferings of Christ and the glories to follow."
+  },
+  {
+    "ref": "1 Peter 1:25",
+    "key": "1-peter.1.25",
+    "text": ""
+  },
+  {
+    "ref": "1 Peter 2:9",
+    "key": "1-peter.2.9",
+    "text": ""
   },
   {
     "ref": "1 Peter 3:15–16",
@@ -805,9 +1330,19 @@
     "text": "For we did not make known to you the power and coming of our Lord Jesus Christ, following cleverly devised myths, but being eyewitnesses of His majesty."
   },
   {
+    "ref": "2 Peter 1:20–21",
+    "key": "2-peter.1.20-21",
+    "text": ""
+  },
+  {
     "ref": "2 Peter 3:15–16",
     "key": "2-peter.3.15-16",
     "text": "¹⁵ and consider the patience of our Lord as salvation, just as also our beloved brother Paul, according to the wisdom given him, wrote to you, ¹⁶ as also in all his letters, speaking in them of these things, in which are some things hard to understand, which the untaught and unstable distort, as they do also the rest of the Scriptures, to their own destruction."
+  },
+  {
+    "ref": "1 John 1:1–2",
+    "key": "1-john.1.1-2",
+    "text": ""
   },
   {
     "ref": "1 John 3:2",
@@ -845,6 +1380,11 @@
     "text": "Now I want to remind you, though you know all things, that Jesus, having once saved a people out of the land of Egypt, subsequently destroyed those who did not believe."
   },
   {
+    "ref": "Jude 9",
+    "key": "jude.1.9",
+    "text": ""
+  },
+  {
     "ref": "Revelation 1:17",
     "key": "revelation.1.17",
     "text": "And when I saw Him, I fell at His feet like a dead man. And He placed His right hand on me, saying, “Do not fear; I am the first and the last,"
@@ -863,6 +1403,56 @@
     "ref": "Revelation 3:21",
     "key": "revelation.3.21",
     "text": "He who overcomes, I will grant to him to sit down with Me on My throne, as I also overcame and sat down with My Father on His throne."
+  },
+  {
+    "ref": "Revelation 5:13–14",
+    "key": "revelation.5.13-14",
+    "text": ""
+  },
+  {
+    "ref": "Revelation 6:9–10",
+    "key": "revelation.6.9-10",
+    "text": ""
+  },
+  {
+    "ref": "Revelation 6:10",
+    "key": "revelation.6.10",
+    "text": ""
+  },
+  {
+    "ref": "Revelation 7:9",
+    "key": "revelation.7.9",
+    "text": ""
+  },
+  {
+    "ref": "Revelation 7:15",
+    "key": "revelation.7.15",
+    "text": ""
+  },
+  {
+    "ref": "Revelation 14:11",
+    "key": "revelation.14.11",
+    "text": ""
+  },
+  {
+    "ref": "Revelation 19:1",
+    "key": "revelation.19.1",
+    "text": ""
+  },
+  {
+    "ref": "Revelation 20:10",
+    "key": "revelation.20.10",
+    "text": ""
+  },
+  {
+    "ref": "Revelation 21:4",
+    "key": "revelation.21.4",
+    "text": ""
+  },
+  {
+    "ref": "Revelation 22:8–9",
+    "key": "revelation.22.8-9",
+    "text": ""
   },
   {
     "ref": "Revelation 22:13",

@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import { FlowBar } from "@/components/FlowBar";
 import { Md } from "@/components/Md";
 import { ShareCard } from "@/components/ShareCard";
 import { TopBar } from "@/components/TopBar";
@@ -22,12 +23,14 @@ export default async function ObjectionPage({ params }: { params: Promise<{ grou
   const o = g?.defense.find((x) => x.id === id);
   if (!g || !o) notFound();
   const href = `/${g.slug}/objection/${o.id}`;
+  const at = g.defense.indexOf(o);
+  const step = (x: (typeof g.defense)[number] | undefined) => (x ? { href: `/${g.slug}/objection/${x.id}`, title: x.objection.replace(/\*/g, "") } : undefined);
   const plainTitle = o.objection.replace(/\*/g, "");
 
   return (
     <>
       <TopBar back={`/${g.slug}#objections`} pin={{ href, title: plainTitle, label: `${shortName(g)} · objection` }} share={{ title: plainTitle }} />
-      <main className="page">
+      <main className="page with-flowbar">
         <p className="label" style={{ borderLeft: `3px solid ${g.color}`, paddingLeft: 8 }}>
           {g.name}: they say
         </p>
@@ -37,7 +40,7 @@ export default async function ObjectionPage({ params }: { params: Promise<{ grou
 
         <section className="section">
           <h2 className="label">You say</h2>
-          <p className="big">
+          <p className={o.response.length < 150 ? "big" : "serif text-[21px] leading-[1.5]"}>
             <Md text={o.response} />
           </p>
           {o.crossRef && (
@@ -73,7 +76,13 @@ export default async function ObjectionPage({ params }: { params: Promise<{ grou
         <p className="mt-2">
           <ShareCard group={g.name} theySay={o.objection} youSay={o.response} verses={o.verses.map((v) => v.label)} askBack={o.askBack} />
         </p>
+        <p className="mt-6">
+          <Link className="btn" href={`/${g.slug}#first`}>
+            Now go on offense: make the case
+          </Link>
+        </p>
       </main>
+      <FlowBar prev={step(g.defense[at - 1])} next={step(g.defense[at + 1])} position={`${at + 1} of ${g.defense.length}`} listHref={`/${g.slug}#objections`} />
     </>
   );
 }
