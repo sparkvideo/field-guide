@@ -9,7 +9,7 @@ import { getPins, getRecent, type Pin } from "@/lib/pins";
 import { formatRef, parseReference, readerHref, type TypedRef } from "@/lib/reference";
 import { searchGuide } from "@/lib/search";
 import { Chevron } from "./Bits";
-import { BookIcon, CreationIcon, CrossIcon, LifeIcon, DoorIcon, DrillIcon, FlameIcon, GameIcon, Mark, NoteIcon, PenIcon, TabletsIcon, TargetIcon, TriangleIcon, TrinityIcon, WordsIcon } from "./Icons";
+import { BookIcon, CreationIcon, CrossIcon, LifeIcon, ScalesIcon, StormIcon, GateIcon, TombIcon, FireIcon, MindIcon, DoorIcon, DrillIcon, FlameIcon, GameIcon, Mark, NoteIcon, PenIcon, TabletsIcon, TargetIcon, TriangleIcon, TrinityIcon, WordsIcon } from "./Icons";
 import { readStreak } from "./Train";
 import { Welcome } from "./Welcome";
 
@@ -302,6 +302,54 @@ export function Home({ groups }: { groups: GroupRow[] }) {
           <section id="sec-objections" className="home-sec" aria-label="Common objections">
             <h3 className="label">Common objections</h3>
             <nav className="rows">
+            <Link href="/topic/the-problem-of-evil" className="row">
+              <StormIcon />
+              <span>
+                <span className="block text-[20px] font-semibold">The problem of evil</span>
+                <span className="sub">Why does a good God allow suffering?</span>
+              </span>
+              <Chevron />
+            </Link>
+            <Link href="/topic/morality-and-justice" className="row">
+              <ScalesIcon />
+              <span>
+                <span className="block text-[20px] font-semibold">Morality and justice</span>
+                <span className="sub">Can morality exist without God?</span>
+              </span>
+              <Chevron />
+            </Link>
+            <Link href="/topic/the-exclusivity-of-christ" className="row">
+              <GateIcon />
+              <span>
+                <span className="block text-[20px] font-semibold">The exclusivity of Christ</span>
+                <span className="sub">Why is Jesus the only way?</span>
+              </span>
+              <Chevron />
+            </Link>
+            <Link href="/topic/the-resurrection" className="row">
+              <TombIcon />
+              <span>
+                <span className="block text-[20px] font-semibold">The resurrection</span>
+                <span className="sub">Historical evidence that Jesus rose</span>
+              </span>
+              <Chevron />
+            </Link>
+            <Link href="/topic/hell-and-eternal-judgment" className="row">
+              <FireIcon />
+              <span>
+                <span className="block text-[20px] font-semibold">Hell and eternal judgment</span>
+                <span className="sub">Why would a loving God send people to hell?</span>
+              </span>
+              <Chevron />
+            </Link>
+            <Link href="/topic/faith-and-reason" className="row">
+              <MindIcon />
+              <span>
+                <span className="block text-[20px] font-semibold">Faith and reason</span>
+                <span className="sub">Is believing in God irrational or blind faith?</span>
+              </span>
+              <Chevron />
+            </Link>
             <Link href="/topic/is-the-bible-reliable" className="row">
               <BookIcon />
               <span>

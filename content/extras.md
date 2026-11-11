@@ -152,6 +152,258 @@ Show that what he has been borrowing belongs to God. Logic reflects God's unchan
 
 For a short version to run live, open [the borrowed capital play](/atheist/case/play-3).
 
+# The problem of evil
+> Why does a good God allow suffering?
+
+This is the question behind most unbelief, and often it is not an argument but a wound. Find out which before you answer. Scripture does not explain every sorrow. It tells us who rules over suffering, where it came from, what God has done about it, and how it ends. (Deut 29:29; Rom 8:28)
+
+## First, listen
+**Ask:** *"Is this a question you're thinking through, or something you're living through?"*
+If he is hurting, sit with him before you reason with him. Job's friends did well for seven days, until they opened their mouths. Weep with those who weep. (Job 2:13; Rom 12:15; John 11:35)
+
+## What you are showing
+To call anything evil, he needs a real standard of good that stands above every person and culture. In a universe of matter and chance there is suffering, but there is no "ought not." The complaint itself borrows from the God it is aimed at. See [Morality and justice](/topic/morality-and-justice).
+**Ask:** *"When you say that's evil, do you mean you dislike it, or that it is really wrong? By what standard?"*
+
+## What Scripture says
+- **God made the world very good.** Evil is not part of what He made. (Gen 1:31)
+- **Sin brought death and suffering in.** Man rebelled, and the whole creation was subjected to futility. (Gen 3:17–19; Rom 5:12; Rom 8:20–22)
+- **God is sovereign over all of it, and He is not the author of sin.** Nothing happens outside His rule, and He tempts no one. (Eph 1:11; Isa 45:7; James 1:13; 1 John 1:5)
+- **He means for good what men mean for evil.** Joseph's brothers sold him; God sent him to save lives. (Gen 50:20; Rom 8:28)
+- **The cross is the clearest case.** The worst evil ever done, the murder of the Son of God, was carried out by lawless men and was God's predetermined plan to save sinners. If God can bring the greatest good out of the greatest evil, He can be trusted with the rest. (Acts 2:23; Acts 4:27–28)
+- **He does not owe us an account.** When Job asked why, God answered with Himself. (Job 38:1–4; Job 42:1–6; Rom 9:20)
+- **He entered it.** Our God is not far off from pain. He became a man of sorrows. (Isa 53:3–5; Heb 4:15)
+- **He will end it.** Every wrong will be judged, and every tear wiped away. (Rev 21:3–4; Acts 17:31; Rom 8:18)
+
+## If they say
+- **"A good God would stop evil."** → He will, and on a set day. The harder question is what happens to us when He does, since the evil is not only out there. He waits because He is patient. (2 Pet 3:9; Rom 2:4) *"If God removed all evil at midnight tonight, where would that leave you and me?"*
+- **"Why doesn't He stop it now?"** → We are not told every reason, and a God big enough to blame is big enough to have reasons we cannot see. What we are told is that He is working all things together for good for those who love Him. (Rom 8:28; Isa 55:8–9)
+- **"What about natural disasters and disease?"** → They belong to a creation that groans under the curse, and Jesus says they are a call to repent, not proof that the victims were worse than we are. (Rom 8:20–22; Luke 13:1–5)
+- **"What about children who suffer?"** → Do not hurry this one. God is the defender of the helpless and will judge every hand raised against a child. Our own outrage is His image in us. (Ps 10:14; Matt 18:6; Gen 18:25)
+- **"I prayed and He didn't answer."** → Paul prayed three times, and Christ prayed in Gethsemane. The answer was grace to bear it, and then resurrection. (2 Cor 12:8–9; Matt 26:39)
+- **"Then God is the cause of evil."** → No. Men do evil from their own hearts and are fully responsible for it. God rules over it for holy ends without doing it. Scripture holds both together in one sentence. (Acts 2:23; James 1:13–14)
+
+## Watch out
+- **Don't say God's hands were tied by our free will.** He is never helpless. Say He is sovereign and good, and that He has purposes.
+- **Don't explain a particular tragedy.** You do not know why this child died or that cancer came. Say so. (Deut 29:29)
+- **Don't answer a wound with an argument.** Know which one is in front of you.
+- **Don't leave out the cross.** It is the only place the problem of evil is answered and not only discussed.
+
+## Bring it to the gospel
+The real question is not why bad things happen to good people. There was only one good Person, and He volunteered. He suffered for sinners so that suffering would not have the last word over them. (1 Pet 3:18; 2 Cor 5:21; Rom 8:32)
+**Ask:** *"God did something about evil at the cross. Have you ever looked at what He did there for you?"*
+
+Then give [The Gospel](/topic/the-gospel).
+
+# Morality and justice
+> Can morality exist without God?
+
+Everyone you meet believes some things are really wrong. Your aim is to show that only the God of Scripture makes sense of that, and that the same God who gives the law will judge by it. (Rom 2:14–16; Acts 17:31)
+
+## What you are showing
+You are not saying an unbeliever cannot be kind, honest or brave. He can, because he is made in God's image and God's law is written on his heart. You are saying he cannot **account for** right and wrong. He can know it, and he cannot explain why it binds anyone. (Rom 2:14–15; Gen 1:27)
+**Ask:** *"Is anything wrong for everyone, everywhere, whether they agree or not? What makes it so?"*
+
+## Where the standard comes from
+- **Good is what God is.** He does not look up to a standard above Him, and He does not invent it on a whim. Righteousness and justice are the foundation of His throne. (Ps 89:14; Deut 32:4; 1 John 1:5)
+- **He has told us.** What is good is not a mystery. (Mic 6:8; Ex 20:1–17; Matt 22:37–40)
+- **It is written on every heart.** That is why cultures everywhere punish murder, theft and betrayal. (Rom 2:14–15)
+- **People matter because God made them.** Human worth does not come from usefulness or strength. (Gen 9:6; James 3:9)
+
+## Why the other answers fail
+- **"Each person decides."** → Then no one is ever wrong, including the man who robs him. He will not live by that.
+- **"Society decides."** → Then the reformer is always the villain. Slavery was legal, and the people who opposed it were breaking society's rules. *"Was slavery right when most people approved of it?"*
+- **"Evolution gave us morals."** → That would explain why we feel them, not why we must obey them. Survival also rewards cruelty and deceit.
+- **"Whatever reduces suffering."** → Why should anyone care about a stranger's suffering? That is already a moral rule, and it needs a source.
+- **"Science tells us."** → Science describes what is. It cannot tell you what ought to be.
+- **"Is it good because God commands it, or does He command it because it's good?"** → Neither. It is good because it reflects who He is, and His nature does not change. (Mal 3:6; James 1:17)
+
+## Justice needs a Judge
+- **Most wrongs are never put right in this life.** Killers die in their beds. If death ends everything, justice is a wish. (Eccl 8:14; Ps 73:3–17)
+- **God will bring every act into judgment.** That is good news for every victim. (Eccl 12:14; Rom 2:5–6; Rev 20:11–13)
+- **It is hard news for all of us.** The standard we use on others will be used on us, and none of us has kept even our own. (Rom 2:1; Rom 3:19; Rom 3:23)
+**Ask:** *"You want justice done. Do you want it done to you?"*
+
+## If they say
+- **"I don't need God to be good."** → Agreed that you can do good things. Good by whose measure? And have you done all the good you know? (James 4:17)
+- **"Religious people do terrible things."** → Yes, and you can only call them terrible if there is a standard they broke. Christianity gives you the grounds to condemn its own hypocrites. (Matt 7:21–23)
+- **"The God of the Old Testament commanded terrible things."** → To judge God you need a standard above Him. Where does it come from? Then open the text: the Judge of all the earth does right, and He is patient for centuries before He judges. (Gen 18:25; Gen 15:16)
+- **"Morality is just empathy."** → Empathy is a feeling, and feelings differ. Some feel none. *"Is cruelty wrong for the man who feels nothing?"*
+
+## Bring it to the gospel
+At the cross God did not set justice aside to show mercy. He satisfied it. Christ bore the penalty, so that God is both just and the justifier of the one who has faith in Jesus. (Rom 3:25–26; Isa 53:5–6; 1 John 1:9)
+**Ask:** *"If God judged you by your own standard, how would you do? Would you like to know how a guilty person can be declared right?"*
+
+Then give [The Gospel](/topic/the-gospel). For the way of arguing behind this page, see [Worldviews](/topic/worldviews-how-do-you-know).
+
+# The exclusivity of Christ
+> Why is Jesus the only way?
+
+We did not make this claim. Jesus did. The question is never whether Christians are narrow. It is whether what He said is true. (John 14:6; Acts 4:12)
+
+## What you are showing
+Every view of God shuts some views out. The man who says all religions lead to God is telling the Muslim, the Hindu and the Christian that each is wrong about his own faith. There is no neutral, wider place to stand. So ask which claim is true.
+**Ask:** *"When you say all paths lead to God, how do you know that? And doesn't that say every religion is wrong where it disagrees with you?"*
+
+## What Jesus and the apostles said
+- **"I am the way, and the truth, and the life. No one comes to the Father but through Me."** (John 14:6)
+- **No other name.** (Acts 4:12)
+- **One God, one Mediator.** (1 Tim 2:5–6)
+- **Whoever has the Son has life.** (John 3:36; 1 John 5:11–12)
+- **The Old Testament says the same of God.** "There is no savior besides Me." (Isa 43:11; Isa 45:22)
+
+## Why there can be only one
+- **Because of what the problem is.** We are not lost for lack of advice. We are guilty before a holy God. Guilt needs a payment, not a path. (Rom 3:23; Rom 6:23)
+- **Because of who can pay.** Only one who is truly man can stand in for men, and only one who is truly God can bear it. No one else is both. (Heb 2:17; Col 2:9; Ps 49:7–8)
+- **Because of what the cross means.** If there were another way, the Father would have taken it. Christ asked in the garden. (Matt 26:39; Gal 2:21)
+- **Because He rose.** No other founder left an empty tomb. God gave proof to everyone by raising Him. (Acts 17:31; Rom 1:4)
+
+## The religions do not agree
+They cannot all be true, because they contradict each other on the very things that matter: who God is, who Jesus is, and how a sinner is made right. Every other religion says **do**. The gospel says **done**. (Eph 2:8–9; John 19:30)
+
+## If they say
+- **"That's arrogant."** → It would be, if we were the way. We are beggars telling other beggars where the bread is. Arrogance is deciding for God how He must save. (1 Cor 4:7; Titus 3:5)
+- **"What about people who never heard?"** → No one is condemned for not hearing. Men are condemned for sin against the light they have: creation and conscience. That is why we go. (Rom 1:18–20; Rom 2:12–16; Rom 10:13–15) *"You have heard. What will you do with it?"*
+- **"Sincere people in other religions will be fine."** → Sincerity does not change what is true. A man can sincerely take the wrong medicine. (Prov 14:12; Rom 10:1–3)
+- **"All religions teach basically the same thing."** → On ethics there is overlap. On God and salvation they are opposites. Ask him to name what Islam, Hinduism and Christianity each say about Jesus.
+- **"It's exclusive, so it's intolerant."** → The way is narrow, and the invitation is as wide as the world. "Whoever will call on the name of the Lord will be saved." (Matt 7:13–14; Rom 10:13; John 6:37; Rev 22:17)
+- **"That's true for you."** → Jesus did not say He was a way for some. He rose in public history, or He did not.
+
+## Bring it to the gospel
+The only way is an open way. He turns away no one who comes. (John 6:37; Matt 11:28; Isa 55:1)
+**Ask:** *"If He is the only way to the Father, are you on it?"*
+
+Then give [The Gospel](/topic/the-gospel).
+
+# The resurrection
+> Historical evidence that Jesus rose from the dead.
+
+Christianity stands or falls here, and Paul says so. If Christ has not been raised, our faith is worthless. He has been raised, and God has given proof of it to everyone. Give the evidence as God's facts, not as an exhibit for a neutral judge. (1 Cor 15:14; 1 Cor 15:17; Acts 17:31)
+
+## What you are showing
+The resurrection was preached in the city where it happened, within weeks, in front of the people who had killed Him and could have produced the body. It was not a legend that grew far away over centuries. (Acts 2:22–24; Acts 2:32; Acts 26:26)
+**Ask:** *"If Jesus really rose from the dead, would you follow Him? If not, is evidence really the issue?"*
+
+## The facts to account for
+- **He died.** Roman soldiers knew when a man was dead, and a spear confirmed it. (John 19:33–35; Mark 15:44–45)
+- **He was buried in a known tomb,** belonging to a member of the council. (Mark 15:43–46)
+- **The tomb was empty on the third day.** The authorities never denied it. They explained it by saying the body was stolen. (Matt 28:11–15)
+- **Women found it first.** No one inventing the story in that world would have chosen witnesses the courts did not accept. (Luke 24:1–11; John 20:1–2)
+- **He appeared to many, over forty days.** To individuals, to groups, to more than five hundred at once, most of them still alive when Paul wrote. They ate with Him and touched Him. (1 Cor 15:3–8; Luke 24:36–43; Acts 1:3)
+- **The witnesses were changed.** Men who ran and hid went out and preached it, and suffered for it. People die for what they believe is true. No one dies for what he knows he made up. (Acts 4:18–20; Acts 5:40–42)
+- **Enemies believed.** James, who had not believed in his brother, and Saul, who was hunting Christians, each said he saw the risen Christ. (John 7:5; 1 Cor 15:7–8; Gal 1:13–16)
+- **It was foretold.** (Ps 16:10; Isa 53:10–11; Matt 16:21)
+
+## The summary Paul received
+The statement in 1 Corinthians 15:3–5 is one Paul says he was handed. He met Peter and James in Jerusalem within a few years of the cross. This is testimony from the beginning, from the men who were there. (1 Cor 15:3–5; Gal 1:18–19)
+
+## If they say
+- **"The disciples stole the body."** → Then they suffered and died for what they knew was a fraud, and not one of them broke. And the guards' story is "we were asleep, and we saw who did it." (Matt 28:11–15)
+- **"He didn't really die."** → A man scourged, crucified and speared does not roll a stone, overpower guards and convince anyone he is the Lord of life. (John 19:33–34)
+- **"They hallucinated."** → Groups do not share one hallucination, and not over forty days in different places. And the tomb would still hold the body. (1 Cor 15:6; Luke 24:39–43)
+- **"They went to the wrong tomb."** → Then the authorities only had to go to the right one.
+- **"It's a legend that grew later."** → The claim is in the earliest sources, in the names of living witnesses, in the city where it happened. (1 Cor 15:3–8; Luke 1:1–4)
+- **"Dead men don't rise. Miracles are impossible."** → No one says men rise by nature. The claim is that God raised Him. That is only impossible if there is no God, which is the very thing in question. (Acts 26:8; Jer 32:17)
+- **"The Gospels contradict each other."** → Witnesses who agree on the event and differ in what they include are what honest testimony looks like. See [Is the Bible reliable?](/topic/is-the-bible-reliable)
+
+## Watch out
+- **Evidence does not raise the dead.** Men saw Lazarus walk out and plotted to kill him. If they do not hear Moses and the Prophets, they will not be persuaded if someone rises from the dead. Pray, and preach. (John 12:9–11; Luke 16:31)
+- **Don't argue "probably."** The apostles announced it. (Acts 2:36)
+- **Don't stop at the fact.** Say what it means.
+
+## What it means
+- **Jesus is who He said He is.** (Rom 1:4)
+- **The payment was accepted.** He was raised for our justification. (Rom 4:25)
+- **Death is beaten.** Those who are His will be raised. (1 Cor 15:20–22; John 11:25–26)
+- **A day of judgment is fixed, and the Judge has been named.** (Acts 17:30–31)
+**Ask:** *"He is alive today. What will you do with a living Lord?"*
+
+Then give [The Gospel](/topic/the-gospel). For the short version to run live, open [the resurrection play](/atheist/case/play-4).
+
+# Hell and eternal judgment
+> Why would a loving God send people to hell?
+
+Speak about hell the way Jesus did: plainly, often, and with tears. He said more about it than anyone in Scripture, and He is the one who went to the cross to save people from it. (Matt 10:28; Luke 19:41; Matt 23:37)
+
+## What you are showing
+The question assumes we are basically good people and God is overreacting. Scripture says the opposite about both. Once a man sees who God is and what sin is, the question changes from "How could God send anyone to hell?" to "How could God let anyone into heaven?" (Rom 3:10–12; Rom 3:23; Hab 1:13)
+**Ask:** *"Do you think anything deserves judgment? Then who decides what, and how much?"*
+
+## What Scripture says
+- **Hell is real, conscious and eternal.** Jesus uses the same word for the punishment and for the life. (Matt 25:41; Matt 25:46; Rev 14:11; Rev 20:10)
+- **It is judgment, not an accident.** It is the just sentence of a holy Judge on real guilt. (Rev 20:11–15; Rom 2:5–6; 2 Thess 1:8–9)
+- **It is fair.** God judges each one according to his deeds and according to the light he had. (Rom 2:6; Luke 12:47–48; Gen 18:25)
+- **No one is there who wanted Christ.** Men love darkness and will not come to the light. (John 3:19–20; John 5:40)
+- **God takes no pleasure in it.** (Ezek 33:11; 2 Pet 3:9)
+- **There is no second chance after death.** (Heb 9:27; Luke 16:26)
+
+## Why it is eternal
+- **Because of who is sinned against.** The weight of a wrong rises with the worth of the one wronged. Sin is against an infinitely holy God. (Ps 51:4; Isa 6:3–5)
+- **Because sinners there do not stop sinning.** Hell does not make anyone repent. (Rev 16:9–11)
+- **Because the cross shows what sin costs.** If sin were small, the Son of God would not have had to die for it. (Rom 8:32; Isa 53:10)
+
+## If they say
+- **"A loving God wouldn't do that."** → A God who shrugged at rape and murder would not be loving. Love for victims requires justice. And His love is not a guess: He gave His Son. (Rom 5:8; John 3:16; Nah 1:3)
+- **"Eternal punishment for a few years of sin isn't fair."** → Time spent sinning is not how we measure a crime. A murder takes a moment. And see "Why it is eternal" above.
+- **"I'm a good person."** → By whose standard? Walk through the commandments. See [The Way of the Master](/topic/the-way-of-the-master). (James 2:10; Rom 3:19–20)
+- **"God sends people to hell for not believing in Jesus."** → People are condemned for their sin. Jesus is the rescue they refuse. A man does not die because he refused the doctor, but from the disease. (John 3:17–18; John 3:36)
+- **"What about those who never heard?"** → See [The exclusivity of Christ](/topic/the-exclusivity-of-christ). (Rom 1:18–20)
+- **"Hell is just separation from God" / "the wicked are simply destroyed."** → Jesus describes fire, darkness, weeping and a punishment as lasting as eternal life. (Matt 13:41–42; Matt 25:46; Mark 9:47–48)
+- **"I'd rather be in hell with my friends."** → There is no friendship there. Every good thing you have ever enjoyed came from the God you would be without. (James 1:17; Luke 16:23–28)
+
+## Watch out
+- **Don't soften what Jesus said, and don't enjoy saying it.** Paul warned people with tears. (Acts 20:31; Rom 9:1–3)
+- **Don't pronounce on a particular dead person.** Say God will do right, and turn to the living man in front of you. (Gen 18:25)
+- **Don't use hell as a threat to win.** It is a warning from someone who was headed there too. (Eph 2:3–5; 2 Cor 5:11)
+- **Don't leave him there.** Hell is never the end of the conversation.
+
+## Bring it to the gospel
+On the cross Christ bore the wrath of God for sinners. Everyone's sin will be punished: either in hell, or in Him. That is why no one has to go. (Isa 53:5–6; Gal 3:13; 1 Thess 1:10; Rom 8:1)
+**Ask:** *"He took what sinners deserve so they could go free. Will you turn from your sin and trust Him?"*
+
+Then give [The Gospel](/topic/the-gospel).
+
+# Faith and reason
+> Is believing in God irrational, or blind faith?
+
+Biblical faith is not belief without evidence, and it is not a leap in the dark. It is trust in a Person who has spoken and has proved Himself trustworthy. And reason is not faith's rival. It is a gift from the God the unbeliever is using it against. (Heb 11:1; Isa 1:18; Prov 1:7)
+
+## What you are showing
+Everyone trusts something he cannot prove first: his senses, his memory, his reason, the order of nature. The unbeliever has faith too. The question is not faith or reason. It is which faith makes reason possible. See [Worldviews](/topic/worldviews-how-do-you-know).
+**Ask:** *"What do you trust that you can't prove? Why do you trust your own mind?"*
+
+## What faith is
+- **Faith is trust in what God has said.** Abraham was fully assured that what God had promised, He was able to do. (Rom 4:20–21; Heb 11:1; Heb 11:6)
+- **It rests on what God has done in public.** The apostles appealed to what was seen, heard and touched, and said it was not done in a corner. (1 John 1:1–3; Luke 1:1–4; Acts 26:25–26; 2 Pet 1:16)
+- **It comes by hearing the word of Christ.** (Rom 10:17; John 20:30–31)
+- **It is a gift.** No one reasons himself into the kingdom. God opens blind eyes. (Eph 2:8–9; 2 Cor 4:4–6; 1 Cor 2:14)
+
+## What reason is
+- **God commands us to think.** "Come now, and let us reason together." We are to love Him with all our mind. (Isa 1:18; Matt 22:37; Rom 12:2)
+- **The apostles reasoned.** Paul reasoned from the Scriptures, explaining and giving evidence. We are told to be ready with a defense. (Acts 17:2–3; Acts 18:4; 1 Pet 3:15)
+- **Reason has a starting point.** The fear of the Lord is the beginning of knowledge. All the treasures of wisdom are hidden in Christ. (Prov 1:7; Col 2:3; Ps 36:9)
+- **Reason is a tool, not the judge.** It is used under God's word, and it is bent by sin like the rest of us. (Rom 1:21–22; 2 Cor 10:5; Eph 4:17–18)
+
+## If they say
+- **"Faith is believing without evidence."** → That is not how the Bible uses the word. You have faith in your wife or your surgeon because of what you know of them. *"Do you trust anyone you've never tested in a lab?"*
+- **"I only believe what can be proven by science."** → That sentence cannot be proven by science. And science itself runs on trust that nature is orderly and our minds can know it. (Gen 8:22; Col 1:17)
+- **"Science has replaced God."** → Science explains how things in the world work. It does not explain why there is a world, why it is orderly, or why we can understand it. Modern science grew among men who expected order because they believed in a Lawgiver.
+- **"Smart people don't believe."** → Many do, and always have. But truth is not settled by counting, and God chose what the world calls foolish to shame the wise. (1 Cor 1:20–27)
+- **"You believe because you were raised that way."** → Where a belief came from does not tell you whether it is true. He was raised to believe things too.
+- **"Show me God and I'll believe."** → He has shown Himself in what He made, in conscience, in Scripture, and in His Son. People saw Jesus raise the dead and still refused. (Rom 1:19–20; John 12:37; John 14:9)
+- **"If I can't understand it, I won't accept it."** → He accepts many things he cannot fully understand. And a God we could fit inside our heads would not be God. (Isa 55:8–9; Rom 11:33)
+
+## Watch out
+- **Don't apologize for starting with Scripture.** Everyone starts somewhere.
+- **Don't set faith against thinking.** Don't say "you just have to believe." Give a reason. (1 Pet 3:15)
+- **Don't think a good argument saves.** The problem is not the mind alone, but the heart that suppresses the truth. (Rom 1:18; John 3:19)
+
+## Bring it to the gospel
+The most reasonable thing a creature can do is believe his Creator. God has spoken, He has come, and He has raised His Son in proof. (Heb 1:1–2; Acts 17:31)
+**Ask:** *"If God has spoken, is it more reasonable to trust Him or to trust yourself?"*
+
+Then give [The Gospel](/topic/the-gospel).
+
 # The fallacy of evolution
 > Why evolution cannot stand, and why creation is true.
 
