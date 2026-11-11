@@ -1,6 +1,76 @@
-# LSB verses still to fill in (1 of 1246)
+# LSB verses still to fill in (71 of 1316)
 
 Open `content/lsb-verses.json`, find the reference, and paste the LSB text between the quotes after "text".
 Until a slot is filled, the app shows the BSB text with a small "BSB" label.
 
+- [ ] Genesis 22:14
+- [ ] Nehemiah 2:4–5
+- [ ] Psalms 27:8
+- [ ] Psalms 46:1
+- [ ] Psalms 51:10–13
+- [ ] Psalms 66:18
 - [ ] Psalms 111:2
+- [ ] Psalms 115:1
+- [ ] Psalms 139:23–24
+- [ ] Isaiah 55:10–11
+- [ ] Isaiah 59:1–2
+- [ ] Isaiah 66:2
+- [ ] Jeremiah 29:10–12
+- [ ] Daniel 4:35
+- [ ] Daniel 9:1–3
+- [ ] Daniel 9:1
+- [ ] Daniel 9:2
+- [ ] Daniel 9:3
+- [ ] Daniel 9:4
+- [ ] Daniel 9:5–6
+- [ ] Daniel 9:7
+- [ ] Daniel 9:14
+- [ ] Daniel 9:17
+- [ ] Daniel 9:19
+- [ ] Daniel 9:20–23
+- [ ] Daniel 9:20
+- [ ] Matthew 6:5–8
+- [ ] Matthew 6:6
+- [ ] Matthew 6:9–13
+- [ ] Matthew 6:14–15
+- [ ] Matthew 6:31–33
+- [ ] Matthew 7:7–11
+- [ ] Matthew 9:37–38
+- [ ] Matthew 26:41
+- [ ] Mark 11:25
+- [ ] Luke 18:1
+- [ ] John 4:37–38
+- [ ] John 15:7
+- [ ] Acts 4:29–31
+- [ ] Acts 11:18
+- [ ] Acts 16:14
+- [ ] Acts 26:18
+- [ ] Romans 8:15
+- [ ] Romans 8:26–27
+- [ ] Romans 8:34
+- [ ] 1 Corinthians 10:13
+- [ ] Galatians 6:9
+- [ ] Ephesians 1:15–19
+- [ ] Ephesians 3:14–21
+- [ ] Ephesians 4:32
+- [ ] Ephesians 6:10–11
+- [ ] Ephesians 6:18–20
+- [ ] Philippians 1:9–11
+- [ ] Philippians 4:6
+- [ ] Colossians 1:9
+- [ ] Colossians 1:9–12
+- [ ] Colossians 4:2–4
+- [ ] Colossians 4:2
+- [ ] 1 Thessalonians 5:17
+- [ ] 1 Thessalonians 5:18
+- [ ] 1 Timothy 2:1–4
+- [ ] 2 Timothy 2:24–25
+- [ ] 2 Timothy 2:25–26
+- [ ] James 1:5–7
+- [ ] James 4:2
+- [ ] James 4:3
+- [ ] James 4:15
+- [ ] 1 Peter 3:7
+- [ ] 1 Peter 5:6–7
+- [ ] 1 John 5:14–15
+- [ ] Revelation 22:20

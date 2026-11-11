@@ -686,6 +686,79 @@ The suffering Servant, the pierced hands and feet, the birthplace of the Messiah
 
 **Ask:** *"Which part do you think was changed, and which manuscript shows the change?"*
 
+# How to pray
+> Before, during and after every conversation
+
+No argument opens a blind eye. God does, and He has told us to ask. This page is a short school of prayer: how Daniel prayed, the pattern Jesus gave, and what to pray for the people you talk to. (Dan 9:1–3; Matt 6:9–13; Rom 10:1; Col 4:2–4)
+
+## Why pray, if God is sovereign?
+- **Because He is.** Daniel set his face "to the Lord God," the Master of everything. Abner Chou: "because God is sovereign you should pray" [Abner Chou, sermon on Daniel 9:1–3]. You bring your need to the only One with the power to meet it. (Dan 9:3; Dan 4:35; Eph 1:11)
+- **Because He commands it and uses it.** God ordains the means as well as the end. The prayer of a righteous man accomplishes much, and you do not have because you do not ask. (James 5:16; James 4:2; Matt 7:7–11)
+- **Because salvation is His work.** Paul's heart's desire and prayer to God for Israel was for their salvation. He planted and Apollos watered, but God caused the growth. (Rom 10:1; 1 Cor 3:6–7; John 6:44; Acts 16:14)
+**Ask:** *"Who am I asking God to save, by name?"*
+
+## Learn from Daniel (Daniel 9:1–3)
+Daniel's prayer in chapter 9 is one of the great prayers of the Bible, and the first three verses show how he came to it. These three points are from Abner Chou's sermon on the passage.
+- **Pray according to God's providence (verse 1).** Daniel opens with a date and a king who "was made king." He read his own circumstances as God's hand: carrying out His word, in control, and caring for His servant. If you see God at work in every ordinary thing, you will never run out of reasons to pray, and praying without ceasing stops being a puzzle. (Dan 9:1; Gen 22:14; Rom 8:28; 1 Thess 5:17)
+- **Pray according to God's purpose (verse 2).** Daniel prayed with the scroll of Jeremiah open. He studied humbly, carefully and across the books, noticed a single detail, the seventy years, submitted to it, and then asked God to do what God had said. The most powerful prayer is the one that agrees with God's will, and you learn His will in His word. (Dan 9:2; Jer 29:10–12; 1 John 5:14–15; John 15:7)
+- **Pray knowing what prayer is (verse 3).** "I gave my face to the Lord God to seek Him." Prayer is set, undistracted attention on God Himself, not a speech about ourselves. Daniel came with fasting, sackcloth and ashes: so taken up with God that food could wait, grieved over sin, and aware of what he deserved. (Dan 9:3; Ps 27:8; Matt 6:6; Isa 66:2)
+- **Keep at it.** By Chou's reckoning Daniel had been praying about these things for about twelve years, from the vision of chapter 7 to the answer of chapter 9. Jesus told a parable to show that we ought always to pray and not lose heart. (Dan 9:20–23; Luke 18:1; Col 4:2; Gal 6:9)
+
+## What Daniel actually said (Daniel 9:4–19)
+- **He began with who God is.** Great and awesome, keeping His covenant and His steadfast love toward those who love Him. (Dan 9:4)
+- **He confessed sin plainly and included himself.** He piles up the words: sinned, done wrong, acted wickedly, rebelled, turned aside, not listened. No excuses, and he says "we." (Dan 9:5–6; Dan 9:20)
+- **He agreed that God was right.** "To You, O Lord, belongs righteousness, but to us open shame." (Dan 9:7; Dan 9:14)
+- **He asked on the ground of mercy, not merit.** He says outright that he is not asking because of any righteousness of his own, but because of God's great compassion. Every request is a request for grace, so there is no room for demanding and none for sulking when God says no. (Dan 9:18)
+- **He asked for God's sake.** Hear, forgive, act, and do not delay, because Your city and Your people are called by Your name. The reason he gives is God's own honor. (Dan 9:17; Dan 9:19)
+**Ask:** *"Is my prayer mostly about God, or mostly about me?"*
+
+## The pattern Jesus gave (Matthew 6:9–13)
+Jesus said, "Pray, then, in this way." It is a pattern to pray through, not only words to repeat. God comes first, then our needs.
+- **"Our Father who is in heaven."** Come as a child to a Father, through the Son. (Matt 6:9; Rom 8:15; Heb 4:16)
+- **"Hallowed be Your name."** Worship first. Ask that He be honored in you and in the person you will speak to. (Ps 115:1; John 12:28)
+- **"Your kingdom come."** Ask Him to save sinners and to send His Son. (Matt 9:37–38; Rev 22:20)
+- **"Your will be done."** Lay your plans down. Jesus prayed this way in the garden. (Matt 26:39; James 4:15)
+- **"Give us this day our daily bread."** Ask for what you need today, and thank Him for it. (Phil 4:6; Matt 6:31–33)
+- **Forgive us, as we have forgiven.** Keep short accounts with God and hold nothing against anyone. (1 John 1:9; Mark 11:25; Eph 4:32)
+- **Keep us from temptation and deliver us from evil.** Ask to be kept. You are not strong enough alone. (Matt 26:41; 1 Cor 10:13; Eph 6:10–11)
+
+## Before you speak to someone
+Pray for them:
+- **That God would open their eyes and heart.** (2 Cor 4:4–6; Acts 16:14; Acts 26:18)
+- **That He would grant repentance.** (2 Tim 2:25–26; Acts 11:18)
+- **That He would draw them to Christ.** (John 6:44; Rom 10:1)
+Pray for yourself:
+- **For boldness.** The apostles prayed for it after being threatened, and Paul asked churches to pray it for him. (Acts 4:29–31; Eph 6:18–20)
+- **For clear words and an open door.** (Col 4:2–4)
+- **For wisdom, gentleness and love.** (James 1:5; Col 4:5–6; 2 Tim 2:24–25; 1 Pet 3:15)
+- **For clean hands.** Confess your own sin first. (Ps 139:23–24; Ps 51:10–13)
+**Say:** *"Father, You alone give sight. Open [name]'s eyes to see Christ. Give me Your words, courage to say them and love for the one who hears. For Your name's sake. Amen."*
+
+## While you are talking
+- **Pray short, silent prayers.** Nehemiah prayed between a king's question and his own answer. "Lord, help me." "Lord, open his heart." (Neh 2:4–5; Ps 46:1)
+- **Offer to pray for them.** Many people who will not debate will let you pray for a real need. Pray aloud, briefly, to the Father in Jesus' name, and let them hear the gospel in how you pray. (1 Tim 2:1–4; James 5:16)
+
+## Afterward
+- **Give thanks, whatever happened.** The results are His. (1 Cor 3:6–7; 1 Thess 5:18)
+- **Keep praying for them by name.** Write it down in your [notes](/notes). (Col 1:9; Luke 18:1)
+- **Ask God to send others to water.** (Matt 9:37–38; John 4:37–38)
+- **Don't carry what is God's to carry.** Cast your anxiety on Him. (1 Pet 5:6–7; Isa 55:10–11)
+
+## What gets in the way
+- **Cherished sin.** The psalmist says that if he had held on to wickedness in his heart, the Lord would not have heard. (Ps 66:18; Isa 59:1–2)
+- **Wrong motives.** James says we ask and do not receive when we ask in order to spend it on our own pleasures. (James 4:3)
+- **Praying to be seen, or piling up words.** (Matt 6:5–8)
+- **Unforgiveness.** (Mark 11:25; Matt 6:14–15)
+- **Dishonoring your wife.** Peter says it hinders a husband's prayers. (1 Pet 3:7)
+- **Doubting God's goodness.** Ask in faith. (James 1:5–7; Heb 11:6)
+- **Simply not asking.** (James 4:2)
+
+## If you don't know what to say
+- **Pray Scripture.** Open a psalm or one of Paul's prayers and turn it into your own words. (Ps 51; Eph 1:15–19; Eph 3:14–21; Phil 1:9–11; Col 1:9–12)
+- **The Spirit helps.** He intercedes for us when we do not know how to pray as we should. (Rom 8:26–27)
+- **Christ intercedes.** He always lives to make intercession for those who draw near to God through Him. (Heb 7:25; Rom 8:34)
+- **Come boldly anyway.** The throne is a throne of grace. (Heb 4:14–16)
+
 # Words they use
 > A quick lookup for terms that come up in conversation.
 

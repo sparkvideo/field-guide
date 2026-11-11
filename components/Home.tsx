@@ -9,7 +9,7 @@ import { getPins, getRecent, type Pin } from "@/lib/pins";
 import { formatRef, parseReference, readerHref, type TypedRef } from "@/lib/reference";
 import { searchGuide } from "@/lib/search";
 import { Chevron } from "./Bits";
-import { BookIcon, CreationIcon, CrossIcon, LifeIcon, ScalesIcon, StormIcon, GateIcon, TombIcon, FireIcon, MindIcon, DoorIcon, DrillIcon, FlameIcon, GameIcon, Mark, NoteIcon, PenIcon, TabletsIcon, TargetIcon, TriangleIcon, TrinityIcon, WordsIcon } from "./Icons";
+import { BookIcon, CreationIcon, CrossIcon, LifeIcon, ScalesIcon, StormIcon, GateIcon, TombIcon, FireIcon, MindIcon, PrayIcon, DoorIcon, DrillIcon, FlameIcon, GameIcon, Mark, NoteIcon, PenIcon, TabletsIcon, TargetIcon, TriangleIcon, TrinityIcon, WordsIcon } from "./Icons";
 import { readStreak } from "./Train";
 import { Welcome } from "./Welcome";
 
@@ -417,6 +417,14 @@ export function Home({ groups }: { groups: GroupRow[] }) {
               <span>
                 <span className="block text-[20px] font-semibold">The Method</span>
                 <span className="sub">How to run the conversation</span>
+              </span>
+              <Chevron />
+            </Link>
+            <Link href="/topic/how-to-pray" className="row">
+              <PrayIcon />
+              <span>
+                <span className="block text-[20px] font-semibold">How to pray</span>
+                <span className="sub">Before, during and after every conversation</span>
               </span>
               <Chevron />
             </Link>
