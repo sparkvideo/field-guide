@@ -1,4 +1,4 @@
-# LSB verses still to fill in (23 of 666)
+# LSB verses still to fill in (25 of 668)
 
 Open `content/lsb-verses.json`, find the reference, and paste the LSB text between the quotes after "text".
 Until a slot is filled, the app shows the BSB text with a small "BSB" label.
@@ -23,6 +23,8 @@ Until a slot is filled, the app shows the BSB text with a small "BSB" label.
 - [ ] Romans 5:14
 - [ ] Romans 8:20–22
 - [ ] 1 Corinthians 15:21–22
+- [ ] 1 Corinthians 15:26
 - [ ] 1 Corinthians 15:45
+- [ ] Colossians 4:5–6
 - [ ] 2 Peter 3:3–6
 - [ ] 2 Peter 3:5–6

@@ -18047,6 +18047,96 @@
           ]
         },
         {
+          "heading": "Not enough time (Haldane's dilemma)",
+          "lines": [
+            {
+              "text": "This argument comes from evolution's own side. Eric Hovind (Creation Today) and John Harris (Living Waters Europe) take it to college campuses, and Walter ReMine set it out in *The Biotic Message* (1993).",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**The man.** J. B. S. Haldane was one of the founders of population genetics and a committed evolutionist. In 1957 he published \"The Cost of Natural Selection.\"",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**The cost.** For a helpful mutation to spread to a whole population, those without it have to die out, generation after generation. A population can only afford so many of those deaths at once. Haldane's estimate: about one beneficial change fixed every 300 generations.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**The time.** Give evolution 10 million years from an ape-like ancestor to man, which is more than evolutionists ask for. At 20 years a generation that is 500,000 generations.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**The total.** 500,000 ÷ 300 is about 1,667 beneficial changes. That is all natural selection can afford.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**The gap.** Human and chimp DNA were long said to be 1% different. In a genome of 3 billion letters that is 30 million differences. A 2025 comparison of complete ape genomes found that around 15% of the two genomes does not line up one-to-one (*Nature*, Yoo et al.). Either way the gap is millions of letters, and selection can pay for fewer than two thousand.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Even with every allowance.** Suppose one beneficial change were fixed every single generation, 300 times faster than Haldane found. You would still have only 500,000.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Ask",
+              "text": "*\"Can 1,667 changes turn an ape-like creature into a man who speaks, writes, builds and worships?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "What he will say back:",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**\"That was solved. Kimura showed most changes are neutral.\"** → Look at what that answer gives up. In 1968 Motoo Kimura agreed that selection could not account for that many changes, so he proposed that most of them are neutral and spread by chance (drift). Neutral means it helps nothing. *\"Then what built the human brain, speech and upright walking: selection, which is too slow, or chance, which selects nothing?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**\"Not every difference has to be beneficial, and the differences are split between two lines.\"** → Fine. Take away as many as he likes. The question is whether fewer than two thousand useful changes can make a man.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**\"Haldane's math is from 1957.\"** → Haldane expected it to be revised, and evolutionists have been revising it ever since. *\"What is the number today, and does it get you from thousands to millions?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**\"One study can't overturn hundreds.\"** → Truth is not counted by hands. One sound measurement can overturn a consensus, and it has before. *\"If the numbers are right, would it matter how many people believed otherwise?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**\"I'm not a biologist. I can't answer that.\"** → Thank him for the honest answer and don't press. *\"Would you look into it? And if evolution can't do it, are you willing to ask who made you?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ]
+        },
+        {
           "heading": "Why creation is true",
           "lines": [
             {
@@ -18331,6 +18421,56 @@
               ],
               "links": [],
               "supplemental": false
+            },
+            {
+              "text": "It calls good what God calls an enemy. If death built us, death is the tool of creation. Scripture says death is \"the last enemy\" that Christ will abolish. (1 Cor 15:26; Rev 21:4)",
+              "verses": [
+                {
+                  "label": "1 Cor 15:26",
+                  "kind": "bible",
+                  "key": "1-corinthians.15.26",
+                  "book": "1-corinthians",
+                  "chapter": 15,
+                  "verseStart": 26,
+                  "verseEnd": 26
+                },
+                {
+                  "label": "Rev 21:4",
+                  "kind": "bible",
+                  "key": "revelation.21.4",
+                  "book": "revelation",
+                  "chapter": 21,
+                  "verseStart": 4,
+                  "verseEnd": 4
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "It gives you a different God. An evolutionist saw this plainly. Philosopher David Hull wrote that the God implied by evolution is \"careless, wasteful, indifferent, almost diabolical,\" not the sort of God anyone would pray to (*Nature*, August 8, 1991). The God of the Bible made a world without death, and sin ruined it. (Gen 1:31; Rom 8:20–22)",
+              "verses": [
+                {
+                  "label": "Gen 1:31",
+                  "kind": "bible",
+                  "key": "genesis.1.31",
+                  "book": "genesis",
+                  "chapter": 1,
+                  "verseStart": 31,
+                  "verseEnd": 31
+                },
+                {
+                  "label": "Rom 8:20–22",
+                  "kind": "bible",
+                  "key": "romans.8.20-22",
+                  "book": "romans",
+                  "chapter": 8,
+                  "verseStart": 20,
+                  "verseEnd": 22
+                }
+              ],
+              "links": [],
+              "supplemental": false
             }
           ]
         },
@@ -18344,7 +18484,13 @@
               "supplemental": false
             },
             {
-              "text": "**\"The fossils show it.\"** → Fossils show that things died and were buried, most of them suddenly, in water-laid rock, all over the earth. That fits a worldwide flood. A fossil does not come with a date or a list of its children. (Gen 7:19–23; 2 Pet 3:5–6)",
+              "text": "**\"Small changes add up. Give it millions of years.\"** → That is the claim, not the evidence. What we observe is variation inside a kind, using information already there. *\"Has anyone watched the small changes add up to a new kind, or is that the part you take on trust?\"* And see the time problem above.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**\"The fossils show it.\"** → Fossils show that things died and were buried, most of them suddenly, in water-laid rock, all over the earth. That fits a worldwide flood. A fossil does not come with a date or a list of its children. And soft tissue, including flexible vessels and what look like cells, has been recovered from dinosaur bone (Mary Schweitzer, *Science*, 2005). *\"How does that last 65 million years?\"* (Gen 7:19–23; 2 Pet 3:5–6)",
               "verses": [
                 {
                   "label": "Gen 7:19–23",
@@ -18385,7 +18531,7 @@
               "supplemental": false
             },
             {
-              "text": "**\"Radiometric dating proves billions of years.\"** → The measurement is of what is in the rock today. The age is a calculation that assumes how much was there at the start, that nothing was added or lost, and that the rate never changed. No one was there to check any of the three. *\"How do you know the starting amount?\"*",
+              "text": "**\"Radiometric dating proves billions of years.\"** → The measurement is of what is in the rock today. The age is a calculation that assumes how much was there at the start, that nothing was added or lost, and that the rate never changed. No one was there to check any of the three. Creation researchers also report carbon-14 in coal and diamonds said to be millions of years old, where none should be left after about 100,000 years (the RATE project, 2005). *\"How do you know the starting amount?\"*",
               "verses": [],
               "links": [],
               "supplemental": false
@@ -18399,6 +18545,22 @@
             {
               "text": "**\"You're using God to fill the gaps.\"** → No. We reason from what we do know: codes come from minds, and life comes from life. He is the one filling the gaps, with time and chance. *\"Is 'given enough time, it happened' an observation or a hope?\"*",
               "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**\"With infinite time, or infinite universes, anything can happen.\"** → No one has observed another universe, so that is faith, not science. And time cannot be infinite into the past. Picture an endless row of falling dominoes: if an infinite number had to fall before yours, yours would never fall. We have reached today, so there was a first day. (Gen 1:1)",
+              "verses": [
+                {
+                  "label": "Gen 1:1",
+                  "kind": "bible",
+                  "key": "genesis.1.1",
+                  "book": "genesis",
+                  "chapter": 1,
+                  "verseStart": 1,
+                  "verseEnd": 1
+                }
+              ],
               "links": [],
               "supplemental": false
             },
@@ -18488,6 +18650,40 @@
             {
               "text": "**Don't repeat stories you can't source**, such as Darwin recanting on his deathbed. He did not.",
               "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Use Haldane's argument in its strong form.** Say \"about 1,667 beneficial changes,\" not \"30 million changes times 20 years is 600 million years.\" The short version treats every difference as a beneficial change in one line of descent, and anyone who has read about it will answer that most differences are neutral and are shared between two lines. Then you are defending your arithmetic and not making your point.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Don't say \"no one has ever answered it.\"** They have answered, by giving up natural selection as the main cause. Say that.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Say where the 15% comes from.** It is the share of the two genomes that does not line up one-to-one in the 2025 comparison. He may say it is counted differently; the 1% figure makes the argument just as well.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Don't make it a contest.** No bets, no crowd, no gloating when he has no answer. You want him, not the win. (Col 4:5–6)",
+              "verses": [
+                {
+                  "label": "Col 4:5–6",
+                  "kind": "bible",
+                  "key": "colossians.4.5-6",
+                  "book": "colossians",
+                  "chapter": 4,
+                  "verseStart": 5,
+                  "verseEnd": 6
+                }
+              ],
               "links": [],
               "supplemental": false
             },

@@ -175,6 +175,23 @@ Ask one question at a time and wait for the answer.
 - **Right and wrong.** If we are animals shaped by survival of the fittest, there is no "ought." The strong removing the weak is simply how the process works. He does not live that way, because he is made in God's image. *"If evolution is true, what makes cruelty wrong?"* (Gen 9:6; Rom 2:14–15)
 - **Worth and purpose.** An accident has no purpose and no worth beyond what it can do. Every person you meet knows better. (Ps 100:3; Eccl 3:11; Col 1:16)
 
+## Not enough time (Haldane's dilemma)
+This argument comes from evolution's own side. Eric Hovind (Creation Today) and John Harris (Living Waters Europe) take it to college campuses, and Walter ReMine set it out in *The Biotic Message* (1993).
+- **The man.** J. B. S. Haldane was one of the founders of population genetics and a committed evolutionist. In 1957 he published "The Cost of Natural Selection."
+- **The cost.** For a helpful mutation to spread to a whole population, those without it have to die out, generation after generation. A population can only afford so many of those deaths at once. Haldane's estimate: about one beneficial change fixed every 300 generations.
+- **The time.** Give evolution 10 million years from an ape-like ancestor to man, which is more than evolutionists ask for. At 20 years a generation that is 500,000 generations.
+- **The total.** 500,000 ÷ 300 is about 1,667 beneficial changes. That is all natural selection can afford.
+- **The gap.** Human and chimp DNA were long said to be 1% different. In a genome of 3 billion letters that is 30 million differences. A 2025 comparison of complete ape genomes found that around 15% of the two genomes does not line up one-to-one (*Nature*, Yoo et al.). Either way the gap is millions of letters, and selection can pay for fewer than two thousand.
+- **Even with every allowance.** Suppose one beneficial change were fixed every single generation, 300 times faster than Haldane found. You would still have only 500,000.
+**Ask:** *"Can 1,667 changes turn an ape-like creature into a man who speaks, writes, builds and worships?"*
+
+What he will say back:
+- **"That was solved. Kimura showed most changes are neutral."** → Look at what that answer gives up. In 1968 Motoo Kimura agreed that selection could not account for that many changes, so he proposed that most of them are neutral and spread by chance (drift). Neutral means it helps nothing. *"Then what built the human brain, speech and upright walking: selection, which is too slow, or chance, which selects nothing?"*
+- **"Not every difference has to be beneficial, and the differences are split between two lines."** → Fine. Take away as many as he likes. The question is whether fewer than two thousand useful changes can make a man.
+- **"Haldane's math is from 1957."** → Haldane expected it to be revised, and evolutionists have been revising it ever since. *"What is the number today, and does it get you from thousands to millions?"*
+- **"One study can't overturn hundreds."** → Truth is not counted by hands. One sound measurement can overturn a consensus, and it has before. *"If the numbers are right, would it matter how many people believed otherwise?"*
+- **"I'm not a biologist. I can't answer that."** → Thank him for the honest answer and don't press. *"Would you look into it? And if evolution can't do it, are you willing to ask who made you?"*
+
 ## Why creation is true
 - **God says so, and He was there.** Scripture is the standard, not the thing on trial. (Gen 1:31; Ex 20:11; Ps 33:6; Ps 33:9; Neh 9:6)
 - **Jesus says so.** He treated Genesis as history: God made them male and female "from the beginning of creation," not after ages of animal ancestry. (Mark 10:6; Matt 19:4–5; Luke 11:50–51)
@@ -187,14 +204,18 @@ Some Christians say so to keep the peace. It costs too much.
 - It turns Adam into a symbol, when Luke, Paul and Jesus treat him as a man. (Luke 3:38; Rom 5:14; 1 Cor 15:45)
 - It makes the days mean something the fourth commandment does not allow: Israel worked six days and rested one because God did. (Ex 20:9–11)
 - It lets the changing opinions of men correct the word of God. (Isa 40:8; Mark 7:13)
+- It calls good what God calls an enemy. If death built us, death is the tool of creation. Scripture says death is "the last enemy" that Christ will abolish. (1 Cor 15:26; Rev 21:4)
+- It gives you a different God. An evolutionist saw this plainly. Philosopher David Hull wrote that the God implied by evolution is "careless, wasteful, indifferent, almost diabolical," not the sort of God anyone would pray to (*Nature*, August 8, 1991). The God of the Bible made a world without death, and sin ruined it. (Gen 1:31; Rom 8:20–22)
 
 ## If he says
 - **"Evolution is a proven fact. All scientists agree."** → A count of hands is not a proof, and the majority has been wrong before. *"Which part has been observed: change within a kind, or one kind becoming another?"*
-- **"The fossils show it."** → Fossils show that things died and were buried, most of them suddenly, in water-laid rock, all over the earth. That fits a worldwide flood. A fossil does not come with a date or a list of its children. (Gen 7:19–23; 2 Pet 3:5–6)
+- **"Small changes add up. Give it millions of years."** → That is the claim, not the evidence. What we observe is variation inside a kind, using information already there. *"Has anyone watched the small changes add up to a new kind, or is that the part you take on trust?"* And see the time problem above.
+- **"The fossils show it."** → Fossils show that things died and were buried, most of them suddenly, in water-laid rock, all over the earth. That fits a worldwide flood. A fossil does not come with a date or a list of its children. And soft tissue, including flexible vessels and what look like cells, has been recovered from dinosaur bone (Mary Schweitzer, *Science*, 2005). *"How does that last 65 million years?"* (Gen 7:19–23; 2 Pet 3:5–6)
 - **"We share 98% of our DNA with chimps."** → Similar design points to one Designer as easily as to one ancestor. A builder uses the same materials in different houses. And the differences that remain are the difference between an ape and a man who writes symphonies and prays. (Gen 1:26–27)
-- **"Radiometric dating proves billions of years."** → The measurement is of what is in the rock today. The age is a calculation that assumes how much was there at the start, that nothing was added or lost, and that the rate never changed. No one was there to check any of the three. *"How do you know the starting amount?"*
+- **"Radiometric dating proves billions of years."** → The measurement is of what is in the rock today. The age is a calculation that assumes how much was there at the start, that nothing was added or lost, and that the rate never changed. No one was there to check any of the three. Creation researchers also report carbon-14 in coal and diamonds said to be millions of years old, where none should be left after about 100,000 years (the RATE project, 2005). *"How do you know the starting amount?"*
 - **"That's religion, not science."** → Both are claims about a past no one can repeat. And modern science grew up among men who expected order because they believed in a Lawgiver: Kepler, Boyle, Newton, Faraday, Maxwell. *"Why should a universe that came from nothing obey laws at all?"*
 - **"You're using God to fill the gaps."** → No. We reason from what we do know: codes come from minds, and life comes from life. He is the one filling the gaps, with time and chance. *"Is 'given enough time, it happened' an observation or a hope?"*
+- **"With infinite time, or infinite universes, anything can happen."** → No one has observed another universe, so that is faith, not science. And time cannot be infinite into the past. Picture an endless row of falling dominoes: if an infinite number had to fall before yours, yours would never fall. We have reached today, so there was a first day. (Gen 1:1)
 - **"Then who made God?"** → Whatever begins needs a cause. God has no beginning. He is not one more thing inside the universe that needs explaining. He is the reason there is anything to explain. (Ps 90:2; Isa 40:28)
 - **"Genesis is poetry."** → Genesis 1 is written as Hebrew narrative, with numbered days, evening and morning. Moses, Jesus and Paul all read it as history. (Ex 20:11; Mark 10:6; Rom 5:12–14)
 
@@ -202,6 +223,10 @@ Some Christians say so to keep the peace. It costs too much.
 - **Don't say "there's no evidence for evolution."** He will show you evidence of change within kinds and think he has won. Say: same evidence, different starting point.
 - **Don't say "it's only a theory," "why are there still monkeys?" or "the second law of thermodynamics disproves it."** Creation ministries themselves tell Christians to drop these. They are easy to answer and cost you the hearing.
 - **Don't repeat stories you can't source**, such as Darwin recanting on his deathbed. He did not.
+- **Use Haldane's argument in its strong form.** Say "about 1,667 beneficial changes," not "30 million changes times 20 years is 600 million years." The short version treats every difference as a beneficial change in one line of descent, and anyone who has read about it will answer that most differences are neutral and are shared between two lines. Then you are defending your arithmetic and not making your point.
+- **Don't say "no one has ever answered it."** They have answered, by giving up natural selection as the main cause. Say that.
+- **Say where the 15% comes from.** It is the share of the two genomes that does not line up one-to-one in the 2025 comparison. He may say it is counted differently; the 1% figure makes the argument just as well.
+- **Don't make it a contest.** No bets, no crowd, no gloating when he has no answer. You want him, not the win. (Col 4:5–6)
 - **Don't make it the main thing.** A man can give up evolution and still be lost. The aim is the Creator he answers to, and the Savior he needs. (Acts 17:24–31)
 - **Stay kind.** Many have never heard evolution questioned. Ask, don't mock. (2 Tim 2:24–26; 1 Pet 3:15)
 
