@@ -719,8 +719,8 @@ Jesus said, "Pray, then, in this way." It is a pattern to pray through, not only
 - **"Your kingdom come."** Ask Him to save sinners and to send His Son. (Matt 9:37–38; Rev 22:20)
 - **"Your will be done."** Lay your plans down. Jesus prayed this way in the garden. (Matt 26:39; James 4:15)
 - **"Give us this day our daily bread."** Ask for what you need today, and thank Him for it. (Phil 4:6; Matt 6:31–33)
-- **Forgive us, as we have forgiven.** Keep short accounts with God and hold nothing against anyone. (1 John 1:9; Mark 11:25; Eph 4:32)
-- **Keep us from temptation and deliver us from evil.** Ask to be kept. You are not strong enough alone. (Matt 26:41; 1 Cor 10:13; Eph 6:10–11)
+- **"Forgive us our debts, as we also have forgiven our debtors."** Keep short accounts with God and hold nothing against anyone. (1 John 1:9; Mark 11:25; Eph 4:32)
+- **"Do not lead us into temptation, but deliver us from the evil one."** Ask to be kept. You are not strong enough alone. (Matt 26:41; 1 Cor 10:13; Eph 6:10–11)
 
 ## Before you speak to someone
 Pray for them:
