@@ -1,6 +1,69 @@
-# LSB verses still to fill in (0 of 1114)
+# LSB verses still to fill in (64 of 1178)
 
 Open `content/lsb-verses.json`, find the reference, and paste the LSB text between the quotes after "text".
 Until a slot is filled, the app shows the BSB text with a small "BSB" label.
 
-
+- [ ] Genesis 6:5
+- [ ] Genesis 8:21
+- [ ] Genesis 12:3
+- [ ] Psalms 8:3–5
+- [ ] Psalms 8:4–5
+- [ ] Psalms 19:1–2
+- [ ] Psalms 24:1
+- [ ] Psalms 94:9
+- [ ] Psalms 104:27–30
+- [ ] Psalms 111:2
+- [ ] Psalms 146:3–4
+- [ ] Proverbs 22:2
+- [ ] Proverbs 27:1
+- [ ] Ecclesiastes 1:2–3
+- [ ] Ecclesiastes 2:11
+- [ ] Ecclesiastes 2:16
+- [ ] Ecclesiastes 7:2
+- [ ] Isaiah 46:9–10
+- [ ] Isaiah 55:6–7
+- [ ] Jeremiah 17:5
+- [ ] Jeremiah 29:13
+- [ ] Matthew 5:13–16
+- [ ] Matthew 7:16–20
+- [ ] Matthew 7:16
+- [ ] Matthew 10:29–30
+- [ ] Matthew 10:29–31
+- [ ] Matthew 10:31
+- [ ] Matthew 16:24–25
+- [ ] Matthew 22:37–39
+- [ ] Matthew 22:37–38
+- [ ] Matthew 23:13
+- [ ] Mark 8:36–37
+- [ ] Luke 12:20
+- [ ] Luke 18:19
+- [ ] John 3:3
+- [ ] John 5:17
+- [ ] John 7:17
+- [ ] John 8:36
+- [ ] John 10:37–38
+- [ ] John 13:35
+- [ ] John 20:29
+- [ ] Acts 5:29
+- [ ] Acts 14:17
+- [ ] Acts 17:26
+- [ ] Acts 17:27
+- [ ] Acts 17:27–28
+- [ ] Romans 2:12
+- [ ] Romans 3:4
+- [ ] Romans 5:19
+- [ ] Romans 7:24–25
+- [ ] Romans 10:14–17
+- [ ] 1 Corinthians 2:9–12
+- [ ] 1 Corinthians 2:11
+- [ ] 1 Corinthians 15:3–6
+- [ ] 1 Corinthians 15:14–17
+- [ ] 1 Corinthians 15:32
+- [ ] Ephesians 5:25
+- [ ] Philippians 2:6–11
+- [ ] 2 Timothy 3:7
+- [ ] Titus 3:4–5
+- [ ] James 4:1–2
+- [ ] James 4:14
+- [ ] 1 Peter 1:15–16
+- [ ] 1 John 5:9–10

@@ -371,6 +371,9 @@ const GROUPS: { match: RegExp; slug: Group["slug"]; name: string; color: string 
   { match: /CATHOLIC/, slug: "catholic", name: "Roman Catholic", color: "#9333ea" },
   { match: /ORTHODOX/, slug: "orthodox", name: "Eastern Orthodox", color: "#0d9488" },
   { match: /ATHEIST/, slug: "atheist", name: "Atheist", color: "#a3a3ad" },
+  { match: /^\S+ AGNOSTICS/, slug: "agnostic", name: "Agnostic", color: "#64748b" },
+  { match: /DEISTS/, slug: "deist", name: "Deist", color: "#c4b5a0" },
+  { match: /HUMANISTS/, slug: "humanist", name: "Secular Humanist", color: "#22d3ee" },
 ];
 
 function parsePlay(heading: string, body: L[], groupName: string): Play {

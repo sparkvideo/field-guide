@@ -23,6 +23,9 @@
 | **Roman Catholic** | [RCC Offense](#rcc-offense) | [RCC Defense](#rcc-defense) | [RCC Card](#rcc-card) |
 | **Eastern Orthodox** | [EO Offense](#eo-offense) | [EO Defense](#eo-defense) | [EO Card](#eo-card) |
 | **Atheist / Agnostic** | [ATH Offense](#ath-offense) | [ATH Defense](#ath-defense) | [ATH Card](#ath-card) |
+| **Agnostic** | [AGN Offense](#agn-offense) | [AGN Defense](#agn-defense) | [AGN Card](#agn-card) |
+| **Deist** | [DEI Offense](#dei-offense) | [DEI Defense](#dei-defense) | [DEI Card](#dei-card) |
+| **Secular Humanist** | [HUM Offense](#hum-offense) | [HUM Defense](#hum-defense) | [HUM Card](#hum-card) |
 | **Anyone denying the Trinity** | [🔥 The Holy Spirit Play](#holy-spirit-play) | | |
 
 ---
@@ -860,7 +863,7 @@ Verses to read ([▶](https://youtu.be/DPFeuxNkxCA?t=710)): **Q 4:24** (married 
   - *"Jesus said, 'The kingdom of God is within you.'"* → He said it to Pharisees who were plotting against Him; He was not telling them they were divine. The King was standing in their midst. The same Jesus said that what comes from within a man defiles him. (Luke 17:20–21; Mark 7:20–23)
   - *"Jesus reached Christ consciousness, and so can we."* → "Christ" is not a state of mind; it is a title, the Messiah, and it belongs to one Man. He warned that many would come saying "I am the Christ." (Matt 16:16; Matt 24:4–5, 23–24; 1 John 2:22)
   - *"We're all children of God."* → All are made by God. But the right to become children of God is given to those who receive Christ and believe in His name. (John 1:12; Gal 3:26; Acts 17:28–29)
-  - *"That's your truth."* → Is that statement true for both of us, or only for you? Jesus did not say He had a truth. He said, "I am the truth." See [Faith and reason](/topic/faith-and-reason). (John 14:6; John 18:37)
+  - *"That's your truth."* → Is that statement true for both of us, or only for you? And follow it through: if truth and right are personal, the rapist has his truth too, and no one can say he was wrong. You don't believe that. Some things are wrong for everyone, which means there is a standard above all of us. Jesus did not say He had a truth. He said, "I am the truth." See [Faith and reason](/topic/faith-and-reason). (John 14:6; John 18:37)
 - **Closer:** *"Being your own god is exhausting. You were never meant to hold it all together. There is One who does, and He says, 'Come to Me.' Would you?"* (Col 1:17; Matt 11:28)
 
 #### PLAY 2: Which spirit? (guides, readings and the test)
@@ -890,6 +893,7 @@ Verses to read ([▶](https://youtu.be/DPFeuxNkxCA?t=710)): **Q 4:24** (married 
 | **"The Universe has my back."** | An impersonal universe cannot love, hear or keep a promise. What you are hoping for is a Father. There is one, and He has a name. | Matt 6:26, 32; Ps 121:1–2; Rom 8:32 | *"Has the Universe ever forgiven you?"* |
 | **"I manifest my reality. Thoughts become things."** | Then every suffering person caused their own cancer, and you carry a weight no one can bear. Scripture says God rules and we ask: "If the Lord wills." That is freedom, not control. | James 4:13–15; Prov 16:9; Matt 6:9–11; Lam 3:37 | *"Did the child in the hospital manifest that?"* |
 | **"We are all one. Separation is an illusion."** | If all is one, there is no real difference between love and cruelty. The Bible says the separation that matters is real: our sins have separated us from God. And it can be healed. | Isa 59:2; Gen 1:1; Col 1:21–22 | *"Is evil part of the oneness?"* |
+| **"Right and wrong are personal. Everyone has their own truth."** | Then no one is ever wrong. The rapist was living his truth. And if you say society decides instead, then what Hitler's Germany did to the Jews was good for them at the time. You know both are false, so there is a standard above every person and every nation. See [Morality and justice](/topic/morality-and-justice). | Rom 2:14–15; Isa 5:20; Judges 21:25; Ps 89:14 | *"Was that wrong for everyone, or just not your preference?"* |
 | **"There's no sin, only lower vibrations and lessons."** | You don't believe that when you are betrayed. Wrong is real, guilt is real, and renaming it does not remove it. Blood does. | Rom 3:23; 1 John 1:8–9; Heb 9:22 | *"Have you ever needed to be forgiven?"* |
 | **"I've lived many lives."** | Scripture says once, then judgment. And notice that past-life "memories" are always of someone interesting. More to the point: if many lives haven't fixed us, another won't. | Heb 9:27; Luke 16:26; 2 Cor 5:10 | *"If this is the only one, are you ready?"* |
 | **"Jesus was a great spiritual teacher, like the others."** | Great teachers don't claim to be God, forgive sins and say all will be judged by them, unless it is true. He is not on the list; He is in a category of one. | John 8:58; Mark 2:5–7; John 5:22–23 | *"Have you read what He actually claimed?"* |
@@ -1410,6 +1414,254 @@ Verses to read ([▶](https://youtu.be/DPFeuxNkxCA?t=710)): **Q 4:24** (married 
 
 ---
 
+# ❔ AGNOSTICS
+
+**Their position:** "I don't know whether there is a God." Some mean it softly: "I haven't seen enough to decide, and I'm open." Some mean it hard: "No one can know." Most hold that the evidence is not clear either way, that the many religions cancel each other out, and that the honest thing is to withhold judgment. In practice most live as though there is no God while leaving the question open.
+
+**The dividing issue:** Whether God can be known. The agnostic says He has not made Himself clear. Scripture says He has: in what He made, in the conscience, in His word and finally in His Son, so that not knowing is not a neutral place to stand. A life lived with the question left open is a life lived without Him. (Rom 1:19–20; Heb 1:1–2; Matt 12:30; John 3:19–20)
+
+**Ask this question:** *"Are you saying you don't know, or that nobody can know? And what would it take for you to know?"* (John 7:17)
+
+**Scriptural response:** What can be known about God is evident, because God made it evident. The heavens declare His glory day after day. He is not far from each one of us. He promises, "You will seek Me and find Me when you search for Me with all your heart." And John wrote his Gospel so that a reader may believe that Jesus is the Christ and have life in His name. (Rom 1:19–20; Ps 19:1–2; Acts 17:27; Jer 29:13; John 20:30–31)
+
+**Common objection:** *"If God wanted me to believe, He would make it obvious."* → He has. He made a universe, gave you a conscience, and walked into history, died and rose with witnesses. People who saw Jesus' miracles in person still did not believe. Jesus said that if someone will not hear Scripture, he will not be persuaded even if someone rises from the dead. The obstacle is rarely the evidence. (John 12:37; Luke 16:31; John 5:40; Rom 1:20)
+
+**Gospel bridge:** *"You don't have to know everything to know enough. Do you know you have done wrong? Do you know you will die?"* Those two are not open questions. God has fixed a day of judgment and given proof by raising Jesus from the dead, and He receives everyone who comes: "the one who comes to Me I will never cast out." (Heb 9:27; Acts 17:30–31; John 6:37; Isa 55:6–7)
+
+**Where we agree:** Honesty about what you know matters. Blind belief is no virtue, and plenty of religious claims are false. Humility before big questions is right. A person should want reasons.
+
+**Approach:** Find out which kind you are talking to. The open kind is often the easiest person to talk with: thank them for their honesty and invite them to look at the best evidence, Jesus Himself, by reading a Gospel. The hard kind has made a claim, and you can gently ask how he knows it. Either way, don't let the conversation stay in the head. The agnostic is not undecided about how to live; he has already chosen. Aim at the conscience as you would with an atheist, and see the [Atheist](/atheist) plays for more. (Acts 17:11; Rom 2:14–15; 1 Pet 3:15)
+
+<a id="agn-card"></a>
+### 📇 Agnostic Cheat Card
+1. **Rom 1:19–20**: *"What does Paul say every person already knows, and from what?"*
+2. **Jer 29:13**: *"What does God promise the one who really seeks Him?"*
+3. **John 7:17**: *"What does Jesus say comes before knowing?"*
+4. **John 20:30–31**: *"Why was this Gospel written? Have you read it?"*
+5. **Luke 16:31**: *"Would more evidence really settle it?"*
+6. **2 Cor 6:2**: *"When does God say the right time is?"*
+
+<a id="agn-offense"></a>
+### 🗡️ AGNOSTIC OFFENSE
+
+#### PLAY 1: Can anyone know? (God has spoken)
+- **Opener:** *"When you say you don't know, do you mean you haven't looked into it, or that it can't be known?"*
+- **Or open with:** *"If God did exist and wanted to be known, how would He do it?"*
+- **Chain:**
+  1. If they say no one can know: that is itself a claim to know something about God, namely that He cannot or has not made Himself known. *"How do you know that?"*
+  2. **Ps 19:1–2; Rom 1:19–20**: Creation is God speaking without words. His eternal power and divine nature are clearly seen in what has been made. *"When you look at the night sky, what do you honestly think?"*
+  3. **Rom 2:14–15**: The conscience bears witness. You know some things are truly wrong. *"Where does that come from?"* See [Morality and justice](/topic/morality-and-justice).
+  4. **Heb 1:1–2**: God spoke long ago through the prophets, and in these last days has spoken in His Son. If there is a God who made speaking creatures, it is not strange that He speaks.
+  5. **John 1:18; John 14:9**: No one has seen God at any time; the only begotten God has explained Him. "He who has seen Me has seen the Father." *"If you wanted to know what God is like, would you look at Jesus?"*
+  6. **Acts 17:30–31**: God has given proof to all by raising Him from the dead. That is a claim about history, and it can be examined. See [The resurrection](/topic/the-resurrection).
+  7. **John 20:30–31**: These things are written so that you may believe. *"Would you read John's Gospel and tell me who you think Jesus is?"*
+- **If they say →**
+  - *"There are thousands of religions. How could anyone pick?"* → They are not all alike. Only one rests on a public event: a man who said He would rise and did. Start there, and the field narrows fast. See [The exclusivity of Christ](/topic/the-exclusivity-of-christ).
+  - *"Science can't detect God."* → Science studies what God made; it is the wrong tool for the Maker, as a metal detector is the wrong tool for finding wood. Science itself rests on things it cannot prove, like an orderly universe and a mind that can know it. See [Faith and reason](/topic/faith-and-reason).
+  - *"You can't be certain either."* → My certainty does not rest on my mind but on God's word. Luke wrote so that we may know the certainty of these things, and John so that we may know we have eternal life. (Luke 1:3–4; 1 John 5:13; 2 Tim 1:12)
+- **Closer:** *"God is not hiding. He is 'not far from each one of us.' The question is not whether He can be known, but whether you want to know Him. Do you?"* (Acts 17:27; Jer 29:13)
+
+#### PLAY 2: What would it take? (the will, and the clock)
+- **Opener:** *"If I could show you that Christianity is true, would you become a Christian?"*
+- **Or open with:** *"How long have you been undecided? What are you doing to find out?"*
+- **Chain:**
+  1. The opener matters. If the answer is "no" or a long pause, the problem was never evidence. Say so kindly.
+  2. **John 3:19–20**: This is the judgment: the Light has come into the world, and men loved the darkness rather than the Light, for their deeds were evil. *"Is there anything you would have to give up if it were true?"*
+  3. **John 7:17**: "If anyone is willing to do His will, he will know about the teaching, whether it is of God." Willingness comes before knowing.
+  4. **Matt 12:30**: "He who is not with Me is against Me." There is no neutral seat. Not deciding is deciding.
+  5. **Prov 27:1; James 4:14**: Do not boast about tomorrow. You are a vapor that appears for a little while. *"What if the question closes before you answer it?"*
+  6. **Heb 9:27; Luke 12:20**: It is appointed for men to die once, and after this comes judgment. "This very night your soul is required of you."
+  7. **Isa 55:6–7; 2 Cor 6:2**: Seek Yahweh while He may be found. Now is the acceptable time. He will have compassion and abundantly pardon.
+- **If they say →**
+  - *"I'm keeping an open mind."* → Good. An open mind, like an open mouth, is meant to close on something solid. Scripture describes people who are always learning and never able to come to the knowledge of the truth. (2 Tim 3:7; Acts 17:11)
+  - *"I'll look into it someday."* → You plan for things far less certain than death. What would it cost to read one Gospel this month? (Luke 12:20; Ps 90:12)
+  - *"It doesn't really affect my life."* → If there is a God, nothing affects it more: why you exist, what is right, and what happens when you die. "What does it profit a man to gain the whole world and forfeit his soul?" (Mark 8:36; Eccl 3:11)
+  - *"I asked God to show Himself once and nothing happened."* → He has not promised a sign on demand; He has given His word and His Son. Faith comes from hearing the word of Christ. Have you read it, asking Him to show you? (Rom 10:17; Luke 16:31; Jer 29:13)
+- **Closer:** *"You've been honest with me, so let me be honest with you: you already know enough to be accountable, and God has done enough for you to be forgiven. Will you come to Him?"* (Rom 1:20; John 6:37)
+
+<a id="agn-defense"></a>
+### 🛡️ AGNOSTIC DEFENSE
+
+| They say… | Quick answer | Go to | Ask back |
+|---|---|---|---|
+| **"There isn't enough evidence either way."** | Scripture says the evidence is everywhere and that the trouble is what we do with it. Ask what evidence would count, and who set that standard. See [Worldviews: how do you know?](/topic/worldviews-how-do-you-know). | Rom 1:19–20; Ps 19:1–2; John 12:37 | *"What would be enough?"* |
+| **"No one can know."** | That is a claim to know: that God, if He exists, could not make Himself known. Why not? The One who made the ear can speak. | Ps 94:9; Heb 1:1–2; John 1:18 | *"How do you know no one can know?"* |
+| **"All religions claim to be true. They can't all be right."** | Correct, they can't. That means some are false, not that none is true. Test the one that stakes everything on a resurrection in history. | 1 Cor 15:14–17; Acts 26:26; John 14:6 | *"Have you examined the resurrection?"* |
+| **"I'm a good person. If there's a God, I'll be fine."** | That is not "I don't know"; that is confidence in your own record. By God's standard no one is good. See [The Way of the Master](/topic/the-way-of-the-master). | Rom 3:10–12; Luke 18:19; James 2:10 | *"Good by whose standard?"* |
+| **"It's arrogant to claim you know."** | It would be, if we had figured it out. We claim only that God has spoken and that we believe Him. Refusing what He says is not humility. | 1 Cor 2:9–12; Deut 29:29; 1 John 5:9–10 | *"Is it humble to tell God He hasn't been clear?"* |
+| **"I'd believe if God showed Himself to me."** | He showed Himself to a whole nation in Christ, and they crucified Him. He has given you their testimony. "Blessed are those who did not see, and yet believed." | John 20:29; John 12:37; Luke 16:31 | *"If He did, would you obey Him?"* |
+| **"I don't think about it much."** | God has set eternity in your heart; the question comes back at funerals and at 3 a.m. Wisdom thinks about its end before it arrives. | Eccl 3:11; Eccl 7:2; Ps 90:12 | *"What do you think happens when you die?"* |
+| **"I was raised religious and it didn't hold up."** | Ask what they were taught and what broke it. Often it was a church's failure or a thin version of the faith, not Christ. Offer to look at Jesus' own words together. | Matt 11:28–30; John 6:68; Jude 1:22 | *"Was it Jesus you rejected, or something else?"* |
+
+**Typical exits:** "I guess we'll find out when we die." (Say: *"That's the one time it's too late to change your answer. Would you look into it before then?"*) · "I need to think about it." (Good. Give them John's Gospel and one question: *"Who is Jesus?"*) · "Agree to disagree." (You haven't disagreed; they said they don't know. Offer to help them find out.) · "Nobody really knows." (Leave Jer 29:13.)
+
+# 🧭 DEISTS
+
+**Their position:** There is a Creator, and reason and nature are enough to know it. But He does not step into the world: no miracles, no revelation, no incarnation, no answered prayer. The Bible is a human book, Jesus was a great moral teacher, and religion's doctrines were added by men. God wants people to be good, and good people can expect to be all right in the end. Few people use the word today, but a great many hold the belief: God exists, wants us to be nice and happy, stays out of the way unless needed, and takes good people to heaven. Sociologist Christian Smith named that "moralistic therapeutic deism" (2005).
+
+**The dividing issue:** Whether God has spoken and acted. The deist's God made the world and went quiet. The God of Scripture upholds all things by the word of His power, feeds the sparrows, has spoken through prophets, and came in person. With that goes the gospel: the deist needs only to be decent; Scripture says he needs to be forgiven. (Heb 1:1–3; Col 1:17; John 1:14; Rom 3:23)
+
+**Ask this question:** *"If God cared enough to make you, why would He never say anything to you?"* (Heb 1:1–2)
+
+**Scriptural response:** God did not leave Himself without witness: He gives rain and fruitful seasons. Not a sparrow falls apart from the Father, and the hairs of your head are numbered. He spoke through the prophets and, last of all, in His Son, who is the exact representation of His nature. The Word became flesh and dwelt among us. And He has fixed a day when He will judge the world. (Acts 14:17; Matt 10:29–30; Heb 1:1–3; John 1:14; Acts 17:30–31)
+
+**Common objection:** *"Miracles break the laws of nature. A reasonable person can't accept them."* → You already believe the greatest miracle: that God made everything out of nothing. One who can do that can raise a dead man. The laws of nature describe how God ordinarily runs His world; they do not bind the Lawgiver. The question is not whether miracles can happen but whether one did. See [The resurrection](/topic/the-resurrection). (Gen 1:1; Jer 32:17; Acts 26:8)
+
+**Gospel bridge:** *"You believe God is just. Then what does a just God do with the wrong you have done?"* Nature can tell you there is a God, and conscience can tell you that you are guilty. Neither can tell you how to be forgiven. That takes news from God, and He sent it: while we were still sinners, Christ died for us. (Rom 1:20; Rom 3:19; Rom 10:17; Rom 5:8)
+
+**Where we agree:** There is a Creator, and creation shows it. Reason is a gift and should be used. There is real right and wrong, and God cares about how we live. Superstition and priestly abuse of power are real evils.
+
+**Approach:** You are halfway there, so start with thanks: this person already grants God. Then press the two places deism is thin. First, it is odd for a God who makes persons to be silent toward them. Second, "be good" is no comfort to anyone honest about himself. Most deists have never examined the resurrection; they dismissed it in advance. Ask them to weigh it as history. With the churchgoing kind, who believes this while calling himself a Christian, use the commandments and the cross: see [The Gospel](/topic/the-gospel). (Acts 17:22–31; Rom 2:4; Acts 26:25–26)
+
+<a id="dei-card"></a>
+### 📇 Deist Cheat Card
+1. **Heb 1:1–2**: *"Has God spoken? Through whom, last of all?"*
+2. **Matt 10:29–30**: *"How involved is God, according to Jesus?"*
+3. **Acts 14:17**: *"What witness has God left of Himself every day?"*
+4. **Acts 26:8**: *"If God made the world, why is raising the dead incredible?"*
+5. **Luke 18:19**: *"Who does Jesus say is good?"*
+6. **Rom 5:8**: *"What did God do that nature could never tell you?"*
+
+<a id="dei-offense"></a>
+### 🗡️ DEIST OFFENSE
+
+#### PLAY 1: The God who speaks (and has not gone anywhere)
+- **Opener:** *"You believe God made everything. What do you think He is doing now?"*
+- **Or open with:** *"Would a father build a house for his children and never speak to them?"*
+- **Chain:**
+  1. **Ps 19:1–4**: Start where they are. The heavens declare the glory of God. *"What does creation tell you about Him?"* Power, intelligence, order. Agree.
+  2. **Ps 94:9**: "He who planted the ear, does He not hear? He who formed the eye, does He not see?" The Maker of persons who speak and love is not less than personal. *"Can the One who invented language be unable to use it?"*
+  3. **Acts 17:24–28**: He made the world, gives to all life and breath, set the times and boundaries of nations so that they would seek Him, and is not far from each of us. In Him we live and move and exist.
+  4. **Col 1:16–17; Heb 1:3**: All things were created through Christ, and in Him all things hold together. The world is not a wound-up clock; it is upheld every moment.
+  5. **Matt 6:26; Matt 10:29–31**: Your Father feeds the birds. Not one sparrow falls without Him. *"That is Jesus' picture of God. Was He wrong about His Father?"*
+  6. **Heb 1:1–2; 2 Pet 1:20–21**: God spoke through the prophets, and men moved by the Holy Spirit spoke from God. See [Is the Bible reliable?](/topic/is-the-bible-reliable).
+  7. **John 1:14, 18**: The Word became flesh. God did not send a message only; He came.
+- **If they say →**
+  - *"Why would the God of a hundred billion galaxies care about us?"* → Size is not worth. A father values his child over his house. Scripture asks the same question in wonder and answers that God is mindful of man. (Ps 8:3–5; Matt 10:31)
+  - *"Revelation to one small nation long ago is unfair to everyone else."* → God chose one nation so that through it all the families of the earth would be blessed, and the message has gone to every tongue. No one is judged for light he did not have; everyone has enough to be accountable. (Gen 12:3; Rev 7:9; Rom 1:20; Rom 2:12)
+  - *"Prayer changes nothing. Things just take their course."* → Jesus taught the opposite and prayed Himself. A Father who knows how to give good gifts hears His children. (Matt 7:11; James 5:16; 1 John 5:14)
+  - *"Evil and suffering show God is not involved."* → Or they show a world in rebellion that He has not yet judged, out of patience. At the cross He used the worst evil for the greatest good. See [The problem of evil](/topic/the-problem-of-evil). (Gen 50:20; Acts 2:23; 2 Pet 3:9)
+- **Closer:** *"You believe in a God who made you. He is nearer than you thought, He has spoken, and He has come. Would you listen to what He said?"* (Acts 17:27; Heb 1:2)
+
+#### PLAY 2: Good enough for God? (the moral teacher and the Savior)
+- **Opener:** *"What do you think God wants from people?"*
+- **Or open with:** *"You admire Jesus as a teacher. What do you make of what He said about Himself?"*
+- **Chain:**
+  1. **Matt 22:37–39**: Jesus summed up what God wants: love God with all your heart, soul and mind, and your neighbor as yourself. *"Have you done that, even for one day?"*
+  2. **Matt 5:21–22, 27–28**: The moral teacher raised the bar: anger is murder in the heart, and lust is adultery in the heart. His ethics do not flatter us; they convict us.
+  3. **Luke 18:19; Rom 3:10–12**: "No one is good except God alone." None is righteous, not even one.
+  4. **Rom 2:5–6**: A just God will repay each person according to his works. *"You believe God is just. Is that good news for you?"*
+  5. **Mark 2:5–7; John 8:58**: Jesus did not only teach. He forgave sins as only God can, and said, "Before Abraham was born, I am." A mere moral teacher who says that is not moral. *"Was He lying, deluded, or telling the truth?"*
+  6. **Mark 10:45**: He said He came to give His life as a ransom for many. His own account of His mission is the cross, not the Sermon on the Mount.
+  7. **1 Cor 15:3–6; Acts 17:31**: He died for our sins, was buried, was raised and was seen by more than five hundred. God gave proof to all by raising Him.
+- **If they say →**
+  - *"I keep the Golden Rule. That's enough."* → Do you keep it? Always? And it is the second commandment; the first is to love God with everything. (Matt 7:12; Matt 22:37–38; James 2:10)
+  - *"The miracles and the claims to be God were added later by the church."* → Paul's letters, written within about twenty-five years of the cross, already worship Jesus as Lord and report the resurrection from eyewitnesses then living. There was no time for legend. (1 Cor 15:3–8; Phil 2:6–11)
+  - *"Jefferson cut out the miracles and kept the morals."* → He did, with a razor. What he kept is a teacher who claims authority over every conscience and then dies for nothing. The Jesus of history comes whole or not at all. (John 10:37–38; Luke 24:25–27)
+  - *"A good God would not condemn decent people."* → A good judge does not ignore crimes because the criminal was polite. And He has done more than be fair: He bore the sentence Himself. See [Hell and eternal judgment](/topic/hell-and-eternal-judgment). (Prov 17:15; Rom 3:25–26)
+- **Closer:** *"Deism gives you a Maker and a standard, and leaves you alone with your record. The gospel gives you a Father and a Savior. Which do you need?"* (Rom 5:8; John 1:12)
+
+<a id="dei-defense"></a>
+### 🛡️ DEIST DEFENSE
+
+| They say… | Quick answer | Go to | Ask back |
+|---|---|---|---|
+| **"God set things in motion and stepped back."** | Scripture says He upholds all things by the word of His power, right now. Jesus said His Father is working until now. | Heb 1:3; Col 1:17; John 5:17; Ps 104:27–30 | *"How do you know He stepped back?"* |
+| **"Reason is enough. I don't need revelation."** | Reason can find that there is a God. It cannot find out what He thinks of you or how to be forgiven. For that He has to tell you. | 1 Cor 2:11; Rom 10:14–17; Deut 29:29 | *"Can reason tell you whether God will forgive you?"* |
+| **"Miracles don't happen."** | If God made the universe, miracles are possible. Whether one happened is a question of testimony. Look at the resurrection. | Gen 1:1; Jer 32:17; Acts 26:8; 1 Cor 15:6 | *"Is that a conclusion from evidence, or an assumption before it?"* |
+| **"The Bible is just men's writings."** | It claims more, Jesus treated it as God's word, and its fulfilled prophecy backs the claim. See [Is the Bible reliable?](/topic/is-the-bible-reliable). | 2 Tim 3:16; 2 Pet 1:21; John 10:35; Isa 46:9–10 | *"Have you read it as an adult?"* |
+| **"Jesus was a great moral teacher, nothing more."** | He claimed to forgive sins, to judge the world and to exist before Abraham. A man who says that falsely is not a great moral teacher. | Mark 2:5–7; John 5:22–23; John 8:58 | *"Which of His claims would a mere teacher make?"* |
+| **"Organized religion is man-made and corrupt."** | Much of it is, and Jesus said so before you did. But the abuse of a thing does not make the thing false. He founded His church and gave Himself for her. | Matt 23:13; Matt 16:18; Eph 5:25 | *"Does counterfeit money mean there is no real money?"* |
+| **"Good people go to heaven."** | That is the most widely held belief in America and it is not in the Bible. No one is good; heaven is for the forgiven. | Rom 3:10–12; Titus 3:5; Eph 2:8–9; Luke 18:13–14 | *"How good is good enough, and who told you?"* |
+| **"God just wants me to be happy."** | He wants you holy, and in Him, truly happy. A God who exists to serve our plans is one we made in our own image. | 1 Pet 1:15–16; Ps 16:11; Matt 16:24–25 | *"What if what you want and what is good for you differ?"* |
+| **"The Founding Fathers were deists."** | Some were, and many were not. Either way, truth is not settled by who held it. | Acts 17:11; Rom 3:4 | *"Is it true? That's the only question."* |
+
+**Typical exits:** "I believe in God, and that's enough." (Say: *"The demons also believe, and shudder. What matters is whether you are right with Him."* James 2:19.) · "I don't need church to be a good person." (Agree that church doesn't make anyone good, and ask: *"Are you good?"*) · "We can't know those details." (Ask: *"Unless He told us. Would you read what He said?"*) · "To each his own." (Leave Rom 5:8.)
+
+# 🧑 SECULAR HUMANISTS
+
+**Their position:** There is no God and no life after death, and human beings are the product of unguided evolution. Knowledge comes through science and reason. Right and wrong are worked out from human need and experience, not handed down. People are basically good and can be improved by education, science and fair institutions. Meaning is something we make. Their own summary: "No deity will save us; we must save ourselves" [Humanist Manifesto II, 1973]. Many would simply say, "I believe in science and being a good person."
+
+**The dividing issue:** Who is the measure, God or man, and whether man can save himself. Humanism keeps the Bible's high view of human worth and throws away its foundation, the image of God. It also throws away the Bible's diagnosis, that the human heart is the problem, and so trusts the patient to cure himself. (Gen 1:27; Jer 17:5; Jer 17:9; Rom 1:25)
+
+**Ask this question:** *"You believe every human being has dignity and equal worth. If we are accidents of chemistry, where does that worth come from?"* (Gen 1:27)
+
+**Scriptural response:** God created man in His own image. That is why human life is sacred, why it is wrong to curse or kill a man, and why all nations are of one blood. Yet the heart is deceitful above all else, and none is righteous. Do not trust in princes or in mortal man, in whom there is no salvation: his spirit departs, and his plans perish. (Gen 1:26–27; Gen 9:6; Acts 17:26; Jer 17:9; Rom 3:10–12; Ps 146:3–4)
+
+**Common objection:** *"I can be good without God."* → You can do many good things, and I don't doubt you do. Scripture says why: you are made in God's image, and His law is written on your heart. But the question is not whether you can behave without believing. It is what makes anything good at all, and whether you are good by God's measure. Jesus said no one is. See [Morality and justice](/topic/morality-and-justice). (Rom 2:14–15; Luke 18:19; Rom 3:23)
+
+**Gospel bridge:** *"The manifesto says we must save ourselves. After a century of more education, science and wealth than any people in history, how is that going? How is it going in your own heart?"* We know the good and do not do it. The kindness of God appeared, and He saved us, not by deeds we had done, but by His mercy. (Rom 7:18–19; Rom 7:24–25; Titus 3:4–5; John 8:36)
+
+**Where we agree:** Human beings matter. Cruelty, oppression and ignorance are evils worth fighting. Science is a good tool and truth should be followed. This life is precious. Hypocrisy in religion deserves criticism.
+
+**Approach:** The humanist is living on borrowed capital: human rights, equality and compassion grew in soil the Bible plowed, and they do not grow from "matter in motion." Jeff Durbin's line to a skeptic says it well: "you're acting like a Christian." Affirm the good they love, then ask what it rests on. Do not argue that atheists are immoral; argue that their morality has no foundation and their optimism about man has no evidence. Then go to the conscience and the cross. The [Atheist](/atheist) plays and [Worldviews: how do you know?](/topic/worldviews-how-do-you-know) carry the rest. Remember that humanism is itself a faith with a creed, and its first manifesto called it religious. (Acts 17:22–31; Col 2:8; 1 Pet 3:15)
+
+<a id="hum-card"></a>
+### 📇 Secular Humanist Cheat Card
+1. **Gen 1:27**: *"What gives a human being worth that an animal does not have?"*
+2. **Jer 17:9**: *"Is the human heart the solution or the problem?"*
+3. **Ps 146:3–4**: *"What happens to every human plan?"*
+4. **Rom 7:18–19**: *"Do you always do the good you know?"*
+5. **Mark 8:36**: *"What is the profit if you gain the world and lose your soul?"*
+6. **Titus 3:4–5**: *"Who does the saving here?"*
+
+<a id="hum-offense"></a>
+### 🗡️ SECULAR HUMANIST OFFENSE
+
+#### PLAY 1: Where does human worth come from? (the image of God)
+- **Opener:** *"What makes a human life valuable?"*
+- **Or open with:** *"Why is it wrong to treat people as things?"*
+- **Chain:**
+  1. Let them answer: reason, feeling, consciousness, contribution. Each of those comes in degrees, so worth would come in degrees: the infant, the disabled and the dying would have less. *"Do you believe that?"* They do not, and that is to their credit.
+  2. If we are the unplanned result of matter, time and chance, then "equal dignity" is a feeling one species has about itself. Nature knows nothing of equality; it knows strong and weak.
+  3. **Gen 1:26–27**: God created man in His own image, male and female. Worth is given, not earned, and it does not come in degrees.
+  4. **Gen 9:6; James 3:9**: That image is the reason murder is a crime against God and why it is wrong even to curse a man.
+  5. **Acts 17:26**: He made from one man every nation. Human equality and the unity of the race are Bible doctrines before they were modern ideals.
+  6. **Ps 8:3–5**: Small against the heavens, yet crowned with glory and majesty. Scripture explains both our smallness and our greatness.
+  7. **Mark 8:36–37; John 3:16**: Jesus put the value of one soul above the whole world, and God gave His Son for it. *"Nothing has ever set human worth higher than the cross."*
+- **If they say →**
+  - *"We give each other worth by agreement."* → Then a society can agree to take it away, and has. Hitler's Germany agreed that Jews had none. If agreement is the standard, that was good for them at the time, and no outsider could call it evil. A right that the majority grants, the majority can revoke. Only a worth given by God stands over every government. (Acts 5:29; Prov 22:2)
+  - *"Morality evolved because cooperation helps us survive."* → That would explain why we feel obligations, not why we have any. And evolution "favors" cruelty as readily as kindness when it works. See [Morality and justice](/topic/morality-and-justice).
+  - *"Religion has done more harm than good."* → Much evil has been done in God's name, against Christ's commands. But the worst slaughters of the last century were carried out by regimes that had officially abolished God. And look at who built the hospitals and ended the slave trade. Judge Christ by Christ. (Matt 7:16–20; James 1:27; John 13:35)
+  - *"Science tells us what is true."* → Science tells us what is, never what ought to be, and "only science gives knowledge" is not itself a finding of science. See [Faith and reason](/topic/faith-and-reason).
+- **Closer:** *"You are right about human dignity and wrong about where it comes from. The God whose image you bear is the reason you care. Would you want to know Him?"* (Gen 1:27; Acts 17:27–28)
+
+#### PLAY 2: Can we save ourselves? (the heart, and death)
+- **Opener:** *"Do you think people are basically good?"*
+- **Or open with:** *"What would it take to fix the world?"*
+- **Chain:**
+  1. Ask why, if people are basically good, every society needs locks, police, passwords and contracts, and why no one has to teach a child to be selfish.
+  2. **Gen 6:5; Gen 8:21**: Every intent of the thoughts of man's heart was only evil continually; the intent of man's heart is evil from his youth. That was true before the flood and after it.
+  3. **Jer 17:9; Mark 7:21–23**: The heart is deceitful and desperately sick. Evil comes from within. Better schools make cleverer sinners; the most educated nation in Europe built the death camps.
+  4. **Rom 7:18–19**: "The good that I want, I do not do." *"Is that your experience? Do you live up to your own ideals?"*
+  5. **Ps 146:3–4; Eccl 2:16**: Whatever progress we make, each of us dies and his plans perish, and the wise man dies like the fool. Humanism has no answer to the grave. *"If death wins, in what sense have we saved ourselves?"*
+  6. **Ezek 36:26; John 3:3**: What we need is not improvement but a new heart, and that is what God promises: "I will give you a new heart." "You must be born again."
+  7. **1 Cor 15:21–22; Rom 5:19**: By a man came death, and by a Man came the resurrection of the dead. Christ is the true human being, the one who obeyed, and He gives His record and His life to those who trust Him.
+- **If they say →**
+  - *"Evil comes from poverty, ignorance and bad systems."* → Those make things worse, and Christians should fight them. But the comfortable and educated sin as freely as anyone, only with better lawyers. Systems are made of hearts. (James 4:1–2; Mark 7:21)
+  - *"We make our own meaning."* → A meaning you invent is a story you tell yourself, and it ends when you do. Solomon tried pleasure, work, wisdom and wealth and called it vapor. Meaning has to be given by the One who made you. (Eccl 1:2–3; Eccl 12:13–14; John 17:3)
+  - *"This life is all there is, so make the most of it."* → Paul agrees that would follow: "If the dead are not raised, let us eat and drink, for tomorrow we die." But Christ has been raised. See [The resurrection](/topic/the-resurrection). (1 Cor 15:32; 1 Cor 15:20)
+  - *"I don't need saving."* → From what you have done, and from what is coming. Walk through a few commandments: see [The Way of the Master](/topic/the-way-of-the-master). (Rom 3:19; Heb 9:27)
+- **Closer:** *"'No deity will save us; we must save ourselves.' That is not good news; that is a burden no one has carried. Here is good news: 'When the kindness of God our Savior appeared, He saved us.' Would you lay the burden down?"* (Titus 3:4–5; Matt 11:28)
+
+<a id="hum-defense"></a>
+### 🛡️ SECULAR HUMANIST DEFENSE
+
+| They say… | Quick answer | Go to | Ask back |
+|---|---|---|---|
+| **"I believe in science, not faith."** | Science is a gift, and it was born among people who believed a rational God made an orderly world. It cannot tell you why you matter, what is right or what happens when you die. | Ps 19:1; Ps 111:2; Col 2:3; Prov 1:7 | *"Which experiment shows that people have rights?"* |
+| **"Faith is believing without evidence."** | Not in the Bible. Jesus presented Himself alive by many convincing proofs, and the apostles appealed to public facts. Faith is trust in One who has shown Himself trustworthy. | Acts 1:3; Acts 26:26; 1 Cor 15:6; Heb 11:1 | *"Where did you get that definition?"* |
+| **"Society decides what is right."** | Then what Hitler's Germany did to the Jews was right, there and then, and the people who hid Jews were the wrongdoers. And if you retreat to "each person decides," the rapist is never wrong. Neither holds, so the standard is above both. See [Morality and justice](/topic/morality-and-justice). | Rom 2:14–15; Isa 5:20; Acts 5:29; Ps 89:14 | *"Was the Holocaust wrong even though their society approved it?"* |
+| **"Morality is about human wellbeing."** | Whose wellbeing, measured how, and why should the strong care about the weak? "Wellbeing" quietly assumes that people have worth, which is the very thing to be explained. | Gen 1:27; Mic 6:8; Matt 22:37–39 | *"Why ought I to care about a stranger's wellbeing?"* |
+| **"People are basically good."** | History, the news and our own hearts say otherwise, and so does Jesus. The honest diagnosis is the first step to the cure. | Mark 7:21–23; Rom 3:10–12; Eccl 7:20 | *"Do you need a lock on your door?"* |
+| **"Religion is the cause of most wars and oppression."** | Sinners are. They use religion, nation, race and economics alike. The officially godless states of the last century killed their own people by the tens of millions. | James 4:1–2; Jer 17:9; Matt 7:16 | *"What did the regimes that abolished God put in His place?"* |
+| **"Keep your religion out of public life."** | Everyone brings a view of what is good into public life. Humanism is one such view, with manifestos. The question is not whether a creed will shape the law, but which one. | Ps 24:1; Acts 5:29; Matt 5:13–16 | *"Is your view of right and wrong allowed in?"* |
+| **"When you're dead, you're dead."** | That is a belief, not a discovery. Scripture says judgment follows death, and God has given evidence by raising Jesus. | Heb 9:27; Dan 12:2; Acts 17:31 | *"How do you know?"* |
+| **"I find meaning in family, work and making things better."** | Those are good gifts. But gifts point to a Giver, and none of them survives the grave. You were made for more than what you can lose. | Eccl 3:11; Eccl 2:11; James 1:17; John 10:10 | *"What happens to that meaning when those are taken?"* |
+| **"Christianity is anti-human: guilt, rules and fear."** | It says you are made in God's image, loved at the cost of God's own Son, and offered life that death cannot end. Nothing has ever thought more of human beings. Guilt is real, and it is taken away. | Ps 8:4–5; Rom 5:8; Rom 8:1; John 8:36 | *"What would you do with guilt if there were no forgiveness?"* |
+
+**Typical exits:** "I'm glad it works for you." (Say: *"It only matters if it's true. Would you look at the evidence for the resurrection?"*) · "I just try to be a good person." (Ask: *"By whose standard, and how are you doing?"*) · "We'll never agree on this." (Leave the question from the card: *"Where does human worth come from?"*) · "Religion isn't for me." (Offer Jesus, not religion: *"Would you read one Gospel?"*)
+
 # ⬛ ATHEISTS / AGNOSTICS
 
 **Their position:** Atheist: usually "I don't believe in God" (some say "there is no God"). Agnostic: "I don't know" or "we can't know." Most hold that the universe and life came from natural causes alone and the Bible is a human book. Many see right and wrong as human-made.
@@ -1485,6 +1737,7 @@ Verses to read ([▶](https://youtu.be/DPFeuxNkxCA?t=710)): **Q 4:24** (married 
 | **"Science has disproved God."** | Science studies how creation works. It depends on order and laws it cannot explain, and it cannot tell you why anything exists or what is right. | Ps 19:1; Col 1:17; Heb 1:3 | *"Which experiment showed there is no God?"* |
 | **"If God is good, why is there so much evil and suffering?"** | Calling something evil assumes a real standard of good. Scripture names the cause (the fall), shows God turning evil to good, entering suffering at the cross, and promising to end it. Full answer: [The problem of evil](/topic/the-problem-of-evil). | Gen 50:20; Rom 8:28; Acts 2:23; Rev 21:4 | *"By what standard do you call it evil?"* |
 | **"The Bible was written by men and is full of errors."** | Men wrote as they were moved by the Holy Spirit. Ask for a specific error and read it together. | 2 Tim 3:16; 2 Pet 1:20–21 | *"Which error? Let's look at it."* |
+| **"Morality is decided by each person, or by society."** | If each person decides, the rapist is never wrong; he was acting on his own truth. If society decides, what Hitler's Germany did to the Jews was good for them at the time. No one can live with either. Real right and wrong need a standard above every person and nation. See [Morality and justice](/topic/morality-and-justice). | Rom 2:14–15; Isa 5:20; Ps 89:14; Acts 17:31 | *"Was the Holocaust wrong even though their society approved?"* |
 | **"The God of the Old Testament is a moral monster."** | To judge Him you need an objective standard, which only He supplies. He judged wicked nations after centuries of patience, He takes no pleasure in the death of the wicked, and He bore judgment Himself at the cross. | Gen 15:16; Deut 9:4–5; Ezek 18:23 | *"If there is no God, what makes anything objectively wrong?"* |
 | **"Religion causes wars, and Christians are hypocrites."** | People sin, which is exactly what the Bible says. Jesus condemned hypocrisy harder than anyone. Judge Christianity by Christ. | Rom 3:23; Matt 23:27–28; Matt 7:21–23 | *"Does a counterfeit bill prove there's no real money?"* |
 | **"I'm a good person. I don't need God."** | Good by whose standard? By God's law, none is righteous, and breaking one point makes us guilty of all. Then give the gospel: Christ died for sinners. | Rom 3:10–12; Rom 3:23; James 2:10; Rom 6:23; Rom 5:8 | *"Have you ever lied, stolen, or hated someone? What does that make you before a perfect Judge?"* |

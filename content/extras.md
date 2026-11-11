@@ -211,8 +211,8 @@ You are not saying an unbeliever cannot be kind, honest or brave. He can, becaus
 - **People matter because God made them.** Human worth does not come from usefulness or strength. (Gen 9:6; James 3:9)
 
 ## Why the other answers fail
-- **"Each person decides."** → Then no one is ever wrong, including the man who robs him. He will not live by that.
-- **"Society decides."** → Then the reformer is always the villain. Slavery was legal, and the people who opposed it were breaking society's rules. *"Was slavery right when most people approved of it?"*
+- **"Each person decides."** → Then no one is ever wrong, including the man who robs him. He will not live by that. Press it to the end: if right and wrong come from the individual, "my truth," then the rapist is never wrong, because he was acting on his. *"Was he wrong, or only different from you?"*
+- **"Society decides."** → Then the reformer is always the villain. Slavery was legal, and the people who opposed it were breaking society's rules. *"Was slavery right when most people approved of it?"* And if a society's agreement is what makes a thing good, then what Hitler's Germany did to the Jews was good, there and then, for them. Nobody believes that. At Nuremberg the judges did not accept "our laws allowed it"; they held those men to a law above every nation. *"Whose law was that?"*
 - **"Evolution gave us morals."** → That would explain why we feel them, not why we must obey them. Survival also rewards cruelty and deceit.
 - **"Whatever reduces suffering."** → Why should anyone care about a stranger's suffering? That is already a moral rule, and it needs a source.
 - **"Science tells us."** → Science describes what is. It cannot tell you what ought to be.

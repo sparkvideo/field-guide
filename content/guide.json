@@ -15344,7 +15344,7 @@
             },
             {
               "theySay": "*\"That's your truth.\"*",
-              "youSay": "Is that statement true for both of us, or only for you? Jesus did not say He had a truth. He said, \"I am the truth.\" See [Faith and reason](/topic/faith-and-reason). (John 14:6; John 18:37)",
+              "youSay": "Is that statement true for both of us, or only for you? And follow it through: if truth and right are personal, the rapist has his truth too, and no one can say he was wrong. You don't believe that. Some things are wrong for everyone, which means there is a standard above all of us. Jesus did not say He had a truth. He said, \"I am the truth.\" See [Faith and reason](/topic/faith-and-reason). (John 14:6; John 18:37)",
               "verses": [
                 {
                   "label": "John 14:6",
@@ -15903,6 +15903,53 @@
               "chapter": 1,
               "verseStart": 21,
               "verseEnd": 22
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "right-wrong-are-personal-everyone",
+          "objection": "\"Right and wrong are personal. Everyone has their own truth.\"",
+          "response": "Then no one is ever wrong. The rapist was living his truth. And if you say society decides instead, then what Hitler's Germany did to the Jews was good for them at the time. You know both are false, so there is a standard above every person and every nation. See [Morality and justice](/topic/morality-and-justice).",
+          "goTo": "Rom 2:14–15; Isa 5:20; Judges 21:25; Ps 89:14",
+          "askBack": "*\"Was that wrong for everyone, or just not your preference?\"*",
+          "verses": [
+            {
+              "label": "Rom 2:14–15",
+              "kind": "bible",
+              "key": "romans.2.14-15",
+              "book": "romans",
+              "chapter": 2,
+              "verseStart": 14,
+              "verseEnd": 15
+            },
+            {
+              "label": "Isa 5:20",
+              "kind": "bible",
+              "key": "isaiah.5.20",
+              "book": "isaiah",
+              "chapter": 5,
+              "verseStart": 20,
+              "verseEnd": 20
+            },
+            {
+              "label": "Judg 21:25",
+              "kind": "bible",
+              "key": "judges.21.25",
+              "book": "judges",
+              "chapter": 21,
+              "verseStart": 25,
+              "verseEnd": 25
+            },
+            {
+              "label": "Ps 89:14",
+              "kind": "bible",
+              "key": "psalms.89.14",
+              "book": "psalms",
+              "chapter": 89,
+              "verseStart": 14,
+              "verseEnd": 14
             }
           ],
           "links": [],
@@ -26312,6 +26359,4048 @@
       }
     },
     {
+      "slug": "agnostic",
+      "name": "Agnostic",
+      "heading": "AGNOSTICS",
+      "color": "#64748b",
+      "emoji": "❔",
+      "beliefs": {
+        "text": "\"I don't know whether there is a God.\" Some mean it softly: \"I haven't seen enough to decide, and I'm open.\" Some mean it hard: \"No one can know.\" Most hold that the evidence is not clear either way, that the many religions cancel each other out, and that the honest thing is to withhold judgment. In practice most live as though there is no God while leaving the question open.",
+        "verses": [],
+        "links": [],
+        "supplemental": false
+      },
+      "lead": [
+        {
+          "label": "Their position",
+          "text": "\"I don't know whether there is a God.\" Some mean it softly: \"I haven't seen enough to decide, and I'm open.\" Some mean it hard: \"No one can know.\" Most hold that the evidence is not clear either way, that the many religions cancel each other out, and that the honest thing is to withhold judgment. In practice most live as though there is no God while leaving the question open.",
+          "verses": [],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "The dividing issue",
+          "text": "Whether God can be known. The agnostic says He has not made Himself clear. Scripture says He has: in what He made, in the conscience, in His word and finally in His Son, so that not knowing is not a neutral place to stand. A life lived with the question left open is a life lived without Him. (Rom 1:19–20; Heb 1:1–2; Matt 12:30; John 3:19–20)",
+          "verses": [
+            {
+              "label": "Rom 1:19–20",
+              "kind": "bible",
+              "key": "romans.1.19-20",
+              "book": "romans",
+              "chapter": 1,
+              "verseStart": 19,
+              "verseEnd": 20
+            },
+            {
+              "label": "Heb 1:1–2",
+              "kind": "bible",
+              "key": "hebrews.1.1-2",
+              "book": "hebrews",
+              "chapter": 1,
+              "verseStart": 1,
+              "verseEnd": 2
+            },
+            {
+              "label": "Matt 12:30",
+              "kind": "bible",
+              "key": "matthew.12.30",
+              "book": "matthew",
+              "chapter": 12,
+              "verseStart": 30,
+              "verseEnd": 30
+            },
+            {
+              "label": "John 3:19–20",
+              "kind": "bible",
+              "key": "john.3.19-20",
+              "book": "john",
+              "chapter": 3,
+              "verseStart": 19,
+              "verseEnd": 20
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "Ask this question",
+          "text": "*\"Are you saying you don't know, or that nobody can know? And what would it take for you to know?\"* (John 7:17)",
+          "verses": [
+            {
+              "label": "John 7:17",
+              "kind": "bible",
+              "key": "john.7.17",
+              "book": "john",
+              "chapter": 7,
+              "verseStart": 17,
+              "verseEnd": 17
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "Scriptural response",
+          "text": "What can be known about God is evident, because God made it evident. The heavens declare His glory day after day. He is not far from each one of us. He promises, \"You will seek Me and find Me when you search for Me with all your heart.\" And John wrote his Gospel so that a reader may believe that Jesus is the Christ and have life in His name. (Rom 1:19–20; Ps 19:1–2; Acts 17:27; Jer 29:13; John 20:30–31)",
+          "verses": [
+            {
+              "label": "Rom 1:19–20",
+              "kind": "bible",
+              "key": "romans.1.19-20",
+              "book": "romans",
+              "chapter": 1,
+              "verseStart": 19,
+              "verseEnd": 20
+            },
+            {
+              "label": "Ps 19:1–2",
+              "kind": "bible",
+              "key": "psalms.19.1-2",
+              "book": "psalms",
+              "chapter": 19,
+              "verseStart": 1,
+              "verseEnd": 2
+            },
+            {
+              "label": "Acts 17:27",
+              "kind": "bible",
+              "key": "acts.17.27",
+              "book": "acts",
+              "chapter": 17,
+              "verseStart": 27,
+              "verseEnd": 27
+            },
+            {
+              "label": "Jer 29:13",
+              "kind": "bible",
+              "key": "jeremiah.29.13",
+              "book": "jeremiah",
+              "chapter": 29,
+              "verseStart": 13,
+              "verseEnd": 13
+            },
+            {
+              "label": "John 20:30–31",
+              "kind": "bible",
+              "key": "john.20.30-31",
+              "book": "john",
+              "chapter": 20,
+              "verseStart": 30,
+              "verseEnd": 31
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "Common objection",
+          "text": "*\"If God wanted me to believe, He would make it obvious.\"* → He has. He made a universe, gave you a conscience, and walked into history, died and rose with witnesses. People who saw Jesus' miracles in person still did not believe. Jesus said that if someone will not hear Scripture, he will not be persuaded even if someone rises from the dead. The obstacle is rarely the evidence. (John 12:37; Luke 16:31; John 5:40; Rom 1:20)",
+          "verses": [
+            {
+              "label": "John 12:37",
+              "kind": "bible",
+              "key": "john.12.37",
+              "book": "john",
+              "chapter": 12,
+              "verseStart": 37,
+              "verseEnd": 37
+            },
+            {
+              "label": "Luke 16:31",
+              "kind": "bible",
+              "key": "luke.16.31",
+              "book": "luke",
+              "chapter": 16,
+              "verseStart": 31,
+              "verseEnd": 31
+            },
+            {
+              "label": "John 5:40",
+              "kind": "bible",
+              "key": "john.5.40",
+              "book": "john",
+              "chapter": 5,
+              "verseStart": 40,
+              "verseEnd": 40
+            },
+            {
+              "label": "Rom 1:20",
+              "kind": "bible",
+              "key": "romans.1.20",
+              "book": "romans",
+              "chapter": 1,
+              "verseStart": 20,
+              "verseEnd": 20
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "Gospel bridge",
+          "text": "*\"You don't have to know everything to know enough. Do you know you have done wrong? Do you know you will die?\"* Those two are not open questions. God has fixed a day of judgment and given proof by raising Jesus from the dead, and He receives everyone who comes: \"the one who comes to Me I will never cast out.\" (Heb 9:27; Acts 17:30–31; John 6:37; Isa 55:6–7)",
+          "verses": [
+            {
+              "label": "Heb 9:27",
+              "kind": "bible",
+              "key": "hebrews.9.27",
+              "book": "hebrews",
+              "chapter": 9,
+              "verseStart": 27,
+              "verseEnd": 27
+            },
+            {
+              "label": "Acts 17:30–31",
+              "kind": "bible",
+              "key": "acts.17.30-31",
+              "book": "acts",
+              "chapter": 17,
+              "verseStart": 30,
+              "verseEnd": 31
+            },
+            {
+              "label": "John 6:37",
+              "kind": "bible",
+              "key": "john.6.37",
+              "book": "john",
+              "chapter": 6,
+              "verseStart": 37,
+              "verseEnd": 37
+            },
+            {
+              "label": "Isa 55:6–7",
+              "kind": "bible",
+              "key": "isaiah.55.6-7",
+              "book": "isaiah",
+              "chapter": 55,
+              "verseStart": 6,
+              "verseEnd": 7
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "Where we agree",
+          "text": "Honesty about what you know matters. Blind belief is no virtue, and plenty of religious claims are false. Humility before big questions is right. A person should want reasons.",
+          "verses": [],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "Approach",
+          "text": "Find out which kind you are talking to. The open kind is often the easiest person to talk with: thank them for their honesty and invite them to look at the best evidence, Jesus Himself, by reading a Gospel. The hard kind has made a claim, and you can gently ask how he knows it. Either way, don't let the conversation stay in the head. The agnostic is not undecided about how to live; he has already chosen. Aim at the conscience as you would with an atheist, and see the [Atheist](/atheist) plays for more. (Acts 17:11; Rom 2:14–15; 1 Pet 3:15)",
+          "verses": [
+            {
+              "label": "Acts 17:11",
+              "kind": "bible",
+              "key": "acts.17.11",
+              "book": "acts",
+              "chapter": 17,
+              "verseStart": 11,
+              "verseEnd": 11
+            },
+            {
+              "label": "Rom 2:14–15",
+              "kind": "bible",
+              "key": "romans.2.14-15",
+              "book": "romans",
+              "chapter": 2,
+              "verseStart": 14,
+              "verseEnd": 15
+            },
+            {
+              "label": "1 Pet 3:15",
+              "kind": "bible",
+              "key": "1-peter.3.15",
+              "book": "1-peter",
+              "chapter": 3,
+              "verseStart": 15,
+              "verseEnd": 15
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        }
+      ],
+      "cheatCardTitle": "Agnostic Cheat Card",
+      "cheatCard": [
+        {
+          "text": "**Rom 1:19–20**: *\"What does Paul say every person already knows, and from what?\"*",
+          "verses": [
+            {
+              "label": "Rom 1:19–20",
+              "kind": "bible",
+              "key": "romans.1.19-20",
+              "book": "romans",
+              "chapter": 1,
+              "verseStart": 19,
+              "verseEnd": 20
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "text": "**Jer 29:13**: *\"What does God promise the one who really seeks Him?\"*",
+          "verses": [
+            {
+              "label": "Jer 29:13",
+              "kind": "bible",
+              "key": "jeremiah.29.13",
+              "book": "jeremiah",
+              "chapter": 29,
+              "verseStart": 13,
+              "verseEnd": 13
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "text": "**John 7:17**: *\"What does Jesus say comes before knowing?\"*",
+          "verses": [
+            {
+              "label": "John 7:17",
+              "kind": "bible",
+              "key": "john.7.17",
+              "book": "john",
+              "chapter": 7,
+              "verseStart": 17,
+              "verseEnd": 17
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "text": "**John 20:30–31**: *\"Why was this Gospel written? Have you read it?\"*",
+          "verses": [
+            {
+              "label": "John 20:30–31",
+              "kind": "bible",
+              "key": "john.20.30-31",
+              "book": "john",
+              "chapter": 20,
+              "verseStart": 30,
+              "verseEnd": 31
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "text": "**Luke 16:31**: *\"Would more evidence really settle it?\"*",
+          "verses": [
+            {
+              "label": "Luke 16:31",
+              "kind": "bible",
+              "key": "luke.16.31",
+              "book": "luke",
+              "chapter": 16,
+              "verseStart": 31,
+              "verseEnd": 31
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "text": "**2 Cor 6:2**: *\"When does God say the right time is?\"*",
+          "verses": [
+            {
+              "label": "2 Cor 6:2",
+              "kind": "bible",
+              "key": "2-corinthians.6.2",
+              "book": "2-corinthians",
+              "chapter": 6,
+              "verseStart": 2,
+              "verseEnd": 2
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        }
+      ],
+      "offense": [
+        {
+          "id": "play-1",
+          "number": 1,
+          "title": "Can anyone know?",
+          "subtitle": "God has spoken",
+          "warning": false,
+          "supplemental": false,
+          "altOpeners": [
+            {
+              "text": "*\"If God did exist and wanted to be known, how would He do it?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "chain": [
+            {
+              "text": "If they say no one can know: that is itself a claim to know something about God, namely that He cannot or has not made Himself known. *\"How do you know that?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Ps 19:1–2; Rom 1:19–20**: Creation is God speaking without words. His eternal power and divine nature are clearly seen in what has been made. *\"When you look at the night sky, what do you honestly think?\"*",
+              "verses": [
+                {
+                  "label": "Ps 19:1–2",
+                  "kind": "bible",
+                  "key": "psalms.19.1-2",
+                  "book": "psalms",
+                  "chapter": 19,
+                  "verseStart": 1,
+                  "verseEnd": 2
+                },
+                {
+                  "label": "Rom 1:19–20",
+                  "kind": "bible",
+                  "key": "romans.1.19-20",
+                  "book": "romans",
+                  "chapter": 1,
+                  "verseStart": 19,
+                  "verseEnd": 20
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Rom 2:14–15**: The conscience bears witness. You know some things are truly wrong. *\"Where does that come from?\"* See [Morality and justice](/topic/morality-and-justice).",
+              "verses": [
+                {
+                  "label": "Rom 2:14–15",
+                  "kind": "bible",
+                  "key": "romans.2.14-15",
+                  "book": "romans",
+                  "chapter": 2,
+                  "verseStart": 14,
+                  "verseEnd": 15
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Heb 1:1–2**: God spoke long ago through the prophets, and in these last days has spoken in His Son. If there is a God who made speaking creatures, it is not strange that He speaks.",
+              "verses": [
+                {
+                  "label": "Heb 1:1–2",
+                  "kind": "bible",
+                  "key": "hebrews.1.1-2",
+                  "book": "hebrews",
+                  "chapter": 1,
+                  "verseStart": 1,
+                  "verseEnd": 2
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**John 1:18; John 14:9**: No one has seen God at any time; the only begotten God has explained Him. \"He who has seen Me has seen the Father.\" *\"If you wanted to know what God is like, would you look at Jesus?\"*",
+              "verses": [
+                {
+                  "label": "John 1:18",
+                  "kind": "bible",
+                  "key": "john.1.18",
+                  "book": "john",
+                  "chapter": 1,
+                  "verseStart": 18,
+                  "verseEnd": 18
+                },
+                {
+                  "label": "John 14:9",
+                  "kind": "bible",
+                  "key": "john.14.9",
+                  "book": "john",
+                  "chapter": 14,
+                  "verseStart": 9,
+                  "verseEnd": 9
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Acts 17:30–31**: God has given proof to all by raising Him from the dead. That is a claim about history, and it can be examined. See [The resurrection](/topic/the-resurrection).",
+              "verses": [
+                {
+                  "label": "Acts 17:30–31",
+                  "kind": "bible",
+                  "key": "acts.17.30-31",
+                  "book": "acts",
+                  "chapter": 17,
+                  "verseStart": 30,
+                  "verseEnd": 31
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**John 20:30–31**: These things are written so that you may believe. *\"Would you read John's Gospel and tell me who you think Jesus is?\"*",
+              "verses": [
+                {
+                  "label": "John 20:30–31",
+                  "kind": "bible",
+                  "key": "john.20.30-31",
+                  "book": "john",
+                  "chapter": 20,
+                  "verseStart": 30,
+                  "verseEnd": 31
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "questions": [],
+          "ifTheySay": [
+            {
+              "theySay": "*\"There are thousands of religions. How could anyone pick?\"*",
+              "youSay": "They are not all alike. Only one rests on a public event: a man who said He would rise and did. Start there, and the field narrows fast. See [The exclusivity of Christ](/topic/the-exclusivity-of-christ).",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"Science can't detect God.\"*",
+              "youSay": "Science studies what God made; it is the wrong tool for the Maker, as a metal detector is the wrong tool for finding wood. Science itself rests on things it cannot prove, like an orderly universe and a mind that can know it. See [Faith and reason](/topic/faith-and-reason).",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"You can't be certain either.\"*",
+              "youSay": "My certainty does not rest on my mind but on God's word. Luke wrote so that we may know the certainty of these things, and John so that we may know we have eternal life. (Luke 1:3–4; 1 John 5:13; 2 Tim 1:12)",
+              "verses": [
+                {
+                  "label": "Luke 1:3–4",
+                  "kind": "bible",
+                  "key": "luke.1.3-4",
+                  "book": "luke",
+                  "chapter": 1,
+                  "verseStart": 3,
+                  "verseEnd": 4
+                },
+                {
+                  "label": "1 John 5:13",
+                  "kind": "bible",
+                  "key": "1-john.5.13",
+                  "book": "1-john",
+                  "chapter": 5,
+                  "verseStart": 13,
+                  "verseEnd": 13
+                },
+                {
+                  "label": "2 Tim 1:12",
+                  "kind": "bible",
+                  "key": "2-timothy.1.12",
+                  "book": "2-timothy",
+                  "chapter": 1,
+                  "verseStart": 12,
+                  "verseEnd": 12
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "notes": [],
+          "links": [],
+          "opener": {
+            "text": "*\"When you say you don't know, do you mean you haven't looked into it, or that it can't be known?\"*",
+            "verses": [],
+            "links": [],
+            "supplemental": false
+          },
+          "closer": {
+            "text": "*\"God is not hiding. He is 'not far from each one of us.' The question is not whether He can be known, but whether you want to know Him. Do you?\"* (Acts 17:27; Jer 29:13)",
+            "verses": [
+              {
+                "label": "Acts 17:27",
+                "kind": "bible",
+                "key": "acts.17.27",
+                "book": "acts",
+                "chapter": 17,
+                "verseStart": 27,
+                "verseEnd": 27
+              },
+              {
+                "label": "Jer 29:13",
+                "kind": "bible",
+                "key": "jeremiah.29.13",
+                "book": "jeremiah",
+                "chapter": 29,
+                "verseStart": 13,
+                "verseEnd": 13
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          }
+        },
+        {
+          "id": "play-2",
+          "number": 2,
+          "title": "What would it take?",
+          "subtitle": "the will, and the clock",
+          "warning": false,
+          "supplemental": false,
+          "altOpeners": [
+            {
+              "text": "*\"How long have you been undecided? What are you doing to find out?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "chain": [
+            {
+              "text": "The opener matters. If the answer is \"no\" or a long pause, the problem was never evidence. Say so kindly.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**John 3:19–20**: This is the judgment: the Light has come into the world, and men loved the darkness rather than the Light, for their deeds were evil. *\"Is there anything you would have to give up if it were true?\"*",
+              "verses": [
+                {
+                  "label": "John 3:19–20",
+                  "kind": "bible",
+                  "key": "john.3.19-20",
+                  "book": "john",
+                  "chapter": 3,
+                  "verseStart": 19,
+                  "verseEnd": 20
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**John 7:17**: \"If anyone is willing to do His will, he will know about the teaching, whether it is of God.\" Willingness comes before knowing.",
+              "verses": [
+                {
+                  "label": "John 7:17",
+                  "kind": "bible",
+                  "key": "john.7.17",
+                  "book": "john",
+                  "chapter": 7,
+                  "verseStart": 17,
+                  "verseEnd": 17
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Matt 12:30**: \"He who is not with Me is against Me.\" There is no neutral seat. Not deciding is deciding.",
+              "verses": [
+                {
+                  "label": "Matt 12:30",
+                  "kind": "bible",
+                  "key": "matthew.12.30",
+                  "book": "matthew",
+                  "chapter": 12,
+                  "verseStart": 30,
+                  "verseEnd": 30
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Prov 27:1; James 4:14**: Do not boast about tomorrow. You are a vapor that appears for a little while. *\"What if the question closes before you answer it?\"*",
+              "verses": [
+                {
+                  "label": "Prov 27:1",
+                  "kind": "bible",
+                  "key": "proverbs.27.1",
+                  "book": "proverbs",
+                  "chapter": 27,
+                  "verseStart": 1,
+                  "verseEnd": 1
+                },
+                {
+                  "label": "Jas 4:14",
+                  "kind": "bible",
+                  "key": "james.4.14",
+                  "book": "james",
+                  "chapter": 4,
+                  "verseStart": 14,
+                  "verseEnd": 14
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Heb 9:27; Luke 12:20**: It is appointed for men to die once, and after this comes judgment. \"This very night your soul is required of you.\"",
+              "verses": [
+                {
+                  "label": "Heb 9:27",
+                  "kind": "bible",
+                  "key": "hebrews.9.27",
+                  "book": "hebrews",
+                  "chapter": 9,
+                  "verseStart": 27,
+                  "verseEnd": 27
+                },
+                {
+                  "label": "Luke 12:20",
+                  "kind": "bible",
+                  "key": "luke.12.20",
+                  "book": "luke",
+                  "chapter": 12,
+                  "verseStart": 20,
+                  "verseEnd": 20
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Isa 55:6–7; 2 Cor 6:2**: Seek Yahweh while He may be found. Now is the acceptable time. He will have compassion and abundantly pardon.",
+              "verses": [
+                {
+                  "label": "Isa 55:6–7",
+                  "kind": "bible",
+                  "key": "isaiah.55.6-7",
+                  "book": "isaiah",
+                  "chapter": 55,
+                  "verseStart": 6,
+                  "verseEnd": 7
+                },
+                {
+                  "label": "2 Cor 6:2",
+                  "kind": "bible",
+                  "key": "2-corinthians.6.2",
+                  "book": "2-corinthians",
+                  "chapter": 6,
+                  "verseStart": 2,
+                  "verseEnd": 2
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "questions": [],
+          "ifTheySay": [
+            {
+              "theySay": "*\"I'm keeping an open mind.\"*",
+              "youSay": "Good. An open mind, like an open mouth, is meant to close on something solid. Scripture describes people who are always learning and never able to come to the knowledge of the truth. (2 Tim 3:7; Acts 17:11)",
+              "verses": [
+                {
+                  "label": "2 Tim 3:7",
+                  "kind": "bible",
+                  "key": "2-timothy.3.7",
+                  "book": "2-timothy",
+                  "chapter": 3,
+                  "verseStart": 7,
+                  "verseEnd": 7
+                },
+                {
+                  "label": "Acts 17:11",
+                  "kind": "bible",
+                  "key": "acts.17.11",
+                  "book": "acts",
+                  "chapter": 17,
+                  "verseStart": 11,
+                  "verseEnd": 11
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"I'll look into it someday.\"*",
+              "youSay": "You plan for things far less certain than death. What would it cost to read one Gospel this month? (Luke 12:20; Ps 90:12)",
+              "verses": [
+                {
+                  "label": "Luke 12:20",
+                  "kind": "bible",
+                  "key": "luke.12.20",
+                  "book": "luke",
+                  "chapter": 12,
+                  "verseStart": 20,
+                  "verseEnd": 20
+                },
+                {
+                  "label": "Ps 90:12",
+                  "kind": "bible",
+                  "key": "psalms.90.12",
+                  "book": "psalms",
+                  "chapter": 90,
+                  "verseStart": 12,
+                  "verseEnd": 12
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"It doesn't really affect my life.\"*",
+              "youSay": "If there is a God, nothing affects it more: why you exist, what is right, and what happens when you die. \"What does it profit a man to gain the whole world and forfeit his soul?\" (Mark 8:36; Eccl 3:11)",
+              "verses": [
+                {
+                  "label": "Mark 8:36",
+                  "kind": "bible",
+                  "key": "mark.8.36",
+                  "book": "mark",
+                  "chapter": 8,
+                  "verseStart": 36,
+                  "verseEnd": 36
+                },
+                {
+                  "label": "Eccl 3:11",
+                  "kind": "bible",
+                  "key": "ecclesiastes.3.11",
+                  "book": "ecclesiastes",
+                  "chapter": 3,
+                  "verseStart": 11,
+                  "verseEnd": 11
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"I asked God to show Himself once and nothing happened.\"*",
+              "youSay": "He has not promised a sign on demand; He has given His word and His Son. Faith comes from hearing the word of Christ. Have you read it, asking Him to show you? (Rom 10:17; Luke 16:31; Jer 29:13)",
+              "verses": [
+                {
+                  "label": "Rom 10:17",
+                  "kind": "bible",
+                  "key": "romans.10.17",
+                  "book": "romans",
+                  "chapter": 10,
+                  "verseStart": 17,
+                  "verseEnd": 17
+                },
+                {
+                  "label": "Luke 16:31",
+                  "kind": "bible",
+                  "key": "luke.16.31",
+                  "book": "luke",
+                  "chapter": 16,
+                  "verseStart": 31,
+                  "verseEnd": 31
+                },
+                {
+                  "label": "Jer 29:13",
+                  "kind": "bible",
+                  "key": "jeremiah.29.13",
+                  "book": "jeremiah",
+                  "chapter": 29,
+                  "verseStart": 13,
+                  "verseEnd": 13
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "notes": [],
+          "links": [],
+          "opener": {
+            "text": "*\"If I could show you that Christianity is true, would you become a Christian?\"*",
+            "verses": [],
+            "links": [],
+            "supplemental": false
+          },
+          "closer": {
+            "text": "*\"You've been honest with me, so let me be honest with you: you already know enough to be accountable, and God has done enough for you to be forgiven. Will you come to Him?\"* (Rom 1:20; John 6:37)",
+            "verses": [
+              {
+                "label": "Rom 1:20",
+                "kind": "bible",
+                "key": "romans.1.20",
+                "book": "romans",
+                "chapter": 1,
+                "verseStart": 20,
+                "verseEnd": 20
+              },
+              {
+                "label": "John 6:37",
+                "kind": "bible",
+                "key": "john.6.37",
+                "book": "john",
+                "chapter": 6,
+                "verseStart": 37,
+                "verseEnd": 37
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          }
+        }
+      ],
+      "defense": [
+        {
+          "id": "there-isnt-enough-evidence-either",
+          "objection": "\"There isn't enough evidence either way.\"",
+          "response": "Scripture says the evidence is everywhere and that the trouble is what we do with it. Ask what evidence would count, and who set that standard. See [Worldviews: how do you know?](/topic/worldviews-how-do-you-know).",
+          "goTo": "Rom 1:19–20; Ps 19:1–2; John 12:37",
+          "askBack": "*\"What would be enough?\"*",
+          "verses": [
+            {
+              "label": "Rom 1:19–20",
+              "kind": "bible",
+              "key": "romans.1.19-20",
+              "book": "romans",
+              "chapter": 1,
+              "verseStart": 19,
+              "verseEnd": 20
+            },
+            {
+              "label": "Ps 19:1–2",
+              "kind": "bible",
+              "key": "psalms.19.1-2",
+              "book": "psalms",
+              "chapter": 19,
+              "verseStart": 1,
+              "verseEnd": 2
+            },
+            {
+              "label": "John 12:37",
+              "kind": "bible",
+              "key": "john.12.37",
+              "book": "john",
+              "chapter": 12,
+              "verseStart": 37,
+              "verseEnd": 37
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "no-one-can-know",
+          "objection": "\"No one can know.\"",
+          "response": "That is a claim to know: that God, if He exists, could not make Himself known. Why not? The One who made the ear can speak.",
+          "goTo": "Ps 94:9; Heb 1:1–2; John 1:18",
+          "askBack": "*\"How do you know no one can know?\"*",
+          "verses": [
+            {
+              "label": "Ps 94:9",
+              "kind": "bible",
+              "key": "psalms.94.9",
+              "book": "psalms",
+              "chapter": 94,
+              "verseStart": 9,
+              "verseEnd": 9
+            },
+            {
+              "label": "Heb 1:1–2",
+              "kind": "bible",
+              "key": "hebrews.1.1-2",
+              "book": "hebrews",
+              "chapter": 1,
+              "verseStart": 1,
+              "verseEnd": 2
+            },
+            {
+              "label": "John 1:18",
+              "kind": "bible",
+              "key": "john.1.18",
+              "book": "john",
+              "chapter": 1,
+              "verseStart": 18,
+              "verseEnd": 18
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "all-religions-claim-true-they",
+          "objection": "\"All religions claim to be true. They can't all be right.\"",
+          "response": "Correct, they can't. That means some are false, not that none is true. Test the one that stakes everything on a resurrection in history.",
+          "goTo": "1 Cor 15:14–17; Acts 26:26; John 14:6",
+          "askBack": "*\"Have you examined the resurrection?\"*",
+          "verses": [
+            {
+              "label": "1 Cor 15:14–17",
+              "kind": "bible",
+              "key": "1-corinthians.15.14-17",
+              "book": "1-corinthians",
+              "chapter": 15,
+              "verseStart": 14,
+              "verseEnd": 17
+            },
+            {
+              "label": "Acts 26:26",
+              "kind": "bible",
+              "key": "acts.26.26",
+              "book": "acts",
+              "chapter": 26,
+              "verseStart": 26,
+              "verseEnd": 26
+            },
+            {
+              "label": "John 14:6",
+              "kind": "bible",
+              "key": "john.14.6",
+              "book": "john",
+              "chapter": 14,
+              "verseStart": 6,
+              "verseEnd": 6
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "im-good-person-if-theres",
+          "objection": "\"I'm a good person. If there's a God, I'll be fine.\"",
+          "response": "That is not \"I don't know\"; that is confidence in your own record. By God's standard no one is good. See [The Way of the Master](/topic/the-way-of-the-master).",
+          "goTo": "Rom 3:10–12; Luke 18:19; James 2:10",
+          "askBack": "*\"Good by whose standard?\"*",
+          "verses": [
+            {
+              "label": "Rom 3:10–12",
+              "kind": "bible",
+              "key": "romans.3.10-12",
+              "book": "romans",
+              "chapter": 3,
+              "verseStart": 10,
+              "verseEnd": 12
+            },
+            {
+              "label": "Luke 18:19",
+              "kind": "bible",
+              "key": "luke.18.19",
+              "book": "luke",
+              "chapter": 18,
+              "verseStart": 19,
+              "verseEnd": 19
+            },
+            {
+              "label": "Jas 2:10",
+              "kind": "bible",
+              "key": "james.2.10",
+              "book": "james",
+              "chapter": 2,
+              "verseStart": 10,
+              "verseEnd": 10
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "its-arrogant-claim-know",
+          "objection": "\"It's arrogant to claim you know.\"",
+          "response": "It would be, if we had figured it out. We claim only that God has spoken and that we believe Him. Refusing what He says is not humility.",
+          "goTo": "1 Cor 2:9–12; Deut 29:29; 1 John 5:9–10",
+          "askBack": "*\"Is it humble to tell God He hasn't been clear?\"*",
+          "verses": [
+            {
+              "label": "1 Cor 2:9–12",
+              "kind": "bible",
+              "key": "1-corinthians.2.9-12",
+              "book": "1-corinthians",
+              "chapter": 2,
+              "verseStart": 9,
+              "verseEnd": 12
+            },
+            {
+              "label": "Deut 29:29",
+              "kind": "bible",
+              "key": "deuteronomy.29.29",
+              "book": "deuteronomy",
+              "chapter": 29,
+              "verseStart": 29,
+              "verseEnd": 29
+            },
+            {
+              "label": "1 John 5:9–10",
+              "kind": "bible",
+              "key": "1-john.5.9-10",
+              "book": "1-john",
+              "chapter": 5,
+              "verseStart": 9,
+              "verseEnd": 10
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "id-believe-if-god-showed",
+          "objection": "\"I'd believe if God showed Himself to me.\"",
+          "response": "He showed Himself to a whole nation in Christ, and they crucified Him. He has given you their testimony. \"Blessed are those who did not see, and yet believed.\"",
+          "goTo": "John 20:29; John 12:37; Luke 16:31",
+          "askBack": "*\"If He did, would you obey Him?\"*",
+          "verses": [
+            {
+              "label": "John 20:29",
+              "kind": "bible",
+              "key": "john.20.29",
+              "book": "john",
+              "chapter": 20,
+              "verseStart": 29,
+              "verseEnd": 29
+            },
+            {
+              "label": "John 12:37",
+              "kind": "bible",
+              "key": "john.12.37",
+              "book": "john",
+              "chapter": 12,
+              "verseStart": 37,
+              "verseEnd": 37
+            },
+            {
+              "label": "Luke 16:31",
+              "kind": "bible",
+              "key": "luke.16.31",
+              "book": "luke",
+              "chapter": 16,
+              "verseStart": 31,
+              "verseEnd": 31
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "dont-think-about-much",
+          "objection": "\"I don't think about it much.\"",
+          "response": "God has set eternity in your heart; the question comes back at funerals and at 3 a.m. Wisdom thinks about its end before it arrives.",
+          "goTo": "Eccl 3:11; Eccl 7:2; Ps 90:12",
+          "askBack": "*\"What do you think happens when you die?\"*",
+          "verses": [
+            {
+              "label": "Eccl 3:11",
+              "kind": "bible",
+              "key": "ecclesiastes.3.11",
+              "book": "ecclesiastes",
+              "chapter": 3,
+              "verseStart": 11,
+              "verseEnd": 11
+            },
+            {
+              "label": "Eccl 7:2",
+              "kind": "bible",
+              "key": "ecclesiastes.7.2",
+              "book": "ecclesiastes",
+              "chapter": 7,
+              "verseStart": 2,
+              "verseEnd": 2
+            },
+            {
+              "label": "Ps 90:12",
+              "kind": "bible",
+              "key": "psalms.90.12",
+              "book": "psalms",
+              "chapter": 90,
+              "verseStart": 12,
+              "verseEnd": 12
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "was-raised-religious-didnt-hold",
+          "objection": "\"I was raised religious and it didn't hold up.\"",
+          "response": "Ask what they were taught and what broke it. Often it was a church's failure or a thin version of the faith, not Christ. Offer to look at Jesus' own words together.",
+          "goTo": "Matt 11:28–30; John 6:68; Jude 1:22",
+          "askBack": "*\"Was it Jesus you rejected, or something else?\"*",
+          "verses": [
+            {
+              "label": "Matt 11:28–30",
+              "kind": "bible",
+              "key": "matthew.11.28-30",
+              "book": "matthew",
+              "chapter": 11,
+              "verseStart": 28,
+              "verseEnd": 30
+            },
+            {
+              "label": "John 6:68",
+              "kind": "bible",
+              "key": "john.6.68",
+              "book": "john",
+              "chapter": 6,
+              "verseStart": 68,
+              "verseEnd": 68
+            },
+            {
+              "label": "Jude 1:22",
+              "kind": "bible",
+              "key": "jude.1.22",
+              "book": "jude",
+              "chapter": 1,
+              "verseStart": 22,
+              "verseEnd": 22
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        }
+      ],
+      "exits": {
+        "label": "Typical exits",
+        "items": [
+          {
+            "text": "\"I guess we'll find out when we die.\" (Say: *\"That's the one time it's too late to change your answer. Would you look into it before then?\"*)",
+            "verses": [],
+            "links": [],
+            "supplemental": false
+          },
+          {
+            "text": "\"I need to think about it.\" (Good. Give them John's Gospel and one question: *\"Who is Jesus?\"*)",
+            "verses": [],
+            "links": [],
+            "supplemental": false
+          },
+          {
+            "text": "\"Agree to disagree.\" (You haven't disagreed; they said they don't know. Offer to help them find out.)",
+            "verses": [],
+            "links": [],
+            "supplemental": false
+          },
+          {
+            "text": "\"Nobody really knows.\" (Leave Jer 29:13.)",
+            "verses": [
+              {
+                "label": "Jer 29:13",
+                "kind": "bible",
+                "key": "jeremiah.29.13",
+                "book": "jeremiah",
+                "chapter": 29,
+                "verseStart": 13,
+                "verseEnd": 13
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          }
+        ]
+      }
+    },
+    {
+      "slug": "deist",
+      "name": "Deist",
+      "heading": "DEISTS",
+      "color": "#c4b5a0",
+      "emoji": "🧭",
+      "beliefs": {
+        "text": "There is a Creator, and reason and nature are enough to know it. But He does not step into the world: no miracles, no revelation, no incarnation, no answered prayer. The Bible is a human book, Jesus was a great moral teacher, and religion's doctrines were added by men. God wants people to be good, and good people can expect to be all right in the end. Few people use the word today, but a great many hold the belief: God exists, wants us to be nice and happy, stays out of the way unless needed, and takes good people to heaven. Sociologist Christian Smith named that \"moralistic therapeutic deism\" (2005).",
+        "verses": [],
+        "links": [],
+        "supplemental": false
+      },
+      "lead": [
+        {
+          "label": "Their position",
+          "text": "There is a Creator, and reason and nature are enough to know it. But He does not step into the world: no miracles, no revelation, no incarnation, no answered prayer. The Bible is a human book, Jesus was a great moral teacher, and religion's doctrines were added by men. God wants people to be good, and good people can expect to be all right in the end. Few people use the word today, but a great many hold the belief: God exists, wants us to be nice and happy, stays out of the way unless needed, and takes good people to heaven. Sociologist Christian Smith named that \"moralistic therapeutic deism\" (2005).",
+          "verses": [],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "The dividing issue",
+          "text": "Whether God has spoken and acted. The deist's God made the world and went quiet. The God of Scripture upholds all things by the word of His power, feeds the sparrows, has spoken through prophets, and came in person. With that goes the gospel: the deist needs only to be decent; Scripture says he needs to be forgiven. (Heb 1:1–3; Col 1:17; John 1:14; Rom 3:23)",
+          "verses": [
+            {
+              "label": "Heb 1:1–3",
+              "kind": "bible",
+              "key": "hebrews.1.1-3",
+              "book": "hebrews",
+              "chapter": 1,
+              "verseStart": 1,
+              "verseEnd": 3
+            },
+            {
+              "label": "Col 1:17",
+              "kind": "bible",
+              "key": "colossians.1.17",
+              "book": "colossians",
+              "chapter": 1,
+              "verseStart": 17,
+              "verseEnd": 17
+            },
+            {
+              "label": "John 1:14",
+              "kind": "bible",
+              "key": "john.1.14",
+              "book": "john",
+              "chapter": 1,
+              "verseStart": 14,
+              "verseEnd": 14
+            },
+            {
+              "label": "Rom 3:23",
+              "kind": "bible",
+              "key": "romans.3.23",
+              "book": "romans",
+              "chapter": 3,
+              "verseStart": 23,
+              "verseEnd": 23
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "Ask this question",
+          "text": "*\"If God cared enough to make you, why would He never say anything to you?\"* (Heb 1:1–2)",
+          "verses": [
+            {
+              "label": "Heb 1:1–2",
+              "kind": "bible",
+              "key": "hebrews.1.1-2",
+              "book": "hebrews",
+              "chapter": 1,
+              "verseStart": 1,
+              "verseEnd": 2
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "Scriptural response",
+          "text": "God did not leave Himself without witness: He gives rain and fruitful seasons. Not a sparrow falls apart from the Father, and the hairs of your head are numbered. He spoke through the prophets and, last of all, in His Son, who is the exact representation of His nature. The Word became flesh and dwelt among us. And He has fixed a day when He will judge the world. (Acts 14:17; Matt 10:29–30; Heb 1:1–3; John 1:14; Acts 17:30–31)",
+          "verses": [
+            {
+              "label": "Acts 14:17",
+              "kind": "bible",
+              "key": "acts.14.17",
+              "book": "acts",
+              "chapter": 14,
+              "verseStart": 17,
+              "verseEnd": 17
+            },
+            {
+              "label": "Matt 10:29–30",
+              "kind": "bible",
+              "key": "matthew.10.29-30",
+              "book": "matthew",
+              "chapter": 10,
+              "verseStart": 29,
+              "verseEnd": 30
+            },
+            {
+              "label": "Heb 1:1–3",
+              "kind": "bible",
+              "key": "hebrews.1.1-3",
+              "book": "hebrews",
+              "chapter": 1,
+              "verseStart": 1,
+              "verseEnd": 3
+            },
+            {
+              "label": "John 1:14",
+              "kind": "bible",
+              "key": "john.1.14",
+              "book": "john",
+              "chapter": 1,
+              "verseStart": 14,
+              "verseEnd": 14
+            },
+            {
+              "label": "Acts 17:30–31",
+              "kind": "bible",
+              "key": "acts.17.30-31",
+              "book": "acts",
+              "chapter": 17,
+              "verseStart": 30,
+              "verseEnd": 31
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "Common objection",
+          "text": "*\"Miracles break the laws of nature. A reasonable person can't accept them.\"* → You already believe the greatest miracle: that God made everything out of nothing. One who can do that can raise a dead man. The laws of nature describe how God ordinarily runs His world; they do not bind the Lawgiver. The question is not whether miracles can happen but whether one did. See [The resurrection](/topic/the-resurrection). (Gen 1:1; Jer 32:17; Acts 26:8)",
+          "verses": [
+            {
+              "label": "Gen 1:1",
+              "kind": "bible",
+              "key": "genesis.1.1",
+              "book": "genesis",
+              "chapter": 1,
+              "verseStart": 1,
+              "verseEnd": 1
+            },
+            {
+              "label": "Jer 32:17",
+              "kind": "bible",
+              "key": "jeremiah.32.17",
+              "book": "jeremiah",
+              "chapter": 32,
+              "verseStart": 17,
+              "verseEnd": 17
+            },
+            {
+              "label": "Acts 26:8",
+              "kind": "bible",
+              "key": "acts.26.8",
+              "book": "acts",
+              "chapter": 26,
+              "verseStart": 8,
+              "verseEnd": 8
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "Gospel bridge",
+          "text": "*\"You believe God is just. Then what does a just God do with the wrong you have done?\"* Nature can tell you there is a God, and conscience can tell you that you are guilty. Neither can tell you how to be forgiven. That takes news from God, and He sent it: while we were still sinners, Christ died for us. (Rom 1:20; Rom 3:19; Rom 10:17; Rom 5:8)",
+          "verses": [
+            {
+              "label": "Rom 1:20",
+              "kind": "bible",
+              "key": "romans.1.20",
+              "book": "romans",
+              "chapter": 1,
+              "verseStart": 20,
+              "verseEnd": 20
+            },
+            {
+              "label": "Rom 3:19",
+              "kind": "bible",
+              "key": "romans.3.19",
+              "book": "romans",
+              "chapter": 3,
+              "verseStart": 19,
+              "verseEnd": 19
+            },
+            {
+              "label": "Rom 10:17",
+              "kind": "bible",
+              "key": "romans.10.17",
+              "book": "romans",
+              "chapter": 10,
+              "verseStart": 17,
+              "verseEnd": 17
+            },
+            {
+              "label": "Rom 5:8",
+              "kind": "bible",
+              "key": "romans.5.8",
+              "book": "romans",
+              "chapter": 5,
+              "verseStart": 8,
+              "verseEnd": 8
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "Where we agree",
+          "text": "There is a Creator, and creation shows it. Reason is a gift and should be used. There is real right and wrong, and God cares about how we live. Superstition and priestly abuse of power are real evils.",
+          "verses": [],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "Approach",
+          "text": "You are halfway there, so start with thanks: this person already grants God. Then press the two places deism is thin. First, it is odd for a God who makes persons to be silent toward them. Second, \"be good\" is no comfort to anyone honest about himself. Most deists have never examined the resurrection; they dismissed it in advance. Ask them to weigh it as history. With the churchgoing kind, who believes this while calling himself a Christian, use the commandments and the cross: see [The Gospel](/topic/the-gospel). (Acts 17:22–31; Rom 2:4; Acts 26:25–26)",
+          "verses": [
+            {
+              "label": "Acts 17:22–31",
+              "kind": "bible",
+              "key": "acts.17.22-31",
+              "book": "acts",
+              "chapter": 17,
+              "verseStart": 22,
+              "verseEnd": 31
+            },
+            {
+              "label": "Rom 2:4",
+              "kind": "bible",
+              "key": "romans.2.4",
+              "book": "romans",
+              "chapter": 2,
+              "verseStart": 4,
+              "verseEnd": 4
+            },
+            {
+              "label": "Acts 26:25–26",
+              "kind": "bible",
+              "key": "acts.26.25-26",
+              "book": "acts",
+              "chapter": 26,
+              "verseStart": 25,
+              "verseEnd": 26
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        }
+      ],
+      "cheatCardTitle": "Deist Cheat Card",
+      "cheatCard": [
+        {
+          "text": "**Heb 1:1–2**: *\"Has God spoken? Through whom, last of all?\"*",
+          "verses": [
+            {
+              "label": "Heb 1:1–2",
+              "kind": "bible",
+              "key": "hebrews.1.1-2",
+              "book": "hebrews",
+              "chapter": 1,
+              "verseStart": 1,
+              "verseEnd": 2
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "text": "**Matt 10:29–30**: *\"How involved is God, according to Jesus?\"*",
+          "verses": [
+            {
+              "label": "Matt 10:29–30",
+              "kind": "bible",
+              "key": "matthew.10.29-30",
+              "book": "matthew",
+              "chapter": 10,
+              "verseStart": 29,
+              "verseEnd": 30
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "text": "**Acts 14:17**: *\"What witness has God left of Himself every day?\"*",
+          "verses": [
+            {
+              "label": "Acts 14:17",
+              "kind": "bible",
+              "key": "acts.14.17",
+              "book": "acts",
+              "chapter": 14,
+              "verseStart": 17,
+              "verseEnd": 17
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "text": "**Acts 26:8**: *\"If God made the world, why is raising the dead incredible?\"*",
+          "verses": [
+            {
+              "label": "Acts 26:8",
+              "kind": "bible",
+              "key": "acts.26.8",
+              "book": "acts",
+              "chapter": 26,
+              "verseStart": 8,
+              "verseEnd": 8
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "text": "**Luke 18:19**: *\"Who does Jesus say is good?\"*",
+          "verses": [
+            {
+              "label": "Luke 18:19",
+              "kind": "bible",
+              "key": "luke.18.19",
+              "book": "luke",
+              "chapter": 18,
+              "verseStart": 19,
+              "verseEnd": 19
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "text": "**Rom 5:8**: *\"What did God do that nature could never tell you?\"*",
+          "verses": [
+            {
+              "label": "Rom 5:8",
+              "kind": "bible",
+              "key": "romans.5.8",
+              "book": "romans",
+              "chapter": 5,
+              "verseStart": 8,
+              "verseEnd": 8
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        }
+      ],
+      "offense": [
+        {
+          "id": "play-1",
+          "number": 1,
+          "title": "The God who speaks",
+          "subtitle": "and has not gone anywhere",
+          "warning": false,
+          "supplemental": false,
+          "altOpeners": [
+            {
+              "text": "*\"Would a father build a house for his children and never speak to them?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "chain": [
+            {
+              "text": "**Ps 19:1–4**: Start where they are. The heavens declare the glory of God. *\"What does creation tell you about Him?\"* Power, intelligence, order. Agree.",
+              "verses": [
+                {
+                  "label": "Ps 19:1–4",
+                  "kind": "bible",
+                  "key": "psalms.19.1-4",
+                  "book": "psalms",
+                  "chapter": 19,
+                  "verseStart": 1,
+                  "verseEnd": 4
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Ps 94:9**: \"He who planted the ear, does He not hear? He who formed the eye, does He not see?\" The Maker of persons who speak and love is not less than personal. *\"Can the One who invented language be unable to use it?\"*",
+              "verses": [
+                {
+                  "label": "Ps 94:9",
+                  "kind": "bible",
+                  "key": "psalms.94.9",
+                  "book": "psalms",
+                  "chapter": 94,
+                  "verseStart": 9,
+                  "verseEnd": 9
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Acts 17:24–28**: He made the world, gives to all life and breath, set the times and boundaries of nations so that they would seek Him, and is not far from each of us. In Him we live and move and exist.",
+              "verses": [
+                {
+                  "label": "Acts 17:24–28",
+                  "kind": "bible",
+                  "key": "acts.17.24-28",
+                  "book": "acts",
+                  "chapter": 17,
+                  "verseStart": 24,
+                  "verseEnd": 28
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Col 1:16–17; Heb 1:3**: All things were created through Christ, and in Him all things hold together. The world is not a wound-up clock; it is upheld every moment.",
+              "verses": [
+                {
+                  "label": "Col 1:16–17",
+                  "kind": "bible",
+                  "key": "colossians.1.16-17",
+                  "book": "colossians",
+                  "chapter": 1,
+                  "verseStart": 16,
+                  "verseEnd": 17
+                },
+                {
+                  "label": "Heb 1:3",
+                  "kind": "bible",
+                  "key": "hebrews.1.3",
+                  "book": "hebrews",
+                  "chapter": 1,
+                  "verseStart": 3,
+                  "verseEnd": 3
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Matt 6:26; Matt 10:29–31**: Your Father feeds the birds. Not one sparrow falls without Him. *\"That is Jesus' picture of God. Was He wrong about His Father?\"*",
+              "verses": [
+                {
+                  "label": "Matt 6:26",
+                  "kind": "bible",
+                  "key": "matthew.6.26",
+                  "book": "matthew",
+                  "chapter": 6,
+                  "verseStart": 26,
+                  "verseEnd": 26
+                },
+                {
+                  "label": "Matt 10:29–31",
+                  "kind": "bible",
+                  "key": "matthew.10.29-31",
+                  "book": "matthew",
+                  "chapter": 10,
+                  "verseStart": 29,
+                  "verseEnd": 31
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Heb 1:1–2; 2 Pet 1:20–21**: God spoke through the prophets, and men moved by the Holy Spirit spoke from God. See [Is the Bible reliable?](/topic/is-the-bible-reliable).",
+              "verses": [
+                {
+                  "label": "Heb 1:1–2",
+                  "kind": "bible",
+                  "key": "hebrews.1.1-2",
+                  "book": "hebrews",
+                  "chapter": 1,
+                  "verseStart": 1,
+                  "verseEnd": 2
+                },
+                {
+                  "label": "2 Pet 1:20–21",
+                  "kind": "bible",
+                  "key": "2-peter.1.20-21",
+                  "book": "2-peter",
+                  "chapter": 1,
+                  "verseStart": 20,
+                  "verseEnd": 21
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**John 1:14, 18**: The Word became flesh. God did not send a message only; He came.",
+              "verses": [
+                {
+                  "label": "John 1:14",
+                  "kind": "bible",
+                  "key": "john.1.14",
+                  "book": "john",
+                  "chapter": 1,
+                  "verseStart": 14,
+                  "verseEnd": 14
+                },
+                {
+                  "label": "John 1:18",
+                  "kind": "bible",
+                  "key": "john.1.18",
+                  "book": "john",
+                  "chapter": 1,
+                  "verseStart": 18,
+                  "verseEnd": 18
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "questions": [],
+          "ifTheySay": [
+            {
+              "theySay": "*\"Why would the God of a hundred billion galaxies care about us?\"*",
+              "youSay": "Size is not worth. A father values his child over his house. Scripture asks the same question in wonder and answers that God is mindful of man. (Ps 8:3–5; Matt 10:31)",
+              "verses": [
+                {
+                  "label": "Ps 8:3–5",
+                  "kind": "bible",
+                  "key": "psalms.8.3-5",
+                  "book": "psalms",
+                  "chapter": 8,
+                  "verseStart": 3,
+                  "verseEnd": 5
+                },
+                {
+                  "label": "Matt 10:31",
+                  "kind": "bible",
+                  "key": "matthew.10.31",
+                  "book": "matthew",
+                  "chapter": 10,
+                  "verseStart": 31,
+                  "verseEnd": 31
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"Revelation to one small nation long ago is unfair to everyone else.\"*",
+              "youSay": "God chose one nation so that through it all the families of the earth would be blessed, and the message has gone to every tongue. No one is judged for light he did not have; everyone has enough to be accountable. (Gen 12:3; Rev 7:9; Rom 1:20; Rom 2:12)",
+              "verses": [
+                {
+                  "label": "Gen 12:3",
+                  "kind": "bible",
+                  "key": "genesis.12.3",
+                  "book": "genesis",
+                  "chapter": 12,
+                  "verseStart": 3,
+                  "verseEnd": 3
+                },
+                {
+                  "label": "Rev 7:9",
+                  "kind": "bible",
+                  "key": "revelation.7.9",
+                  "book": "revelation",
+                  "chapter": 7,
+                  "verseStart": 9,
+                  "verseEnd": 9
+                },
+                {
+                  "label": "Rom 1:20",
+                  "kind": "bible",
+                  "key": "romans.1.20",
+                  "book": "romans",
+                  "chapter": 1,
+                  "verseStart": 20,
+                  "verseEnd": 20
+                },
+                {
+                  "label": "Rom 2:12",
+                  "kind": "bible",
+                  "key": "romans.2.12",
+                  "book": "romans",
+                  "chapter": 2,
+                  "verseStart": 12,
+                  "verseEnd": 12
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"Prayer changes nothing. Things just take their course.\"*",
+              "youSay": "Jesus taught the opposite and prayed Himself. A Father who knows how to give good gifts hears His children. (Matt 7:11; James 5:16; 1 John 5:14)",
+              "verses": [
+                {
+                  "label": "Matt 7:11",
+                  "kind": "bible",
+                  "key": "matthew.7.11",
+                  "book": "matthew",
+                  "chapter": 7,
+                  "verseStart": 11,
+                  "verseEnd": 11
+                },
+                {
+                  "label": "Jas 5:16",
+                  "kind": "bible",
+                  "key": "james.5.16",
+                  "book": "james",
+                  "chapter": 5,
+                  "verseStart": 16,
+                  "verseEnd": 16
+                },
+                {
+                  "label": "1 John 5:14",
+                  "kind": "bible",
+                  "key": "1-john.5.14",
+                  "book": "1-john",
+                  "chapter": 5,
+                  "verseStart": 14,
+                  "verseEnd": 14
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"Evil and suffering show God is not involved.\"*",
+              "youSay": "Or they show a world in rebellion that He has not yet judged, out of patience. At the cross He used the worst evil for the greatest good. See [The problem of evil](/topic/the-problem-of-evil). (Gen 50:20; Acts 2:23; 2 Pet 3:9)",
+              "verses": [
+                {
+                  "label": "Gen 50:20",
+                  "kind": "bible",
+                  "key": "genesis.50.20",
+                  "book": "genesis",
+                  "chapter": 50,
+                  "verseStart": 20,
+                  "verseEnd": 20
+                },
+                {
+                  "label": "Acts 2:23",
+                  "kind": "bible",
+                  "key": "acts.2.23",
+                  "book": "acts",
+                  "chapter": 2,
+                  "verseStart": 23,
+                  "verseEnd": 23
+                },
+                {
+                  "label": "2 Pet 3:9",
+                  "kind": "bible",
+                  "key": "2-peter.3.9",
+                  "book": "2-peter",
+                  "chapter": 3,
+                  "verseStart": 9,
+                  "verseEnd": 9
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "notes": [],
+          "links": [],
+          "opener": {
+            "text": "*\"You believe God made everything. What do you think He is doing now?\"*",
+            "verses": [],
+            "links": [],
+            "supplemental": false
+          },
+          "closer": {
+            "text": "*\"You believe in a God who made you. He is nearer than you thought, He has spoken, and He has come. Would you listen to what He said?\"* (Acts 17:27; Heb 1:2)",
+            "verses": [
+              {
+                "label": "Acts 17:27",
+                "kind": "bible",
+                "key": "acts.17.27",
+                "book": "acts",
+                "chapter": 17,
+                "verseStart": 27,
+                "verseEnd": 27
+              },
+              {
+                "label": "Heb 1:2",
+                "kind": "bible",
+                "key": "hebrews.1.2",
+                "book": "hebrews",
+                "chapter": 1,
+                "verseStart": 2,
+                "verseEnd": 2
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          }
+        },
+        {
+          "id": "play-2",
+          "number": 2,
+          "title": "Good enough for God?",
+          "subtitle": "the moral teacher and the Savior",
+          "warning": false,
+          "supplemental": false,
+          "altOpeners": [
+            {
+              "text": "*\"You admire Jesus as a teacher. What do you make of what He said about Himself?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "chain": [
+            {
+              "text": "**Matt 22:37–39**: Jesus summed up what God wants: love God with all your heart, soul and mind, and your neighbor as yourself. *\"Have you done that, even for one day?\"*",
+              "verses": [
+                {
+                  "label": "Matt 22:37–39",
+                  "kind": "bible",
+                  "key": "matthew.22.37-39",
+                  "book": "matthew",
+                  "chapter": 22,
+                  "verseStart": 37,
+                  "verseEnd": 39
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Matt 5:21–22, 27–28**: The moral teacher raised the bar: anger is murder in the heart, and lust is adultery in the heart. His ethics do not flatter us; they convict us.",
+              "verses": [
+                {
+                  "label": "Matt 5:21–22",
+                  "kind": "bible",
+                  "key": "matthew.5.21-22",
+                  "book": "matthew",
+                  "chapter": 5,
+                  "verseStart": 21,
+                  "verseEnd": 22
+                },
+                {
+                  "label": "Matt 5:27–28",
+                  "kind": "bible",
+                  "key": "matthew.5.27-28",
+                  "book": "matthew",
+                  "chapter": 5,
+                  "verseStart": 27,
+                  "verseEnd": 28
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Luke 18:19; Rom 3:10–12**: \"No one is good except God alone.\" None is righteous, not even one.",
+              "verses": [
+                {
+                  "label": "Luke 18:19",
+                  "kind": "bible",
+                  "key": "luke.18.19",
+                  "book": "luke",
+                  "chapter": 18,
+                  "verseStart": 19,
+                  "verseEnd": 19
+                },
+                {
+                  "label": "Rom 3:10–12",
+                  "kind": "bible",
+                  "key": "romans.3.10-12",
+                  "book": "romans",
+                  "chapter": 3,
+                  "verseStart": 10,
+                  "verseEnd": 12
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Rom 2:5–6**: A just God will repay each person according to his works. *\"You believe God is just. Is that good news for you?\"*",
+              "verses": [
+                {
+                  "label": "Rom 2:5–6",
+                  "kind": "bible",
+                  "key": "romans.2.5-6",
+                  "book": "romans",
+                  "chapter": 2,
+                  "verseStart": 5,
+                  "verseEnd": 6
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Mark 2:5–7; John 8:58**: Jesus did not only teach. He forgave sins as only God can, and said, \"Before Abraham was born, I am.\" A mere moral teacher who says that is not moral. *\"Was He lying, deluded, or telling the truth?\"*",
+              "verses": [
+                {
+                  "label": "Mark 2:5–7",
+                  "kind": "bible",
+                  "key": "mark.2.5-7",
+                  "book": "mark",
+                  "chapter": 2,
+                  "verseStart": 5,
+                  "verseEnd": 7
+                },
+                {
+                  "label": "John 8:58",
+                  "kind": "bible",
+                  "key": "john.8.58",
+                  "book": "john",
+                  "chapter": 8,
+                  "verseStart": 58,
+                  "verseEnd": 58
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Mark 10:45**: He said He came to give His life as a ransom for many. His own account of His mission is the cross, not the Sermon on the Mount.",
+              "verses": [
+                {
+                  "label": "Mark 10:45",
+                  "kind": "bible",
+                  "key": "mark.10.45",
+                  "book": "mark",
+                  "chapter": 10,
+                  "verseStart": 45,
+                  "verseEnd": 45
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**1 Cor 15:3–6; Acts 17:31**: He died for our sins, was buried, was raised and was seen by more than five hundred. God gave proof to all by raising Him.",
+              "verses": [
+                {
+                  "label": "1 Cor 15:3–6",
+                  "kind": "bible",
+                  "key": "1-corinthians.15.3-6",
+                  "book": "1-corinthians",
+                  "chapter": 15,
+                  "verseStart": 3,
+                  "verseEnd": 6
+                },
+                {
+                  "label": "Acts 17:31",
+                  "kind": "bible",
+                  "key": "acts.17.31",
+                  "book": "acts",
+                  "chapter": 17,
+                  "verseStart": 31,
+                  "verseEnd": 31
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "questions": [],
+          "ifTheySay": [
+            {
+              "theySay": "*\"I keep the Golden Rule. That's enough.\"*",
+              "youSay": "Do you keep it? Always? And it is the second commandment; the first is to love God with everything. (Matt 7:12; Matt 22:37–38; James 2:10)",
+              "verses": [
+                {
+                  "label": "Matt 7:12",
+                  "kind": "bible",
+                  "key": "matthew.7.12",
+                  "book": "matthew",
+                  "chapter": 7,
+                  "verseStart": 12,
+                  "verseEnd": 12
+                },
+                {
+                  "label": "Matt 22:37–38",
+                  "kind": "bible",
+                  "key": "matthew.22.37-38",
+                  "book": "matthew",
+                  "chapter": 22,
+                  "verseStart": 37,
+                  "verseEnd": 38
+                },
+                {
+                  "label": "Jas 2:10",
+                  "kind": "bible",
+                  "key": "james.2.10",
+                  "book": "james",
+                  "chapter": 2,
+                  "verseStart": 10,
+                  "verseEnd": 10
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"The miracles and the claims to be God were added later by the church.\"*",
+              "youSay": "Paul's letters, written within about twenty-five years of the cross, already worship Jesus as Lord and report the resurrection from eyewitnesses then living. There was no time for legend. (1 Cor 15:3–8; Phil 2:6–11)",
+              "verses": [
+                {
+                  "label": "1 Cor 15:3–8",
+                  "kind": "bible",
+                  "key": "1-corinthians.15.3-8",
+                  "book": "1-corinthians",
+                  "chapter": 15,
+                  "verseStart": 3,
+                  "verseEnd": 8
+                },
+                {
+                  "label": "Phil 2:6–11",
+                  "kind": "bible",
+                  "key": "philippians.2.6-11",
+                  "book": "philippians",
+                  "chapter": 2,
+                  "verseStart": 6,
+                  "verseEnd": 11
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"Jefferson cut out the miracles and kept the morals.\"*",
+              "youSay": "He did, with a razor. What he kept is a teacher who claims authority over every conscience and then dies for nothing. The Jesus of history comes whole or not at all. (John 10:37–38; Luke 24:25–27)",
+              "verses": [
+                {
+                  "label": "John 10:37–38",
+                  "kind": "bible",
+                  "key": "john.10.37-38",
+                  "book": "john",
+                  "chapter": 10,
+                  "verseStart": 37,
+                  "verseEnd": 38
+                },
+                {
+                  "label": "Luke 24:25–27",
+                  "kind": "bible",
+                  "key": "luke.24.25-27",
+                  "book": "luke",
+                  "chapter": 24,
+                  "verseStart": 25,
+                  "verseEnd": 27
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"A good God would not condemn decent people.\"*",
+              "youSay": "A good judge does not ignore crimes because the criminal was polite. And He has done more than be fair: He bore the sentence Himself. See [Hell and eternal judgment](/topic/hell-and-eternal-judgment). (Prov 17:15; Rom 3:25–26)",
+              "verses": [
+                {
+                  "label": "Prov 17:15",
+                  "kind": "bible",
+                  "key": "proverbs.17.15",
+                  "book": "proverbs",
+                  "chapter": 17,
+                  "verseStart": 15,
+                  "verseEnd": 15
+                },
+                {
+                  "label": "Rom 3:25–26",
+                  "kind": "bible",
+                  "key": "romans.3.25-26",
+                  "book": "romans",
+                  "chapter": 3,
+                  "verseStart": 25,
+                  "verseEnd": 26
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "notes": [],
+          "links": [],
+          "opener": {
+            "text": "*\"What do you think God wants from people?\"*",
+            "verses": [],
+            "links": [],
+            "supplemental": false
+          },
+          "closer": {
+            "text": "*\"Deism gives you a Maker and a standard, and leaves you alone with your record. The gospel gives you a Father and a Savior. Which do you need?\"* (Rom 5:8; John 1:12)",
+            "verses": [
+              {
+                "label": "Rom 5:8",
+                "kind": "bible",
+                "key": "romans.5.8",
+                "book": "romans",
+                "chapter": 5,
+                "verseStart": 8,
+                "verseEnd": 8
+              },
+              {
+                "label": "John 1:12",
+                "kind": "bible",
+                "key": "john.1.12",
+                "book": "john",
+                "chapter": 1,
+                "verseStart": 12,
+                "verseEnd": 12
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          }
+        }
+      ],
+      "defense": [
+        {
+          "id": "god-set-things-motion-stepped",
+          "objection": "\"God set things in motion and stepped back.\"",
+          "response": "Scripture says He upholds all things by the word of His power, right now. Jesus said His Father is working until now.",
+          "goTo": "Heb 1:3; Col 1:17; John 5:17; Ps 104:27–30",
+          "askBack": "*\"How do you know He stepped back?\"*",
+          "verses": [
+            {
+              "label": "Heb 1:3",
+              "kind": "bible",
+              "key": "hebrews.1.3",
+              "book": "hebrews",
+              "chapter": 1,
+              "verseStart": 3,
+              "verseEnd": 3
+            },
+            {
+              "label": "Col 1:17",
+              "kind": "bible",
+              "key": "colossians.1.17",
+              "book": "colossians",
+              "chapter": 1,
+              "verseStart": 17,
+              "verseEnd": 17
+            },
+            {
+              "label": "John 5:17",
+              "kind": "bible",
+              "key": "john.5.17",
+              "book": "john",
+              "chapter": 5,
+              "verseStart": 17,
+              "verseEnd": 17
+            },
+            {
+              "label": "Ps 104:27–30",
+              "kind": "bible",
+              "key": "psalms.104.27-30",
+              "book": "psalms",
+              "chapter": 104,
+              "verseStart": 27,
+              "verseEnd": 30
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "reason-enough-dont-need-revelation",
+          "objection": "\"Reason is enough. I don't need revelation.\"",
+          "response": "Reason can find that there is a God. It cannot find out what He thinks of you or how to be forgiven. For that He has to tell you.",
+          "goTo": "1 Cor 2:11; Rom 10:14–17; Deut 29:29",
+          "askBack": "*\"Can reason tell you whether God will forgive you?\"*",
+          "verses": [
+            {
+              "label": "1 Cor 2:11",
+              "kind": "bible",
+              "key": "1-corinthians.2.11",
+              "book": "1-corinthians",
+              "chapter": 2,
+              "verseStart": 11,
+              "verseEnd": 11
+            },
+            {
+              "label": "Rom 10:14–17",
+              "kind": "bible",
+              "key": "romans.10.14-17",
+              "book": "romans",
+              "chapter": 10,
+              "verseStart": 14,
+              "verseEnd": 17
+            },
+            {
+              "label": "Deut 29:29",
+              "kind": "bible",
+              "key": "deuteronomy.29.29",
+              "book": "deuteronomy",
+              "chapter": 29,
+              "verseStart": 29,
+              "verseEnd": 29
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "miracles-dont-happen",
+          "objection": "\"Miracles don't happen.\"",
+          "response": "If God made the universe, miracles are possible. Whether one happened is a question of testimony. Look at the resurrection.",
+          "goTo": "Gen 1:1; Jer 32:17; Acts 26:8; 1 Cor 15:6",
+          "askBack": "*\"Is that a conclusion from evidence, or an assumption before it?\"*",
+          "verses": [
+            {
+              "label": "Gen 1:1",
+              "kind": "bible",
+              "key": "genesis.1.1",
+              "book": "genesis",
+              "chapter": 1,
+              "verseStart": 1,
+              "verseEnd": 1
+            },
+            {
+              "label": "Jer 32:17",
+              "kind": "bible",
+              "key": "jeremiah.32.17",
+              "book": "jeremiah",
+              "chapter": 32,
+              "verseStart": 17,
+              "verseEnd": 17
+            },
+            {
+              "label": "Acts 26:8",
+              "kind": "bible",
+              "key": "acts.26.8",
+              "book": "acts",
+              "chapter": 26,
+              "verseStart": 8,
+              "verseEnd": 8
+            },
+            {
+              "label": "1 Cor 15:6",
+              "kind": "bible",
+              "key": "1-corinthians.15.6",
+              "book": "1-corinthians",
+              "chapter": 15,
+              "verseStart": 6,
+              "verseEnd": 6
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "bible-just-mens-writings",
+          "objection": "\"The Bible is just men's writings.\"",
+          "response": "It claims more, Jesus treated it as God's word, and its fulfilled prophecy backs the claim. See [Is the Bible reliable?](/topic/is-the-bible-reliable).",
+          "goTo": "2 Tim 3:16; 2 Pet 1:21; John 10:35; Isa 46:9–10",
+          "askBack": "*\"Have you read it as an adult?\"*",
+          "verses": [
+            {
+              "label": "2 Tim 3:16",
+              "kind": "bible",
+              "key": "2-timothy.3.16",
+              "book": "2-timothy",
+              "chapter": 3,
+              "verseStart": 16,
+              "verseEnd": 16
+            },
+            {
+              "label": "2 Pet 1:21",
+              "kind": "bible",
+              "key": "2-peter.1.21",
+              "book": "2-peter",
+              "chapter": 1,
+              "verseStart": 21,
+              "verseEnd": 21
+            },
+            {
+              "label": "John 10:35",
+              "kind": "bible",
+              "key": "john.10.35",
+              "book": "john",
+              "chapter": 10,
+              "verseStart": 35,
+              "verseEnd": 35
+            },
+            {
+              "label": "Isa 46:9–10",
+              "kind": "bible",
+              "key": "isaiah.46.9-10",
+              "book": "isaiah",
+              "chapter": 46,
+              "verseStart": 9,
+              "verseEnd": 10
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "jesus-was-great-moral-teacher",
+          "objection": "\"Jesus was a great moral teacher, nothing more.\"",
+          "response": "He claimed to forgive sins, to judge the world and to exist before Abraham. A man who says that falsely is not a great moral teacher.",
+          "goTo": "Mark 2:5–7; John 5:22–23; John 8:58",
+          "askBack": "*\"Which of His claims would a mere teacher make?\"*",
+          "verses": [
+            {
+              "label": "Mark 2:5–7",
+              "kind": "bible",
+              "key": "mark.2.5-7",
+              "book": "mark",
+              "chapter": 2,
+              "verseStart": 5,
+              "verseEnd": 7
+            },
+            {
+              "label": "John 5:22–23",
+              "kind": "bible",
+              "key": "john.5.22-23",
+              "book": "john",
+              "chapter": 5,
+              "verseStart": 22,
+              "verseEnd": 23
+            },
+            {
+              "label": "John 8:58",
+              "kind": "bible",
+              "key": "john.8.58",
+              "book": "john",
+              "chapter": 8,
+              "verseStart": 58,
+              "verseEnd": 58
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "organized-religion-man-made-corrupt",
+          "objection": "\"Organized religion is man-made and corrupt.\"",
+          "response": "Much of it is, and Jesus said so before you did. But the abuse of a thing does not make the thing false. He founded His church and gave Himself for her.",
+          "goTo": "Matt 23:13; Matt 16:18; Eph 5:25",
+          "askBack": "*\"Does counterfeit money mean there is no real money?\"*",
+          "verses": [
+            {
+              "label": "Matt 23:13",
+              "kind": "bible",
+              "key": "matthew.23.13",
+              "book": "matthew",
+              "chapter": 23,
+              "verseStart": 13,
+              "verseEnd": 13
+            },
+            {
+              "label": "Matt 16:18",
+              "kind": "bible",
+              "key": "matthew.16.18",
+              "book": "matthew",
+              "chapter": 16,
+              "verseStart": 18,
+              "verseEnd": 18
+            },
+            {
+              "label": "Eph 5:25",
+              "kind": "bible",
+              "key": "ephesians.5.25",
+              "book": "ephesians",
+              "chapter": 5,
+              "verseStart": 25,
+              "verseEnd": 25
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "good-people-go-heaven",
+          "objection": "\"Good people go to heaven.\"",
+          "response": "That is the most widely held belief in America and it is not in the Bible. No one is good; heaven is for the forgiven.",
+          "goTo": "Rom 3:10–12; Titus 3:5; Eph 2:8–9; Luke 18:13–14",
+          "askBack": "*\"How good is good enough, and who told you?\"*",
+          "verses": [
+            {
+              "label": "Rom 3:10–12",
+              "kind": "bible",
+              "key": "romans.3.10-12",
+              "book": "romans",
+              "chapter": 3,
+              "verseStart": 10,
+              "verseEnd": 12
+            },
+            {
+              "label": "Titus 3:5",
+              "kind": "bible",
+              "key": "titus.3.5",
+              "book": "titus",
+              "chapter": 3,
+              "verseStart": 5,
+              "verseEnd": 5
+            },
+            {
+              "label": "Eph 2:8–9",
+              "kind": "bible",
+              "key": "ephesians.2.8-9",
+              "book": "ephesians",
+              "chapter": 2,
+              "verseStart": 8,
+              "verseEnd": 9
+            },
+            {
+              "label": "Luke 18:13–14",
+              "kind": "bible",
+              "key": "luke.18.13-14",
+              "book": "luke",
+              "chapter": 18,
+              "verseStart": 13,
+              "verseEnd": 14
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "god-just-wants-me-happy",
+          "objection": "\"God just wants me to be happy.\"",
+          "response": "He wants you holy, and in Him, truly happy. A God who exists to serve our plans is one we made in our own image.",
+          "goTo": "1 Pet 1:15–16; Ps 16:11; Matt 16:24–25",
+          "askBack": "*\"What if what you want and what is good for you differ?\"*",
+          "verses": [
+            {
+              "label": "1 Pet 1:15–16",
+              "kind": "bible",
+              "key": "1-peter.1.15-16",
+              "book": "1-peter",
+              "chapter": 1,
+              "verseStart": 15,
+              "verseEnd": 16
+            },
+            {
+              "label": "Ps 16:11",
+              "kind": "bible",
+              "key": "psalms.16.11",
+              "book": "psalms",
+              "chapter": 16,
+              "verseStart": 11,
+              "verseEnd": 11
+            },
+            {
+              "label": "Matt 16:24–25",
+              "kind": "bible",
+              "key": "matthew.16.24-25",
+              "book": "matthew",
+              "chapter": 16,
+              "verseStart": 24,
+              "verseEnd": 25
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "founding-fathers-were-deists",
+          "objection": "\"The Founding Fathers were deists.\"",
+          "response": "Some were, and many were not. Either way, truth is not settled by who held it.",
+          "goTo": "Acts 17:11; Rom 3:4",
+          "askBack": "*\"Is it true? That's the only question.\"*",
+          "verses": [
+            {
+              "label": "Acts 17:11",
+              "kind": "bible",
+              "key": "acts.17.11",
+              "book": "acts",
+              "chapter": 17,
+              "verseStart": 11,
+              "verseEnd": 11
+            },
+            {
+              "label": "Rom 3:4",
+              "kind": "bible",
+              "key": "romans.3.4",
+              "book": "romans",
+              "chapter": 3,
+              "verseStart": 4,
+              "verseEnd": 4
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        }
+      ],
+      "exits": {
+        "label": "Typical exits",
+        "items": [
+          {
+            "text": "\"I believe in God, and that's enough.\" (Say: *\"The demons also believe, and shudder. What matters is whether you are right with Him.\"* James 2:19.)",
+            "verses": [
+              {
+                "label": "Jas 2:19",
+                "kind": "bible",
+                "key": "james.2.19",
+                "book": "james",
+                "chapter": 2,
+                "verseStart": 19,
+                "verseEnd": 19
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          },
+          {
+            "text": "\"I don't need church to be a good person.\" (Agree that church doesn't make anyone good, and ask: *\"Are you good?\"*)",
+            "verses": [],
+            "links": [],
+            "supplemental": false
+          },
+          {
+            "text": "\"We can't know those details.\" (Ask: *\"Unless He told us. Would you read what He said?\"*)",
+            "verses": [],
+            "links": [],
+            "supplemental": false
+          },
+          {
+            "text": "\"To each his own.\" (Leave Rom 5:8.)",
+            "verses": [
+              {
+                "label": "Rom 5:8",
+                "kind": "bible",
+                "key": "romans.5.8",
+                "book": "romans",
+                "chapter": 5,
+                "verseStart": 8,
+                "verseEnd": 8
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          }
+        ]
+      }
+    },
+    {
+      "slug": "humanist",
+      "name": "Secular Humanist",
+      "heading": "SECULAR HUMANISTS",
+      "color": "#22d3ee",
+      "emoji": "🧑",
+      "beliefs": {
+        "text": "There is no God and no life after death, and human beings are the product of unguided evolution. Knowledge comes through science and reason. Right and wrong are worked out from human need and experience, not handed down. People are basically good and can be improved by education, science and fair institutions. Meaning is something we make. Their own summary: \"No deity will save us; we must save ourselves\" [Humanist Manifesto II, 1973]. Many would simply say, \"I believe in science and being a good person.\"",
+        "verses": [],
+        "links": [],
+        "supplemental": false
+      },
+      "lead": [
+        {
+          "label": "Their position",
+          "text": "There is no God and no life after death, and human beings are the product of unguided evolution. Knowledge comes through science and reason. Right and wrong are worked out from human need and experience, not handed down. People are basically good and can be improved by education, science and fair institutions. Meaning is something we make. Their own summary: \"No deity will save us; we must save ourselves\" [Humanist Manifesto II, 1973]. Many would simply say, \"I believe in science and being a good person.\"",
+          "verses": [],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "The dividing issue",
+          "text": "Who is the measure, God or man, and whether man can save himself. Humanism keeps the Bible's high view of human worth and throws away its foundation, the image of God. It also throws away the Bible's diagnosis, that the human heart is the problem, and so trusts the patient to cure himself. (Gen 1:27; Jer 17:5; Jer 17:9; Rom 1:25)",
+          "verses": [
+            {
+              "label": "Gen 1:27",
+              "kind": "bible",
+              "key": "genesis.1.27",
+              "book": "genesis",
+              "chapter": 1,
+              "verseStart": 27,
+              "verseEnd": 27
+            },
+            {
+              "label": "Jer 17:5",
+              "kind": "bible",
+              "key": "jeremiah.17.5",
+              "book": "jeremiah",
+              "chapter": 17,
+              "verseStart": 5,
+              "verseEnd": 5
+            },
+            {
+              "label": "Jer 17:9",
+              "kind": "bible",
+              "key": "jeremiah.17.9",
+              "book": "jeremiah",
+              "chapter": 17,
+              "verseStart": 9,
+              "verseEnd": 9
+            },
+            {
+              "label": "Rom 1:25",
+              "kind": "bible",
+              "key": "romans.1.25",
+              "book": "romans",
+              "chapter": 1,
+              "verseStart": 25,
+              "verseEnd": 25
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "Ask this question",
+          "text": "*\"You believe every human being has dignity and equal worth. If we are accidents of chemistry, where does that worth come from?\"* (Gen 1:27)",
+          "verses": [
+            {
+              "label": "Gen 1:27",
+              "kind": "bible",
+              "key": "genesis.1.27",
+              "book": "genesis",
+              "chapter": 1,
+              "verseStart": 27,
+              "verseEnd": 27
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "Scriptural response",
+          "text": "God created man in His own image. That is why human life is sacred, why it is wrong to curse or kill a man, and why all nations are of one blood. Yet the heart is deceitful above all else, and none is righteous. Do not trust in princes or in mortal man, in whom there is no salvation: his spirit departs, and his plans perish. (Gen 1:26–27; Gen 9:6; Acts 17:26; Jer 17:9; Rom 3:10–12; Ps 146:3–4)",
+          "verses": [
+            {
+              "label": "Gen 1:26–27",
+              "kind": "bible",
+              "key": "genesis.1.26-27",
+              "book": "genesis",
+              "chapter": 1,
+              "verseStart": 26,
+              "verseEnd": 27
+            },
+            {
+              "label": "Gen 9:6",
+              "kind": "bible",
+              "key": "genesis.9.6",
+              "book": "genesis",
+              "chapter": 9,
+              "verseStart": 6,
+              "verseEnd": 6
+            },
+            {
+              "label": "Acts 17:26",
+              "kind": "bible",
+              "key": "acts.17.26",
+              "book": "acts",
+              "chapter": 17,
+              "verseStart": 26,
+              "verseEnd": 26
+            },
+            {
+              "label": "Jer 17:9",
+              "kind": "bible",
+              "key": "jeremiah.17.9",
+              "book": "jeremiah",
+              "chapter": 17,
+              "verseStart": 9,
+              "verseEnd": 9
+            },
+            {
+              "label": "Rom 3:10–12",
+              "kind": "bible",
+              "key": "romans.3.10-12",
+              "book": "romans",
+              "chapter": 3,
+              "verseStart": 10,
+              "verseEnd": 12
+            },
+            {
+              "label": "Ps 146:3–4",
+              "kind": "bible",
+              "key": "psalms.146.3-4",
+              "book": "psalms",
+              "chapter": 146,
+              "verseStart": 3,
+              "verseEnd": 4
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "Common objection",
+          "text": "*\"I can be good without God.\"* → You can do many good things, and I don't doubt you do. Scripture says why: you are made in God's image, and His law is written on your heart. But the question is not whether you can behave without believing. It is what makes anything good at all, and whether you are good by God's measure. Jesus said no one is. See [Morality and justice](/topic/morality-and-justice). (Rom 2:14–15; Luke 18:19; Rom 3:23)",
+          "verses": [
+            {
+              "label": "Rom 2:14–15",
+              "kind": "bible",
+              "key": "romans.2.14-15",
+              "book": "romans",
+              "chapter": 2,
+              "verseStart": 14,
+              "verseEnd": 15
+            },
+            {
+              "label": "Luke 18:19",
+              "kind": "bible",
+              "key": "luke.18.19",
+              "book": "luke",
+              "chapter": 18,
+              "verseStart": 19,
+              "verseEnd": 19
+            },
+            {
+              "label": "Rom 3:23",
+              "kind": "bible",
+              "key": "romans.3.23",
+              "book": "romans",
+              "chapter": 3,
+              "verseStart": 23,
+              "verseEnd": 23
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "Gospel bridge",
+          "text": "*\"The manifesto says we must save ourselves. After a century of more education, science and wealth than any people in history, how is that going? How is it going in your own heart?\"* We know the good and do not do it. The kindness of God appeared, and He saved us, not by deeds we had done, but by His mercy. (Rom 7:18–19; Rom 7:24–25; Titus 3:4–5; John 8:36)",
+          "verses": [
+            {
+              "label": "Rom 7:18–19",
+              "kind": "bible",
+              "key": "romans.7.18-19",
+              "book": "romans",
+              "chapter": 7,
+              "verseStart": 18,
+              "verseEnd": 19
+            },
+            {
+              "label": "Rom 7:24–25",
+              "kind": "bible",
+              "key": "romans.7.24-25",
+              "book": "romans",
+              "chapter": 7,
+              "verseStart": 24,
+              "verseEnd": 25
+            },
+            {
+              "label": "Titus 3:4–5",
+              "kind": "bible",
+              "key": "titus.3.4-5",
+              "book": "titus",
+              "chapter": 3,
+              "verseStart": 4,
+              "verseEnd": 5
+            },
+            {
+              "label": "John 8:36",
+              "kind": "bible",
+              "key": "john.8.36",
+              "book": "john",
+              "chapter": 8,
+              "verseStart": 36,
+              "verseEnd": 36
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "Where we agree",
+          "text": "Human beings matter. Cruelty, oppression and ignorance are evils worth fighting. Science is a good tool and truth should be followed. This life is precious. Hypocrisy in religion deserves criticism.",
+          "verses": [],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "Approach",
+          "text": "The humanist is living on borrowed capital: human rights, equality and compassion grew in soil the Bible plowed, and they do not grow from \"matter in motion.\" Jeff Durbin's line to a skeptic says it well: \"you're acting like a Christian.\" Affirm the good they love, then ask what it rests on. Do not argue that atheists are immoral; argue that their morality has no foundation and their optimism about man has no evidence. Then go to the conscience and the cross. The [Atheist](/atheist) plays and [Worldviews: how do you know?](/topic/worldviews-how-do-you-know) carry the rest. Remember that humanism is itself a faith with a creed, and its first manifesto called it religious. (Acts 17:22–31; Col 2:8; 1 Pet 3:15)",
+          "verses": [
+            {
+              "label": "Acts 17:22–31",
+              "kind": "bible",
+              "key": "acts.17.22-31",
+              "book": "acts",
+              "chapter": 17,
+              "verseStart": 22,
+              "verseEnd": 31
+            },
+            {
+              "label": "Col 2:8",
+              "kind": "bible",
+              "key": "colossians.2.8",
+              "book": "colossians",
+              "chapter": 2,
+              "verseStart": 8,
+              "verseEnd": 8
+            },
+            {
+              "label": "1 Pet 3:15",
+              "kind": "bible",
+              "key": "1-peter.3.15",
+              "book": "1-peter",
+              "chapter": 3,
+              "verseStart": 15,
+              "verseEnd": 15
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        }
+      ],
+      "cheatCardTitle": "Secular Humanist Cheat Card",
+      "cheatCard": [
+        {
+          "text": "**Gen 1:27**: *\"What gives a human being worth that an animal does not have?\"*",
+          "verses": [
+            {
+              "label": "Gen 1:27",
+              "kind": "bible",
+              "key": "genesis.1.27",
+              "book": "genesis",
+              "chapter": 1,
+              "verseStart": 27,
+              "verseEnd": 27
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "text": "**Jer 17:9**: *\"Is the human heart the solution or the problem?\"*",
+          "verses": [
+            {
+              "label": "Jer 17:9",
+              "kind": "bible",
+              "key": "jeremiah.17.9",
+              "book": "jeremiah",
+              "chapter": 17,
+              "verseStart": 9,
+              "verseEnd": 9
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "text": "**Ps 146:3–4**: *\"What happens to every human plan?\"*",
+          "verses": [
+            {
+              "label": "Ps 146:3–4",
+              "kind": "bible",
+              "key": "psalms.146.3-4",
+              "book": "psalms",
+              "chapter": 146,
+              "verseStart": 3,
+              "verseEnd": 4
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "text": "**Rom 7:18–19**: *\"Do you always do the good you know?\"*",
+          "verses": [
+            {
+              "label": "Rom 7:18–19",
+              "kind": "bible",
+              "key": "romans.7.18-19",
+              "book": "romans",
+              "chapter": 7,
+              "verseStart": 18,
+              "verseEnd": 19
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "text": "**Mark 8:36**: *\"What is the profit if you gain the world and lose your soul?\"*",
+          "verses": [
+            {
+              "label": "Mark 8:36",
+              "kind": "bible",
+              "key": "mark.8.36",
+              "book": "mark",
+              "chapter": 8,
+              "verseStart": 36,
+              "verseEnd": 36
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "text": "**Titus 3:4–5**: *\"Who does the saving here?\"*",
+          "verses": [
+            {
+              "label": "Titus 3:4–5",
+              "kind": "bible",
+              "key": "titus.3.4-5",
+              "book": "titus",
+              "chapter": 3,
+              "verseStart": 4,
+              "verseEnd": 5
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        }
+      ],
+      "offense": [
+        {
+          "id": "play-1",
+          "number": 1,
+          "title": "Where does human worth come from?",
+          "subtitle": "the image of God",
+          "warning": false,
+          "supplemental": false,
+          "altOpeners": [
+            {
+              "text": "*\"Why is it wrong to treat people as things?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "chain": [
+            {
+              "text": "Let them answer: reason, feeling, consciousness, contribution. Each of those comes in degrees, so worth would come in degrees: the infant, the disabled and the dying would have less. *\"Do you believe that?\"* They do not, and that is to their credit.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "If we are the unplanned result of matter, time and chance, then \"equal dignity\" is a feeling one species has about itself. Nature knows nothing of equality; it knows strong and weak.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Gen 1:26–27**: God created man in His own image, male and female. Worth is given, not earned, and it does not come in degrees.",
+              "verses": [
+                {
+                  "label": "Gen 1:26–27",
+                  "kind": "bible",
+                  "key": "genesis.1.26-27",
+                  "book": "genesis",
+                  "chapter": 1,
+                  "verseStart": 26,
+                  "verseEnd": 27
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Gen 9:6; James 3:9**: That image is the reason murder is a crime against God and why it is wrong even to curse a man.",
+              "verses": [
+                {
+                  "label": "Gen 9:6",
+                  "kind": "bible",
+                  "key": "genesis.9.6",
+                  "book": "genesis",
+                  "chapter": 9,
+                  "verseStart": 6,
+                  "verseEnd": 6
+                },
+                {
+                  "label": "Jas 3:9",
+                  "kind": "bible",
+                  "key": "james.3.9",
+                  "book": "james",
+                  "chapter": 3,
+                  "verseStart": 9,
+                  "verseEnd": 9
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Acts 17:26**: He made from one man every nation. Human equality and the unity of the race are Bible doctrines before they were modern ideals.",
+              "verses": [
+                {
+                  "label": "Acts 17:26",
+                  "kind": "bible",
+                  "key": "acts.17.26",
+                  "book": "acts",
+                  "chapter": 17,
+                  "verseStart": 26,
+                  "verseEnd": 26
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Ps 8:3–5**: Small against the heavens, yet crowned with glory and majesty. Scripture explains both our smallness and our greatness.",
+              "verses": [
+                {
+                  "label": "Ps 8:3–5",
+                  "kind": "bible",
+                  "key": "psalms.8.3-5",
+                  "book": "psalms",
+                  "chapter": 8,
+                  "verseStart": 3,
+                  "verseEnd": 5
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Mark 8:36–37; John 3:16**: Jesus put the value of one soul above the whole world, and God gave His Son for it. *\"Nothing has ever set human worth higher than the cross.\"*",
+              "verses": [
+                {
+                  "label": "Mark 8:36–37",
+                  "kind": "bible",
+                  "key": "mark.8.36-37",
+                  "book": "mark",
+                  "chapter": 8,
+                  "verseStart": 36,
+                  "verseEnd": 37
+                },
+                {
+                  "label": "John 3:16",
+                  "kind": "bible",
+                  "key": "john.3.16",
+                  "book": "john",
+                  "chapter": 3,
+                  "verseStart": 16,
+                  "verseEnd": 16
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "questions": [],
+          "ifTheySay": [
+            {
+              "theySay": "*\"We give each other worth by agreement.\"*",
+              "youSay": "Then a society can agree to take it away, and has. Hitler's Germany agreed that Jews had none. If agreement is the standard, that was good for them at the time, and no outsider could call it evil. A right that the majority grants, the majority can revoke. Only a worth given by God stands over every government. (Acts 5:29; Prov 22:2)",
+              "verses": [
+                {
+                  "label": "Acts 5:29",
+                  "kind": "bible",
+                  "key": "acts.5.29",
+                  "book": "acts",
+                  "chapter": 5,
+                  "verseStart": 29,
+                  "verseEnd": 29
+                },
+                {
+                  "label": "Prov 22:2",
+                  "kind": "bible",
+                  "key": "proverbs.22.2",
+                  "book": "proverbs",
+                  "chapter": 22,
+                  "verseStart": 2,
+                  "verseEnd": 2
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"Morality evolved because cooperation helps us survive.\"*",
+              "youSay": "That would explain why we feel obligations, not why we have any. And evolution \"favors\" cruelty as readily as kindness when it works. See [Morality and justice](/topic/morality-and-justice).",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"Religion has done more harm than good.\"*",
+              "youSay": "Much evil has been done in God's name, against Christ's commands. But the worst slaughters of the last century were carried out by regimes that had officially abolished God. And look at who built the hospitals and ended the slave trade. Judge Christ by Christ. (Matt 7:16–20; James 1:27; John 13:35)",
+              "verses": [
+                {
+                  "label": "Matt 7:16–20",
+                  "kind": "bible",
+                  "key": "matthew.7.16-20",
+                  "book": "matthew",
+                  "chapter": 7,
+                  "verseStart": 16,
+                  "verseEnd": 20
+                },
+                {
+                  "label": "Jas 1:27",
+                  "kind": "bible",
+                  "key": "james.1.27",
+                  "book": "james",
+                  "chapter": 1,
+                  "verseStart": 27,
+                  "verseEnd": 27
+                },
+                {
+                  "label": "John 13:35",
+                  "kind": "bible",
+                  "key": "john.13.35",
+                  "book": "john",
+                  "chapter": 13,
+                  "verseStart": 35,
+                  "verseEnd": 35
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"Science tells us what is true.\"*",
+              "youSay": "Science tells us what is, never what ought to be, and \"only science gives knowledge\" is not itself a finding of science. See [Faith and reason](/topic/faith-and-reason).",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "notes": [],
+          "links": [],
+          "opener": {
+            "text": "*\"What makes a human life valuable?\"*",
+            "verses": [],
+            "links": [],
+            "supplemental": false
+          },
+          "closer": {
+            "text": "*\"You are right about human dignity and wrong about where it comes from. The God whose image you bear is the reason you care. Would you want to know Him?\"* (Gen 1:27; Acts 17:27–28)",
+            "verses": [
+              {
+                "label": "Gen 1:27",
+                "kind": "bible",
+                "key": "genesis.1.27",
+                "book": "genesis",
+                "chapter": 1,
+                "verseStart": 27,
+                "verseEnd": 27
+              },
+              {
+                "label": "Acts 17:27–28",
+                "kind": "bible",
+                "key": "acts.17.27-28",
+                "book": "acts",
+                "chapter": 17,
+                "verseStart": 27,
+                "verseEnd": 28
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          }
+        },
+        {
+          "id": "play-2",
+          "number": 2,
+          "title": "Can we save ourselves?",
+          "subtitle": "the heart, and death",
+          "warning": false,
+          "supplemental": false,
+          "altOpeners": [
+            {
+              "text": "*\"What would it take to fix the world?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "chain": [
+            {
+              "text": "Ask why, if people are basically good, every society needs locks, police, passwords and contracts, and why no one has to teach a child to be selfish.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Gen 6:5; Gen 8:21**: Every intent of the thoughts of man's heart was only evil continually; the intent of man's heart is evil from his youth. That was true before the flood and after it.",
+              "verses": [
+                {
+                  "label": "Gen 6:5",
+                  "kind": "bible",
+                  "key": "genesis.6.5",
+                  "book": "genesis",
+                  "chapter": 6,
+                  "verseStart": 5,
+                  "verseEnd": 5
+                },
+                {
+                  "label": "Gen 8:21",
+                  "kind": "bible",
+                  "key": "genesis.8.21",
+                  "book": "genesis",
+                  "chapter": 8,
+                  "verseStart": 21,
+                  "verseEnd": 21
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Jer 17:9; Mark 7:21–23**: The heart is deceitful and desperately sick. Evil comes from within. Better schools make cleverer sinners; the most educated nation in Europe built the death camps.",
+              "verses": [
+                {
+                  "label": "Jer 17:9",
+                  "kind": "bible",
+                  "key": "jeremiah.17.9",
+                  "book": "jeremiah",
+                  "chapter": 17,
+                  "verseStart": 9,
+                  "verseEnd": 9
+                },
+                {
+                  "label": "Mark 7:21–23",
+                  "kind": "bible",
+                  "key": "mark.7.21-23",
+                  "book": "mark",
+                  "chapter": 7,
+                  "verseStart": 21,
+                  "verseEnd": 23
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Rom 7:18–19**: \"The good that I want, I do not do.\" *\"Is that your experience? Do you live up to your own ideals?\"*",
+              "verses": [
+                {
+                  "label": "Rom 7:18–19",
+                  "kind": "bible",
+                  "key": "romans.7.18-19",
+                  "book": "romans",
+                  "chapter": 7,
+                  "verseStart": 18,
+                  "verseEnd": 19
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Ps 146:3–4; Eccl 2:16**: Whatever progress we make, each of us dies and his plans perish, and the wise man dies like the fool. Humanism has no answer to the grave. *\"If death wins, in what sense have we saved ourselves?\"*",
+              "verses": [
+                {
+                  "label": "Ps 146:3–4",
+                  "kind": "bible",
+                  "key": "psalms.146.3-4",
+                  "book": "psalms",
+                  "chapter": 146,
+                  "verseStart": 3,
+                  "verseEnd": 4
+                },
+                {
+                  "label": "Eccl 2:16",
+                  "kind": "bible",
+                  "key": "ecclesiastes.2.16",
+                  "book": "ecclesiastes",
+                  "chapter": 2,
+                  "verseStart": 16,
+                  "verseEnd": 16
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Ezek 36:26; John 3:3**: What we need is not improvement but a new heart, and that is what God promises: \"I will give you a new heart.\" \"You must be born again.\"",
+              "verses": [
+                {
+                  "label": "Ezek 36:26",
+                  "kind": "bible",
+                  "key": "ezekiel.36.26",
+                  "book": "ezekiel",
+                  "chapter": 36,
+                  "verseStart": 26,
+                  "verseEnd": 26
+                },
+                {
+                  "label": "John 3:3",
+                  "kind": "bible",
+                  "key": "john.3.3",
+                  "book": "john",
+                  "chapter": 3,
+                  "verseStart": 3,
+                  "verseEnd": 3
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**1 Cor 15:21–22; Rom 5:19**: By a man came death, and by a Man came the resurrection of the dead. Christ is the true human being, the one who obeyed, and He gives His record and His life to those who trust Him.",
+              "verses": [
+                {
+                  "label": "1 Cor 15:21–22",
+                  "kind": "bible",
+                  "key": "1-corinthians.15.21-22",
+                  "book": "1-corinthians",
+                  "chapter": 15,
+                  "verseStart": 21,
+                  "verseEnd": 22
+                },
+                {
+                  "label": "Rom 5:19",
+                  "kind": "bible",
+                  "key": "romans.5.19",
+                  "book": "romans",
+                  "chapter": 5,
+                  "verseStart": 19,
+                  "verseEnd": 19
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "questions": [],
+          "ifTheySay": [
+            {
+              "theySay": "*\"Evil comes from poverty, ignorance and bad systems.\"*",
+              "youSay": "Those make things worse, and Christians should fight them. But the comfortable and educated sin as freely as anyone, only with better lawyers. Systems are made of hearts. (James 4:1–2; Mark 7:21)",
+              "verses": [
+                {
+                  "label": "Jas 4:1–2",
+                  "kind": "bible",
+                  "key": "james.4.1-2",
+                  "book": "james",
+                  "chapter": 4,
+                  "verseStart": 1,
+                  "verseEnd": 2
+                },
+                {
+                  "label": "Mark 7:21",
+                  "kind": "bible",
+                  "key": "mark.7.21",
+                  "book": "mark",
+                  "chapter": 7,
+                  "verseStart": 21,
+                  "verseEnd": 21
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"We make our own meaning.\"*",
+              "youSay": "A meaning you invent is a story you tell yourself, and it ends when you do. Solomon tried pleasure, work, wisdom and wealth and called it vapor. Meaning has to be given by the One who made you. (Eccl 1:2–3; Eccl 12:13–14; John 17:3)",
+              "verses": [
+                {
+                  "label": "Eccl 1:2–3",
+                  "kind": "bible",
+                  "key": "ecclesiastes.1.2-3",
+                  "book": "ecclesiastes",
+                  "chapter": 1,
+                  "verseStart": 2,
+                  "verseEnd": 3
+                },
+                {
+                  "label": "Eccl 12:13–14",
+                  "kind": "bible",
+                  "key": "ecclesiastes.12.13-14",
+                  "book": "ecclesiastes",
+                  "chapter": 12,
+                  "verseStart": 13,
+                  "verseEnd": 14
+                },
+                {
+                  "label": "John 17:3",
+                  "kind": "bible",
+                  "key": "john.17.3",
+                  "book": "john",
+                  "chapter": 17,
+                  "verseStart": 3,
+                  "verseEnd": 3
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"This life is all there is, so make the most of it.\"*",
+              "youSay": "Paul agrees that would follow: \"If the dead are not raised, let us eat and drink, for tomorrow we die.\" But Christ has been raised. See [The resurrection](/topic/the-resurrection). (1 Cor 15:32; 1 Cor 15:20)",
+              "verses": [
+                {
+                  "label": "1 Cor 15:32",
+                  "kind": "bible",
+                  "key": "1-corinthians.15.32",
+                  "book": "1-corinthians",
+                  "chapter": 15,
+                  "verseStart": 32,
+                  "verseEnd": 32
+                },
+                {
+                  "label": "1 Cor 15:20",
+                  "kind": "bible",
+                  "key": "1-corinthians.15.20",
+                  "book": "1-corinthians",
+                  "chapter": 15,
+                  "verseStart": 20,
+                  "verseEnd": 20
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"I don't need saving.\"*",
+              "youSay": "From what you have done, and from what is coming. Walk through a few commandments: see [The Way of the Master](/topic/the-way-of-the-master). (Rom 3:19; Heb 9:27)",
+              "verses": [
+                {
+                  "label": "Rom 3:19",
+                  "kind": "bible",
+                  "key": "romans.3.19",
+                  "book": "romans",
+                  "chapter": 3,
+                  "verseStart": 19,
+                  "verseEnd": 19
+                },
+                {
+                  "label": "Heb 9:27",
+                  "kind": "bible",
+                  "key": "hebrews.9.27",
+                  "book": "hebrews",
+                  "chapter": 9,
+                  "verseStart": 27,
+                  "verseEnd": 27
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "notes": [],
+          "links": [],
+          "opener": {
+            "text": "*\"Do you think people are basically good?\"*",
+            "verses": [],
+            "links": [],
+            "supplemental": false
+          },
+          "closer": {
+            "text": "*\"'No deity will save us; we must save ourselves.' That is not good news; that is a burden no one has carried. Here is good news: 'When the kindness of God our Savior appeared, He saved us.' Would you lay the burden down?\"* (Titus 3:4–5; Matt 11:28)",
+            "verses": [
+              {
+                "label": "Titus 3:4–5",
+                "kind": "bible",
+                "key": "titus.3.4-5",
+                "book": "titus",
+                "chapter": 3,
+                "verseStart": 4,
+                "verseEnd": 5
+              },
+              {
+                "label": "Matt 11:28",
+                "kind": "bible",
+                "key": "matthew.11.28",
+                "book": "matthew",
+                "chapter": 11,
+                "verseStart": 28,
+                "verseEnd": 28
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          }
+        }
+      ],
+      "defense": [
+        {
+          "id": "believe-science-not-faith",
+          "objection": "\"I believe in science, not faith.\"",
+          "response": "Science is a gift, and it was born among people who believed a rational God made an orderly world. It cannot tell you why you matter, what is right or what happens when you die.",
+          "goTo": "Ps 19:1; Ps 111:2; Col 2:3; Prov 1:7",
+          "askBack": "*\"Which experiment shows that people have rights?\"*",
+          "verses": [
+            {
+              "label": "Ps 19:1",
+              "kind": "bible",
+              "key": "psalms.19.1",
+              "book": "psalms",
+              "chapter": 19,
+              "verseStart": 1,
+              "verseEnd": 1
+            },
+            {
+              "label": "Ps 111:2",
+              "kind": "bible",
+              "key": "psalms.111.2",
+              "book": "psalms",
+              "chapter": 111,
+              "verseStart": 2,
+              "verseEnd": 2
+            },
+            {
+              "label": "Col 2:3",
+              "kind": "bible",
+              "key": "colossians.2.3",
+              "book": "colossians",
+              "chapter": 2,
+              "verseStart": 3,
+              "verseEnd": 3
+            },
+            {
+              "label": "Prov 1:7",
+              "kind": "bible",
+              "key": "proverbs.1.7",
+              "book": "proverbs",
+              "chapter": 1,
+              "verseStart": 7,
+              "verseEnd": 7
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "faith-believing-without-evidence",
+          "objection": "\"Faith is believing without evidence.\"",
+          "response": "Not in the Bible. Jesus presented Himself alive by many convincing proofs, and the apostles appealed to public facts. Faith is trust in One who has shown Himself trustworthy.",
+          "goTo": "Acts 1:3; Acts 26:26; 1 Cor 15:6; Heb 11:1",
+          "askBack": "*\"Where did you get that definition?\"*",
+          "verses": [
+            {
+              "label": "Acts 1:3",
+              "kind": "bible",
+              "key": "acts.1.3",
+              "book": "acts",
+              "chapter": 1,
+              "verseStart": 3,
+              "verseEnd": 3
+            },
+            {
+              "label": "Acts 26:26",
+              "kind": "bible",
+              "key": "acts.26.26",
+              "book": "acts",
+              "chapter": 26,
+              "verseStart": 26,
+              "verseEnd": 26
+            },
+            {
+              "label": "1 Cor 15:6",
+              "kind": "bible",
+              "key": "1-corinthians.15.6",
+              "book": "1-corinthians",
+              "chapter": 15,
+              "verseStart": 6,
+              "verseEnd": 6
+            },
+            {
+              "label": "Heb 11:1",
+              "kind": "bible",
+              "key": "hebrews.11.1",
+              "book": "hebrews",
+              "chapter": 11,
+              "verseStart": 1,
+              "verseEnd": 1
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "society-decides-what-right",
+          "objection": "\"Society decides what is right.\"",
+          "response": "Then what Hitler's Germany did to the Jews was right, there and then, and the people who hid Jews were the wrongdoers. And if you retreat to \"each person decides,\" the rapist is never wrong. Neither holds, so the standard is above both. See [Morality and justice](/topic/morality-and-justice).",
+          "goTo": "Rom 2:14–15; Isa 5:20; Acts 5:29; Ps 89:14",
+          "askBack": "*\"Was the Holocaust wrong even though their society approved it?\"*",
+          "verses": [
+            {
+              "label": "Rom 2:14–15",
+              "kind": "bible",
+              "key": "romans.2.14-15",
+              "book": "romans",
+              "chapter": 2,
+              "verseStart": 14,
+              "verseEnd": 15
+            },
+            {
+              "label": "Isa 5:20",
+              "kind": "bible",
+              "key": "isaiah.5.20",
+              "book": "isaiah",
+              "chapter": 5,
+              "verseStart": 20,
+              "verseEnd": 20
+            },
+            {
+              "label": "Acts 5:29",
+              "kind": "bible",
+              "key": "acts.5.29",
+              "book": "acts",
+              "chapter": 5,
+              "verseStart": 29,
+              "verseEnd": 29
+            },
+            {
+              "label": "Ps 89:14",
+              "kind": "bible",
+              "key": "psalms.89.14",
+              "book": "psalms",
+              "chapter": 89,
+              "verseStart": 14,
+              "verseEnd": 14
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "morality-about-human-wellbeing",
+          "objection": "\"Morality is about human wellbeing.\"",
+          "response": "Whose wellbeing, measured how, and why should the strong care about the weak? \"Wellbeing\" quietly assumes that people have worth, which is the very thing to be explained.",
+          "goTo": "Gen 1:27; Mic 6:8; Matt 22:37–39",
+          "askBack": "*\"Why ought I to care about a stranger's wellbeing?\"*",
+          "verses": [
+            {
+              "label": "Gen 1:27",
+              "kind": "bible",
+              "key": "genesis.1.27",
+              "book": "genesis",
+              "chapter": 1,
+              "verseStart": 27,
+              "verseEnd": 27
+            },
+            {
+              "label": "Mic 6:8",
+              "kind": "bible",
+              "key": "micah.6.8",
+              "book": "micah",
+              "chapter": 6,
+              "verseStart": 8,
+              "verseEnd": 8
+            },
+            {
+              "label": "Matt 22:37–39",
+              "kind": "bible",
+              "key": "matthew.22.37-39",
+              "book": "matthew",
+              "chapter": 22,
+              "verseStart": 37,
+              "verseEnd": 39
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "people-are-basically-good",
+          "objection": "\"People are basically good.\"",
+          "response": "History, the news and our own hearts say otherwise, and so does Jesus. The honest diagnosis is the first step to the cure.",
+          "goTo": "Mark 7:21–23; Rom 3:10–12; Eccl 7:20",
+          "askBack": "*\"Do you need a lock on your door?\"*",
+          "verses": [
+            {
+              "label": "Mark 7:21–23",
+              "kind": "bible",
+              "key": "mark.7.21-23",
+              "book": "mark",
+              "chapter": 7,
+              "verseStart": 21,
+              "verseEnd": 23
+            },
+            {
+              "label": "Rom 3:10–12",
+              "kind": "bible",
+              "key": "romans.3.10-12",
+              "book": "romans",
+              "chapter": 3,
+              "verseStart": 10,
+              "verseEnd": 12
+            },
+            {
+              "label": "Eccl 7:20",
+              "kind": "bible",
+              "key": "ecclesiastes.7.20",
+              "book": "ecclesiastes",
+              "chapter": 7,
+              "verseStart": 20,
+              "verseEnd": 20
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "religion-cause-most-wars-oppression",
+          "objection": "\"Religion is the cause of most wars and oppression.\"",
+          "response": "Sinners are. They use religion, nation, race and economics alike. The officially godless states of the last century killed their own people by the tens of millions.",
+          "goTo": "James 4:1–2; Jer 17:9; Matt 7:16",
+          "askBack": "*\"What did the regimes that abolished God put in His place?\"*",
+          "verses": [
+            {
+              "label": "Jas 4:1–2",
+              "kind": "bible",
+              "key": "james.4.1-2",
+              "book": "james",
+              "chapter": 4,
+              "verseStart": 1,
+              "verseEnd": 2
+            },
+            {
+              "label": "Jer 17:9",
+              "kind": "bible",
+              "key": "jeremiah.17.9",
+              "book": "jeremiah",
+              "chapter": 17,
+              "verseStart": 9,
+              "verseEnd": 9
+            },
+            {
+              "label": "Matt 7:16",
+              "kind": "bible",
+              "key": "matthew.7.16",
+              "book": "matthew",
+              "chapter": 7,
+              "verseStart": 16,
+              "verseEnd": 16
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "keep-your-religion-out-public",
+          "objection": "\"Keep your religion out of public life.\"",
+          "response": "Everyone brings a view of what is good into public life. Humanism is one such view, with manifestos. The question is not whether a creed will shape the law, but which one.",
+          "goTo": "Ps 24:1; Acts 5:29; Matt 5:13–16",
+          "askBack": "*\"Is your view of right and wrong allowed in?\"*",
+          "verses": [
+            {
+              "label": "Ps 24:1",
+              "kind": "bible",
+              "key": "psalms.24.1",
+              "book": "psalms",
+              "chapter": 24,
+              "verseStart": 1,
+              "verseEnd": 1
+            },
+            {
+              "label": "Acts 5:29",
+              "kind": "bible",
+              "key": "acts.5.29",
+              "book": "acts",
+              "chapter": 5,
+              "verseStart": 29,
+              "verseEnd": 29
+            },
+            {
+              "label": "Matt 5:13–16",
+              "kind": "bible",
+              "key": "matthew.5.13-16",
+              "book": "matthew",
+              "chapter": 5,
+              "verseStart": 13,
+              "verseEnd": 16
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "when-youre-dead-youre-dead",
+          "objection": "\"When you're dead, you're dead.\"",
+          "response": "That is a belief, not a discovery. Scripture says judgment follows death, and God has given evidence by raising Jesus.",
+          "goTo": "Heb 9:27; Dan 12:2; Acts 17:31",
+          "askBack": "*\"How do you know?\"*",
+          "verses": [
+            {
+              "label": "Heb 9:27",
+              "kind": "bible",
+              "key": "hebrews.9.27",
+              "book": "hebrews",
+              "chapter": 9,
+              "verseStart": 27,
+              "verseEnd": 27
+            },
+            {
+              "label": "Dan 12:2",
+              "kind": "bible",
+              "key": "daniel.12.2",
+              "book": "daniel",
+              "chapter": 12,
+              "verseStart": 2,
+              "verseEnd": 2
+            },
+            {
+              "label": "Acts 17:31",
+              "kind": "bible",
+              "key": "acts.17.31",
+              "book": "acts",
+              "chapter": 17,
+              "verseStart": 31,
+              "verseEnd": 31
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "find-meaning-family-work-making",
+          "objection": "\"I find meaning in family, work and making things better.\"",
+          "response": "Those are good gifts. But gifts point to a Giver, and none of them survives the grave. You were made for more than what you can lose.",
+          "goTo": "Eccl 3:11; Eccl 2:11; James 1:17; John 10:10",
+          "askBack": "*\"What happens to that meaning when those are taken?\"*",
+          "verses": [
+            {
+              "label": "Eccl 3:11",
+              "kind": "bible",
+              "key": "ecclesiastes.3.11",
+              "book": "ecclesiastes",
+              "chapter": 3,
+              "verseStart": 11,
+              "verseEnd": 11
+            },
+            {
+              "label": "Eccl 2:11",
+              "kind": "bible",
+              "key": "ecclesiastes.2.11",
+              "book": "ecclesiastes",
+              "chapter": 2,
+              "verseStart": 11,
+              "verseEnd": 11
+            },
+            {
+              "label": "Jas 1:17",
+              "kind": "bible",
+              "key": "james.1.17",
+              "book": "james",
+              "chapter": 1,
+              "verseStart": 17,
+              "verseEnd": 17
+            },
+            {
+              "label": "John 10:10",
+              "kind": "bible",
+              "key": "john.10.10",
+              "book": "john",
+              "chapter": 10,
+              "verseStart": 10,
+              "verseEnd": 10
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "christianity-anti-human-guilt-rules",
+          "objection": "\"Christianity is anti-human: guilt, rules and fear.\"",
+          "response": "It says you are made in God's image, loved at the cost of God's own Son, and offered life that death cannot end. Nothing has ever thought more of human beings. Guilt is real, and it is taken away.",
+          "goTo": "Ps 8:4–5; Rom 5:8; Rom 8:1; John 8:36",
+          "askBack": "*\"What would you do with guilt if there were no forgiveness?\"*",
+          "verses": [
+            {
+              "label": "Ps 8:4–5",
+              "kind": "bible",
+              "key": "psalms.8.4-5",
+              "book": "psalms",
+              "chapter": 8,
+              "verseStart": 4,
+              "verseEnd": 5
+            },
+            {
+              "label": "Rom 5:8",
+              "kind": "bible",
+              "key": "romans.5.8",
+              "book": "romans",
+              "chapter": 5,
+              "verseStart": 8,
+              "verseEnd": 8
+            },
+            {
+              "label": "Rom 8:1",
+              "kind": "bible",
+              "key": "romans.8.1",
+              "book": "romans",
+              "chapter": 8,
+              "verseStart": 1,
+              "verseEnd": 1
+            },
+            {
+              "label": "John 8:36",
+              "kind": "bible",
+              "key": "john.8.36",
+              "book": "john",
+              "chapter": 8,
+              "verseStart": 36,
+              "verseEnd": 36
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        }
+      ],
+      "exits": {
+        "label": "Typical exits",
+        "items": [
+          {
+            "text": "\"I'm glad it works for you.\" (Say: *\"It only matters if it's true. Would you look at the evidence for the resurrection?\"*)",
+            "verses": [],
+            "links": [],
+            "supplemental": false
+          },
+          {
+            "text": "\"I just try to be a good person.\" (Ask: *\"By whose standard, and how are you doing?\"*)",
+            "verses": [],
+            "links": [],
+            "supplemental": false
+          },
+          {
+            "text": "\"We'll never agree on this.\" (Leave the question from the card: *\"Where does human worth come from?\"*)",
+            "verses": [],
+            "links": [],
+            "supplemental": false
+          },
+          {
+            "text": "\"Religion isn't for me.\" (Offer Jesus, not religion: *\"Would you read one Gospel?\"*)",
+            "verses": [],
+            "links": [],
+            "supplemental": false
+          }
+        ]
+      }
+    },
+    {
       "slug": "atheist",
       "name": "Atheist",
       "heading": "ATHEISTS / AGNOSTICS",
@@ -27483,6 +31572,53 @@
               "chapter": 1,
               "verseStart": 20,
               "verseEnd": 21
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "morality-decided-by-each-person",
+          "objection": "\"Morality is decided by each person, or by society.\"",
+          "response": "If each person decides, the rapist is never wrong; he was acting on his own truth. If society decides, what Hitler's Germany did to the Jews was good for them at the time. No one can live with either. Real right and wrong need a standard above every person and nation. See [Morality and justice](/topic/morality-and-justice).",
+          "goTo": "Rom 2:14–15; Isa 5:20; Ps 89:14; Acts 17:31",
+          "askBack": "*\"Was the Holocaust wrong even though their society approved?\"*",
+          "verses": [
+            {
+              "label": "Rom 2:14–15",
+              "kind": "bible",
+              "key": "romans.2.14-15",
+              "book": "romans",
+              "chapter": 2,
+              "verseStart": 14,
+              "verseEnd": 15
+            },
+            {
+              "label": "Isa 5:20",
+              "kind": "bible",
+              "key": "isaiah.5.20",
+              "book": "isaiah",
+              "chapter": 5,
+              "verseStart": 20,
+              "verseEnd": 20
+            },
+            {
+              "label": "Ps 89:14",
+              "kind": "bible",
+              "key": "psalms.89.14",
+              "book": "psalms",
+              "chapter": 89,
+              "verseStart": 14,
+              "verseEnd": 14
+            },
+            {
+              "label": "Acts 17:31",
+              "kind": "bible",
+              "key": "acts.17.31",
+              "book": "acts",
+              "chapter": 17,
+              "verseStart": 31,
+              "verseEnd": 31
             }
           ],
           "links": [],
@@ -30484,13 +34620,13 @@
           "heading": "Why the other answers fail",
           "lines": [
             {
-              "text": "**\"Each person decides.\"** → Then no one is ever wrong, including the man who robs him. He will not live by that.",
+              "text": "**\"Each person decides.\"** → Then no one is ever wrong, including the man who robs him. He will not live by that. Press it to the end: if right and wrong come from the individual, \"my truth,\" then the rapist is never wrong, because he was acting on his. *\"Was he wrong, or only different from you?\"*",
               "verses": [],
               "links": [],
               "supplemental": false
             },
             {
-              "text": "**\"Society decides.\"** → Then the reformer is always the villain. Slavery was legal, and the people who opposed it were breaking society's rules. *\"Was slavery right when most people approved of it?\"*",
+              "text": "**\"Society decides.\"** → Then the reformer is always the villain. Slavery was legal, and the people who opposed it were breaking society's rules. *\"Was slavery right when most people approved of it?\"* And if a society's agreement is what makes a thing good, then what Hitler's Germany did to the Jews was good, there and then, for them. Nobody believes that. At Nuremberg the judges did not accept \"our laws allowed it\"; they held those men to a law above every nation. *\"Whose law was that?\"*",
               "verses": [],
               "links": [],
               "supplemental": false

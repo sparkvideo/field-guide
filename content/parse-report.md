@@ -1,6 +1,6 @@
 # Parse report
 
-Source: content/field_guide_apologetics.md (1543 lines)
+Source: content/field_guide_apologetics.md (1796 lines)
 
 ## Per group
 
@@ -13,12 +13,15 @@ Source: content/field_guide_apologetics.md (1543 lines)
 | Jewish | 3 | 21 | 0 | 13 | 15 | 6 | 4 | 0 | 0 |
 | Hindu | 2 | 14 | 0 | 8 | 9 | 6 | 4 | 0 | 0 |
 | Buddhist | 2 | 14 | 0 | 8 | 9 | 6 | 4 | 0 | 0 |
-| New Age / Spiritualist | 2 | 14 | 0 | 8 | 10 | 6 | 4 | 0 | 0 |
+| New Age / Spiritualist | 2 | 14 | 0 | 8 | 11 | 6 | 4 | 0 | 0 |
 | Oneness Pentecostal | 3 | 19 | 0 | 12 | 12 | 6 | 4 | 0 | 0 |
 | Progressive Christian | 3 | 21 | 0 | 12 | 14 | 6 | 4 | 0 | 0 |
 | Roman Catholic | 5 | 32 | 0 | 18 | 35 | 6 | 3 | 0 | 0 |
 | Eastern Orthodox | 5 | 27 | 0 | 16 | 22 | 6 | 3 | 0 | 0 |
-| Atheist | 4 | 11 | 0 | 1 | 21 | 6 | 0 | 15 | 0 |
+| Agnostic | 2 | 14 | 0 | 7 | 8 | 6 | 4 | 0 | 0 |
+| Deist | 2 | 14 | 0 | 8 | 9 | 6 | 4 | 0 | 0 |
+| Secular Humanist | 2 | 14 | 0 | 8 | 10 | 6 | 4 | 0 | 0 |
+| Atheist | 4 | 11 | 0 | 1 | 22 | 6 | 0 | 15 | 0 |
 
 ## Shared sections
 
@@ -38,10 +41,10 @@ Source: content/field_guide_apologetics.md (1543 lines)
 
 ## Verses
 
-- Bible references: 1163 unique (1114 verses/ranges + 49 whole-chapter mentions)
+- Bible references: 1227 unique (1178 verses/ranges + 49 whole-chapter mentions)
 - Quran: 26 · Book of Mormon: 6 · D&C: 1 · JST: 1 · Hadith: 5
-- Resolve in the bundled BSB: 1163 of 1163 ✓
-- LSB slots: 1114 total, **0 still empty**
+- Resolve in the bundled BSB: 1227 of 1227 ✓
+- LSB slots: 1178 total, **64 still empty**
 - Whole-chapter mentions (no LSB slot; they open the chapter in the reader): Gen 1, Gen 15, Gen 22, Lev 16, Num 21, Deut 34, Ps 8, Ps 22, Ps 49, Ps 82, Ps 95, Ps 102, Ps 110, Ps 116, Prov 8, Isa 9, Isa 42, Isa 43–45, Isa 53, Isa 61, Ezek 18, Ezek 37, Dan 7, Dan 9, Mark 7, Mark 15, John 1, John 5, John 6, John 14, John 17, Acts 2, Acts 3, Acts 10, Acts 15, Rom 1, Rom 3–5, Rom 5, Rom 16, 1 Cor 3, 1 Cor 8, 1 Cor 15, 2 Cor 6, Gal 5, Phil 2, 1 Tim 4, Heb 2, Rev 4, Rev 5
 - Chapter:verse numbers written without a book name (not turned into chips):
   - Muslim objection 18: "5:16"
