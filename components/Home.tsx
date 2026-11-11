@@ -9,7 +9,7 @@ import { getPins, getRecent, type Pin } from "@/lib/pins";
 import { formatRef, parseReference, readerHref, type TypedRef } from "@/lib/reference";
 import { searchGuide } from "@/lib/search";
 import { Chevron } from "./Bits";
-import { BookIcon, CrossIcon, DoorIcon, DrillIcon, FlameIcon, GameIcon, Mark, NoteIcon, PenIcon, TabletsIcon, TargetIcon, TriangleIcon, WordsIcon } from "./Icons";
+import { BookIcon, CrossIcon, DoorIcon, DrillIcon, FlameIcon, GameIcon, Mark, NoteIcon, PenIcon, TabletsIcon, TargetIcon, TriangleIcon, TrinityIcon, WordsIcon } from "./Icons";
 import { readStreak } from "./Train";
 import { Welcome } from "./Welcome";
 
@@ -269,7 +269,7 @@ export function Home({ groups }: { groups: GroupRow[] }) {
               <Chevron />
             </Link>
             <Link href="/topic/the-trinity" className="row">
-              <TriangleIcon />
+              <TrinityIcon />
               <span>
                 <span className="block text-[20px] font-semibold">The Trinity</span>
                 <span className="sub">One God in three Persons</span>

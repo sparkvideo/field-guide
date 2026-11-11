@@ -49,6 +49,12 @@ export const TriangleIcon = () => (
     <path d="M12 4.500l8.500 14.500h-17z" />
   </Icon>
 );
+// Three rings, each one linked to the other two: one God in three Persons.
+export const TrinityIcon = () => (
+  <Icon>
+    <path d="M7.5 8.7a4.5 4.5 0 1 0 9.0 0a4.5 4.5 0 1 0 -9.0 0M3.8000000000000007 15a4.5 4.5 0 1 0 9.0 0a4.5 4.5 0 1 0 -9.0 0M11.2 15a4.5 4.5 0 1 0 9.0 0a4.5 4.5 0 1 0 -9.0 0" />
+  </Icon>
+);
 export const BookIcon = () => (
   <Icon>
     <path d="M12 6.500c-2-1.300-4.800-1.700-8-1.300v12.300c3.200-.4 6 0 8 1.300 2-1.300 4.800-1.700 8-1.300V5.200c-3.200-.4-6 0-8 1.300zM12 6.500v12.300" />
