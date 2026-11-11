@@ -730,6 +730,17 @@ For the full argument, open [The Holy Spirit play](/holy-spirit).
 ## The three are distinct Persons
 The Father sends the Son, the Son prays to the Father, and the Spirit is sent by both. All three are present at Jesus' baptism. (Matt 3:16–17; Matt 28:19; John 14:16–17; John 15:26; John 17:5; Gal 4:4–6; 2 Cor 13:14)
 
+## Equal in essence, distinct in roles
+People say, "Jesus obeyed God, prayed to God and was sent by God, so He is less than God." Muslims, Jehovah's Witnesses and Unitarians all press this. The answer is the difference between what the Persons are and what each one does.
+- **In essence they are equal.** The Father, the Son and the Spirit are the one God: the same nature, power and glory. The Son is not a lesser kind of God. (John 1:1; John 10:30; Col 2:9; Heb 1:3)
+- **In role there is an order.** The Father sends, the Son is sent and obeys, and the Spirit is sent by the Father and the Son and glorifies the Son. Scripture never reverses it. (John 6:38; John 14:26; John 15:26; John 16:13–14; Gal 4:4–6)
+- **Submission is not inferiority.** A son who obeys his father is every bit as human as his father. The Jews understood that when Jesus called God His own Father He was making Himself equal with God, and in the same breath He says the Son does nothing on His own. Both are true at once. (John 5:18–23; 1 Cor 11:3)
+- **The Son took the servant's place willingly.** He existed in the form of God, did not cling to His rights, and humbled Himself to the point of death on a cross. "The Father is greater than I" is said by the One who had done that. (Phil 2:5–8; John 14:28; John 10:17–18)
+- **The order ends in God's glory, not in a lesser Son.** When all things are put under Christ, the Son Himself is subjected to the Father, so that God may be all in all. And every knee bows to Jesus, to the glory of God the Father. (1 Cor 15:27–28; Phil 2:9–11)
+- **The name for this.** Theologians call the Son's submission to the Father within the Godhead eternal functional subordination: equal in being, subordinate in role. Faithful teachers differ on whether that submission is eternal or belongs to the Son's mission in coming to save. Either way the point for a conversation is the same, and no one on either side says the Son is less than fully God. Ask your pastors where our church stands before you teach the term.
+**Ask:** *"If a son obeys his father, is he less human than his father? Then why would the Son's obedience make Him less than God?"*
+**Say:** *"He is equal with the Father in who He is, and He submitted to the Father in what He came to do. That is not weakness. That is the humility of God, and it is how He saved us."*
+
 ## What it is not
 - **Not three gods:** that is tritheism. Scripture says there is one God.
 - **Not one Person in three masks:** that is modalism. The Father, Son and Spirit speak to and about one another.
