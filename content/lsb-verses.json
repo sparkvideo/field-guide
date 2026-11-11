@@ -62,7 +62,7 @@
   {
     "ref": "Genesis 3:4–10",
     "key": "genesis.3.4-10",
-    "text": ""
+    "text": "⁴ And the serpent said to the woman, “You surely will not die! ⁵ For God knows that in the day you eat from it your eyes will be opened, and you will be like God, knowing good and evil.” ⁶ Then the woman saw that the tree was good for food, and that it was a delight to the eyes, and that the tree was desirable to make one wise, so she took from its fruit and ate; and she gave also to her husband with her, and he ate. ⁷ And the eyes of both of them were opened, and they knew that they were naked; and they sewed fig leaves together and made themselves loin coverings. ⁸ Then they heard the sound of Yahweh God walking in the garden in the cool of the day, and the man and his wife hid themselves from the presence of Yahweh God in the midst of the trees of the garden. ⁹ Yahweh God called to the man and said to him, “Where are you?” ¹⁰ And he said, “I heard the sound of You in the garden, and I was afraid because I was naked; so I hid.”"
   },
   {
     "ref": "Genesis 3:5",
@@ -72,7 +72,7 @@
   {
     "ref": "Genesis 3:7–10",
     "key": "genesis.3.7-10",
-    "text": ""
+    "text": "⁷ And the eyes of both of them were opened, and they knew that they were naked; and they sewed fig leaves together and made themselves loin coverings. ⁸ Then they heard the sound of Yahweh God walking in the garden in the cool of the day, and the man and his wife hid themselves from the presence of Yahweh God in the midst of the trees of the garden. ⁹ Yahweh God called to the man and said to him, “Where are you?” ¹⁰ And he said, “I heard the sound of You in the garden, and I was afraid because I was naked; so I hid.”"
   },
   {
     "ref": "Genesis 3:17–19",
@@ -232,7 +232,7 @@
   {
     "ref": "Exodus 20:16",
     "key": "exodus.20.16",
-    "text": ""
+    "text": "You shall not bear false witness against your neighbor."
   },
   {
     "ref": "Exodus 21:16",
@@ -445,6 +445,11 @@
     "text": "The secret things belong to Yahweh our God, but the things revealed belong to us and to our sons forever, that we may do all the words of this law."
   },
   {
+    "ref": "Deuteronomy 30:3–5",
+    "key": "deuteronomy.30.3-5",
+    "text": ""
+  },
+  {
     "ref": "Deuteronomy 31:27–29",
     "key": "deuteronomy.31.27-29",
     "text": "²⁷ For I know your rebellion and your stiff-neck; behold, while I am still alive with you today, you have been rebellious against Yahweh; how much more, then, after my death? ²⁸ Assemble to me all the elders of your tribes and your officers, that I may speak these words in their hearing and call the heavens and the earth to witness against them. ²⁹ For I know that after my death you will act corruptly and turn away from the way which I have commanded you; and evil will befall you in the last days, for you will do that which is evil in the sight of Yahweh, provoking Him to anger with the work of your hands."
@@ -457,7 +462,7 @@
   {
     "ref": "Deuteronomy 32:39",
     "key": "deuteronomy.32.39",
-    "text": ""
+    "text": "See now that I, I am He, And there is no god besides Me; It is I who put to death and give life. I have wounded, and it is I who heal, And there is no one who can deliver from My hand."
   },
   {
     "ref": "Judges 1:1–2",
@@ -472,7 +477,7 @@
   {
     "ref": "1 Samuel 5:2–4",
     "key": "1-samuel.5.2-4",
-    "text": ""
+    "text": "² Then the Philistines took the ark of God and brought it to the house of Dagon and set it by Dagon. ³ Then the Ashdodites arose early the next morning, and behold, Dagon had fallen on his face to the ground before the ark of Yahweh. So they took Dagon and set him in his place again. ⁴ But they arose early the next morning, and behold, Dagon had fallen on his face to the ground before the ark of Yahweh. And the head of Dagon and both the palms of his hands were cut off on the threshold; only the trunk of Dagon was left to him."
   },
   {
     "ref": "1 Samuel 16:7",
@@ -512,7 +517,7 @@
   {
     "ref": "Job 1:12",
     "key": "job.1.12",
-    "text": ""
+    "text": "Then Yahweh said to Satan, “Behold, all that he has is in your hand, only do not send forth your hand toward him.” So Satan went out from the presence of Yahweh."
   },
   {
     "ref": "Job 2:13",
@@ -542,7 +547,7 @@
   {
     "ref": "Psalms 2:1–4",
     "key": "psalms.2.1-4",
-    "text": ""
+    "text": "¹ Why do the nations rage And the peoples meditate on a vain thing? ² The kings of the earth take their stand And the rulers take counsel together Against Yahweh and against His Anointed, saying, ³ “Let us tear their fetters apart And cast away their cords from us!” ⁴ He who sits in the heavens laughs, The Lord mocks them."
   },
   {
     "ref": "Psalms 8:3–5",
@@ -622,7 +627,7 @@
   {
     "ref": "Psalms 32:5",
     "key": "psalms.32.5",
-    "text": ""
+    "text": "I acknowledged my sin to You, And my iniquity I did not cover up; I said, “I will confess my transgressions to Yahweh;” And You forgave the iniquity of my sin. Selah."
   },
   {
     "ref": "Psalms 33:6",
@@ -777,7 +782,7 @@
   {
     "ref": "Psalms 103:1–5",
     "key": "psalms.103.1-5",
-    "text": ""
+    "text": "¹ Bless Yahweh, O my soul, And all that is within me, bless His holy name. ² Bless Yahweh, O my soul, And forget none of His benefits; ³ Who pardons all your iniquities, Who heals all your diseases; ⁴ Who redeems your life from the pit, Who crowns you with lovingkindness and compassion; ⁵ Who satisfies your years with good things, So that your youth is renewed like the eagle."
   },
   {
     "ref": "Psalms 103:2–3",
@@ -882,7 +887,7 @@
   {
     "ref": "Psalms 145:1–3",
     "key": "psalms.145.1-3",
-    "text": ""
+    "text": "¹ I will exalt You, my God, O King, And I will bless Your name forever and ever. ² Every day I will bless You, And I will praise Your name forever and ever. ³ Great is Yahweh, and highly to be praised, And His greatness is unsearchable."
   },
   {
     "ref": "Psalms 146:3–4",
@@ -897,7 +902,7 @@
   {
     "ref": "Proverbs 3:5",
     "key": "proverbs.3.5",
-    "text": ""
+    "text": "Trust in Yahweh with all your heart And do not lean on your own understanding."
   },
   {
     "ref": "Proverbs 6:16–17",
@@ -932,7 +937,7 @@
   {
     "ref": "Proverbs 18:17",
     "key": "proverbs.18.17",
-    "text": ""
+    "text": "The first to plead his case seems right, Until another comes and examines him."
   },
   {
     "ref": "Proverbs 20:6",
@@ -967,7 +972,7 @@
   {
     "ref": "Proverbs 28:13",
     "key": "proverbs.28.13",
-    "text": ""
+    "text": "He who conceals his transgressions will not prosper, But he who confesses and forsakes them will receive compassion."
   },
   {
     "ref": "Proverbs 31:8–9",
@@ -1055,6 +1060,11 @@
     "text": "Come now, and let us reason together,” Says Yahweh, “Though your sins are as scarlet, They will be as white as snow; Though they are red like crimson, They will be like wool."
   },
   {
+    "ref": "Isaiah 2:2–4",
+    "key": "isaiah.2.2-4",
+    "text": ""
+  },
+  {
     "ref": "Isaiah 2:4",
     "key": "isaiah.2.4",
     "text": "And He will judge between the nations, And will render decisions for many peoples; And they will hammer their swords into plowshares and their spears into pruning hooks. Nation will not lift up sword against nation, And never again will they learn war."
@@ -1132,16 +1142,21 @@
   {
     "ref": "Isaiah 14:12–15",
     "key": "isaiah.14.12-15",
-    "text": ""
+    "text": "¹² How you have fallen from heaven, O star of the morning, son of the dawn! You have been cut down to the earth, You who have weakened the nations! ¹³ But you said in your heart, ‘I will ascend to heaven; I will raise my throne above the stars of God, And I will sit on the mount of assembly In the recesses of the north. ¹⁴ I will ascend above the heights of the clouds; I will make myself like the Most High.’ ¹⁵ Nevertheless you will be brought down to Sheol, To the recesses of the pit."
   },
   {
     "ref": "Isaiah 14:13–14",
     "key": "isaiah.14.13-14",
-    "text": ""
+    "text": "¹³ But you said in your heart, ‘I will ascend to heaven; I will raise my throne above the stars of God, And I will sit on the mount of assembly In the recesses of the north. ¹⁴ I will ascend above the heights of the clouds; I will make myself like the Most High.’"
   },
   {
     "ref": "Isaiah 14:13–15",
     "key": "isaiah.14.13-15",
+    "text": "¹³ But you said in your heart, ‘I will ascend to heaven; I will raise my throne above the stars of God, And I will sit on the mount of assembly In the recesses of the north. ¹⁴ I will ascend above the heights of the clouds; I will make myself like the Most High.’ ¹⁵ Nevertheless you will be brought down to Sheol, To the recesses of the pit."
+  },
+  {
+    "ref": "Isaiah 19:23–25",
+    "key": "isaiah.19.23-25",
     "text": ""
   },
   {
@@ -1460,6 +1475,16 @@
     "text": "But your iniquities have made a separation between you and your God, And your sins have hidden His face from you so that He does not hear."
   },
   {
+    "ref": "Isaiah 60:4",
+    "key": "isaiah.60.4",
+    "text": ""
+  },
+  {
+    "ref": "Isaiah 60:9",
+    "key": "isaiah.60.9",
+    "text": ""
+  },
+  {
     "ref": "Isaiah 63:10",
     "key": "isaiah.63.10",
     "text": "But they rebelled And grieved His Holy Spirit; Therefore He turned Himself to become their enemy; He fought against them."
@@ -1468,6 +1493,11 @@
     "ref": "Isaiah 64:6",
     "key": "isaiah.64.6",
     "text": "For all of us have become like one who is unclean, And all our righteous deeds are like a filthy garment; And all of us wither like a leaf, And our iniquities, like the wind, carry us away."
+  },
+  {
+    "ref": "Isaiah 65:17",
+    "key": "isaiah.65.17",
+    "text": ""
   },
   {
     "ref": "Isaiah 66:2",
@@ -1582,7 +1612,7 @@
   {
     "ref": "Ezekiel 18:4",
     "key": "ezekiel.18.4",
-    "text": ""
+    "text": "Behold, all souls are Mine; the soul of the father as well as the soul of the son is Mine. The soul who sins will die."
   },
   {
     "ref": "Ezekiel 18:20",
@@ -1607,7 +1637,7 @@
   {
     "ref": "Ezekiel 28:15",
     "key": "ezekiel.28.15",
-    "text": ""
+    "text": "You were blameless in your ways From the day you were created Until unrighteousness was found in you."
   },
   {
     "ref": "Ezekiel 33:11",
@@ -1638,6 +1668,16 @@
     "ref": "Ezekiel 37:15–22",
     "key": "ezekiel.37.15-22",
     "text": "¹⁵ The word of Yahweh came again to me saying, ¹⁶ “Now as for you, son of man, take for yourself one stick and write on it, ‘For Judah and for the sons of Israel, his companions’; then take another stick and write on it, ‘For Joseph, the stick of Ephraim and all the house of Israel, his companions.’ ¹⁷ Then draw them together for yourself one to another into one stick, that they may become one in your hand. ¹⁸ And when the sons of your people speak to you saying, ‘Will you not declare to us what you mean by these?’ ¹⁹ say to them, ‘Thus says Lord Yahweh, “Behold, I will take the stick of Joseph, which is in the hand of Ephraim, and the tribes of Israel, his companions; and I will put them with it, with the stick of Judah, and make them one stick, and they will be one in My hand.”’ ²⁰ And the sticks on which you write will be in your hand before their eyes. ²¹ And speak to them, ‘Thus says Lord Yahweh, “Behold, I will take the sons of Israel from among the nations where they have gone, and I will gather them from every side and bring them into their own land; ²² and I will make them one nation in the land, on the mountains of Israel; and one king will be king for all of them; and they will no longer be two nations and no longer be divided into two kingdoms."
+  },
+  {
+    "ref": "Daniel 2:34–35",
+    "key": "daniel.2.34-35",
+    "text": ""
+  },
+  {
+    "ref": "Daniel 2:44–45",
+    "key": "daniel.2.44-45",
+    "text": ""
   },
   {
     "ref": "Daniel 4:35",
@@ -1723,6 +1763,11 @@
     "ref": "Daniel 9:24–26",
     "key": "daniel.9.24-26",
     "text": "²⁴ Seventy weeks have been determined for your people and for your holy city, to finish the transgression, to make an end of sin, to make atonement for iniquity, to bring in everlasting righteousness, to seal up vision and prophecy, and to anoint the Holy of Holies. ²⁵ So you are to know and have insight that from the going out of a word to restore and rebuild Jerusalem until Messiah the Prince, there will be seven weeks and sixty-two weeks; it will be restored and rebuilt, with plaza and moat, even in times of distress. ²⁶ Then after the sixty-two weeks the Messiah will be cut off and have nothing, and the people of the prince who is to come will destroy the city and the sanctuary. And its end will come with a flood; even to the end there will be war; desolations are decreed."
+  },
+  {
+    "ref": "Daniel 9:24–27",
+    "key": "daniel.9.24-27",
+    "text": ""
   },
   {
     "ref": "Daniel 9:26",
@@ -1820,6 +1865,11 @@
     "text": "The oracle of the word of Yahweh concerning Israel. Thus declares Yahweh who stretches out the heavens, lays the foundation of the earth, and forms the spirit of man within him,"
   },
   {
+    "ref": "Zechariah 12:2–3",
+    "key": "zechariah.12.2-3",
+    "text": ""
+  },
+  {
     "ref": "Zechariah 12:10",
     "key": "zechariah.12.10",
     "text": "“And I will pour out on the house of David and on the inhabitants of Jerusalem the Spirit of grace and of supplication, so that they will look on Me whom they have pierced; and they will mourn for Him, as one mourns for an only son, and they will weep bitterly over Him like the bitter weeping over a firstborn."
@@ -1882,7 +1932,7 @@
   {
     "ref": "Matthew 4:8–10",
     "key": "matthew.4.8-10",
-    "text": ""
+    "text": "⁸ Again, the devil *took Him to a very high mountain and *showed Him all the kingdoms of the world and their glory; ⁹ and he said to Him, “All these things I will give You, if You fall down and worship me.” ¹⁰ Then Jesus *said to him, “Go, Satan! For it is written, ‘You shall worship the Lord your God, and serve Him only.’”"
   },
   {
     "ref": "Matthew 4:10",
@@ -1972,7 +2022,7 @@
   {
     "ref": "Matthew 7:7–8",
     "key": "matthew.7.7-8",
-    "text": ""
+    "text": "⁷ Ask, and it will be given to you; seek, and you will find; knock, and it will be opened to you. ⁸ For everyone who asks receives, and he who seeks finds, and to him who knocks it will be opened."
   },
   {
     "ref": "Matthew 7:7–11",
@@ -2142,7 +2192,7 @@
   {
     "ref": "Matthew 16:25–26",
     "key": "matthew.16.25-26",
-    "text": ""
+    "text": "²⁵ For whoever wishes to save his life will lose it; but whoever loses his life for My sake will find it. ²⁶ For what will it profit a man if he gains the whole world and forfeits his soul? Or what will a man give in exchange for his soul?"
   },
   {
     "ref": "Matthew 18:6",
@@ -2217,7 +2267,7 @@
   {
     "ref": "Matthew 23:15",
     "key": "matthew.23.15",
-    "text": ""
+    "text": "Woe to you, scribes and Pharisees, hypocrites, because you travel around on sea and land to make one proselyte; and when he becomes one, you make him twice as much a son of hell as yourselves."
   },
   {
     "ref": "Matthew 23:27–28",
@@ -2240,9 +2290,24 @@
     "text": "²³ Then if anyone says to you, ‘Behold, here is the Christ,’ or ‘There He is,’ do not believe him. ²⁴ For false christs and false prophets will arise and will show great signs and wonders, so as to deceive, if possible, even the elect."
   },
   {
+    "ref": "Matthew 24:29–30",
+    "key": "matthew.24.29-30",
+    "text": ""
+  },
+  {
     "ref": "Matthew 24:35",
     "key": "matthew.24.35",
     "text": "Heaven and earth will pass away, but My words will not pass away."
+  },
+  {
+    "ref": "Matthew 24:36",
+    "key": "matthew.24.36",
+    "text": ""
+  },
+  {
+    "ref": "Matthew 24:45–46",
+    "key": "matthew.24.45-46",
+    "text": ""
   },
   {
     "ref": "Matthew 25:41",
@@ -2342,7 +2407,7 @@
   {
     "ref": "Mark 5:15",
     "key": "mark.5.15",
-    "text": ""
+    "text": "And they *came to Jesus and *observed the demon-possessed man sitting down, clothed and in his right mind, the very man who had the “legion”; and they became frightened."
   },
   {
     "ref": "Mark 6:3",
@@ -2447,12 +2512,12 @@
   {
     "ref": "Mark 12:38–44",
     "key": "mark.12.38-44",
-    "text": ""
+    "text": "³⁸ And in His teaching He was saying: “Beware of the scribes who want to walk around in long robes, and want respectful greetings in the marketplaces, ³⁹ and best seats in the synagogues and places of honor at banquets, ⁴⁰ who devour widows’ houses, and for appearance’s sake offer long prayers; these will receive greater condemnation.” ⁴¹ And He sat down opposite the treasury, and began observing how the crowd was putting money into the treasury; and many rich people were putting in large sums. ⁴² And a poor widow came and put in two lepta, which amount to a quadrans. ⁴³ And calling His disciples to Him, He said to them, “Truly I say to you, this poor widow put in more than all those putting money into the treasury; ⁴⁴ for they all put in out of their surplus, but she, out of her poverty, put in all she owned, all she had to live on.”"
   },
   {
     "ref": "Mark 12:38–40",
     "key": "mark.12.38-40",
-    "text": ""
+    "text": "³⁸ And in His teaching He was saying: “Beware of the scribes who want to walk around in long robes, and want respectful greetings in the marketplaces, ³⁹ and best seats in the synagogues and places of honor at banquets, ⁴⁰ who devour widows’ houses, and for appearance’s sake offer long prayers; these will receive greater condemnation.”"
   },
   {
     "ref": "Mark 13:32",
@@ -2463,6 +2528,11 @@
     "ref": "Mark 14:61–64",
     "key": "mark.14.61-64",
     "text": "⁶¹ But He kept silent and did not answer. Again the high priest was questioning Him and *said to Him, “Are You the Christ, the Son of the Blessed One?” ⁶² And Jesus said, “I am; and you shall see the Son of Man sitting at the right hand of the Power, and coming with the clouds of heaven.” ⁶³ And tearing his tunics, the high priest *said, “What further need do we have of witnesses? ⁶⁴ You have heard the blasphemy; how does it seem to you?” And they all condemned Him to be deserving of death."
+  },
+  {
+    "ref": "Mark 14:61–62",
+    "key": "mark.14.61-62",
+    "text": ""
   },
   {
     "ref": "Mark 15:43–46",
@@ -2488,6 +2558,11 @@
     "ref": "Luke 1:31",
     "key": "luke.1.31",
     "text": "And behold, you will conceive in your womb and bear a son, and you shall name Him Jesus."
+  },
+  {
+    "ref": "Luke 1:32–33",
+    "key": "luke.1.32-33",
+    "text": ""
   },
   {
     "ref": "Luke 1:35",
@@ -2595,6 +2670,11 @@
     "text": "But God said to him, ‘You fool! This very night your soul is required of you; and now who will own what you prepared?’"
   },
   {
+    "ref": "Luke 12:40",
+    "key": "luke.12.40",
+    "text": ""
+  },
+  {
     "ref": "Luke 12:47–48",
     "key": "luke.12.47-48",
     "text": "⁴⁷ And that slave who knew his master’s will and did not get ready or act in accord with his will, will receive many beatings, ⁴⁸ but the one who did not know it, and committed deeds worthy of a beating, will receive but a few. From everyone who has been given much, much will be required, and to whom they entrusted much, of him they will ask all the more."
@@ -2617,7 +2697,7 @@
   {
     "ref": "Luke 15:13–20",
     "key": "luke.15.13-20",
-    "text": ""
+    "text": "¹³ And not many days later, the younger son gathered everything together and went on a journey into a distant country, and there he squandered his estate living recklessly. ¹⁴ Now when he had spent everything, a severe famine occurred in that country, and he began to be impoverished. ¹⁵ So he went and hired himself out to one of the citizens of that country, and he sent him into his fields to feed swine. ¹⁶ And he was desiring to be fed with the pods that the swine were eating, and no one was giving anything to him. ¹⁷ But when he came to himself, he said, ‘How many of my father’s hired men have more than enough bread, but I am dying here with hunger! ¹⁸ I will rise up and go to my father, and will say to him, “Father, I have sinned against heaven, and before you. ¹⁹ I am no longer worthy to be called your son; make me as one of your hired men.”’ ²⁰ So he rose up and came to his father. But while he was still a long way off, his father saw him and felt compassion, and ran and embraced him and kissed him."
   },
   {
     "ref": "Luke 16:23–28",
@@ -2682,7 +2762,7 @@
   {
     "ref": "Luke 22:31",
     "key": "luke.22.31",
-    "text": ""
+    "text": "Simon, Simon, behold, Satan has demanded to sift all of you like wheat."
   },
   {
     "ref": "Luke 22:31–32",
@@ -2940,6 +3020,11 @@
     "text": "Truly, truly, I say to you, he who hears My word, and believes Him who sent Me, has eternal life, and does not come into judgment, but has passed out of death into life."
   },
   {
+    "ref": "John 5:28–29",
+    "key": "john.5.28-29",
+    "text": ""
+  },
+  {
     "ref": "John 5:36–37",
     "key": "john.5.36-37",
     "text": "³⁶ But the witness I have is greater than the witness of John; for the works which the Father has given Me to finish—the very works that I do—bear witness about Me, that the Father has sent Me. ³⁷ And the Father who sent Me, He has borne witness about Me. You have neither heard His voice at any time nor seen His form."
@@ -3072,7 +3157,7 @@
   {
     "ref": "John 8:34",
     "key": "john.8.34",
-    "text": ""
+    "text": "Jesus answered them, “Truly, truly, I say to you, everyone who commits sin is the slave of sin.”"
   },
   {
     "ref": "John 8:35–36",
@@ -3087,7 +3172,7 @@
   {
     "ref": "John 8:44",
     "key": "john.8.44",
-    "text": ""
+    "text": "You are of your father the devil, and you want to do the desires of your father. He was a murderer from the beginning, and does not stand in the truth because there is no truth in him. Whenever he speaks a lie, he speaks from his own nature, for he is a liar and the father of lies."
   },
   {
     "ref": "John 8:46",
@@ -3127,7 +3212,7 @@
   {
     "ref": "John 10:10–11",
     "key": "john.10.10-11",
-    "text": ""
+    "text": "¹⁰ The thief comes only to steal and kill and destroy; I came that they may have life, and have it abundantly. ¹¹ “I am the good shepherd; the good shepherd lays down His life for the sheep.”"
   },
   {
     "ref": "John 10:11",
@@ -3177,7 +3262,7 @@
   {
     "ref": "John 10:28–29",
     "key": "john.10.28-29",
-    "text": ""
+    "text": "²⁸ and I give eternal life to them, and they will never perish—ever; and no one will snatch them out of My hand. ²⁹ My Father, who has given them to Me, is greater than all; and no one is able to snatch them out of the Father’s hand."
   },
   {
     "ref": "John 10:30",
@@ -3212,17 +3297,17 @@
   {
     "ref": "John 11:41–42",
     "key": "john.11.41-42",
-    "text": ""
+    "text": "⁴¹ So they removed the stone. Then Jesus raised His eyes, and said, “Father, I thank You that You have heard Me. ⁴² And I knew that You always hear Me; but because of the crowd standing around I said this, so that they may believe that You sent Me.”"
   },
   {
     "ref": "John 11:41–44",
     "key": "john.11.41-44",
-    "text": ""
+    "text": "⁴¹ So they removed the stone. Then Jesus raised His eyes, and said, “Father, I thank You that You have heard Me. ⁴² And I knew that You always hear Me; but because of the crowd standing around I said this, so that they may believe that You sent Me.” ⁴³ And when He had said these things, He cried out with a loud voice, “Lazarus, come forth.” ⁴⁴ The man who had died came forth, bound hand and foot with wrappings, and his face was wrapped around with a cloth. Jesus *said to them, “Unbind him, and let him go.”"
   },
   {
     "ref": "John 11:43–44",
     "key": "john.11.43-44",
-    "text": ""
+    "text": "⁴³ And when He had said these things, He cried out with a loud voice, “Lazarus, come forth.” ⁴⁴ The man who had died came forth, bound hand and foot with wrappings, and his face was wrapped around with a cloth. Jesus *said to them, “Unbind him, and let him go.”"
   },
   {
     "ref": "John 12:9–11",
@@ -3263,6 +3348,11 @@
     "ref": "John 13:35",
     "key": "john.13.35",
     "text": "By this all will know that you are My disciples, if you have love for one another."
+  },
+  {
+    "ref": "John 14:2–3",
+    "key": "john.14.2-3",
+    "text": ""
   },
   {
     "ref": "John 14:6",
@@ -3322,7 +3412,7 @@
   {
     "ref": "John 15:15",
     "key": "john.15.15",
-    "text": ""
+    "text": "No longer do I call you slaves, for the slave does not know what his master is doing; but I have called you friends, for all things that I have heard from My Father I have made known to you."
   },
   {
     "ref": "John 15:26",
@@ -3412,7 +3502,7 @@
   {
     "ref": "John 20:6–7",
     "key": "john.20.6-7",
-    "text": ""
+    "text": "⁶ And so Simon Peter also *came, following him, and entered the tomb; and he *saw the linen wrappings lying there, ⁷ and the face-cloth which had been on His head, not lying with the linen wrappings, but folded up in a place by itself."
   },
   {
     "ref": "John 20:17",
@@ -3488,6 +3578,11 @@
     "ref": "Acts 1:5",
     "key": "acts.1.5",
     "text": "for John baptized with water, but you will be baptized with the Holy Spirit not many days from now.”"
+  },
+  {
+    "ref": "Acts 1:7",
+    "key": "acts.1.7",
+    "text": ""
   },
   {
     "ref": "Acts 1:8",
@@ -4117,7 +4212,7 @@
   {
     "ref": "Romans 3:20",
     "key": "romans.3.20",
-    "text": ""
+    "text": "because by the works of the Law no flesh will be justified in His sight, for through the Law comes the knowledge of sin."
   },
   {
     "ref": "Romans 3:23",
@@ -4225,6 +4320,11 @@
     "text": "Nevertheless death reigned from Adam until Moses, even over those who had not sinned in the likeness of the trespass of Adam, who is a type of Him who was to come."
   },
   {
+    "ref": "Romans 5:17",
+    "key": "romans.5.17",
+    "text": ""
+  },
+  {
     "ref": "Romans 5:18–19",
     "key": "romans.5.18-19",
     "text": "¹⁸ So then as through one transgression there resulted condemnation to all men, even so through one act of righteousness there resulted justification of life to all men. ¹⁹ For as through the one man’s disobedience the many were appointed sinners, even so through the obedience of the One the many will be appointed righteous."
@@ -4257,7 +4357,7 @@
   {
     "ref": "Romans 6:9",
     "key": "romans.6.9",
-    "text": ""
+    "text": "knowing that Christ, having been raised from the dead, is never to die again; death no longer is master over Him."
   },
   {
     "ref": "Romans 6:14–15",
@@ -4267,7 +4367,7 @@
   {
     "ref": "Romans 6:16",
     "key": "romans.6.16",
-    "text": ""
+    "text": "Do you not know that when you go on presenting yourselves to someone as slaves for obedience, you are slaves of the one whom you obey, either of sin leading to death, or of obedience leading to righteousness?"
   },
   {
     "ref": "Romans 6:23",
@@ -4520,6 +4620,16 @@
     "text": "²⁶ and so all Israel will be saved; just as it is written, “The Deliverer will come from Zion, He will remove ungodliness from Jacob.” ²⁷ “And this is My covenant with them, When I take away their sins.” ²⁸ From the standpoint of the gospel they are enemies for your sake, but from the standpoint of God’s choice they are beloved for the sake of the fathers; ²⁹ for the gifts and the calling of God are irrevocable."
   },
   {
+    "ref": "Romans 11:26",
+    "key": "romans.11.26",
+    "text": ""
+  },
+  {
+    "ref": "Romans 11:28–29",
+    "key": "romans.11.28-29",
+    "text": ""
+  },
+  {
     "ref": "Romans 11:33",
     "key": "romans.11.33",
     "text": "Oh, the depth of the riches and wisdom and knowledge of God! How unsearchable are His judgments and unfathomable His ways!"
@@ -4682,7 +4792,7 @@
   {
     "ref": "1 Corinthians 6:19–20",
     "key": "1-corinthians.6.19-20",
-    "text": ""
+    "text": "¹⁹ Or do you not know that your body is a sanctuary of the Holy Spirit who is in you, whom you have from God, and that you are not your own? ²⁰ For you were bought with a price: therefore glorify God in your body."
   },
   {
     "ref": "1 Corinthians 7:7–9",
@@ -4850,6 +4960,11 @@
     "text": "²¹ For since by a man came death, by a man also came the resurrection of the dead. ²² For as in Adam all die, so also in Christ all will be made alive."
   },
   {
+    "ref": "1 Corinthians 15:22–25",
+    "key": "1-corinthians.15.22-25",
+    "text": ""
+  },
+  {
     "ref": "1 Corinthians 15:26",
     "key": "1-corinthians.15.26",
     "text": "The last enemy to be abolished is death."
@@ -4875,9 +4990,29 @@
     "text": "So also it is written, “The first man, Adam, became a living soul.” The last Adam became a life-giving spirit."
   },
   {
+    "ref": "1 Corinthians 15:51–53",
+    "key": "1-corinthians.15.51-53",
+    "text": ""
+  },
+  {
+    "ref": "1 Corinthians 15:51",
+    "key": "1-corinthians.15.51",
+    "text": ""
+  },
+  {
+    "ref": "1 Corinthians 15:52",
+    "key": "1-corinthians.15.52",
+    "text": ""
+  },
+  {
     "ref": "1 Corinthians 15:54–57",
     "key": "1-corinthians.15.54-57",
     "text": "⁵⁴ But when this corruptible puts on the incorruptible, and this mortal puts on immortality, then will come about the word that is written, “Death is swallowed up in victory. ⁵⁵ O death, where is your victory? O death, where is your sting?” ⁵⁶ Now the sting of death is sin, and the power of sin is the law; ⁵⁷ but thanks be to God, who gives us the victory through our Lord Jesus Christ!"
+  },
+  {
+    "ref": "1 Corinthians 15:58",
+    "key": "1-corinthians.15.58",
+    "text": ""
   },
   {
     "ref": "1 Corinthians 16:2",
@@ -4908,6 +5043,11 @@
     "ref": "2 Corinthians 4:4",
     "key": "2-corinthians.4.4",
     "text": "in whose case the god of this age has blinded the minds of the unbelieving so that they might not see the light of the gospel of the glory of Christ, who is the image of God."
+  },
+  {
+    "ref": "2 Corinthians 4:17",
+    "key": "2-corinthians.4.17",
+    "text": ""
   },
   {
     "ref": "2 Corinthians 5:8",
@@ -5182,7 +5322,7 @@
   {
     "ref": "Galatians 5:13",
     "key": "galatians.5.13",
-    "text": ""
+    "text": "For you were called to freedom, brothers; only do not turn your freedom into an opportunity for the flesh, but through love serve one another."
   },
   {
     "ref": "Galatians 6:1",
@@ -5327,7 +5467,7 @@
   {
     "ref": "Ephesians 4:25",
     "key": "ephesians.4.25",
-    "text": ""
+    "text": "Therefore, laying aside falsehood, speak truth each one of you with his neighbor, for we are members of one another."
   },
   {
     "ref": "Ephesians 4:30",
@@ -5347,7 +5487,7 @@
   {
     "ref": "Ephesians 6:10–12",
     "key": "ephesians.6.10-12",
-    "text": ""
+    "text": "¹⁰ Finally, be strong in the Lord and in the might of His strength. ¹¹ Put on the full armor of God, so that you will be able to stand firm against the schemes of the devil. ¹² For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the world forces of this darkness, against the spiritual forces of wickedness in the heavenly places."
   },
   {
     "ref": "Ephesians 6:10–11",
@@ -5387,7 +5527,7 @@
   {
     "ref": "Philippians 2:5–11",
     "key": "philippians.2.5-11",
-    "text": ""
+    "text": "⁵ Have this way of thinking in yourselves which was also in Christ Jesus, ⁶ who, although existing in the form of God, did not regard equality with God a thing to be grasped, ⁷ but emptied Himself, by taking the form of a slave, by being made in the likeness of men. ⁸ Being found in appearance as a man, He humbled Himself by becoming obedient to the point of death, even death on a cross. ⁹ Therefore, God also highly exalted Him, and bestowed on Him the name which is above every name, ¹⁰ so that at the name of Jesus every knee will bow, of those who are in heaven and on earth and under the earth, ¹¹ and that every tongue will confess that Jesus Christ is Lord, to the glory of God the Father."
   },
   {
     "ref": "Philippians 2:5–7",
@@ -5482,7 +5622,7 @@
   {
     "ref": "Colossians 1:13–14",
     "key": "colossians.1.13-14",
-    "text": ""
+    "text": "¹³ Who rescued us from the authority of darkness, and transferred us to the kingdom of the Son of His love, ¹⁴ in whom we have redemption, the forgiveness of sins."
   },
   {
     "ref": "Colossians 1:13–17",
@@ -5557,7 +5697,7 @@
   {
     "ref": "Colossians 2:14–15",
     "key": "colossians.2.14-15",
-    "text": ""
+    "text": "¹⁴ Having canceled out the certificate of debt consisting of decrees against us which was hostile to us, He also has taken it out of the way, having nailed it to the cross. ¹⁵ Having disarmed the rulers and authorities, He made a public display of them, having triumphed over them in Him."
   },
   {
     "ref": "Colossians 2:14",
@@ -5592,7 +5732,7 @@
   {
     "ref": "Colossians 3:17",
     "key": "colossians.3.17",
-    "text": ""
+    "text": "And whatever you do in word or deed, do all in the name of the Lord Jesus, giving thanks to God the Father through Him."
   },
   {
     "ref": "Colossians 4:2–4",
@@ -5607,7 +5747,7 @@
   {
     "ref": "Colossians 4:3",
     "key": "colossians.4.3",
-    "text": ""
+    "text": "praying at the same time for us as well, that God will open up to us a door for the word, so that we may speak the mystery of Christ, for which I have also been bound,"
   },
   {
     "ref": "Colossians 4:5–6",
@@ -5640,6 +5780,56 @@
     "text": "¹³ But we do not want you to be uninformed, brothers, about those who are asleep, so that you will not grieve as do the rest who have no hope. ¹⁴ For if we believe that Jesus died and rose again, even so God will bring with Him those who have fallen asleep in Jesus."
   },
   {
+    "ref": "1 Thessalonians 4:13–18",
+    "key": "1-thessalonians.4.13-18",
+    "text": ""
+  },
+  {
+    "ref": "1 Thessalonians 4:15–17",
+    "key": "1-thessalonians.4.15-17",
+    "text": ""
+  },
+  {
+    "ref": "1 Thessalonians 4:15",
+    "key": "1-thessalonians.4.15",
+    "text": ""
+  },
+  {
+    "ref": "1 Thessalonians 4:17",
+    "key": "1-thessalonians.4.17",
+    "text": ""
+  },
+  {
+    "ref": "1 Thessalonians 4:18",
+    "key": "1-thessalonians.4.18",
+    "text": ""
+  },
+  {
+    "ref": "1 Thessalonians 5:1–2",
+    "key": "1-thessalonians.5.1-2",
+    "text": ""
+  },
+  {
+    "ref": "1 Thessalonians 5:1–6",
+    "key": "1-thessalonians.5.1-6",
+    "text": ""
+  },
+  {
+    "ref": "1 Thessalonians 5:6–10",
+    "key": "1-thessalonians.5.6-10",
+    "text": ""
+  },
+  {
+    "ref": "1 Thessalonians 5:9",
+    "key": "1-thessalonians.5.9",
+    "text": ""
+  },
+  {
+    "ref": "1 Thessalonians 5:11",
+    "key": "1-thessalonians.5.11",
+    "text": ""
+  },
+  {
     "ref": "1 Thessalonians 5:17",
     "key": "1-thessalonians.5.17",
     "text": "pray without ceasing;"
@@ -5658,6 +5848,11 @@
     "ref": "2 Thessalonians 1:8–9",
     "key": "2-thessalonians.1.8-9",
     "text": "⁸ executing vengeance on those who do not know God and to those who do not obey the gospel of our Lord Jesus. ⁹ These will pay the penalty of eternal destruction, away from the presence of the Lord and from the glory of His might,"
+  },
+  {
+    "ref": "2 Thessalonians 2:1–3",
+    "key": "2-thessalonians.2.1-3",
+    "text": ""
   },
   {
     "ref": "2 Thessalonians 2:3–4",
@@ -5680,6 +5875,11 @@
     "text": "Now we command you, brothers, in the name of our Lord Jesus Christ, that you keep away from every brother who walks in an unruly manner and not according to the tradition which they received from us."
   },
   {
+    "ref": "2 Thessalonians 3:10–12",
+    "key": "2-thessalonians.3.10-12",
+    "text": ""
+  },
+  {
     "ref": "1 Timothy 1:10",
     "key": "1-timothy.1.10",
     "text": "for sexually immoral persons, for homosexuals, for kidnappers, for liars, for perjurers, and whatever else is contrary to sound teaching,"
@@ -5687,12 +5887,12 @@
   {
     "ref": "1 Timothy 1:13–15",
     "key": "1-timothy.1.13-15",
-    "text": ""
+    "text": "¹³ even though I was formerly a blasphemer and a persecutor and a violent aggressor. Yet I was shown mercy because I acted ignorantly in unbelief; ¹⁴ and the grace of our Lord was more than abundant, with the faith and love which are in Christ Jesus. ¹⁵ It is a trustworthy saying and deserving full acceptance: that Christ Jesus came into the world to save sinners, among whom I am foremost."
   },
   {
     "ref": "1 Timothy 1:15",
     "key": "1-timothy.1.15",
-    "text": ""
+    "text": "It is a trustworthy saying and deserving full acceptance: that Christ Jesus came into the world to save sinners, among whom I am foremost."
   },
   {
     "ref": "1 Timothy 1:15–16",
@@ -5707,7 +5907,7 @@
   {
     "ref": "1 Timothy 2:1",
     "key": "1-timothy.2.1",
-    "text": ""
+    "text": "First of all, then, I exhort that petitions and prayers, requests and thanksgivings, be made for all men,"
   },
   {
     "ref": "1 Timothy 2:1–4",
@@ -5825,6 +6025,11 @@
     "text": "All Scripture is God-breathed and profitable for teaching, for reproof, for correction, for training in righteousness,"
   },
   {
+    "ref": "2 Timothy 4:1",
+    "key": "2-timothy.4.1",
+    "text": ""
+  },
+  {
     "ref": "2 Timothy 4:2",
     "key": "2-timothy.4.2",
     "text": "preach the word; be ready in season and out of season; reprove, rebuke, exhort, with great patience and teaching."
@@ -5858,6 +6063,11 @@
     "ref": "Titus 2:11–14",
     "key": "titus.2.11-14",
     "text": "¹¹ For the grace of God has appeared, bringing salvation to all men, ¹² instructing us that, denying ungodliness and worldly desires, we should live sensibly, righteously, and godly in the present age, ¹³ looking for the blessed hope and the appearing of the glory of our great God and Savior, Jesus Christ, ¹⁴ who gave Himself for us that He might redeem us from all lawlessness, and purify for Himself a people for His own possession, zealous for good works."
+  },
+  {
+    "ref": "Titus 2:11–13",
+    "key": "titus.2.11-13",
+    "text": ""
   },
   {
     "ref": "Titus 2:13–14",
@@ -6110,6 +6320,11 @@
     "text": "And inasmuch as it is appointed for men to die once and after this comes judgment,"
   },
   {
+    "ref": "Hebrews 9:27–28",
+    "key": "hebrews.9.27-28",
+    "text": ""
+  },
+  {
     "ref": "Hebrews 10:1",
     "key": "hebrews.10.1",
     "text": "For the Law, since it has only a shadow of the good things to come and not the very form of things, can never, by the same sacrifices which they offer continually year by year, make perfect those who draw near."
@@ -6162,7 +6377,7 @@
   {
     "ref": "Hebrews 10:29",
     "key": "hebrews.10.29",
-    "text": ""
+    "text": "How much worse punishment do you think he will deserve who has trampled underfoot the Son of God, and has regarded as defiled the blood of the covenant by which he was sanctified, and has insulted the Spirit of grace?"
   },
   {
     "ref": "Hebrews 10:31",
@@ -6307,7 +6522,7 @@
   {
     "ref": "James 4:7",
     "key": "james.4.7",
-    "text": ""
+    "text": "Be subject therefore to God. Resist the devil and he will flee from you."
   },
   {
     "ref": "James 4:13–15",
@@ -6457,12 +6672,12 @@
   {
     "ref": "2 Peter 1:16–21",
     "key": "2-peter.1.16-21",
-    "text": ""
+    "text": "¹⁶ For we did not make known to you the power and coming of our Lord Jesus Christ, following cleverly devised myths, but being eyewitnesses of His majesty. ¹⁷ For when He received honor and glory from God the Father, such an utterance as this was made to Him by the Majestic Glory, “This is My beloved Son with whom I am well-pleased”— ¹⁸ and we ourselves heard this utterance made from heaven when we were with Him on the holy mountain. ¹⁹ And we have as more sure the prophetic word, to which you do well to pay attention as to a lamp shining in a dark place, until the day dawns and the morning star arises in your hearts. ²⁰ Know this first of all, that no prophecy of Scripture comes by one’s own interpretation. ²¹ For no prophecy was ever made by the will of man, but men being moved by the Holy Spirit spoke from God."
   },
   {
     "ref": "2 Peter 1:19",
     "key": "2-peter.1.19",
-    "text": ""
+    "text": "And we have as more sure the prophetic word, to which you do well to pay attention as to a lamp shining in a dark place, until the day dawns and the morning star arises in your hearts."
   },
   {
     "ref": "2 Peter 1:20–21",
@@ -6480,6 +6695,11 @@
     "text": "But false prophets also arose among the people, just as there will also be false teachers among you, who will secretly introduce destructive heresies, even denying the Master who bought them, bringing swift destruction upon themselves."
   },
   {
+    "ref": "2 Peter 3:3–4",
+    "key": "2-peter.3.3-4",
+    "text": ""
+  },
+  {
     "ref": "2 Peter 3:3–6",
     "key": "2-peter.3.3-6",
     "text": "³ knowing this first of all, that in the last days mockers will come with their mocking, following after their own lusts, ⁴ and saying, “Where is the promise of His coming? For since the fathers fell asleep, all continues just as it was from the beginning of creation.” ⁵ For when they maintain this, it escapes their notice that by the word of God the heavens existed long ago and the earth was formed out of water and by water, ⁶ through which the world at that time was destroyed, being deluged with water."
@@ -6490,9 +6710,19 @@
     "text": "⁵ For when they maintain this, it escapes their notice that by the word of God the heavens existed long ago and the earth was formed out of water and by water, ⁶ through which the world at that time was destroyed, being deluged with water."
   },
   {
+    "ref": "2 Peter 3:8–10",
+    "key": "2-peter.3.8-10",
+    "text": ""
+  },
+  {
     "ref": "2 Peter 3:9",
     "key": "2-peter.3.9",
     "text": "The Lord is not slow about His promise, as some consider slowness, but is patient toward you, not willing for any to perish but for all to come to repentance."
+  },
+  {
+    "ref": "2 Peter 3:10–13",
+    "key": "2-peter.3.10-13",
+    "text": ""
   },
   {
     "ref": "2 Peter 3:15–16",
@@ -6565,6 +6795,11 @@
     "text": "Beloved, now we are children of God, and it has not been manifested as yet what we will be. We know that when He is manifested, we will be like Him, because we will see Him just as He is."
   },
   {
+    "ref": "1 John 3:2–3",
+    "key": "1-john.3.2-3",
+    "text": ""
+  },
+  {
     "ref": "1 John 3:4",
     "key": "1-john.3.4",
     "text": "Everyone who does sin also does lawlessness; and sin is lawlessness."
@@ -6572,7 +6807,7 @@
   {
     "ref": "1 John 3:8",
     "key": "1-john.3.8",
-    "text": ""
+    "text": "The one who does sin is of the devil, because the devil sins from the beginning. The Son of God was manifested for this purpose, to destroy the works of the devil."
   },
   {
     "ref": "1 John 3:15",
@@ -6695,6 +6930,16 @@
     "text": "And on some, who are doubting, have mercy;"
   },
   {
+    "ref": "Revelation 1:3",
+    "key": "revelation.1.3",
+    "text": ""
+  },
+  {
+    "ref": "Revelation 1:9–18",
+    "key": "revelation.1.9-18",
+    "text": ""
+  },
+  {
     "ref": "Revelation 1:10",
     "key": "revelation.1.10",
     "text": "I was in the Spirit on the Lord’s day, and I heard behind me a loud voice like a trumpet,"
@@ -6710,9 +6955,19 @@
     "text": "¹⁷ And when I saw Him, I fell at His feet like a dead man. And He placed His right hand on me, saying, “Do not fear; I am the first and the last, ¹⁸ and the living One; and I was dead, and behold, I am alive forever and ever, and I have the keys of death and of Hades."
   },
   {
+    "ref": "Revelation 1:20",
+    "key": "revelation.1.20",
+    "text": ""
+  },
+  {
     "ref": "Revelation 2:5",
     "key": "revelation.2.5",
     "text": "Therefore remember from where you have fallen, and repent and do the deeds you did at first. But if not, I am coming to you and will remove your lampstand out of its place, unless you repent."
+  },
+  {
+    "ref": "Revelation 3:10",
+    "key": "revelation.3.10",
+    "text": ""
   },
   {
     "ref": "Revelation 3:14",
@@ -6732,7 +6987,7 @@
   {
     "ref": "Revelation 4:11",
     "key": "revelation.4.11",
-    "text": ""
+    "text": "“Worthy are You, our Lord and our God, to receive glory and honor and power, for You created all things, and because of Your will they existed, and were created.”"
   },
   {
     "ref": "Revelation 5:6–7",
@@ -6775,6 +7030,11 @@
     "text": "and they cried out with a loud voice, saying, “How long, O Master, holy and true? Will You not judge and avenge our blood on those who dwell on the earth?”"
   },
   {
+    "ref": "Revelation 7:4",
+    "key": "revelation.7.4",
+    "text": ""
+  },
+  {
     "ref": "Revelation 7:9",
     "key": "revelation.7.9",
     "text": "After these things I looked, and behold, a great multitude which no one could count, from every nation and all tribes and peoples and tongues, standing before the throne and before the Lamb, clothed in white robes, and palm branches were in their hands;"
@@ -6792,7 +7052,7 @@
   {
     "ref": "Revelation 12:10",
     "key": "revelation.12.10",
-    "text": ""
+    "text": "Then I heard a loud voice in heaven, saying, “Now the salvation, and the power, and the kingdom of our God and the authority of His Christ have come, for the accuser of our brothers has been thrown down, he who accuses them before our God day and night.”"
   },
   {
     "ref": "Revelation 14:11",
@@ -6805,9 +7065,34 @@
     "text": "⁹ And men were scorched with fierce heat, and they blasphemed the name of God who has the authority over these plagues, and they did not repent so as to give Him glory. ¹⁰ Then the fifth angel poured out his bowl on the throne of the beast, and his kingdom became darkened; and they gnawed their tongues because of pain, ¹¹ and they blasphemed the God of heaven because of their pains and their sores, and they did not repent of their deeds."
   },
   {
+    "ref": "Revelation 17:15",
+    "key": "revelation.17.15",
+    "text": ""
+  },
+  {
     "ref": "Revelation 19:1",
     "key": "revelation.19.1",
     "text": "After these things I heard something like a loud voice of a great crowd in heaven, saying, “Hallelujah! Salvation and glory and power belong to our God;"
+  },
+  {
+    "ref": "Revelation 19:7–8",
+    "key": "revelation.19.7-8",
+    "text": ""
+  },
+  {
+    "ref": "Revelation 19:7–9",
+    "key": "revelation.19.7-9",
+    "text": ""
+  },
+  {
+    "ref": "Revelation 19:11–16",
+    "key": "revelation.19.11-16",
+    "text": ""
+  },
+  {
+    "ref": "Revelation 20:1–6",
+    "key": "revelation.20.1-6",
+    "text": ""
   },
   {
     "ref": "Revelation 20:10",
@@ -6823,6 +7108,11 @@
     "ref": "Revelation 20:11–15",
     "key": "revelation.20.11-15",
     "text": "¹¹ Then I saw a great white throne and Him who sits upon it, from whose presence earth and heaven fled away, and no place was found for them. ¹² Then I saw the dead, the great and the small, standing before the throne, and books were opened; and another book was opened, which is the book of life. And the dead were judged from the things which were written in the books, according to their deeds. ¹³ And the sea gave up the dead which were in it, and death and Hades gave up the dead which were in them, and they were judged, every one of them according to their deeds. ¹⁴ Then death and Hades were thrown into the lake of fire. This is the second death, the lake of fire. ¹⁵ And if anyone’s name was not found written in the book of life, he was thrown into the lake of fire."
+  },
+  {
+    "ref": "Revelation 21:1–5",
+    "key": "revelation.21.1-5",
+    "text": ""
   },
   {
     "ref": "Revelation 21:3–5",

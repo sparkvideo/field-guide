@@ -741,3 +741,16 @@ html[data-standalone] .welcome-install {
 .acts-body { padding: 0 0 16px 68px; }
 .acts-start { font-size: 21px; font-style: italic; color: var(--color-accent); margin-bottom: 6px; }
 @media (prefers-reduced-motion: reduce) { .acts-letter { transition: none; } }
+
+/* The end times: the order of events */
+.tl { margin: 22px 0 8px; padding: 18px 16px 10px; background: var(--color-card); border: 1px solid var(--color-line); border-radius: 16px; }
+.tl-title { font-size: 24px; font-weight: 700; }
+.tl-list { list-style: none; margin: 14px 0 0; padding: 0 0 0 6px; }
+.tl-list > li { position: relative; padding: 0 0 20px 30px; border-left: 2px solid var(--color-line); }
+.tl-list > li:last-child { border-left-color: transparent; padding-bottom: 8px; }
+.tl-dot { position: absolute; left: -8px; top: 5px; width: 14px; height: 14px; border-radius: 50%; background: var(--color-card); border: 2px solid var(--color-accent); }
+.tl-list > li.now .tl-dot { background: var(--color-accent); }
+.tl-name { display: inline; font-size: 20px; font-weight: 600; }
+.tl-here { margin-left: 10px; padding: 2px 9px; border-radius: 999px; background: var(--color-soft); color: var(--color-accent); font-size: 14px; white-space: nowrap; }
+.tl-line { display: block; }
+.tl-ref { display: block; color: var(--color-muted); font-size: 15px; }

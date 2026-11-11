@@ -1,63 +1,63 @@
-# LSB verses still to fill in (58 of 1374)
+# LSB verses still to fill in (58 of 1432)
 
 Open `content/lsb-verses.json`, find the reference, and paste the LSB text between the quotes after "text".
 Until a slot is filled, the app shows the BSB text with a small "BSB" label.
 
-- [ ] Genesis 3:4–10
-- [ ] Genesis 3:7–10
-- [ ] Exodus 20:16
-- [ ] Deuteronomy 32:39
-- [ ] 1 Samuel 5:2–4
-- [ ] Job 1:12
-- [ ] Psalms 2:1–4
-- [ ] Psalms 32:5
-- [ ] Psalms 103:1–5
-- [ ] Psalms 145:1–3
-- [ ] Proverbs 3:5
-- [ ] Proverbs 18:17
-- [ ] Proverbs 28:13
-- [ ] Isaiah 14:12–15
-- [ ] Isaiah 14:13–14
-- [ ] Isaiah 14:13–15
-- [ ] Ezekiel 18:4
-- [ ] Ezekiel 28:15
-- [ ] Matthew 4:8–10
-- [ ] Matthew 7:7–8
-- [ ] Matthew 16:25–26
-- [ ] Matthew 23:15
-- [ ] Mark 5:15
-- [ ] Mark 12:38–44
-- [ ] Mark 12:38–40
-- [ ] Luke 15:13–20
-- [ ] Luke 22:31
-- [ ] John 8:34
-- [ ] John 8:44
-- [ ] John 10:10–11
-- [ ] John 10:28–29
-- [ ] John 11:41–42
-- [ ] John 11:41–44
-- [ ] John 11:43–44
-- [ ] John 15:15
-- [ ] John 20:6–7
-- [ ] Romans 3:20
-- [ ] Romans 6:9
-- [ ] Romans 6:16
-- [ ] 1 Corinthians 6:19–20
-- [ ] Galatians 5:13
-- [ ] Ephesians 4:25
-- [ ] Ephesians 6:10–12
-- [ ] Philippians 2:5–11
-- [ ] Colossians 1:13–14
-- [ ] Colossians 2:14–15
-- [ ] Colossians 3:17
-- [ ] Colossians 4:3
-- [ ] 1 Timothy 1:13–15
-- [ ] 1 Timothy 1:15
-- [ ] 1 Timothy 2:1
-- [ ] Hebrews 10:29
-- [ ] James 4:7
-- [ ] 2 Peter 1:16–21
-- [ ] 2 Peter 1:19
-- [ ] 1 John 3:8
-- [ ] Revelation 4:11
-- [ ] Revelation 12:10
+- [ ] Deuteronomy 30:3–5
+- [ ] Isaiah 2:2–4
+- [ ] Isaiah 19:23–25
+- [ ] Isaiah 60:4
+- [ ] Isaiah 60:9
+- [ ] Isaiah 65:17
+- [ ] Daniel 2:34–35
+- [ ] Daniel 2:44–45
+- [ ] Daniel 9:24–27
+- [ ] Zechariah 12:2–3
+- [ ] Matthew 24:29–30
+- [ ] Matthew 24:36
+- [ ] Matthew 24:45–46
+- [ ] Mark 14:61–62
+- [ ] Luke 1:32–33
+- [ ] Luke 12:40
+- [ ] John 5:28–29
+- [ ] John 14:2–3
+- [ ] Acts 1:7
+- [ ] Romans 5:17
+- [ ] Romans 11:26
+- [ ] Romans 11:28–29
+- [ ] 1 Corinthians 15:22–25
+- [ ] 1 Corinthians 15:51–53
+- [ ] 1 Corinthians 15:51
+- [ ] 1 Corinthians 15:52
+- [ ] 1 Corinthians 15:58
+- [ ] 2 Corinthians 4:17
+- [ ] 1 Thessalonians 4:13–18
+- [ ] 1 Thessalonians 4:15–17
+- [ ] 1 Thessalonians 4:15
+- [ ] 1 Thessalonians 4:17
+- [ ] 1 Thessalonians 4:18
+- [ ] 1 Thessalonians 5:1–2
+- [ ] 1 Thessalonians 5:1–6
+- [ ] 1 Thessalonians 5:6–10
+- [ ] 1 Thessalonians 5:9
+- [ ] 1 Thessalonians 5:11
+- [ ] 2 Thessalonians 2:1–3
+- [ ] 2 Thessalonians 3:10–12
+- [ ] 2 Timothy 4:1
+- [ ] Titus 2:11–13
+- [ ] Hebrews 9:27–28
+- [ ] 2 Peter 3:3–4
+- [ ] 2 Peter 3:8–10
+- [ ] 2 Peter 3:10–13
+- [ ] 1 John 3:2–3
+- [ ] Revelation 1:3
+- [ ] Revelation 1:9–18
+- [ ] Revelation 1:20
+- [ ] Revelation 3:10
+- [ ] Revelation 7:4
+- [ ] Revelation 17:15
+- [ ] Revelation 19:7–8
+- [ ] Revelation 19:7–9
+- [ ] Revelation 19:11–16
+- [ ] Revelation 20:1–6
+- [ ] Revelation 21:1–5

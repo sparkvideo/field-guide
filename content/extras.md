@@ -366,6 +366,79 @@ On the cross Christ bore the wrath of God for sinners. Everyone's sin will be pu
 
 Then give [The Gospel](/topic/the-gospel).
 
+# The end times
+> What is coming, and how to talk about it
+
+People bring this up on their own: a war, a headline about Israel, a funeral, a fear about where the world is going. Each one is an open door. Your aim is not to win a chart debate but to show that history is going where God said it would, that Christ is the King and Judge it ends with, and that today is the day to be ready. This page follows our church's position, premillennial and pretribulational, as Abner Chou and John MacArthur teach it. (Acts 17:30–31; 1 Pet 3:15; Titus 2:13)
+
+## How to read prophecy
+- **The same way you read the rest.** Chou: what God meant is what the text means, in normal language, by the ordinary rules of grammar and the facts of history. Men moved by the Holy Spirit spoke from God. (2 Pet 1:20–21; Luke 24:44)
+- **Words stay what they are.** Israel is Israel and the church is the church, and just as much Egypt is Egypt and Assyria is Assyria. Isaiah says both of those old enemies will one day worship with Israel, so this is not favoritism toward one nation; it is God keeping every word to every nation. (Isa 19:23–25; Rom 11:28–29)
+- **Fulfilled prophecy sets the pattern.** The promises about Christ's first coming came true literally: Bethlehem, a donkey, pierced hands, a rich man's tomb. Expect the rest to come true the same way. (Mic 5:2; Zech 9:9; Isa 53:9)
+- **It is clear, and it takes work.** Chou compares it to calculus: not unclear, but it has many prerequisites, because the last things draw on the whole Bible. So be patient and humble with those still working through it.
+
+## Daniel's outline
+- **The statue (Daniel 2).** Four real empires in order: Babylon, Medo-Persia, Greece, Rome. Then a stone not cut by hands strikes the statue and becomes a mountain that fills the earth. Chou's point: the stone, Christ, comes first and the kingdom follows, and since the four kingdoms were physical, so is the fifth. That is premillennialism in one chapter. (Dan 2:34–35; Dan 2:44–45)
+- **The seventy weeks (Daniel 9).** Seventy sevens of years are decreed for Israel. From the decree to rebuild Jerusalem until Messiah the Prince is sixty-nine of them. After that the Messiah is cut off, and the city and the sanctuary are destroyed, which happened in AD 70. One seven remains: a ruler makes a firm covenant for one week and breaks it in the middle. That last seven is the seven-year tribulation. (Dan 9:24–27)
+- **Why it matters in conversation.** Sixty-nine of the seventy came to pass on schedule, the crucifixion included. Chou: God got all of that right, so we can trust Him for the seventieth. See [Jewish](/jewish) for using Daniel 9 with a Jewish friend.
+- **The Son of Man (Daniel 7).** After the beast kingdoms, One like a Son of Man comes with the clouds and is given dominion over all peoples forever. Jesus took that title for Himself at His trial. (Dan 7:13–14; Mark 14:61–62)
+
+## The rapture, in three steps
+From Abner Chou's message on the rapture.
+- **Every Christian believes in a rapture.** Paul defines it as the dead in Christ rising and the living being changed and caught up. That is the resurrection, and the resurrection is part of the gospel. The only question is when. (1 Thess 4:13–18; 1 Cor 15:51–53)
+- **It is not the same event as the second coming.** Ask who, where and how. When the prophets describe Israel's regathering, people travel home across the ground to Jerusalem. Paul says he is revealing something new, a mystery: the church is gathered in the air, by Christ Himself, and taken to be with Him. Different people, different place, different direction. (Deut 30:3–5; Isa 60:4, 9; 1 Thess 4:15–17; John 14:2–3)
+- **It comes before the tribulation.** Paul ties the timing of the rapture to the start of the day of the Lord, which comes like a thief. Believers are delivered from the wrath to come. The Thessalonians panicked at the thought that the day of the Lord had begun, which only makes sense if they had been taught they would not be in it. Christ promises to keep His church from the hour of testing. And in Revelation the word "church" fills chapters 2 and 3, vanishes through the judgments of chapters 6 to 18, and reappears in heaven as the bride in chapter 19. (1 Thess 5:1–2; 1 Thess 1:10; 2 Thess 2:1–3; Rev 3:10; Rev 19:7–8)
+**Ask:** *"If Christ called His people today, would you be among them?"*
+
+## Why God planned it this way
+Chou gives six purposes, each from the texts themselves.
+- **To keep His promises to Israel.** With the church taken up, God turns again to Israel, as Revelation shows. (Rev 7:4; Rom 11:25–27)
+- **To prepare the church.** Believers appear before the judgment seat of Christ and are made ready for the marriage supper of the Lamb. (2 Cor 5:10; Rev 19:7–9)
+- **To mark the last stage of His plan plainly.** It is sudden, and it is announced with a trumpet. (1 Cor 15:52)
+- **To give hope.** Death, grief and pain are not how the story ends for those in Christ. (1 Thess 4:13–14; Rom 8:18)
+- **To give perspective.** The church will never face the worst. Whatever we suffer now is still grace, and better than we deserve. (1 Thess 5:9; 2 Cor 4:17)
+- **To keep us ready.** It can happen at any moment, with nothing that must come first. Chou: "This isn't about escaping from this world. This is about escaping worldliness." (1 Thess 5:6–10; Titus 2:11–13; 1 John 3:2–3)
+
+## God is not finished with Israel
+- **His promise stands as long as the sun and moon do.** (Jer 31:35–37)
+- **There has always been a believing remnant inside the nation,** and Paul was part of it. (Rom 11:1–5)
+- **A day is coming when the nation and the remnant are the same.** Israel will look on the One they pierced and mourn, a fountain will be opened for sin, and all Israel will be saved. MacArthur preaches Isaiah 53 as the words Israel will say on that day, looking back: "He was pierced for our transgressions." (Zech 12:10; Zech 13:1; Rom 11:26; Isa 53:4–6)
+- **Their survival is itself evidence.** MacArthur's question: have you ever met a Hittite or an Amorite? Israel is still here because God is not done.
+- **So the gospel still goes to the Jew first.** (Rom 1:16; Rom 10:1)
+
+## The King and His kingdom
+- **Christ returns in glory, visibly, to the earth.** (Zech 14:4; Matt 24:29–30; Rev 19:11–16)
+- **He reigns a thousand years from Jerusalem,** on David's throne, and the nations come to Him. Revelation gives the number six times in seven verses. (Rev 20:1–6; Isa 2:2–4; Luke 1:32–33)
+- **The honor is His alone.** Chou: "Christ does not reign with us; we reign with him." The reason there must be a kingdom on this earth is that the last Adam must rule where the first Adam fell. (Dan 7:13–14; 1 Cor 15:22–25; Rom 5:17)
+
+## Judgment and the new creation
+- **Every person will be raised and judged.** Those not found in the book of life go to the lake of fire. See [Hell and eternal judgment](/topic/hell-and-eternal-judgment). (Rev 20:11–15; John 5:28–29; Dan 12:2)
+- **God makes all things new.** A new heaven and a new earth, no more death or tears, and God dwelling with His people. (Rev 21:1–5; 2 Pet 3:10–13; Isa 65:17)
+
+## If they say
+- **"Every generation has thought it was the end."** → Peter said scoffers would say exactly that. The delay is not slowness; it is patience, giving people time to repent. Then the day comes like a thief. (2 Pet 3:3–4; 2 Pet 3:8–10)
+- **"People keep predicting dates and getting it wrong."** → They do, and they are disobeying Jesus when they do it. No one knows the day or the hour. Chou's warning is against "newspaper theology": our footing is the text, not the headlines. (Matt 24:36; Acts 1:7)
+- **"The rapture was invented in the 1800s."** → A doctrine being discussed more in one century does not mean it began then. Justification was not invented at the Reformation, or the deity of Christ at Nicaea. Chou points to Irenaeus in the second century speaking of the church being "caught up" before the tribulation [Irenaeus, Against Heresies 5.29.1]. In the end the question is what Paul wrote. (1 Thess 4:17; Acts 17:11)
+- **"The Bible hardly mentions it."** → Once would be enough. And Paul says it was a mystery, not revealed before, so it appears only where the church's future is in view, and it appears there every time. (1 Cor 15:51; 1 Thess 4:15)
+- **"That is escapism. You just want out, so you do nothing."** → Paul rebuked people who used the Lord's return as an excuse to quit working. Chou: knowing the King is coming is the reason for evangelism and holiness, not a reason to stop. (2 Thess 3:10–12; 1 Cor 15:58; Matt 24:45–46)
+- **"Revelation is all symbols."** → It uses symbols, and it usually tells you what they stand for. Symbols point to real things. It also opens with a blessing on the one who reads and keeps it, which assumes it can be understood. (Rev 1:3; Rev 1:20; Rev 17:15)
+- **"The church has replaced Israel."** → Paul asks, "Has God rejected His people?" and answers, "May it never be." The gifts and the calling of God are irrevocable. (Rom 11:1; Rom 11:28–29; Jer 31:35–37)
+- **"Christians can't even agree on this."** → On the main things we do: Christ will return bodily, raise the dead, judge the world and make all things new. Brothers who order the events differently are still brothers, and Chou says he has learned from them. Don't let an in-house discussion keep you from the question that matters: are you ready to meet Him? (Acts 1:11; 2 Tim 4:1; Heb 9:27–28)
+- **"Is this it? Is what's happening in the news the end?"** → No one can say that an event is the sign. What we can say is that nothing has to happen before Christ calls His church, and that the stage Scripture describes, Israel back in her land and the nations against her, is one no one expected for most of history. Be ready either way. (1 Thess 5:1–6; Zech 12:2–3; Luke 12:40)
+
+## Watch out
+- **Never set a date,** and don't pass along those who do. (Matt 24:36)
+- **Don't let the chart replace the Person.** Chou on Revelation: "It's about the triune God." John was given it on what may have been the worst day of his life, and what he was shown first was Christ. (Rev 1:9–18)
+- **Don't make it a test of fellowship.** The gospel is the line. A brother who is amillennial or postmillennial is a brother.
+- **Don't use it only to frighten.** The same passages are written to comfort believers. (1 Thess 4:18; 1 Thess 5:11)
+- **Don't stop at the timeline.** With an unbeliever the point is always the same: the Judge is coming, and He is also the Savior.
+
+## Bring it to the gospel
+God has fixed a day on which He will judge the world in righteousness through a Man He has appointed, and He has given proof to everyone by raising Him from the dead. That Man first came to bear sin. He is coming a second time for salvation to those who eagerly wait for Him. The last invitation in the Bible is still open: let the one who is thirsty come. (Acts 17:30–31; Heb 9:27–28; 2 Cor 6:2; Rev 22:17; Rev 22:20)
+**Ask:** *"If He came today, would you meet Him as your Savior or as your Judge?"*
+
+Then give [The Gospel](/topic/the-gospel). For the hope behind all of this, see [The resurrection](/topic/the-resurrection).
+
 # Faith and reason
 > Is believing in God irrational, or blind faith?
 

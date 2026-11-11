@@ -1,3 +1,4 @@
+import EndTimeline from "@/components/EndTimeline";
 import ActsPrayer from "@/components/ActsPrayer";
 import Link from "next/link";
 import { notFound } from "next/navigation";
@@ -40,6 +41,7 @@ export default async function TopicPage({ params }: { params: Promise<{ slug: st
         ))}
 
         {t.slug === "how-to-pray" && <ActsPrayer />}
+        {t.slug === "the-end-times" && <EndTimeline />}
 
         {t.sections.map((sec, n) => {
           const glossary = sec.lines.every((l) => l.label && l.label !== "Ask");

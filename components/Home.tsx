@@ -9,7 +9,7 @@ import { getPins, getRecent, type Pin } from "@/lib/pins";
 import { formatRef, parseReference, readerHref, type TypedRef } from "@/lib/reference";
 import { searchGuide } from "@/lib/search";
 import { Chevron } from "./Bits";
-import { BookIcon, CreationIcon, CrossIcon, LifeIcon, ScalesIcon, StormIcon, GateIcon, TombIcon, FireIcon, MindIcon, PrayIcon, DoorIcon, DrillIcon, FlameIcon, GameIcon, Mark, NoteIcon, PenIcon, TabletsIcon, TargetIcon, TriangleIcon, TrinityIcon, WordsIcon } from "./Icons";
+import { BookIcon, CreationIcon, CrossIcon, LifeIcon, ScalesIcon, StormIcon, GateIcon, TombIcon, FireIcon, MindIcon, PrayIcon, HourglassIcon, DoorIcon, DrillIcon, FlameIcon, GameIcon, Mark, NoteIcon, PenIcon, TabletsIcon, TargetIcon, TriangleIcon, TrinityIcon, WordsIcon } from "./Icons";
 import { readStreak } from "./Train";
 import { Welcome } from "./Welcome";
 
@@ -347,6 +347,14 @@ export function Home({ groups }: { groups: GroupRow[] }) {
               <span>
                 <span className="block text-[20px] font-semibold">Hell and eternal judgment</span>
                 <span className="sub">Why would a loving God send people to hell?</span>
+              </span>
+              <Chevron />
+            </Link>
+            <Link href="/topic/the-end-times" className="row">
+              <HourglassIcon />
+              <span>
+                <span className="block text-[20px] font-semibold">The end times</span>
+                <span className="sub">What is coming, and how to talk about it</span>
               </span>
               <Chevron />
             </Link>
