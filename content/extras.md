@@ -682,6 +682,10 @@ Men spoke from God as they were carried along by the Holy Spirit, so the Scriptu
 ## Prophecy written centuries ahead
 The suffering Servant, the pierced hands and feet, the birthplace of the Messiah and the pierced One were all written long before Jesus was born. (Isa 53:5–6; Ps 22:16; Mic 5:2; Zech 12:10)
 
+## More sure than experience
+Peter saw Christ's glory on the mountain and heard the Father's voice. Then he wrote that we have the prophetic word as "more sure." Abner Chou's point: the man who had the experience is the one telling you Scripture is surer than his experience, "more sure than what you know you know." Scripture does not only report reality; God's word decrees it. So when someone sets a feeling, a vision or a "testimony" against the Bible, the Bible wins, and that is exactly how an apostle treated his own best memory. [Abner Chou, chapel message on 2 Peter 1:19] (2 Pet 1:16–21; Prov 3:5; Isa 8:20)
+**Ask:** *"If an apostle ranked Scripture above what he saw with his own eyes, where should we rank what we feel?"*
+
 ## Where to go next
 - **With a Muslim:** run [The Islamic Dilemma](/muslim/case/play-1). The Quran confirms the Scriptures Christians already had.
 - **With a Mormon:** see "translated correctly" under [Mormon objections](/lds#objections).

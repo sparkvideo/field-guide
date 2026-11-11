@@ -5656,7 +5656,7 @@
         },
         {
           "label": "Common objection",
-          "text": "*\"I have a testimony. I prayed about the Book of Mormon and I know it is true.\"* → I don't doubt you felt something. But Scripture says the heart is deceitful, tells us to test the spirits, and says that even an angel from heaven preaching another gospel is to be rejected. The Bereans were called noble for checking Paul against the Scriptures, not against their feelings. (Jer 17:9; 1 John 4:1; Gal 1:8; Acts 17:11)",
+          "text": "*\"I have a testimony. I prayed about the Book of Mormon and I know it is true.\"* → I don't doubt you felt something. But Scripture says the heart is deceitful, tells us to test the spirits, and says that even an angel from heaven preaching another gospel is to be rejected. The Bereans were called noble for checking Paul against the Scriptures, not against their feelings. Peter himself, who saw Christ transfigured, called the written word \"more sure\" than that experience. (Jer 17:9; 1 John 4:1; Gal 1:8; Acts 17:11; 2 Pet 1:19)",
           "verses": [
             {
               "label": "Jer 17:9",
@@ -5693,6 +5693,15 @@
               "chapter": 17,
               "verseStart": 11,
               "verseEnd": 11
+            },
+            {
+              "label": "2 Pet 1:19",
+              "kind": "bible",
+              "key": "2-peter.1.19",
+              "book": "2-peter",
+              "chapter": 1,
+              "verseStart": 19,
+              "verseEnd": 19
             }
           ],
           "links": [],
@@ -12912,8 +12921,8 @@
         {
           "id": "already-believe-jesus-he-one",
           "objection": "\"I already believe in Jesus. He is one of my gods.\"",
-          "response": "The Jesus of the Gospels refuses that place. He said to love Him more than father or mother, and that whoever is not with Him is against Him. To honor Him among others is not to believe Him.",
-          "goTo": "Matt 10:37; Matt 12:30; John 8:24; Ex 20:3",
+          "response": "The Jesus of the Gospels refuses that place. He said to love Him more than father or mother, and that whoever is not with Him is against Him. To honor Him among others is not to believe Him. MacArthur's picture for this is Dagon: the Philistines set the ark of God beside their idol, and in the morning the idol was on its face, and the next morning broken. The living God will not share a shelf.",
+          "goTo": "Matt 10:37; Matt 12:30; John 8:24; Ex 20:3; 1 Sam 5:2–4",
           "askBack": "*\"What did Jesus say about other ways to the Father?\"*",
           "verses": [
             {
@@ -12951,6 +12960,15 @@
               "chapter": 20,
               "verseStart": 3,
               "verseEnd": 3
+            },
+            {
+              "label": "1 Sam 5:2–4",
+              "kind": "bible",
+              "key": "1-samuel.5.2-4",
+              "book": "1-samuel",
+              "chapter": 5,
+              "verseStart": 2,
+              "verseEnd": 4
             }
           ],
           "links": [],
@@ -14832,7 +14850,7 @@
         },
         {
           "label": "Common objection",
-          "text": "*\"I've had real experiences. I've felt the energy, and my readings come true.\"* → I believe you. The Bible never says these things are fake; it says they are forbidden. A slave girl in Philippi told fortunes accurately by a spirit, and Paul cast it out. Real is not the same as good. The test of a spirit is what it says about Jesus. (Acts 16:16–18; 1 John 4:1–3; Deut 13:1–3)",
+          "text": "*\"I've had real experiences. I've felt the energy, and my readings come true.\"* → I believe you. The Bible never says these things are fake; it says they are forbidden. A slave girl in Philippi told fortunes accurately by a spirit, and Paul cast it out. Real is not the same as good. The test of a spirit is what it says about Jesus. And no experience outranks Scripture: Peter saw Christ's glory with his own eyes and still called the prophetic word more sure. (Acts 16:16–18; 1 John 4:1–3; Deut 13:1–3; 2 Pet 1:19)",
           "verses": [
             {
               "label": "Acts 16:16–18",
@@ -14860,6 +14878,15 @@
               "chapter": 13,
               "verseStart": 1,
               "verseEnd": 3
+            },
+            {
+              "label": "2 Pet 1:19",
+              "kind": "bible",
+              "key": "2-peter.1.19",
+              "book": "2-peter",
+              "chapter": 1,
+              "verseStart": 19,
+              "verseEnd": 19
             }
           ],
           "links": [],
@@ -44084,6 +44111,61 @@
                   "verseEnd": 10
                 }
               ],
+              "links": [],
+              "supplemental": false
+            }
+          ]
+        },
+        {
+          "heading": "More sure than experience",
+          "lines": [
+            {
+              "text": "Peter saw Christ's glory on the mountain and heard the Father's voice. Then he wrote that we have the prophetic word as \"more sure.\" Abner Chou's point: the man who had the experience is the one telling you Scripture is surer than his experience, \"more sure than what you know you know.\" Scripture does not only report reality; God's word decrees it. So when someone sets a feeling, a vision or a \"testimony\" against the Bible, the Bible wins, and that is exactly how an apostle treated his own best memory. [Abner Chou, chapel message on 2 Peter 1:19] (2 Pet 1:16–21; Prov 3:5; Isa 8:20)",
+              "verses": [
+                {
+                  "label": "2 Pet 1:19",
+                  "kind": "bible",
+                  "key": "2-peter.1.19",
+                  "book": "2-peter",
+                  "chapter": 1,
+                  "verseStart": 19,
+                  "verseEnd": 19
+                },
+                {
+                  "label": "2 Pet 1:16–21",
+                  "kind": "bible",
+                  "key": "2-peter.1.16-21",
+                  "book": "2-peter",
+                  "chapter": 1,
+                  "verseStart": 16,
+                  "verseEnd": 21
+                },
+                {
+                  "label": "Prov 3:5",
+                  "kind": "bible",
+                  "key": "proverbs.3.5",
+                  "book": "proverbs",
+                  "chapter": 3,
+                  "verseStart": 5,
+                  "verseEnd": 5
+                },
+                {
+                  "label": "Isa 8:20",
+                  "kind": "bible",
+                  "key": "isaiah.8.20",
+                  "book": "isaiah",
+                  "chapter": 8,
+                  "verseStart": 20,
+                  "verseEnd": 20
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Ask",
+              "text": "*\"If an apostle ranked Scripture above what he saw with his own eyes, where should we rank what we feel?\"*",
+              "verses": [],
               "links": [],
               "supplemental": false
             }
