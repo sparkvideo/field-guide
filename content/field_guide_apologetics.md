@@ -15,6 +15,9 @@
 | **Mormon** (LDS) | [LDS Offense](#lds-offense) | [LDS Defense](#lds-defense) | [LDS Card](#lds-card) |
 | **Muslim** | [ISL Offense](#isl-offense) | [ISL Defense](#isl-defense) | [ISL Card](#isl-card) |
 | **Jewish** | [JEW Offense](#jew-offense) | [JEW Defense](#jew-defense) | [JEW Card](#jew-card) |
+| **Hindu** | [HIN Offense](#hin-offense) | [HIN Defense](#hin-defense) | [HIN Card](#hin-card) |
+| **Buddhist** | [BUD Offense](#bud-offense) | [BUD Defense](#bud-defense) | [BUD Card](#bud-card) |
+| **New Age / Spiritualist** | [NA Offense](#na-offense) | [NA Defense](#na-defense) | [NA Card](#na-card) |
 | **Oneness Pentecostal** | [ONE Offense](#one-offense) | [ONE Defense](#one-defense) | [ONE Card](#one-card) |
 | **Progressive Christian** | [PROG Offense](#prog-offense) | [PROG Defense](#prog-defense) | [PROG Card](#prog-card) |
 | **Roman Catholic** | [RCC Offense](#rcc-offense) | [RCC Defense](#rcc-defense) | [RCC Card](#rcc-card) |
@@ -645,6 +648,256 @@ Verses to read ([▶](https://youtu.be/DPFeuxNkxCA?t=710)): **Q 4:24** (married 
 | **"I'm Jewish, but I'm not religious."** | Most Jewish people you meet are here. Don't argue rabbinics. Ask what they think happens after death, use the commandments, and then show them Isaiah 53 as something from their own heritage they may never have seen. See [The Gospel](/topic/the-gospel). | Isa 53:5–6; Eccl 12:14; Dan 12:2 | *"Have you ever read the prophets for yourself?"* |
 
 **Typical exits:** "Ask a rabbi; he can explain Isaiah 53." (Answer: *"I'd be glad to hear it. Would you read the chapter yourself first and tell me who you see?"*) · "We don't believe in that." (Ask: *"What do you believe God does with sin?"*) · "My family would disown me." (Don't minimize it. Leave Matt 10:37–39 and Ps 27:10, and stay a friend.) · "That's your Bible, not ours." (Stay in Isaiah, Leviticus, Daniel and Zechariah, which are theirs.)
+
+# 🕉️ HINDUS
+
+**Their position:** Hinduism is a family of traditions, not one creed. Common ground: ultimate reality is Brahman, and the true self (atman) is one with it, "You are that" [Chandogya Upanishad 6.8.7]. The many gods are faces of the one reality, and many Hindus are devoted to one of them, such as Vishnu, Shiva or Krishna. Every soul is reborn again and again (samsara), and karma, the moral weight of your deeds, decides the next life. The goal is release (moksha), reached by the path of works, the path of knowledge or the path of devotion. Truth is one and the paths are many, so Jesus is welcome as one more teacher or avatar among others; Krishna says he comes age after age [Bhagavad Gita 4.7–8].
+
+**The dividing issue:** Who God is, and how guilt is removed. Scripture says God is the personal Creator, distinct from everything He made, who will not share His glory with images. And it says sin is not a weight to be worked off over many lives but guilt before a holy Judge, which only a substitute can bear. John MacArthur puts the line where Scripture does: "all false religion is demon worship" [MacArthur, pastors' session on 2 Corinthians 6]. That is a statement about the system and what stands behind the idol, not an insult to the person in front of you. (Isa 45:5–6; Rom 1:22–25; 1 Cor 10:19–20; Heb 9:27)
+
+**Ask this question:** *"How much karma do you have left to pay, and how would you ever know when it is paid?"* (Col 2:13–14)
+
+**Scriptural response:** In the beginning God created the heavens and the earth: He is not the world and the world is not He. He says, "I am Yahweh, and there is no other." Idols have mouths and cannot speak. It is appointed for men to die once, and after this comes judgment. And God canceled the record of debt against us by nailing it to the cross. (Gen 1:1; Isa 45:5–6; Ps 115:4–8; Heb 9:27; Col 2:13–14)
+
+**Common objection:** *"All paths lead to the same God. Truth is one; the wise call it by many names."* → That is itself one path's claim, and it says every path that disagrees is wrong. The paths do not even agree on whether God is personal. Jesus did not offer Himself as one of many: "No one comes to the Father but through Me." If He was wrong, He is not a great teacher. If He was right, the other paths do not arrive. See [The exclusivity of Christ](/topic/the-exclusivity-of-christ). (John 14:6; Acts 4:12; Isa 43:10–11)
+
+**Gospel bridge:** *"Karma says you get what you deserve. What if someone took what you deserve, once, and gave you what He deserves?"* Christ suffered once for sins, the righteous for the unrighteous, to bring us to God. Not many lives of paying: one death, one resurrection, and rest. (1 Pet 3:18; Heb 9:26–28; Rom 6:23; Matt 11:28)
+
+**Where we agree:** This world is not all there is. Our actions have moral weight, and a man reaps what he sows. Something is wrong with us that we cannot shake. Devotion, discipline, family and reverence matter. Many Hindus are warm, hospitable and glad to talk about God.
+
+**Approach:** A Hindu will usually agree with everything you say about Jesus and simply add Him to the shelf. So the work is not getting Jesus accepted; it is showing that He will not be added. Don't open by attacking their gods or their food. Ask what they hope for after death and whether they are sure. Then tell them plainly who God is, the Creator who made them, as Paul did with idol-worshipers in Athens and Lystra. Expect family cost to be heavy: baptism can mean losing a family. Be a real friend and open your home. (Acts 17:22–31; Acts 14:15–17; 1 Thess 1:9; Mark 10:29–30)
+
+<a id="hin-card"></a>
+### 📇 Hindu Cheat Card
+1. **Heb 9:27**: *"One death, then judgment. If that is true, what happens to the plan of many lives?"*
+2. **Isa 45:5–6**: *"God says there is no other. Can He be one of many?"*
+3. **Ps 115:4–8**: *"Can something a man made hear a man's prayer?"*
+4. **John 14:6**: *"Did Jesus say He was a way, or the way?"*
+5. **Col 2:13–14**: *"What did God do with the record of debt?"*
+6. **Matt 11:28**: *"Who else offers rest instead of more work?"*
+
+<a id="hin-offense"></a>
+### 🗡️ HINDU OFFENSE
+
+#### PLAY 1: Karma or the cross? (how the debt is paid)
+- **Opener:** *"What do you believe happens to you when you die?"*
+- **Or open with:** *"Do you think you are closer to moksha than you were ten years ago? How can you tell?"*
+- **Chain:**
+  1. **Gal 6:7**: Start with agreement. God is not mocked; whatever a man sows he will also reap. Moral cause and effect is real. *"So what have we sown?"*
+  2. **Rom 3:10–12, 23**: There is none righteous, not even one. All have sinned. *"By your own standard, do you add more good karma than bad in a day? In thought as well?"*
+  3. **James 2:10**: Whoever keeps the whole law and stumbles in one point is guilty of all. The debt does not shrink with time; every life would add to it.
+  4. **Heb 9:27**: It is appointed for men to die once, and after this comes judgment. There is no second lifetime to catch up in. *"If that is true, how much time do you have?"*
+  5. **Ps 49:7–8**: No man can redeem his brother or give God a ransom for him. No guru, priest or ritual can carry another man's guilt.
+  6. **Col 2:13–14; 1 Pet 3:18**: God canceled the record of debt, nailing it to the cross. Christ suffered once for sins, the righteous for the unrighteous. *"Karma is you paying. The gospel is God paying. Which is better news?"*
+  7. **Eph 2:8–9**: By grace you have been saved through faith, not of works, so that no one may boast.
+- **If they say →**
+  - *"Grace is unjust. Everyone must pay for their own deeds."* → God agrees that sin must be paid for; He does not wave it away. That is why the cross was necessary. Justice was done there, on a willing substitute. (Rom 3:25–26; Isa 53:5–6)
+  - *"Suffering is the result of past lives."* → Jesus was asked that very question about a man born blind: "Who sinned, this man or his parents?" He said neither. And think what the idea does: it tells the child in the slum that she deserved it. Jesus touched the people karma tells you to leave alone. See [The problem of evil](/topic/the-problem-of-evil). (John 9:1–3; Luke 13:1–5; Matt 8:2–3)
+  - *"I follow the path of devotion. My god gives grace too."* → Ask how the god deals with the guilt. Does anyone pay, or is it just overlooked? Only at the cross is the debt actually settled, by a God who really entered history, died and rose. (Heb 9:22; 1 Cor 15:3–4)
+  - *"I don't remember past lives, but I trust the teaching."* → Why should a person suffer for deeds he cannot remember and so cannot repent of? Scripture has every person answer for the life he actually lived. (2 Cor 5:10; Ezek 18:20)
+- **Closer:** *"Jesus said, 'Come to Me, all who are weary and heavy-laden, and I will give you rest.' Every other path says do. He says done. Would you come to Him?"* (Matt 11:28–30; John 19:30)
+
+#### PLAY 2: The God who made you (Creator, not the creation)
+- **Opener:** *"When you pray, who is listening? Is God a someone, or a something?"*
+- **Or open with:** *"If everything is God, is evil God too?"*
+- **Chain:**
+  1. **Gen 1:1; Acts 17:24–25**: God made the world and everything in it. He does not live in temples made by hands, and is not served by human hands as though He needed anything. He is before and above all He made.
+  2. **Isa 44:6; Isa 45:5–6**: "I am the first and I am the last, and there is no God besides Me." *"Can that God be one manifestation among millions?"*
+  3. **Ex 20:3–5**: No other gods, and no image to bow to. He is jealous for His people the way a husband is for his wife.
+  4. **Ps 115:4–8; Isa 44:16–17**: The idol has eyes and cannot see. A man burns half the log for his supper and bows to the other half. *"Who is greater, the maker or the thing made?"*
+  5. **Rom 1:22–25**: Men exchanged the glory of the immortal God for images of man, birds, animals and crawling things, and worshiped the creature rather than the Creator.
+  6. **1 Cor 10:19–20**: The idol is nothing, but what is sacrificed to it is sacrificed to demons and not to God. The spiritual experiences can be real and still not be from God.
+  7. **John 1:1, 14, 18**: The true God has made Himself known, not in thousands of forms, but once, in the Word who became flesh. **Acts 17:30–31**: He now commands all people everywhere to repent, and has given proof by raising Him from the dead.
+- **If they say →**
+  - *"The images are only aids. We worship the one reality behind them."* → Israel said the same of the golden calf: "a feast to Yahweh." God still called it great sin. He decides how He is worshiped. (Ex 32:4–5; Deut 4:15–16; John 4:24)
+  - *"Jesus is an avatar, like Krishna."* → An avatar comes many times and only appears as a man. Jesus became truly man once, died a real death for sins, rose bodily, and said no one comes to the Father except through Him. He leaves no room on the shelf. (Heb 9:26; Luke 24:39; John 14:6)
+  - *"I am one with God. The self is divine."* → That is the oldest lie: "You will be like God." You get tired, you forget, you sin, you die. You are a creature, made in God's image, which is honor enough, and you need a Savior. (Gen 3:5; Isa 31:3; Ps 100:3)
+  - *"My religion is far older than yours."* → Age is not truth, and the God of the Bible is the Creator before any religion. He was at the beginning. (Gen 1:1; Ps 90:2)
+- **Closer:** *"You turned to many gods hoping one would hear. There is a living God who made you, sees you and has spoken. People in the first century 'turned to God from idols to serve a living and true God.' Will you?"* (1 Thess 1:9–10; Acts 14:15)
+
+<a id="hin-defense"></a>
+### 🛡️ HINDU DEFENSE
+
+| They say… | Quick answer | Go to | Ask back |
+|---|---|---|---|
+| **"All religions are paths up the same mountain."** | The religions disagree about what is at the top: a personal Creator, an impersonal oneness, or nothing. And who is standing high enough to see that all paths meet? Only God has that view, and He has spoken. | John 14:6; Acts 4:12; Isa 43:10–11 | *"How do you know they all arrive?"* |
+| **"I already believe in Jesus. He is one of my gods."** | The Jesus of the Gospels refuses that place. He said to love Him more than father or mother, and that whoever is not with Him is against Him. To honor Him among others is not to believe Him. | Matt 10:37; Matt 12:30; John 8:24; Ex 20:3 | *"What did Jesus say about other ways to the Father?"* |
+| **"Christianity is a Western religion."** | Jesus was born in Asia, and by long tradition the gospel reached India in the first century. Scripture's vision is every tribe, tongue and nation before the throne. Christ is not the West's god; He is the Lord of all. | Rev 7:9–10; Acts 2:5–11; Rom 10:12 | *"Was Jesus a Westerner?"* |
+| **"Karma explains suffering better than your God does."** | It explains it by blaming the sufferer, and it offers no one to help. The Bible says the world is fallen through sin, that God Himself entered the suffering, and that He will end it. | John 9:1–3; Isa 53:4; Rev 21:4 | *"What does karma say to a suffering child?"* |
+| **"We will be reborn. There is always another chance."** | Scripture says we die once and then face judgment. And the teaching itself gives no hope: the debt grows each life. Jesus offers not another round but eternal life now. | Heb 9:27; Luke 16:26; John 5:24; 2 Cor 6:2 | *"If there were no next life, would you be ready?"* |
+| **"God is in everything and everyone."** | God is present everywhere, but He is not everything. He made the world and is distinct from it. If all is God, there is no difference between good and evil, and no one to pray to. | Gen 1:1; Isa 40:25–26; Rom 1:25 | *"Is cruelty also God?"* |
+| **"Meditation and yoga give me real peace and real experiences."** | An experience can be real and not be true. Scripture warns that Satan disguises himself as an angel of light and tells us to test the spirits. Peace with God is not a feeling produced by technique; it is a standing, given through Christ. | 2 Cor 11:14; 1 John 4:1; Rom 5:1; Phil 4:7 | *"Does the peace deal with your guilt, or only quiet it?"* |
+| **"Christians are intolerant to say only Jesus saves."** | We did not make the claim; Jesus did. If a doctor has the one cure, telling you so is love. And we say it as people who needed the cure ourselves. | John 14:6; 1 Tim 2:5; 1 Pet 3:15 | *"If it were true, would you want me to tell you?"* |
+| **"My family would be dishonored if I became a Christian."** | Do not make light of it. Jesus said it would cost exactly this, and promised a hundredfold family in His people and eternal life. Then be that family. | Mark 10:29–30; Matt 10:34–37; Ps 27:10 | *"What would make Him worth that cost?"* |
+
+**Typical exits:** "It's all the same in the end." (Ask: *"Did Jesus think so?"* and leave John 14:6.) · "I'll add that to my prayers." (Say gently: *"He asks for all of you, not a place among others. Would you read the Gospel of John?"*) · "This is my culture." (Affirm what is good in it, then: *"The question is what is true."*) · Smiling agreement with everything. (Don't mistake politeness for faith. Ask one direct question: *"Who do you believe Jesus is?"*)
+
+# ☸️ BUDDHISTS
+
+**Their position:** There is no Creator God to answer to. The Buddha taught Four Noble Truths: life is suffering (dukkha); suffering comes from craving; suffering ends when craving ends; and the way to end it is the Eightfold Path of right view, intention, speech, action, livelihood, effort, mindfulness and concentration. There is no permanent self or soul (anatta). Beings are reborn according to karma until they reach nirvana, the "blowing out" of craving and of rebirth. Each person must do it himself: "By oneself is one purified… no one can purify another" [Dhammapada 165]; "You yourselves must strive; the Buddhas only point the way" [Dhammapada 276]. Many Western Buddhists keep the meditation and ethics and hold the rest loosely.
+
+**The dividing issue:** What is wrong with us, and who can fix it. Buddhism says the problem is desire and the cure is to put it out by your own effort. Scripture says the problem is sin against a holy God, that we cannot cure ourselves, and that God has provided a Savior. Buddhism has a path and no one to forgive you. (Rom 3:23; Jer 17:9; Rom 5:6–8; Acts 4:12)
+
+**Ask this question:** *"When you do something wrong, who forgives you?"* (Ps 51:4)
+
+**Scriptural response:** In the beginning God created, so there is Someone we answer to. He made man in His image, a real person who matters. Suffering came in through sin, and it is not an illusion to rise above: Jesus wept at a grave. The answer to desire is not to put it out but to have it filled: in God's presence is fullness of joy. And one day He will wipe away every tear. (Gen 1:1; Gen 1:27; Rom 5:12; John 11:35; Ps 16:11; Rev 21:4)
+
+**Common objection:** *"Buddhism isn't a religion. It's just a practice for peace of mind."* → Then it has nothing to say about your guilt, your death or your Maker, and those are the questions that matter most. A calm mind on the way to judgment is not safety. Jesus gives peace with God first, and then the peace of God. (Heb 9:27; Rom 5:1; John 14:27; Phil 4:6–7)
+
+**Gospel bridge:** *"The Buddha said, 'Strive.' His last words were to keep working at it. Jesus' last words on the cross were, 'It is finished.' Which do you need?"* Jesus said, "I am the way." He does not point to the path; He is the path, and He carries those who cannot walk it. (John 19:30; John 14:6; Matt 11:28–30; Eph 2:8–9)
+
+**Where we agree:** Life in this world is marked by suffering, and nothing here lasts. Craving for things that cannot satisfy does make us miserable; Scripture says the same about covetousness and the love of the world. Compassion, self-control, honesty and a quiet mind are good. Death must be faced, not ignored.
+
+**Approach:** Most Buddhists you will meet in America are either from Buddhist families (Thai, Vietnamese, Japanese, Chinese and others) or Westerners who came for meditation. Ask which, and ask what they actually believe; many have never thought about a Creator. Start with the Creator, as Paul did with people who had no Bible, and then the conscience. Honor their seriousness about suffering and show them the One who entered it. Don't mock the Buddha; he is dead and never claimed to save anyone. The contrast with a living Savior makes itself. (Acts 17:24–31; Rom 2:14–15; Heb 4:15; 1 Pet 3:15)
+
+<a id="bud-card"></a>
+### 📇 Buddhist Cheat Card
+1. **Gen 1:1**: *"If there is a Creator, do we answer to Him?"*
+2. **Ps 51:4**: *"When you do wrong, who is wronged, and who can forgive it?"*
+3. **Ps 16:11**: *"What if the answer to desire is not less of it, but the right object?"*
+4. **John 11:25–26**: *"The Buddha is in his grave. What did Jesus say at one?"*
+5. **John 19:30**: *"'Strive on,' or 'It is finished'?"*
+6. **Rev 21:4**: *"Who can promise an end to suffering and has the power to do it?"*
+
+<a id="bud-offense"></a>
+### 🗡️ BUDDHIST OFFENSE
+
+#### PLAY 1: Who forgives you? (the problem is sin, not desire)
+- **Opener:** *"What do you think is the deepest problem with people?"*
+- **Or open with:** *"Have you ever done something you knew was wrong? What did you do with the guilt?"*
+- **Chain:**
+  1. **Rom 2:14–15**: Everyone has a conscience that accuses him. Buddhism has its own precepts: no killing, stealing, sexual misconduct, lying or intoxication. *"Have you kept even those?"*
+  2. **Ps 51:4**: "Against You, You only, I have sinned." Wrong is not just unskillful; it is personal. It is against Someone. *"If there is no God, why does guilt feel like owing someone?"*
+  3. **Jer 17:9; Mark 7:21–23**: The trouble is not that we desire, but that the heart is corrupt. Evil comes from within.
+  4. **Rom 3:23; Rom 6:23**: All have sinned, and the wages of sin is death. Not rebirth: death and judgment. (Heb 9:27)
+  5. **Rom 5:6–8**: While we were still helpless, Christ died for the ungodly. *"The path says purify yourself. What if you can't?"*
+  6. **Ps 103:10–12**: He has not dealt with us according to our sins. As far as the east is from the west, so far has He removed our transgressions from us. *"Does karma ever say that?"*
+  7. **1 John 1:9**: If we confess our sins, He is faithful and righteous to forgive. Forgiveness needs a Person. Buddhism has none to give it.
+- **If they say →**
+  - *"There is no sin, only ignorance and unskillful action."* → Then no one has ever truly been wronged, and no cruelty is truly evil. You don't live as if that were so. Jeff Durbin's observation to a skeptic applies: when you speak of compassion and human worth, you are borrowing from a world God made. (Rom 1:19–20; Rom 2:15)
+  - *"There is no self, so there is no one to be guilty."* → Then there is no one to be compassionate to, and no one to reach nirvana. You love real people. Scripture explains why: each is made in God's image. (Gen 1:27; Ps 139:13–14)
+  - *"I make merit to balance it."* → How much is enough, and who keeps the account? Our best deeds are stained. A gift cannot be earned. (Isa 64:6; Titus 3:5; Eph 2:8–9)
+  - *"Amida Buddha saves by grace."* (Pure Land) → You are right to see that we cannot save ourselves. But grace needs a real Savior who actually dealt with sin in history. Jesus lived, died under Pontius Pilate and rose; witnesses saw Him. (1 Cor 15:3–8; Acts 4:12)
+- **Closer:** *"The Buddha could point to a path. He could not forgive one sin. Jesus said to a paralyzed man, 'Your sins are forgiven,' and proved He had the authority. Would you bring yours to Him?"* (Mark 2:5–12; Matt 11:28)
+
+#### PLAY 2: The end of suffering (extinguished, or made new)
+- **Opener:** *"What is nirvana like? Is there a 'you' there to enjoy it?"*
+- **Or open with:** *"Is the goal to stop wanting, or to finally have what you were made for?"*
+- **Chain:**
+  1. **Gen 1:31; Gen 3:17–19**: God made the world very good. Suffering is not the nature of existence; it is an intruder that came with sin. That is why it feels wrong.
+  2. **Eccl 3:11**: God has set eternity in man's heart. Our longing is not the disease; it is a clue. We were made for Someone.
+  3. **Jer 2:13**: "They have forsaken Me, the fountain of living waters, to hew for themselves broken cisterns that can hold no water." The problem is desire aimed at the wrong things.
+  4. **John 4:13–14; John 6:35**: Jesus does not say "stop thirsting." He says, "Whoever drinks of the water that I will give him shall never thirst."
+  5. **John 11:25–26, 35**: At a friend's grave Jesus wept, and then said, "I am the resurrection and the life." He does not detach from suffering; He enters it and defeats it.
+  6. **1 Cor 15:20, 54–57**: Christ has been raised. Death is swallowed up in victory. The hope is not that the candle goes out, but that the dead are raised.
+  7. **Rev 21:3–5**: God will dwell with His people and wipe away every tear; no more death, mourning or pain. "Behold, I am making all things new."
+- **If they say →**
+  - *"Attachment is the cause of suffering, so the wise love without attachment."* → God so loved the world that He gave His Son. Love that costs nothing is not love. The Bible's answer to loss is not caring less, but a resurrection in which nothing given to God is lost. (John 3:16; John 15:13; 1 Thess 4:13–14)
+  - *"Everything is impermanent."* → Everything created, yes. "The grass withers, the flower fades, but the word of our God stands forever." There is One who does not change. (Isa 40:8; Mal 3:6; Heb 13:8)
+  - *"Meditation has ended a lot of my suffering."* → It may have quieted your mind. It has not dealt with death, guilt or God. Jesus offers rest for the soul and a peace the world cannot give. (Matt 11:28–29; John 14:27)
+  - *"The Buddha was enlightened. Why not follow both?"* → They point opposite ways: no God or the living God; no self or an eternal soul; escape or resurrection. And only one of them rose from the dead. See [The resurrection](/topic/the-resurrection).
+- **Closer:** *"You have been honest that life hurts. Jesus is the only one who says He will end the hurt without ending you. 'I came that they may have life, and have it abundantly.' Would you look at Him?"* (John 10:10; Rev 21:4)
+
+<a id="bud-defense"></a>
+### 🛡️ BUDDHIST DEFENSE
+
+| They say… | Quick answer | Go to | Ask back |
+|---|---|---|---|
+| **"Buddhism is a philosophy, not a religion. It fits with any belief."** | The Buddha's teaching has no Creator and no soul. Jesus teaches both, and says He is the only way. They cannot both be right. | Gen 1:1; Matt 10:28; John 14:6 | *"Which of the two would you give up?"* |
+| **"There is no creator. The universe has always cycled."** | Something that changes and decays cannot be eternal and self-explaining. Creation shows God's eternal power so plainly that men are without excuse. See [Worldviews: how do you know?](/topic/worldviews-how-do-you-know). | Gen 1:1; Rom 1:19–20; Heb 3:4; Ps 19:1 | *"Why is there something and not nothing?"* |
+| **"Desire is the root of suffering."** | Wrong desire is. God made us to desire, and commands us to delight in Him. Sin is what brought suffering in. | Ps 37:4; Ps 16:11; James 1:14–15; Rom 5:12 | *"Is the desire to end suffering also a problem?"* |
+| **"There is no self."** | Then who is practicing, and who is reborn? You know you are someone. God made you in His image and knows you by name. | Gen 1:27; Ps 139:13–16; Isa 43:1 | *"Who is the one asking?"* |
+| **"I'm responsible for my own liberation."** | That is honest, and it is the bad news. No one keeps the path perfectly. The gospel is for the helpless. | Rom 5:6; Rom 7:18–19; Eph 2:8–9; Titus 3:5 | *"How is the path going?"* |
+| **"Karma is perfectly fair."** | Fair is exactly what we should fear. And with no judge, who administers it? Scripture has a Judge who is just, and who also made a way for mercy. | Rom 2:5–6; Rom 3:25–26; Ps 103:10 | *"Do you want what you deserve?"* |
+| **"Christians believe in hell. Buddhism is more compassionate."** | Traditional Buddhism has hells too, for ages. The question is what is true. The same Jesus who warned of hell died to keep people out of it. See [Hell and eternal judgment](/topic/hell-and-eternal-judgment). | Matt 25:46; John 3:16–17; 2 Pet 3:9 | *"If the warning is true, is it unkind to give it?"* |
+| **"All teachers say the same thing: be kind."** | They share some ethics and differ on everything underneath. Only Jesus claimed to be God, died for sins and rose. Kindness does not remove guilt. | John 8:58; 1 Cor 15:3–4; Acts 17:31 | *"Did the Buddha claim to forgive sins?"* |
+| **"I just live in the present moment."** | Good, as far as it goes. But the present moment is moving toward a day God has fixed. Wisdom numbers its days. | Ps 90:12; Heb 9:27; 2 Cor 6:2 | *"What happens in the moment after your last one?"* |
+
+**Typical exits:** "It works for me." (Ask: *"Does it work for your guilt and your death?"*) · "I don't think in terms of God." (Leave Gen 1:1 and the question, *"What if there is One who thinks in terms of you?"*) · "Let's not be attached to views." (Smile: *"That is a view. Jesus made claims. Would you read Mark and weigh them?"*) · Calm agreement and a change of subject. (Leave one sentence: *"Strive on," or "It is finished."*)
+
+# ✨ NEW AGE / SPIRITUALISTS
+
+**Their position:** There is no book and no creed, which is the point: "I'm spiritual, not religious." The common threads are these. All is one, and the divine is an energy or consciousness in everything, often called "the Universe." You are divine at your core, and your problem is not sin but forgetting who you are. You create your own reality by your thoughts (manifestation, the law of attraction). Truth is personal: "my truth." Guidance comes from within, and from tools such as astrology, tarot, crystals, energy healing, psychedelics, spirit guides, angels and the dead. Most believe in reincarnation and karma. Jesus is an enlightened teacher who reached "Christ consciousness," which anyone can reach.
+
+**The dividing issue:** Who is God: the Creator, or you. Scripture draws a hard line between the Creator and everything He made, says the human heart is not divine but deceitful, and calls contact with spirits what it is. The first lie in the Bible is the New Age gospel in five words: "You will be like God." (Gen 3:4–5; Rom 1:25; Jer 17:9; Isa 45:5)
+
+**Ask this question:** *"If your truth and my truth contradict each other, can they both be true? And how do you know the voice you are listening to is good?"* (1 John 4:1)
+
+**Scriptural response:** God made the world; He is not the world, and neither are you. He forbids divination, fortune-telling, mediums and calling up the dead, because they are detestable to Him and because He has spoken. Satan disguises himself as an angel of light. There is one mediator between God and men, the man Christ Jesus. It is appointed for men to die once, and after this comes judgment. (Acts 17:24–25; Deut 18:10–12; Isa 8:19–20; 2 Cor 11:14; 1 Tim 2:5; Heb 9:27)
+
+**Common objection:** *"I've had real experiences. I've felt the energy, and my readings come true."* → I believe you. The Bible never says these things are fake; it says they are forbidden. A slave girl in Philippi told fortunes accurately by a spirit, and Paul cast it out. Real is not the same as good. The test of a spirit is what it says about Jesus. (Acts 16:16–18; 1 John 4:1–3; Deut 13:1–3)
+
+**Gospel bridge:** *"You have been told to look within. What if what is within is the problem, and the help has to come from outside you?"* You are not God, and that is good news: you don't have to hold your universe together. The God who made you came for you. He does not ask you to raise your vibration; He raises the dead. (Mark 7:21–23; Eph 2:4–5; Col 1:16–17; John 10:10)
+
+**Where we agree:** There is more to reality than matter. The spiritual world is real. People are more than animals, the world's religion of money and status is empty, and a great deal of church life has been cold and hypocritical. We are made for something beyond ourselves.
+
+**Approach:** This is probably the most common belief you will meet, often mixed with a church background. Many came to it through pain, illness or a bad church. Ask what they practice and what they were looking for when they started. Don't mock crystals; go to the heart: who is God, what is wrong with us, how do you know. Define every word, because they will say "Christ," "light," "spirit" and "energy" with other meanings. Take the spirits seriously, not fearfully: greater is He who is in you. Expect "that's your truth"; answer it once, kindly, and go back to Jesus. MacArthur's warning about the pull of false religion applies here in full, and he includes every system in it. (Col 2:8; 1 John 4:4; Acts 19:18–20; Jude 1:22–23)
+
+<a id="na-card"></a>
+### 📇 New Age Cheat Card
+1. **Gen 3:4–5**: *"Who first said, 'You will be like God'?"*
+2. **Jer 17:9**: *"If the heart is deceitful, is 'follow your heart' safe advice?"*
+3. **Deut 18:10–12**: *"What does God say about mediums, fortune-telling and divination?"*
+4. **2 Cor 11:14**: *"If a spirit of darkness came to you, how would it look?"*
+5. **John 14:6**: *"Did Jesus say 'find your truth,' or 'I am the truth'?"*
+6. **Heb 9:27**: *"How many times does a person die?"*
+
+<a id="na-offense"></a>
+### 🗡️ NEW AGE OFFENSE
+
+#### PLAY 1: Are you God? (Creator and creature)
+- **Opener:** *"When you say 'the Universe,' do you mean a someone or a something? Does it know your name?"*
+- **Or open with:** *"If we are all divine, why is the world like this?"*
+- **Chain:**
+  1. **Gen 1:1; Acts 17:24–25**: God made the world and everything in it, and gives to all people life and breath. He is the giver; we are the receivers. *"Did you make yourself?"*
+  2. **Isa 45:5; Isa 46:9**: "I am God, and there is no other; I am God, and there is no one like Me." That leaves no room for seven billion more.
+  3. **Gen 3:4–5**: The serpent's offer was, "You will be like God." *"The idea that we are divine is not new. Where did it first come from, and how did it turn out?"*
+  4. **Ezek 28:2**: "You are a man and not God, although you make your heart like the heart of God." We get tired, we get sick, we cannot keep our own resolutions, and we die.
+  5. **Rom 1:21–25**: Knowing God, men did not honor Him or give thanks, and exchanged the truth of God for a lie, worshiping the creature rather than the Creator. *"Is it possible that 'the Universe' is a way to have spirituality without Someone to answer to?"*
+  6. **Mark 7:21–23; Jer 17:9**: What is within is not a spark of God. Jesus said evil comes from within. That is why "look within" cannot save.
+  7. **Col 1:16–17; John 1:1–3, 14**: The One through whom all things were made, and in whom all things hold together, became flesh and came to us. *"You don't have to become God. God became man."*
+- **If they say →**
+  - *"Jesus said, 'The kingdom of God is within you.'"* → He said it to Pharisees who were plotting against Him; He was not telling them they were divine. The King was standing in their midst. The same Jesus said that what comes from within a man defiles him. (Luke 17:20–21; Mark 7:20–23)
+  - *"Jesus reached Christ consciousness, and so can we."* → "Christ" is not a state of mind; it is a title, the Messiah, and it belongs to one Man. He warned that many would come saying "I am the Christ." (Matt 16:16; Matt 24:4–5, 23–24; 1 John 2:22)
+  - *"We're all children of God."* → All are made by God. But the right to become children of God is given to those who receive Christ and believe in His name. (John 1:12; Gal 3:26; Acts 17:28–29)
+  - *"That's your truth."* → Is that statement true for both of us, or only for you? Jesus did not say He had a truth. He said, "I am the truth." See [Faith and reason](/topic/faith-and-reason). (John 14:6; John 18:37)
+- **Closer:** *"Being your own god is exhausting. You were never meant to hold it all together. There is One who does, and He says, 'Come to Me.' Would you?"* (Col 1:17; Matt 11:28)
+
+#### PLAY 2: Which spirit? (guides, readings and the test)
+- **Opener:** *"How do you know that your guides, or the cards, are telling you the truth?"*
+- **Or open with:** *"Has anything you've encountered ever frightened you?"*
+- **Chain:**
+  1. **Eph 6:12; 1 Pet 5:8**: The Bible agrees the spirit world is real, and says not all of it is friendly. There are spiritual forces of wickedness, and an adversary who prowls like a lion.
+  2. **2 Cor 11:14**: Satan disguises himself as an angel of light. A deceiving spirit would be warm, wise-sounding and affirming. *"So how would you tell?"*
+  3. **Deut 18:10–12**: God forbids divination, omens, sorcery, mediums, spiritists and calling up the dead, and calls them detestable. That covers tarot, astrology, channeling and séances. **Isa 47:13–14**: the stargazers cannot even save themselves.
+  4. **Isa 8:19–20**: "Should not a people consult their God? Should they consult the dead on behalf of the living? To the law and to the testimony!" God is not silent; He has spoken in His word.
+  5. **1 John 4:1–3**: Test the spirits. Every spirit that does not confess Jesus, the Christ come in the flesh, is not from God. *"What do your guides say about Jesus dying for sins?"*
+  6. **1 Tim 2:5; Heb 4:14–16**: There is one mediator. You do not need a psychic, a guide or a dead relative; you may come straight to the throne of grace through Christ.
+  7. **Acts 19:18–20; Col 2:15**: In Ephesus those who had practiced magic brought their books and burned them. Christ disarmed the rulers and authorities at the cross. *"Whatever you have opened the door to, He is stronger."*
+- **If they say →**
+  - *"My guides are loving. They only tell me good things."* → A spirit that never names your sin and never points you to Christ's cross is telling you what the serpent told Eve: you will not die. Love tells the truth. (Gen 3:4; Jer 6:14; Gal 1:8)
+  - *"I talk to my grandmother. It comforts me."* → I'm sorry for your loss. Scripture says the dead do not return to guide us, and forbids seeking them, so whatever is answering is not her. The God of all comfort invites you to bring that grief to Him. (Luke 16:26; Deut 18:11; 2 Cor 1:3–4)
+  - *"It's just for fun. Astrology is harmless."* → God does not call it harmless, and it trains you to look to creation for what only the Creator gives. He made the stars; ask Him. (Deut 4:19; Isa 47:13; James 1:5)
+  - *"Christians are afraid of everything."* → Not afraid: free. "Greater is He who is in you than he who is in the world." We simply don't go where our Father said not to. (1 John 4:4; 2 Tim 1:7)
+- **Closer:** *"You've been looking for a voice you can trust. There is one who proved He can be trusted by dying for you and walking out of His grave. 'My sheep hear My voice.' Would you listen to Him in the Gospel of John?"* (John 10:27–28; John 20:31)
+
+<a id="na-defense"></a>
+### 🛡️ NEW AGE DEFENSE
+
+| They say… | Quick answer | Go to | Ask back |
+|---|---|---|---|
+| **"I'm spiritual, not religious."** | Jesus was hard on empty religion too. But "spiritual" still has to answer: which spirit, and is it true? The alternative to dead religion is not making it up; it is knowing the living God. | Matt 23:27–28; John 4:23–24; John 17:3 | *"What does 'spiritual' mean to you?"* |
+| **"The Universe has my back."** | An impersonal universe cannot love, hear or keep a promise. What you are hoping for is a Father. There is one, and He has a name. | Matt 6:26, 32; Ps 121:1–2; Rom 8:32 | *"Has the Universe ever forgiven you?"* |
+| **"I manifest my reality. Thoughts become things."** | Then every suffering person caused their own cancer, and you carry a weight no one can bear. Scripture says God rules and we ask: "If the Lord wills." That is freedom, not control. | James 4:13–15; Prov 16:9; Matt 6:9–11; Lam 3:37 | *"Did the child in the hospital manifest that?"* |
+| **"We are all one. Separation is an illusion."** | If all is one, there is no real difference between love and cruelty. The Bible says the separation that matters is real: our sins have separated us from God. And it can be healed. | Isa 59:2; Gen 1:1; Col 1:21–22 | *"Is evil part of the oneness?"* |
+| **"There's no sin, only lower vibrations and lessons."** | You don't believe that when you are betrayed. Wrong is real, guilt is real, and renaming it does not remove it. Blood does. | Rom 3:23; 1 John 1:8–9; Heb 9:22 | *"Have you ever needed to be forgiven?"* |
+| **"I've lived many lives."** | Scripture says once, then judgment. And notice that past-life "memories" are always of someone interesting. More to the point: if many lives haven't fixed us, another won't. | Heb 9:27; Luke 16:26; 2 Cor 5:10 | *"If this is the only one, are you ready?"* |
+| **"Jesus was a great spiritual teacher, like the others."** | Great teachers don't claim to be God, forgive sins and say all will be judged by them, unless it is true. He is not on the list; He is in a category of one. | John 8:58; Mark 2:5–7; John 5:22–23 | *"Have you read what He actually claimed?"* |
+| **"The church suppressed the real, mystical Jesus."** | The "hidden" gospels are second-century and later, and read nothing like eyewitness accounts. The four Gospels come from the first century and the apostles' circle. See [Is the Bible reliable?](/topic/is-the-bible-reliable). | Luke 1:1–4; 2 Pet 1:16; Gal 1:8 | *"Which source is closest to the events?"* |
+| **"Crystals, sage and energy work heal me."** | God made stones and plants good, and they are not gods. To look to created things for protection and power is the exchange Romans 1 describes. Bring the need to the One who made them. | Rom 1:25; Isa 44:17; Ps 103:2–3; James 5:14–15 | *"What is it you are hoping to be healed of?"* |
+| **"Everything happens for a reason, and it all works out for everyone."** | God does rule all things, and He promises good to those who love Him and are called by Him. For those who refuse Him, Scripture promises judgment. Don't take the comfort without the Christ. | Rom 8:28; John 3:36; Heb 10:31 | *"Whose reason? Who is behind it?"* |
+
+**Typical exits:** "That's your truth." (Ask: *"Is that true for me too?"* and leave John 14:6.) · "You're giving off negative energy." (Smile: *"I may be. I'd rather be honest with you than agreeable."*) · "I respect all paths." (Ask: *"Including the one that says there is only one?"*) · "I'll see what my guides say." (Give 1 John 4:1–3 and ask them to put that test to the guide.)
 
 # 🕊️ ONENESS PENTECOSTALS
 

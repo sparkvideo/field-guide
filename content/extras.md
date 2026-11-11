@@ -766,6 +766,40 @@ The suffering Servant, the pierced hands and feet, the birthplace of the Messiah
 - **Social gospel:** Salvation understood as the reform of society rather than the forgiveness of sinners.
 - **Lived experience / "my truth":** Personal experience treated as an authority that Scripture may not overrule.
 
+## Hindu
+- **Brahman:** The one ultimate reality behind everything. Impersonal in some schools, personal in others.
+- **Atman:** The true self or soul, said to be one with Brahman.
+- **Samsara:** The cycle of birth, death and rebirth.
+- **Karma:** The moral weight of deeds that carries into the next life. Not grace: you get what you earned.
+- **Moksha:** Release from the cycle of rebirth. The Hindu idea of salvation.
+- **Avatar:** A god coming down in visible form, such as Krishna or Rama as forms of Vishnu. Not the same as the incarnation.
+- **Bhakti:** The path of loving devotion to a chosen god.
+- **Puja:** Worship offered to an image or deity, at home or in a temple.
+- **Guru:** A spiritual teacher, often treated as a channel of the divine.
+
+## Buddhist
+- **Dukkha:** Suffering or unsatisfactoriness. The first Noble Truth: life is marked by it.
+- **Four Noble Truths:** Suffering; its cause (craving); its end; and the path to its end.
+- **Eightfold Path:** The Buddha's program of right view, intention, speech, action, livelihood, effort, mindfulness and concentration.
+- **Anatta:** "No self." The teaching that there is no permanent soul.
+- **Nirvana:** "Blowing out." The end of craving and rebirth. Not heaven.
+- **Dharma:** The Buddha's teaching, or the way things are.
+- **Merit:** Good karma stored up by good deeds, giving and ritual.
+- **Bodhisattva:** In Mahayana Buddhism, one who delays nirvana to help others reach it.
+- **Pure Land:** A branch that trusts Amida Buddha to bring the believer to his paradise. The nearest thing in Buddhism to grace.
+
+## New Age
+- **The Universe:** An impersonal stand-in for God: a force or consciousness said to guide and provide.
+- **Manifestation / law of attraction:** The belief that your thoughts and "energy" bring things into being.
+- **Vibration / frequency:** Spiritual "levels." Sin is renamed low vibration.
+- **Christ consciousness:** A supposed enlightened state Jesus reached and anyone can. Not the biblical Christ.
+- **Spirit guides:** Spirits consulted for direction. Scripture forbids it (Deut 18:10–12).
+- **Channeling / mediumship:** Receiving messages from spirits or the dead.
+- **Divination:** Seeking hidden knowledge through tarot, astrology, numerology and the like.
+- **Higher self:** The idea that your true inner self is divine and all-knowing.
+- **Ascended masters:** Supposed enlightened beings, with Jesus listed as one of them.
+- **Monism / pantheism:** All is one; all is God.
+
 ## Oneness Pentecostal
 - **Oneness:** the teaching that God is one person who shows Himself as Father, Son and Holy Spirit, and whose name is Jesus.
 - **Modalism (Sabellianism):** the ancient name for the same idea: one person in three modes or roles. The church rejected it in the third century.

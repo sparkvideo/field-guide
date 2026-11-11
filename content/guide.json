@@ -11850,6 +11850,4360 @@
       }
     },
     {
+      "slug": "hindu",
+      "name": "Hindu",
+      "heading": "HINDUS",
+      "color": "#f59e0b",
+      "emoji": "🕉️",
+      "beliefs": {
+        "text": "Hinduism is a family of traditions, not one creed. Common ground: ultimate reality is Brahman, and the true self (atman) is one with it, \"You are that\" [Chandogya Upanishad 6.8.7]. The many gods are faces of the one reality, and many Hindus are devoted to one of them, such as Vishnu, Shiva or Krishna. Every soul is reborn again and again (samsara), and karma, the moral weight of your deeds, decides the next life. The goal is release (moksha), reached by the path of works, the path of knowledge or the path of devotion. Truth is one and the paths are many, so Jesus is welcome as one more teacher or avatar among others; Krishna says he comes age after age [Bhagavad Gita 4.7–8].",
+        "verses": [],
+        "links": [],
+        "supplemental": false
+      },
+      "lead": [
+        {
+          "label": "Their position",
+          "text": "Hinduism is a family of traditions, not one creed. Common ground: ultimate reality is Brahman, and the true self (atman) is one with it, \"You are that\" [Chandogya Upanishad 6.8.7]. The many gods are faces of the one reality, and many Hindus are devoted to one of them, such as Vishnu, Shiva or Krishna. Every soul is reborn again and again (samsara), and karma, the moral weight of your deeds, decides the next life. The goal is release (moksha), reached by the path of works, the path of knowledge or the path of devotion. Truth is one and the paths are many, so Jesus is welcome as one more teacher or avatar among others; Krishna says he comes age after age [Bhagavad Gita 4.7–8].",
+          "verses": [],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "The dividing issue",
+          "text": "Who God is, and how guilt is removed. Scripture says God is the personal Creator, distinct from everything He made, who will not share His glory with images. And it says sin is not a weight to be worked off over many lives but guilt before a holy Judge, which only a substitute can bear. John MacArthur puts the line where Scripture does: \"all false religion is demon worship\" [MacArthur, pastors' session on 2 Corinthians 6]. That is a statement about the system and what stands behind the idol, not an insult to the person in front of you. (Isa 45:5–6; Rom 1:22–25; 1 Cor 10:19–20; Heb 9:27)",
+          "verses": [
+            {
+              "label": "2 Cor 6",
+              "kind": "bible",
+              "key": "2-corinthians.6",
+              "book": "2-corinthians",
+              "chapter": 6
+            },
+            {
+              "label": "Isa 45:5–6",
+              "kind": "bible",
+              "key": "isaiah.45.5-6",
+              "book": "isaiah",
+              "chapter": 45,
+              "verseStart": 5,
+              "verseEnd": 6
+            },
+            {
+              "label": "Rom 1:22–25",
+              "kind": "bible",
+              "key": "romans.1.22-25",
+              "book": "romans",
+              "chapter": 1,
+              "verseStart": 22,
+              "verseEnd": 25
+            },
+            {
+              "label": "1 Cor 10:19–20",
+              "kind": "bible",
+              "key": "1-corinthians.10.19-20",
+              "book": "1-corinthians",
+              "chapter": 10,
+              "verseStart": 19,
+              "verseEnd": 20
+            },
+            {
+              "label": "Heb 9:27",
+              "kind": "bible",
+              "key": "hebrews.9.27",
+              "book": "hebrews",
+              "chapter": 9,
+              "verseStart": 27,
+              "verseEnd": 27
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "Ask this question",
+          "text": "*\"How much karma do you have left to pay, and how would you ever know when it is paid?\"* (Col 2:13–14)",
+          "verses": [
+            {
+              "label": "Col 2:13–14",
+              "kind": "bible",
+              "key": "colossians.2.13-14",
+              "book": "colossians",
+              "chapter": 2,
+              "verseStart": 13,
+              "verseEnd": 14
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "Scriptural response",
+          "text": "In the beginning God created the heavens and the earth: He is not the world and the world is not He. He says, \"I am Yahweh, and there is no other.\" Idols have mouths and cannot speak. It is appointed for men to die once, and after this comes judgment. And God canceled the record of debt against us by nailing it to the cross. (Gen 1:1; Isa 45:5–6; Ps 115:4–8; Heb 9:27; Col 2:13–14)",
+          "verses": [
+            {
+              "label": "Gen 1:1",
+              "kind": "bible",
+              "key": "genesis.1.1",
+              "book": "genesis",
+              "chapter": 1,
+              "verseStart": 1,
+              "verseEnd": 1
+            },
+            {
+              "label": "Isa 45:5–6",
+              "kind": "bible",
+              "key": "isaiah.45.5-6",
+              "book": "isaiah",
+              "chapter": 45,
+              "verseStart": 5,
+              "verseEnd": 6
+            },
+            {
+              "label": "Ps 115:4–8",
+              "kind": "bible",
+              "key": "psalms.115.4-8",
+              "book": "psalms",
+              "chapter": 115,
+              "verseStart": 4,
+              "verseEnd": 8
+            },
+            {
+              "label": "Heb 9:27",
+              "kind": "bible",
+              "key": "hebrews.9.27",
+              "book": "hebrews",
+              "chapter": 9,
+              "verseStart": 27,
+              "verseEnd": 27
+            },
+            {
+              "label": "Col 2:13–14",
+              "kind": "bible",
+              "key": "colossians.2.13-14",
+              "book": "colossians",
+              "chapter": 2,
+              "verseStart": 13,
+              "verseEnd": 14
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "Common objection",
+          "text": "*\"All paths lead to the same God. Truth is one; the wise call it by many names.\"* → That is itself one path's claim, and it says every path that disagrees is wrong. The paths do not even agree on whether God is personal. Jesus did not offer Himself as one of many: \"No one comes to the Father but through Me.\" If He was wrong, He is not a great teacher. If He was right, the other paths do not arrive. See [The exclusivity of Christ](/topic/the-exclusivity-of-christ). (John 14:6; Acts 4:12; Isa 43:10–11)",
+          "verses": [
+            {
+              "label": "John 14:6",
+              "kind": "bible",
+              "key": "john.14.6",
+              "book": "john",
+              "chapter": 14,
+              "verseStart": 6,
+              "verseEnd": 6
+            },
+            {
+              "label": "Acts 4:12",
+              "kind": "bible",
+              "key": "acts.4.12",
+              "book": "acts",
+              "chapter": 4,
+              "verseStart": 12,
+              "verseEnd": 12
+            },
+            {
+              "label": "Isa 43:10–11",
+              "kind": "bible",
+              "key": "isaiah.43.10-11",
+              "book": "isaiah",
+              "chapter": 43,
+              "verseStart": 10,
+              "verseEnd": 11
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "Gospel bridge",
+          "text": "*\"Karma says you get what you deserve. What if someone took what you deserve, once, and gave you what He deserves?\"* Christ suffered once for sins, the righteous for the unrighteous, to bring us to God. Not many lives of paying: one death, one resurrection, and rest. (1 Pet 3:18; Heb 9:26–28; Rom 6:23; Matt 11:28)",
+          "verses": [
+            {
+              "label": "1 Pet 3:18",
+              "kind": "bible",
+              "key": "1-peter.3.18",
+              "book": "1-peter",
+              "chapter": 3,
+              "verseStart": 18,
+              "verseEnd": 18
+            },
+            {
+              "label": "Heb 9:26–28",
+              "kind": "bible",
+              "key": "hebrews.9.26-28",
+              "book": "hebrews",
+              "chapter": 9,
+              "verseStart": 26,
+              "verseEnd": 28
+            },
+            {
+              "label": "Rom 6:23",
+              "kind": "bible",
+              "key": "romans.6.23",
+              "book": "romans",
+              "chapter": 6,
+              "verseStart": 23,
+              "verseEnd": 23
+            },
+            {
+              "label": "Matt 11:28",
+              "kind": "bible",
+              "key": "matthew.11.28",
+              "book": "matthew",
+              "chapter": 11,
+              "verseStart": 28,
+              "verseEnd": 28
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "Where we agree",
+          "text": "This world is not all there is. Our actions have moral weight, and a man reaps what he sows. Something is wrong with us that we cannot shake. Devotion, discipline, family and reverence matter. Many Hindus are warm, hospitable and glad to talk about God.",
+          "verses": [],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "Approach",
+          "text": "A Hindu will usually agree with everything you say about Jesus and simply add Him to the shelf. So the work is not getting Jesus accepted; it is showing that He will not be added. Don't open by attacking their gods or their food. Ask what they hope for after death and whether they are sure. Then tell them plainly who God is, the Creator who made them, as Paul did with idol-worshipers in Athens and Lystra. Expect family cost to be heavy: baptism can mean losing a family. Be a real friend and open your home. (Acts 17:22–31; Acts 14:15–17; 1 Thess 1:9; Mark 10:29–30)",
+          "verses": [
+            {
+              "label": "Acts 17:22–31",
+              "kind": "bible",
+              "key": "acts.17.22-31",
+              "book": "acts",
+              "chapter": 17,
+              "verseStart": 22,
+              "verseEnd": 31
+            },
+            {
+              "label": "Acts 14:15–17",
+              "kind": "bible",
+              "key": "acts.14.15-17",
+              "book": "acts",
+              "chapter": 14,
+              "verseStart": 15,
+              "verseEnd": 17
+            },
+            {
+              "label": "1 Thess 1:9",
+              "kind": "bible",
+              "key": "1-thessalonians.1.9",
+              "book": "1-thessalonians",
+              "chapter": 1,
+              "verseStart": 9,
+              "verseEnd": 9
+            },
+            {
+              "label": "Mark 10:29–30",
+              "kind": "bible",
+              "key": "mark.10.29-30",
+              "book": "mark",
+              "chapter": 10,
+              "verseStart": 29,
+              "verseEnd": 30
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        }
+      ],
+      "cheatCardTitle": "Hindu Cheat Card",
+      "cheatCard": [
+        {
+          "text": "**Heb 9:27**: *\"One death, then judgment. If that is true, what happens to the plan of many lives?\"*",
+          "verses": [
+            {
+              "label": "Heb 9:27",
+              "kind": "bible",
+              "key": "hebrews.9.27",
+              "book": "hebrews",
+              "chapter": 9,
+              "verseStart": 27,
+              "verseEnd": 27
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "text": "**Isa 45:5–6**: *\"God says there is no other. Can He be one of many?\"*",
+          "verses": [
+            {
+              "label": "Isa 45:5–6",
+              "kind": "bible",
+              "key": "isaiah.45.5-6",
+              "book": "isaiah",
+              "chapter": 45,
+              "verseStart": 5,
+              "verseEnd": 6
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "text": "**Ps 115:4–8**: *\"Can something a man made hear a man's prayer?\"*",
+          "verses": [
+            {
+              "label": "Ps 115:4–8",
+              "kind": "bible",
+              "key": "psalms.115.4-8",
+              "book": "psalms",
+              "chapter": 115,
+              "verseStart": 4,
+              "verseEnd": 8
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "text": "**John 14:6**: *\"Did Jesus say He was a way, or the way?\"*",
+          "verses": [
+            {
+              "label": "John 14:6",
+              "kind": "bible",
+              "key": "john.14.6",
+              "book": "john",
+              "chapter": 14,
+              "verseStart": 6,
+              "verseEnd": 6
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "text": "**Col 2:13–14**: *\"What did God do with the record of debt?\"*",
+          "verses": [
+            {
+              "label": "Col 2:13–14",
+              "kind": "bible",
+              "key": "colossians.2.13-14",
+              "book": "colossians",
+              "chapter": 2,
+              "verseStart": 13,
+              "verseEnd": 14
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "text": "**Matt 11:28**: *\"Who else offers rest instead of more work?\"*",
+          "verses": [
+            {
+              "label": "Matt 11:28",
+              "kind": "bible",
+              "key": "matthew.11.28",
+              "book": "matthew",
+              "chapter": 11,
+              "verseStart": 28,
+              "verseEnd": 28
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        }
+      ],
+      "offense": [
+        {
+          "id": "play-1",
+          "number": 1,
+          "title": "Karma or the cross?",
+          "subtitle": "how the debt is paid",
+          "warning": false,
+          "supplemental": false,
+          "altOpeners": [
+            {
+              "text": "*\"Do you think you are closer to moksha than you were ten years ago? How can you tell?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "chain": [
+            {
+              "text": "**Gal 6:7**: Start with agreement. God is not mocked; whatever a man sows he will also reap. Moral cause and effect is real. *\"So what have we sown?\"*",
+              "verses": [
+                {
+                  "label": "Gal 6:7",
+                  "kind": "bible",
+                  "key": "galatians.6.7",
+                  "book": "galatians",
+                  "chapter": 6,
+                  "verseStart": 7,
+                  "verseEnd": 7
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Rom 3:10–12, 23**: There is none righteous, not even one. All have sinned. *\"By your own standard, do you add more good karma than bad in a day? In thought as well?\"*",
+              "verses": [
+                {
+                  "label": "Rom 3:10–12",
+                  "kind": "bible",
+                  "key": "romans.3.10-12",
+                  "book": "romans",
+                  "chapter": 3,
+                  "verseStart": 10,
+                  "verseEnd": 12
+                },
+                {
+                  "label": "Rom 3:23",
+                  "kind": "bible",
+                  "key": "romans.3.23",
+                  "book": "romans",
+                  "chapter": 3,
+                  "verseStart": 23,
+                  "verseEnd": 23
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**James 2:10**: Whoever keeps the whole law and stumbles in one point is guilty of all. The debt does not shrink with time; every life would add to it.",
+              "verses": [
+                {
+                  "label": "Jas 2:10",
+                  "kind": "bible",
+                  "key": "james.2.10",
+                  "book": "james",
+                  "chapter": 2,
+                  "verseStart": 10,
+                  "verseEnd": 10
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Heb 9:27**: It is appointed for men to die once, and after this comes judgment. There is no second lifetime to catch up in. *\"If that is true, how much time do you have?\"*",
+              "verses": [
+                {
+                  "label": "Heb 9:27",
+                  "kind": "bible",
+                  "key": "hebrews.9.27",
+                  "book": "hebrews",
+                  "chapter": 9,
+                  "verseStart": 27,
+                  "verseEnd": 27
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Ps 49:7–8**: No man can redeem his brother or give God a ransom for him. No guru, priest or ritual can carry another man's guilt.",
+              "verses": [
+                {
+                  "label": "Ps 49:7–8",
+                  "kind": "bible",
+                  "key": "psalms.49.7-8",
+                  "book": "psalms",
+                  "chapter": 49,
+                  "verseStart": 7,
+                  "verseEnd": 8
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Col 2:13–14; 1 Pet 3:18**: God canceled the record of debt, nailing it to the cross. Christ suffered once for sins, the righteous for the unrighteous. *\"Karma is you paying. The gospel is God paying. Which is better news?\"*",
+              "verses": [
+                {
+                  "label": "Col 2:13–14",
+                  "kind": "bible",
+                  "key": "colossians.2.13-14",
+                  "book": "colossians",
+                  "chapter": 2,
+                  "verseStart": 13,
+                  "verseEnd": 14
+                },
+                {
+                  "label": "1 Pet 3:18",
+                  "kind": "bible",
+                  "key": "1-peter.3.18",
+                  "book": "1-peter",
+                  "chapter": 3,
+                  "verseStart": 18,
+                  "verseEnd": 18
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Eph 2:8–9**: By grace you have been saved through faith, not of works, so that no one may boast.",
+              "verses": [
+                {
+                  "label": "Eph 2:8–9",
+                  "kind": "bible",
+                  "key": "ephesians.2.8-9",
+                  "book": "ephesians",
+                  "chapter": 2,
+                  "verseStart": 8,
+                  "verseEnd": 9
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "questions": [],
+          "ifTheySay": [
+            {
+              "theySay": "*\"Grace is unjust. Everyone must pay for their own deeds.\"*",
+              "youSay": "God agrees that sin must be paid for; He does not wave it away. That is why the cross was necessary. Justice was done there, on a willing substitute. (Rom 3:25–26; Isa 53:5–6)",
+              "verses": [
+                {
+                  "label": "Rom 3:25–26",
+                  "kind": "bible",
+                  "key": "romans.3.25-26",
+                  "book": "romans",
+                  "chapter": 3,
+                  "verseStart": 25,
+                  "verseEnd": 26
+                },
+                {
+                  "label": "Isa 53:5–6",
+                  "kind": "bible",
+                  "key": "isaiah.53.5-6",
+                  "book": "isaiah",
+                  "chapter": 53,
+                  "verseStart": 5,
+                  "verseEnd": 6
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"Suffering is the result of past lives.\"*",
+              "youSay": "Jesus was asked that very question about a man born blind: \"Who sinned, this man or his parents?\" He said neither. And think what the idea does: it tells the child in the slum that she deserved it. Jesus touched the people karma tells you to leave alone. See [The problem of evil](/topic/the-problem-of-evil). (John 9:1–3; Luke 13:1–5; Matt 8:2–3)",
+              "verses": [
+                {
+                  "label": "John 9:1–3",
+                  "kind": "bible",
+                  "key": "john.9.1-3",
+                  "book": "john",
+                  "chapter": 9,
+                  "verseStart": 1,
+                  "verseEnd": 3
+                },
+                {
+                  "label": "Luke 13:1–5",
+                  "kind": "bible",
+                  "key": "luke.13.1-5",
+                  "book": "luke",
+                  "chapter": 13,
+                  "verseStart": 1,
+                  "verseEnd": 5
+                },
+                {
+                  "label": "Matt 8:2–3",
+                  "kind": "bible",
+                  "key": "matthew.8.2-3",
+                  "book": "matthew",
+                  "chapter": 8,
+                  "verseStart": 2,
+                  "verseEnd": 3
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"I follow the path of devotion. My god gives grace too.\"*",
+              "youSay": "Ask how the god deals with the guilt. Does anyone pay, or is it just overlooked? Only at the cross is the debt actually settled, by a God who really entered history, died and rose. (Heb 9:22; 1 Cor 15:3–4)",
+              "verses": [
+                {
+                  "label": "Heb 9:22",
+                  "kind": "bible",
+                  "key": "hebrews.9.22",
+                  "book": "hebrews",
+                  "chapter": 9,
+                  "verseStart": 22,
+                  "verseEnd": 22
+                },
+                {
+                  "label": "1 Cor 15:3–4",
+                  "kind": "bible",
+                  "key": "1-corinthians.15.3-4",
+                  "book": "1-corinthians",
+                  "chapter": 15,
+                  "verseStart": 3,
+                  "verseEnd": 4
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"I don't remember past lives, but I trust the teaching.\"*",
+              "youSay": "Why should a person suffer for deeds he cannot remember and so cannot repent of? Scripture has every person answer for the life he actually lived. (2 Cor 5:10; Ezek 18:20)",
+              "verses": [
+                {
+                  "label": "2 Cor 5:10",
+                  "kind": "bible",
+                  "key": "2-corinthians.5.10",
+                  "book": "2-corinthians",
+                  "chapter": 5,
+                  "verseStart": 10,
+                  "verseEnd": 10
+                },
+                {
+                  "label": "Ezek 18:20",
+                  "kind": "bible",
+                  "key": "ezekiel.18.20",
+                  "book": "ezekiel",
+                  "chapter": 18,
+                  "verseStart": 20,
+                  "verseEnd": 20
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "notes": [],
+          "links": [],
+          "opener": {
+            "text": "*\"What do you believe happens to you when you die?\"*",
+            "verses": [],
+            "links": [],
+            "supplemental": false
+          },
+          "closer": {
+            "text": "*\"Jesus said, 'Come to Me, all who are weary and heavy-laden, and I will give you rest.' Every other path says do. He says done. Would you come to Him?\"* (Matt 11:28–30; John 19:30)",
+            "verses": [
+              {
+                "label": "Matt 11:28–30",
+                "kind": "bible",
+                "key": "matthew.11.28-30",
+                "book": "matthew",
+                "chapter": 11,
+                "verseStart": 28,
+                "verseEnd": 30
+              },
+              {
+                "label": "John 19:30",
+                "kind": "bible",
+                "key": "john.19.30",
+                "book": "john",
+                "chapter": 19,
+                "verseStart": 30,
+                "verseEnd": 30
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          }
+        },
+        {
+          "id": "play-2",
+          "number": 2,
+          "title": "The God who made you",
+          "subtitle": "Creator, not the creation",
+          "warning": false,
+          "supplemental": false,
+          "altOpeners": [
+            {
+              "text": "*\"If everything is God, is evil God too?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "chain": [
+            {
+              "text": "**Gen 1:1; Acts 17:24–25**: God made the world and everything in it. He does not live in temples made by hands, and is not served by human hands as though He needed anything. He is before and above all He made.",
+              "verses": [
+                {
+                  "label": "Gen 1:1",
+                  "kind": "bible",
+                  "key": "genesis.1.1",
+                  "book": "genesis",
+                  "chapter": 1,
+                  "verseStart": 1,
+                  "verseEnd": 1
+                },
+                {
+                  "label": "Acts 17:24–25",
+                  "kind": "bible",
+                  "key": "acts.17.24-25",
+                  "book": "acts",
+                  "chapter": 17,
+                  "verseStart": 24,
+                  "verseEnd": 25
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Isa 44:6; Isa 45:5–6**: \"I am the first and I am the last, and there is no God besides Me.\" *\"Can that God be one manifestation among millions?\"*",
+              "verses": [
+                {
+                  "label": "Isa 44:6",
+                  "kind": "bible",
+                  "key": "isaiah.44.6",
+                  "book": "isaiah",
+                  "chapter": 44,
+                  "verseStart": 6,
+                  "verseEnd": 6
+                },
+                {
+                  "label": "Isa 45:5–6",
+                  "kind": "bible",
+                  "key": "isaiah.45.5-6",
+                  "book": "isaiah",
+                  "chapter": 45,
+                  "verseStart": 5,
+                  "verseEnd": 6
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Ex 20:3–5**: No other gods, and no image to bow to. He is jealous for His people the way a husband is for his wife.",
+              "verses": [
+                {
+                  "label": "Ex 20:3–5",
+                  "kind": "bible",
+                  "key": "exodus.20.3-5",
+                  "book": "exodus",
+                  "chapter": 20,
+                  "verseStart": 3,
+                  "verseEnd": 5
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Ps 115:4–8; Isa 44:16–17**: The idol has eyes and cannot see. A man burns half the log for his supper and bows to the other half. *\"Who is greater, the maker or the thing made?\"*",
+              "verses": [
+                {
+                  "label": "Ps 115:4–8",
+                  "kind": "bible",
+                  "key": "psalms.115.4-8",
+                  "book": "psalms",
+                  "chapter": 115,
+                  "verseStart": 4,
+                  "verseEnd": 8
+                },
+                {
+                  "label": "Isa 44:16–17",
+                  "kind": "bible",
+                  "key": "isaiah.44.16-17",
+                  "book": "isaiah",
+                  "chapter": 44,
+                  "verseStart": 16,
+                  "verseEnd": 17
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Rom 1:22–25**: Men exchanged the glory of the immortal God for images of man, birds, animals and crawling things, and worshiped the creature rather than the Creator.",
+              "verses": [
+                {
+                  "label": "Rom 1:22–25",
+                  "kind": "bible",
+                  "key": "romans.1.22-25",
+                  "book": "romans",
+                  "chapter": 1,
+                  "verseStart": 22,
+                  "verseEnd": 25
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**1 Cor 10:19–20**: The idol is nothing, but what is sacrificed to it is sacrificed to demons and not to God. The spiritual experiences can be real and still not be from God.",
+              "verses": [
+                {
+                  "label": "1 Cor 10:19–20",
+                  "kind": "bible",
+                  "key": "1-corinthians.10.19-20",
+                  "book": "1-corinthians",
+                  "chapter": 10,
+                  "verseStart": 19,
+                  "verseEnd": 20
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**John 1:1, 14, 18**: The true God has made Himself known, not in thousands of forms, but once, in the Word who became flesh. **Acts 17:30–31**: He now commands all people everywhere to repent, and has given proof by raising Him from the dead.",
+              "verses": [
+                {
+                  "label": "John 1:1",
+                  "kind": "bible",
+                  "key": "john.1.1",
+                  "book": "john",
+                  "chapter": 1,
+                  "verseStart": 1,
+                  "verseEnd": 1
+                },
+                {
+                  "label": "John 1:14",
+                  "kind": "bible",
+                  "key": "john.1.14",
+                  "book": "john",
+                  "chapter": 1,
+                  "verseStart": 14,
+                  "verseEnd": 14
+                },
+                {
+                  "label": "John 1:18",
+                  "kind": "bible",
+                  "key": "john.1.18",
+                  "book": "john",
+                  "chapter": 1,
+                  "verseStart": 18,
+                  "verseEnd": 18
+                },
+                {
+                  "label": "Acts 17:30–31",
+                  "kind": "bible",
+                  "key": "acts.17.30-31",
+                  "book": "acts",
+                  "chapter": 17,
+                  "verseStart": 30,
+                  "verseEnd": 31
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "questions": [],
+          "ifTheySay": [
+            {
+              "theySay": "*\"The images are only aids. We worship the one reality behind them.\"*",
+              "youSay": "Israel said the same of the golden calf: \"a feast to Yahweh.\" God still called it great sin. He decides how He is worshiped. (Ex 32:4–5; Deut 4:15–16; John 4:24)",
+              "verses": [
+                {
+                  "label": "Ex 32:4–5",
+                  "kind": "bible",
+                  "key": "exodus.32.4-5",
+                  "book": "exodus",
+                  "chapter": 32,
+                  "verseStart": 4,
+                  "verseEnd": 5
+                },
+                {
+                  "label": "Deut 4:15–16",
+                  "kind": "bible",
+                  "key": "deuteronomy.4.15-16",
+                  "book": "deuteronomy",
+                  "chapter": 4,
+                  "verseStart": 15,
+                  "verseEnd": 16
+                },
+                {
+                  "label": "John 4:24",
+                  "kind": "bible",
+                  "key": "john.4.24",
+                  "book": "john",
+                  "chapter": 4,
+                  "verseStart": 24,
+                  "verseEnd": 24
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"Jesus is an avatar, like Krishna.\"*",
+              "youSay": "An avatar comes many times and only appears as a man. Jesus became truly man once, died a real death for sins, rose bodily, and said no one comes to the Father except through Him. He leaves no room on the shelf. (Heb 9:26; Luke 24:39; John 14:6)",
+              "verses": [
+                {
+                  "label": "Heb 9:26",
+                  "kind": "bible",
+                  "key": "hebrews.9.26",
+                  "book": "hebrews",
+                  "chapter": 9,
+                  "verseStart": 26,
+                  "verseEnd": 26
+                },
+                {
+                  "label": "Luke 24:39",
+                  "kind": "bible",
+                  "key": "luke.24.39",
+                  "book": "luke",
+                  "chapter": 24,
+                  "verseStart": 39,
+                  "verseEnd": 39
+                },
+                {
+                  "label": "John 14:6",
+                  "kind": "bible",
+                  "key": "john.14.6",
+                  "book": "john",
+                  "chapter": 14,
+                  "verseStart": 6,
+                  "verseEnd": 6
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"I am one with God. The self is divine.\"*",
+              "youSay": "That is the oldest lie: \"You will be like God.\" You get tired, you forget, you sin, you die. You are a creature, made in God's image, which is honor enough, and you need a Savior. (Gen 3:5; Isa 31:3; Ps 100:3)",
+              "verses": [
+                {
+                  "label": "Gen 3:5",
+                  "kind": "bible",
+                  "key": "genesis.3.5",
+                  "book": "genesis",
+                  "chapter": 3,
+                  "verseStart": 5,
+                  "verseEnd": 5
+                },
+                {
+                  "label": "Isa 31:3",
+                  "kind": "bible",
+                  "key": "isaiah.31.3",
+                  "book": "isaiah",
+                  "chapter": 31,
+                  "verseStart": 3,
+                  "verseEnd": 3
+                },
+                {
+                  "label": "Ps 100:3",
+                  "kind": "bible",
+                  "key": "psalms.100.3",
+                  "book": "psalms",
+                  "chapter": 100,
+                  "verseStart": 3,
+                  "verseEnd": 3
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"My religion is far older than yours.\"*",
+              "youSay": "Age is not truth, and the God of the Bible is the Creator before any religion. He was at the beginning. (Gen 1:1; Ps 90:2)",
+              "verses": [
+                {
+                  "label": "Gen 1:1",
+                  "kind": "bible",
+                  "key": "genesis.1.1",
+                  "book": "genesis",
+                  "chapter": 1,
+                  "verseStart": 1,
+                  "verseEnd": 1
+                },
+                {
+                  "label": "Ps 90:2",
+                  "kind": "bible",
+                  "key": "psalms.90.2",
+                  "book": "psalms",
+                  "chapter": 90,
+                  "verseStart": 2,
+                  "verseEnd": 2
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "notes": [],
+          "links": [],
+          "opener": {
+            "text": "*\"When you pray, who is listening? Is God a someone, or a something?\"*",
+            "verses": [],
+            "links": [],
+            "supplemental": false
+          },
+          "closer": {
+            "text": "*\"You turned to many gods hoping one would hear. There is a living God who made you, sees you and has spoken. People in the first century 'turned to God from idols to serve a living and true God.' Will you?\"* (1 Thess 1:9–10; Acts 14:15)",
+            "verses": [
+              {
+                "label": "1 Thess 1:9–10",
+                "kind": "bible",
+                "key": "1-thessalonians.1.9-10",
+                "book": "1-thessalonians",
+                "chapter": 1,
+                "verseStart": 9,
+                "verseEnd": 10
+              },
+              {
+                "label": "Acts 14:15",
+                "kind": "bible",
+                "key": "acts.14.15",
+                "book": "acts",
+                "chapter": 14,
+                "verseStart": 15,
+                "verseEnd": 15
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          }
+        }
+      ],
+      "defense": [
+        {
+          "id": "all-religions-are-paths-up",
+          "objection": "\"All religions are paths up the same mountain.\"",
+          "response": "The religions disagree about what is at the top: a personal Creator, an impersonal oneness, or nothing. And who is standing high enough to see that all paths meet? Only God has that view, and He has spoken.",
+          "goTo": "John 14:6; Acts 4:12; Isa 43:10–11",
+          "askBack": "*\"How do you know they all arrive?\"*",
+          "verses": [
+            {
+              "label": "John 14:6",
+              "kind": "bible",
+              "key": "john.14.6",
+              "book": "john",
+              "chapter": 14,
+              "verseStart": 6,
+              "verseEnd": 6
+            },
+            {
+              "label": "Acts 4:12",
+              "kind": "bible",
+              "key": "acts.4.12",
+              "book": "acts",
+              "chapter": 4,
+              "verseStart": 12,
+              "verseEnd": 12
+            },
+            {
+              "label": "Isa 43:10–11",
+              "kind": "bible",
+              "key": "isaiah.43.10-11",
+              "book": "isaiah",
+              "chapter": 43,
+              "verseStart": 10,
+              "verseEnd": 11
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "already-believe-jesus-he-one",
+          "objection": "\"I already believe in Jesus. He is one of my gods.\"",
+          "response": "The Jesus of the Gospels refuses that place. He said to love Him more than father or mother, and that whoever is not with Him is against Him. To honor Him among others is not to believe Him.",
+          "goTo": "Matt 10:37; Matt 12:30; John 8:24; Ex 20:3",
+          "askBack": "*\"What did Jesus say about other ways to the Father?\"*",
+          "verses": [
+            {
+              "label": "Matt 10:37",
+              "kind": "bible",
+              "key": "matthew.10.37",
+              "book": "matthew",
+              "chapter": 10,
+              "verseStart": 37,
+              "verseEnd": 37
+            },
+            {
+              "label": "Matt 12:30",
+              "kind": "bible",
+              "key": "matthew.12.30",
+              "book": "matthew",
+              "chapter": 12,
+              "verseStart": 30,
+              "verseEnd": 30
+            },
+            {
+              "label": "John 8:24",
+              "kind": "bible",
+              "key": "john.8.24",
+              "book": "john",
+              "chapter": 8,
+              "verseStart": 24,
+              "verseEnd": 24
+            },
+            {
+              "label": "Ex 20:3",
+              "kind": "bible",
+              "key": "exodus.20.3",
+              "book": "exodus",
+              "chapter": 20,
+              "verseStart": 3,
+              "verseEnd": 3
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "christianity-western-religion",
+          "objection": "\"Christianity is a Western religion.\"",
+          "response": "Jesus was born in Asia, and by long tradition the gospel reached India in the first century. Scripture's vision is every tribe, tongue and nation before the throne. Christ is not the West's god; He is the Lord of all.",
+          "goTo": "Rev 7:9–10; Acts 2:5–11; Rom 10:12",
+          "askBack": "*\"Was Jesus a Westerner?\"*",
+          "verses": [
+            {
+              "label": "Rev 7:9–10",
+              "kind": "bible",
+              "key": "revelation.7.9-10",
+              "book": "revelation",
+              "chapter": 7,
+              "verseStart": 9,
+              "verseEnd": 10
+            },
+            {
+              "label": "Acts 2:5–11",
+              "kind": "bible",
+              "key": "acts.2.5-11",
+              "book": "acts",
+              "chapter": 2,
+              "verseStart": 5,
+              "verseEnd": 11
+            },
+            {
+              "label": "Rom 10:12",
+              "kind": "bible",
+              "key": "romans.10.12",
+              "book": "romans",
+              "chapter": 10,
+              "verseStart": 12,
+              "verseEnd": 12
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "karma-explains-suffering-better-than",
+          "objection": "\"Karma explains suffering better than your God does.\"",
+          "response": "It explains it by blaming the sufferer, and it offers no one to help. The Bible says the world is fallen through sin, that God Himself entered the suffering, and that He will end it.",
+          "goTo": "John 9:1–3; Isa 53:4; Rev 21:4",
+          "askBack": "*\"What does karma say to a suffering child?\"*",
+          "verses": [
+            {
+              "label": "John 9:1–3",
+              "kind": "bible",
+              "key": "john.9.1-3",
+              "book": "john",
+              "chapter": 9,
+              "verseStart": 1,
+              "verseEnd": 3
+            },
+            {
+              "label": "Isa 53:4",
+              "kind": "bible",
+              "key": "isaiah.53.4",
+              "book": "isaiah",
+              "chapter": 53,
+              "verseStart": 4,
+              "verseEnd": 4
+            },
+            {
+              "label": "Rev 21:4",
+              "kind": "bible",
+              "key": "revelation.21.4",
+              "book": "revelation",
+              "chapter": 21,
+              "verseStart": 4,
+              "verseEnd": 4
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "we-will-reborn-there-always",
+          "objection": "\"We will be reborn. There is always another chance.\"",
+          "response": "Scripture says we die once and then face judgment. And the teaching itself gives no hope: the debt grows each life. Jesus offers not another round but eternal life now.",
+          "goTo": "Heb 9:27; Luke 16:26; John 5:24; 2 Cor 6:2",
+          "askBack": "*\"If there were no next life, would you be ready?\"*",
+          "verses": [
+            {
+              "label": "Heb 9:27",
+              "kind": "bible",
+              "key": "hebrews.9.27",
+              "book": "hebrews",
+              "chapter": 9,
+              "verseStart": 27,
+              "verseEnd": 27
+            },
+            {
+              "label": "Luke 16:26",
+              "kind": "bible",
+              "key": "luke.16.26",
+              "book": "luke",
+              "chapter": 16,
+              "verseStart": 26,
+              "verseEnd": 26
+            },
+            {
+              "label": "John 5:24",
+              "kind": "bible",
+              "key": "john.5.24",
+              "book": "john",
+              "chapter": 5,
+              "verseStart": 24,
+              "verseEnd": 24
+            },
+            {
+              "label": "2 Cor 6:2",
+              "kind": "bible",
+              "key": "2-corinthians.6.2",
+              "book": "2-corinthians",
+              "chapter": 6,
+              "verseStart": 2,
+              "verseEnd": 2
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "god-everything-everyone",
+          "objection": "\"God is in everything and everyone.\"",
+          "response": "God is present everywhere, but He is not everything. He made the world and is distinct from it. If all is God, there is no difference between good and evil, and no one to pray to.",
+          "goTo": "Gen 1:1; Isa 40:25–26; Rom 1:25",
+          "askBack": "*\"Is cruelty also God?\"*",
+          "verses": [
+            {
+              "label": "Gen 1:1",
+              "kind": "bible",
+              "key": "genesis.1.1",
+              "book": "genesis",
+              "chapter": 1,
+              "verseStart": 1,
+              "verseEnd": 1
+            },
+            {
+              "label": "Isa 40:25–26",
+              "kind": "bible",
+              "key": "isaiah.40.25-26",
+              "book": "isaiah",
+              "chapter": 40,
+              "verseStart": 25,
+              "verseEnd": 26
+            },
+            {
+              "label": "Rom 1:25",
+              "kind": "bible",
+              "key": "romans.1.25",
+              "book": "romans",
+              "chapter": 1,
+              "verseStart": 25,
+              "verseEnd": 25
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "meditation-yoga-give-me-real",
+          "objection": "\"Meditation and yoga give me real peace and real experiences.\"",
+          "response": "An experience can be real and not be true. Scripture warns that Satan disguises himself as an angel of light and tells us to test the spirits. Peace with God is not a feeling produced by technique; it is a standing, given through Christ.",
+          "goTo": "2 Cor 11:14; 1 John 4:1; Rom 5:1; Phil 4:7",
+          "askBack": "*\"Does the peace deal with your guilt, or only quiet it?\"*",
+          "verses": [
+            {
+              "label": "2 Cor 11:14",
+              "kind": "bible",
+              "key": "2-corinthians.11.14",
+              "book": "2-corinthians",
+              "chapter": 11,
+              "verseStart": 14,
+              "verseEnd": 14
+            },
+            {
+              "label": "1 John 4:1",
+              "kind": "bible",
+              "key": "1-john.4.1",
+              "book": "1-john",
+              "chapter": 4,
+              "verseStart": 1,
+              "verseEnd": 1
+            },
+            {
+              "label": "Rom 5:1",
+              "kind": "bible",
+              "key": "romans.5.1",
+              "book": "romans",
+              "chapter": 5,
+              "verseStart": 1,
+              "verseEnd": 1
+            },
+            {
+              "label": "Phil 4:7",
+              "kind": "bible",
+              "key": "philippians.4.7",
+              "book": "philippians",
+              "chapter": 4,
+              "verseStart": 7,
+              "verseEnd": 7
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "christians-are-intolerant-only-jesus",
+          "objection": "\"Christians are intolerant to say only Jesus saves.\"",
+          "response": "We did not make the claim; Jesus did. If a doctor has the one cure, telling you so is love. And we say it as people who needed the cure ourselves.",
+          "goTo": "John 14:6; 1 Tim 2:5; 1 Pet 3:15",
+          "askBack": "*\"If it were true, would you want me to tell you?\"*",
+          "verses": [
+            {
+              "label": "John 14:6",
+              "kind": "bible",
+              "key": "john.14.6",
+              "book": "john",
+              "chapter": 14,
+              "verseStart": 6,
+              "verseEnd": 6
+            },
+            {
+              "label": "1 Tim 2:5",
+              "kind": "bible",
+              "key": "1-timothy.2.5",
+              "book": "1-timothy",
+              "chapter": 2,
+              "verseStart": 5,
+              "verseEnd": 5
+            },
+            {
+              "label": "1 Pet 3:15",
+              "kind": "bible",
+              "key": "1-peter.3.15",
+              "book": "1-peter",
+              "chapter": 3,
+              "verseStart": 15,
+              "verseEnd": 15
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "my-family-would-dishonored-if",
+          "objection": "\"My family would be dishonored if I became a Christian.\"",
+          "response": "Do not make light of it. Jesus said it would cost exactly this, and promised a hundredfold family in His people and eternal life. Then be that family.",
+          "goTo": "Mark 10:29–30; Matt 10:34–37; Ps 27:10",
+          "askBack": "*\"What would make Him worth that cost?\"*",
+          "verses": [
+            {
+              "label": "Mark 10:29–30",
+              "kind": "bible",
+              "key": "mark.10.29-30",
+              "book": "mark",
+              "chapter": 10,
+              "verseStart": 29,
+              "verseEnd": 30
+            },
+            {
+              "label": "Matt 10:34–37",
+              "kind": "bible",
+              "key": "matthew.10.34-37",
+              "book": "matthew",
+              "chapter": 10,
+              "verseStart": 34,
+              "verseEnd": 37
+            },
+            {
+              "label": "Ps 27:10",
+              "kind": "bible",
+              "key": "psalms.27.10",
+              "book": "psalms",
+              "chapter": 27,
+              "verseStart": 10,
+              "verseEnd": 10
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        }
+      ],
+      "exits": {
+        "label": "Typical exits",
+        "items": [
+          {
+            "text": "\"It's all the same in the end.\" (Ask: *\"Did Jesus think so?\"* and leave John 14:6.)",
+            "verses": [
+              {
+                "label": "John 14:6",
+                "kind": "bible",
+                "key": "john.14.6",
+                "book": "john",
+                "chapter": 14,
+                "verseStart": 6,
+                "verseEnd": 6
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          },
+          {
+            "text": "\"I'll add that to my prayers.\" (Say gently: *\"He asks for all of you, not a place among others. Would you read the Gospel of John?\"*)",
+            "verses": [],
+            "links": [],
+            "supplemental": false
+          },
+          {
+            "text": "\"This is my culture.\" (Affirm what is good in it, then: *\"The question is what is true.\"*)",
+            "verses": [],
+            "links": [],
+            "supplemental": false
+          },
+          {
+            "text": "Smiling agreement with everything. (Don't mistake politeness for faith. Ask one direct question: *\"Who do you believe Jesus is?\"*)",
+            "verses": [],
+            "links": [],
+            "supplemental": false
+          }
+        ]
+      }
+    },
+    {
+      "slug": "buddhist",
+      "name": "Buddhist",
+      "heading": "BUDDHISTS",
+      "color": "#84cc16",
+      "emoji": "☸️",
+      "beliefs": {
+        "text": "There is no Creator God to answer to. The Buddha taught Four Noble Truths: life is suffering (dukkha); suffering comes from craving; suffering ends when craving ends; and the way to end it is the Eightfold Path of right view, intention, speech, action, livelihood, effort, mindfulness and concentration. There is no permanent self or soul (anatta). Beings are reborn according to karma until they reach nirvana, the \"blowing out\" of craving and of rebirth. Each person must do it himself: \"By oneself is one purified… no one can purify another\" [Dhammapada 165]; \"You yourselves must strive; the Buddhas only point the way\" [Dhammapada 276]. Many Western Buddhists keep the meditation and ethics and hold the rest loosely.",
+        "verses": [],
+        "links": [],
+        "supplemental": false
+      },
+      "lead": [
+        {
+          "label": "Their position",
+          "text": "There is no Creator God to answer to. The Buddha taught Four Noble Truths: life is suffering (dukkha); suffering comes from craving; suffering ends when craving ends; and the way to end it is the Eightfold Path of right view, intention, speech, action, livelihood, effort, mindfulness and concentration. There is no permanent self or soul (anatta). Beings are reborn according to karma until they reach nirvana, the \"blowing out\" of craving and of rebirth. Each person must do it himself: \"By oneself is one purified… no one can purify another\" [Dhammapada 165]; \"You yourselves must strive; the Buddhas only point the way\" [Dhammapada 276]. Many Western Buddhists keep the meditation and ethics and hold the rest loosely.",
+          "verses": [],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "The dividing issue",
+          "text": "What is wrong with us, and who can fix it. Buddhism says the problem is desire and the cure is to put it out by your own effort. Scripture says the problem is sin against a holy God, that we cannot cure ourselves, and that God has provided a Savior. Buddhism has a path and no one to forgive you. (Rom 3:23; Jer 17:9; Rom 5:6–8; Acts 4:12)",
+          "verses": [
+            {
+              "label": "Rom 3:23",
+              "kind": "bible",
+              "key": "romans.3.23",
+              "book": "romans",
+              "chapter": 3,
+              "verseStart": 23,
+              "verseEnd": 23
+            },
+            {
+              "label": "Jer 17:9",
+              "kind": "bible",
+              "key": "jeremiah.17.9",
+              "book": "jeremiah",
+              "chapter": 17,
+              "verseStart": 9,
+              "verseEnd": 9
+            },
+            {
+              "label": "Rom 5:6–8",
+              "kind": "bible",
+              "key": "romans.5.6-8",
+              "book": "romans",
+              "chapter": 5,
+              "verseStart": 6,
+              "verseEnd": 8
+            },
+            {
+              "label": "Acts 4:12",
+              "kind": "bible",
+              "key": "acts.4.12",
+              "book": "acts",
+              "chapter": 4,
+              "verseStart": 12,
+              "verseEnd": 12
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "Ask this question",
+          "text": "*\"When you do something wrong, who forgives you?\"* (Ps 51:4)",
+          "verses": [
+            {
+              "label": "Ps 51:4",
+              "kind": "bible",
+              "key": "psalms.51.4",
+              "book": "psalms",
+              "chapter": 51,
+              "verseStart": 4,
+              "verseEnd": 4
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "Scriptural response",
+          "text": "In the beginning God created, so there is Someone we answer to. He made man in His image, a real person who matters. Suffering came in through sin, and it is not an illusion to rise above: Jesus wept at a grave. The answer to desire is not to put it out but to have it filled: in God's presence is fullness of joy. And one day He will wipe away every tear. (Gen 1:1; Gen 1:27; Rom 5:12; John 11:35; Ps 16:11; Rev 21:4)",
+          "verses": [
+            {
+              "label": "Gen 1:1",
+              "kind": "bible",
+              "key": "genesis.1.1",
+              "book": "genesis",
+              "chapter": 1,
+              "verseStart": 1,
+              "verseEnd": 1
+            },
+            {
+              "label": "Gen 1:27",
+              "kind": "bible",
+              "key": "genesis.1.27",
+              "book": "genesis",
+              "chapter": 1,
+              "verseStart": 27,
+              "verseEnd": 27
+            },
+            {
+              "label": "Rom 5:12",
+              "kind": "bible",
+              "key": "romans.5.12",
+              "book": "romans",
+              "chapter": 5,
+              "verseStart": 12,
+              "verseEnd": 12
+            },
+            {
+              "label": "John 11:35",
+              "kind": "bible",
+              "key": "john.11.35",
+              "book": "john",
+              "chapter": 11,
+              "verseStart": 35,
+              "verseEnd": 35
+            },
+            {
+              "label": "Ps 16:11",
+              "kind": "bible",
+              "key": "psalms.16.11",
+              "book": "psalms",
+              "chapter": 16,
+              "verseStart": 11,
+              "verseEnd": 11
+            },
+            {
+              "label": "Rev 21:4",
+              "kind": "bible",
+              "key": "revelation.21.4",
+              "book": "revelation",
+              "chapter": 21,
+              "verseStart": 4,
+              "verseEnd": 4
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "Common objection",
+          "text": "*\"Buddhism isn't a religion. It's just a practice for peace of mind.\"* → Then it has nothing to say about your guilt, your death or your Maker, and those are the questions that matter most. A calm mind on the way to judgment is not safety. Jesus gives peace with God first, and then the peace of God. (Heb 9:27; Rom 5:1; John 14:27; Phil 4:6–7)",
+          "verses": [
+            {
+              "label": "Heb 9:27",
+              "kind": "bible",
+              "key": "hebrews.9.27",
+              "book": "hebrews",
+              "chapter": 9,
+              "verseStart": 27,
+              "verseEnd": 27
+            },
+            {
+              "label": "Rom 5:1",
+              "kind": "bible",
+              "key": "romans.5.1",
+              "book": "romans",
+              "chapter": 5,
+              "verseStart": 1,
+              "verseEnd": 1
+            },
+            {
+              "label": "John 14:27",
+              "kind": "bible",
+              "key": "john.14.27",
+              "book": "john",
+              "chapter": 14,
+              "verseStart": 27,
+              "verseEnd": 27
+            },
+            {
+              "label": "Phil 4:6–7",
+              "kind": "bible",
+              "key": "philippians.4.6-7",
+              "book": "philippians",
+              "chapter": 4,
+              "verseStart": 6,
+              "verseEnd": 7
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "Gospel bridge",
+          "text": "*\"The Buddha said, 'Strive.' His last words were to keep working at it. Jesus' last words on the cross were, 'It is finished.' Which do you need?\"* Jesus said, \"I am the way.\" He does not point to the path; He is the path, and He carries those who cannot walk it. (John 19:30; John 14:6; Matt 11:28–30; Eph 2:8–9)",
+          "verses": [
+            {
+              "label": "John 19:30",
+              "kind": "bible",
+              "key": "john.19.30",
+              "book": "john",
+              "chapter": 19,
+              "verseStart": 30,
+              "verseEnd": 30
+            },
+            {
+              "label": "John 14:6",
+              "kind": "bible",
+              "key": "john.14.6",
+              "book": "john",
+              "chapter": 14,
+              "verseStart": 6,
+              "verseEnd": 6
+            },
+            {
+              "label": "Matt 11:28–30",
+              "kind": "bible",
+              "key": "matthew.11.28-30",
+              "book": "matthew",
+              "chapter": 11,
+              "verseStart": 28,
+              "verseEnd": 30
+            },
+            {
+              "label": "Eph 2:8–9",
+              "kind": "bible",
+              "key": "ephesians.2.8-9",
+              "book": "ephesians",
+              "chapter": 2,
+              "verseStart": 8,
+              "verseEnd": 9
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "Where we agree",
+          "text": "Life in this world is marked by suffering, and nothing here lasts. Craving for things that cannot satisfy does make us miserable; Scripture says the same about covetousness and the love of the world. Compassion, self-control, honesty and a quiet mind are good. Death must be faced, not ignored.",
+          "verses": [],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "Approach",
+          "text": "Most Buddhists you will meet in America are either from Buddhist families (Thai, Vietnamese, Japanese, Chinese and others) or Westerners who came for meditation. Ask which, and ask what they actually believe; many have never thought about a Creator. Start with the Creator, as Paul did with people who had no Bible, and then the conscience. Honor their seriousness about suffering and show them the One who entered it. Don't mock the Buddha; he is dead and never claimed to save anyone. The contrast with a living Savior makes itself. (Acts 17:24–31; Rom 2:14–15; Heb 4:15; 1 Pet 3:15)",
+          "verses": [
+            {
+              "label": "Acts 17:24–31",
+              "kind": "bible",
+              "key": "acts.17.24-31",
+              "book": "acts",
+              "chapter": 17,
+              "verseStart": 24,
+              "verseEnd": 31
+            },
+            {
+              "label": "Rom 2:14–15",
+              "kind": "bible",
+              "key": "romans.2.14-15",
+              "book": "romans",
+              "chapter": 2,
+              "verseStart": 14,
+              "verseEnd": 15
+            },
+            {
+              "label": "Heb 4:15",
+              "kind": "bible",
+              "key": "hebrews.4.15",
+              "book": "hebrews",
+              "chapter": 4,
+              "verseStart": 15,
+              "verseEnd": 15
+            },
+            {
+              "label": "1 Pet 3:15",
+              "kind": "bible",
+              "key": "1-peter.3.15",
+              "book": "1-peter",
+              "chapter": 3,
+              "verseStart": 15,
+              "verseEnd": 15
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        }
+      ],
+      "cheatCardTitle": "Buddhist Cheat Card",
+      "cheatCard": [
+        {
+          "text": "**Gen 1:1**: *\"If there is a Creator, do we answer to Him?\"*",
+          "verses": [
+            {
+              "label": "Gen 1:1",
+              "kind": "bible",
+              "key": "genesis.1.1",
+              "book": "genesis",
+              "chapter": 1,
+              "verseStart": 1,
+              "verseEnd": 1
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "text": "**Ps 51:4**: *\"When you do wrong, who is wronged, and who can forgive it?\"*",
+          "verses": [
+            {
+              "label": "Ps 51:4",
+              "kind": "bible",
+              "key": "psalms.51.4",
+              "book": "psalms",
+              "chapter": 51,
+              "verseStart": 4,
+              "verseEnd": 4
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "text": "**Ps 16:11**: *\"What if the answer to desire is not less of it, but the right object?\"*",
+          "verses": [
+            {
+              "label": "Ps 16:11",
+              "kind": "bible",
+              "key": "psalms.16.11",
+              "book": "psalms",
+              "chapter": 16,
+              "verseStart": 11,
+              "verseEnd": 11
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "text": "**John 11:25–26**: *\"The Buddha is in his grave. What did Jesus say at one?\"*",
+          "verses": [
+            {
+              "label": "John 11:25–26",
+              "kind": "bible",
+              "key": "john.11.25-26",
+              "book": "john",
+              "chapter": 11,
+              "verseStart": 25,
+              "verseEnd": 26
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "text": "**John 19:30**: *\"'Strive on,' or 'It is finished'?\"*",
+          "verses": [
+            {
+              "label": "John 19:30",
+              "kind": "bible",
+              "key": "john.19.30",
+              "book": "john",
+              "chapter": 19,
+              "verseStart": 30,
+              "verseEnd": 30
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "text": "**Rev 21:4**: *\"Who can promise an end to suffering and has the power to do it?\"*",
+          "verses": [
+            {
+              "label": "Rev 21:4",
+              "kind": "bible",
+              "key": "revelation.21.4",
+              "book": "revelation",
+              "chapter": 21,
+              "verseStart": 4,
+              "verseEnd": 4
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        }
+      ],
+      "offense": [
+        {
+          "id": "play-1",
+          "number": 1,
+          "title": "Who forgives you?",
+          "subtitle": "the problem is sin, not desire",
+          "warning": false,
+          "supplemental": false,
+          "altOpeners": [
+            {
+              "text": "*\"Have you ever done something you knew was wrong? What did you do with the guilt?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "chain": [
+            {
+              "text": "**Rom 2:14–15**: Everyone has a conscience that accuses him. Buddhism has its own precepts: no killing, stealing, sexual misconduct, lying or intoxication. *\"Have you kept even those?\"*",
+              "verses": [
+                {
+                  "label": "Rom 2:14–15",
+                  "kind": "bible",
+                  "key": "romans.2.14-15",
+                  "book": "romans",
+                  "chapter": 2,
+                  "verseStart": 14,
+                  "verseEnd": 15
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Ps 51:4**: \"Against You, You only, I have sinned.\" Wrong is not just unskillful; it is personal. It is against Someone. *\"If there is no God, why does guilt feel like owing someone?\"*",
+              "verses": [
+                {
+                  "label": "Ps 51:4",
+                  "kind": "bible",
+                  "key": "psalms.51.4",
+                  "book": "psalms",
+                  "chapter": 51,
+                  "verseStart": 4,
+                  "verseEnd": 4
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Jer 17:9; Mark 7:21–23**: The trouble is not that we desire, but that the heart is corrupt. Evil comes from within.",
+              "verses": [
+                {
+                  "label": "Jer 17:9",
+                  "kind": "bible",
+                  "key": "jeremiah.17.9",
+                  "book": "jeremiah",
+                  "chapter": 17,
+                  "verseStart": 9,
+                  "verseEnd": 9
+                },
+                {
+                  "label": "Mark 7:21–23",
+                  "kind": "bible",
+                  "key": "mark.7.21-23",
+                  "book": "mark",
+                  "chapter": 7,
+                  "verseStart": 21,
+                  "verseEnd": 23
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Rom 3:23; Rom 6:23**: All have sinned, and the wages of sin is death. Not rebirth: death and judgment. (Heb 9:27)",
+              "verses": [
+                {
+                  "label": "Rom 3:23",
+                  "kind": "bible",
+                  "key": "romans.3.23",
+                  "book": "romans",
+                  "chapter": 3,
+                  "verseStart": 23,
+                  "verseEnd": 23
+                },
+                {
+                  "label": "Rom 6:23",
+                  "kind": "bible",
+                  "key": "romans.6.23",
+                  "book": "romans",
+                  "chapter": 6,
+                  "verseStart": 23,
+                  "verseEnd": 23
+                },
+                {
+                  "label": "Heb 9:27",
+                  "kind": "bible",
+                  "key": "hebrews.9.27",
+                  "book": "hebrews",
+                  "chapter": 9,
+                  "verseStart": 27,
+                  "verseEnd": 27
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Rom 5:6–8**: While we were still helpless, Christ died for the ungodly. *\"The path says purify yourself. What if you can't?\"*",
+              "verses": [
+                {
+                  "label": "Rom 5:6–8",
+                  "kind": "bible",
+                  "key": "romans.5.6-8",
+                  "book": "romans",
+                  "chapter": 5,
+                  "verseStart": 6,
+                  "verseEnd": 8
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Ps 103:10–12**: He has not dealt with us according to our sins. As far as the east is from the west, so far has He removed our transgressions from us. *\"Does karma ever say that?\"*",
+              "verses": [
+                {
+                  "label": "Ps 103:10–12",
+                  "kind": "bible",
+                  "key": "psalms.103.10-12",
+                  "book": "psalms",
+                  "chapter": 103,
+                  "verseStart": 10,
+                  "verseEnd": 12
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**1 John 1:9**: If we confess our sins, He is faithful and righteous to forgive. Forgiveness needs a Person. Buddhism has none to give it.",
+              "verses": [
+                {
+                  "label": "1 John 1:9",
+                  "kind": "bible",
+                  "key": "1-john.1.9",
+                  "book": "1-john",
+                  "chapter": 1,
+                  "verseStart": 9,
+                  "verseEnd": 9
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "questions": [],
+          "ifTheySay": [
+            {
+              "theySay": "*\"There is no sin, only ignorance and unskillful action.\"*",
+              "youSay": "Then no one has ever truly been wronged, and no cruelty is truly evil. You don't live as if that were so. Jeff Durbin's observation to a skeptic applies: when you speak of compassion and human worth, you are borrowing from a world God made. (Rom 1:19–20; Rom 2:15)",
+              "verses": [
+                {
+                  "label": "Rom 1:19–20",
+                  "kind": "bible",
+                  "key": "romans.1.19-20",
+                  "book": "romans",
+                  "chapter": 1,
+                  "verseStart": 19,
+                  "verseEnd": 20
+                },
+                {
+                  "label": "Rom 2:15",
+                  "kind": "bible",
+                  "key": "romans.2.15",
+                  "book": "romans",
+                  "chapter": 2,
+                  "verseStart": 15,
+                  "verseEnd": 15
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"There is no self, so there is no one to be guilty.\"*",
+              "youSay": "Then there is no one to be compassionate to, and no one to reach nirvana. You love real people. Scripture explains why: each is made in God's image. (Gen 1:27; Ps 139:13–14)",
+              "verses": [
+                {
+                  "label": "Gen 1:27",
+                  "kind": "bible",
+                  "key": "genesis.1.27",
+                  "book": "genesis",
+                  "chapter": 1,
+                  "verseStart": 27,
+                  "verseEnd": 27
+                },
+                {
+                  "label": "Ps 139:13–14",
+                  "kind": "bible",
+                  "key": "psalms.139.13-14",
+                  "book": "psalms",
+                  "chapter": 139,
+                  "verseStart": 13,
+                  "verseEnd": 14
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"I make merit to balance it.\"*",
+              "youSay": "How much is enough, and who keeps the account? Our best deeds are stained. A gift cannot be earned. (Isa 64:6; Titus 3:5; Eph 2:8–9)",
+              "verses": [
+                {
+                  "label": "Isa 64:6",
+                  "kind": "bible",
+                  "key": "isaiah.64.6",
+                  "book": "isaiah",
+                  "chapter": 64,
+                  "verseStart": 6,
+                  "verseEnd": 6
+                },
+                {
+                  "label": "Titus 3:5",
+                  "kind": "bible",
+                  "key": "titus.3.5",
+                  "book": "titus",
+                  "chapter": 3,
+                  "verseStart": 5,
+                  "verseEnd": 5
+                },
+                {
+                  "label": "Eph 2:8–9",
+                  "kind": "bible",
+                  "key": "ephesians.2.8-9",
+                  "book": "ephesians",
+                  "chapter": 2,
+                  "verseStart": 8,
+                  "verseEnd": 9
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"Amida Buddha saves by grace.\"* (Pure Land)",
+              "youSay": "You are right to see that we cannot save ourselves. But grace needs a real Savior who actually dealt with sin in history. Jesus lived, died under Pontius Pilate and rose; witnesses saw Him. (1 Cor 15:3–8; Acts 4:12)",
+              "verses": [
+                {
+                  "label": "1 Cor 15:3–8",
+                  "kind": "bible",
+                  "key": "1-corinthians.15.3-8",
+                  "book": "1-corinthians",
+                  "chapter": 15,
+                  "verseStart": 3,
+                  "verseEnd": 8
+                },
+                {
+                  "label": "Acts 4:12",
+                  "kind": "bible",
+                  "key": "acts.4.12",
+                  "book": "acts",
+                  "chapter": 4,
+                  "verseStart": 12,
+                  "verseEnd": 12
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "notes": [],
+          "links": [],
+          "opener": {
+            "text": "*\"What do you think is the deepest problem with people?\"*",
+            "verses": [],
+            "links": [],
+            "supplemental": false
+          },
+          "closer": {
+            "text": "*\"The Buddha could point to a path. He could not forgive one sin. Jesus said to a paralyzed man, 'Your sins are forgiven,' and proved He had the authority. Would you bring yours to Him?\"* (Mark 2:5–12; Matt 11:28)",
+            "verses": [
+              {
+                "label": "Mark 2:5–12",
+                "kind": "bible",
+                "key": "mark.2.5-12",
+                "book": "mark",
+                "chapter": 2,
+                "verseStart": 5,
+                "verseEnd": 12
+              },
+              {
+                "label": "Matt 11:28",
+                "kind": "bible",
+                "key": "matthew.11.28",
+                "book": "matthew",
+                "chapter": 11,
+                "verseStart": 28,
+                "verseEnd": 28
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          }
+        },
+        {
+          "id": "play-2",
+          "number": 2,
+          "title": "The end of suffering",
+          "subtitle": "extinguished, or made new",
+          "warning": false,
+          "supplemental": false,
+          "altOpeners": [
+            {
+              "text": "*\"Is the goal to stop wanting, or to finally have what you were made for?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "chain": [
+            {
+              "text": "**Gen 1:31; Gen 3:17–19**: God made the world very good. Suffering is not the nature of existence; it is an intruder that came with sin. That is why it feels wrong.",
+              "verses": [
+                {
+                  "label": "Gen 1:31",
+                  "kind": "bible",
+                  "key": "genesis.1.31",
+                  "book": "genesis",
+                  "chapter": 1,
+                  "verseStart": 31,
+                  "verseEnd": 31
+                },
+                {
+                  "label": "Gen 3:17–19",
+                  "kind": "bible",
+                  "key": "genesis.3.17-19",
+                  "book": "genesis",
+                  "chapter": 3,
+                  "verseStart": 17,
+                  "verseEnd": 19
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Eccl 3:11**: God has set eternity in man's heart. Our longing is not the disease; it is a clue. We were made for Someone.",
+              "verses": [
+                {
+                  "label": "Eccl 3:11",
+                  "kind": "bible",
+                  "key": "ecclesiastes.3.11",
+                  "book": "ecclesiastes",
+                  "chapter": 3,
+                  "verseStart": 11,
+                  "verseEnd": 11
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Jer 2:13**: \"They have forsaken Me, the fountain of living waters, to hew for themselves broken cisterns that can hold no water.\" The problem is desire aimed at the wrong things.",
+              "verses": [
+                {
+                  "label": "Jer 2:13",
+                  "kind": "bible",
+                  "key": "jeremiah.2.13",
+                  "book": "jeremiah",
+                  "chapter": 2,
+                  "verseStart": 13,
+                  "verseEnd": 13
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**John 4:13–14; John 6:35**: Jesus does not say \"stop thirsting.\" He says, \"Whoever drinks of the water that I will give him shall never thirst.\"",
+              "verses": [
+                {
+                  "label": "John 4:13–14",
+                  "kind": "bible",
+                  "key": "john.4.13-14",
+                  "book": "john",
+                  "chapter": 4,
+                  "verseStart": 13,
+                  "verseEnd": 14
+                },
+                {
+                  "label": "John 6:35",
+                  "kind": "bible",
+                  "key": "john.6.35",
+                  "book": "john",
+                  "chapter": 6,
+                  "verseStart": 35,
+                  "verseEnd": 35
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**John 11:25–26, 35**: At a friend's grave Jesus wept, and then said, \"I am the resurrection and the life.\" He does not detach from suffering; He enters it and defeats it.",
+              "verses": [
+                {
+                  "label": "John 11:25–26",
+                  "kind": "bible",
+                  "key": "john.11.25-26",
+                  "book": "john",
+                  "chapter": 11,
+                  "verseStart": 25,
+                  "verseEnd": 26
+                },
+                {
+                  "label": "John 11:35",
+                  "kind": "bible",
+                  "key": "john.11.35",
+                  "book": "john",
+                  "chapter": 11,
+                  "verseStart": 35,
+                  "verseEnd": 35
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**1 Cor 15:20, 54–57**: Christ has been raised. Death is swallowed up in victory. The hope is not that the candle goes out, but that the dead are raised.",
+              "verses": [
+                {
+                  "label": "1 Cor 15:20",
+                  "kind": "bible",
+                  "key": "1-corinthians.15.20",
+                  "book": "1-corinthians",
+                  "chapter": 15,
+                  "verseStart": 20,
+                  "verseEnd": 20
+                },
+                {
+                  "label": "1 Cor 15:54–57",
+                  "kind": "bible",
+                  "key": "1-corinthians.15.54-57",
+                  "book": "1-corinthians",
+                  "chapter": 15,
+                  "verseStart": 54,
+                  "verseEnd": 57
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Rev 21:3–5**: God will dwell with His people and wipe away every tear; no more death, mourning or pain. \"Behold, I am making all things new.\"",
+              "verses": [
+                {
+                  "label": "Rev 21:3–5",
+                  "kind": "bible",
+                  "key": "revelation.21.3-5",
+                  "book": "revelation",
+                  "chapter": 21,
+                  "verseStart": 3,
+                  "verseEnd": 5
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "questions": [],
+          "ifTheySay": [
+            {
+              "theySay": "*\"Attachment is the cause of suffering, so the wise love without attachment.\"*",
+              "youSay": "God so loved the world that He gave His Son. Love that costs nothing is not love. The Bible's answer to loss is not caring less, but a resurrection in which nothing given to God is lost. (John 3:16; John 15:13; 1 Thess 4:13–14)",
+              "verses": [
+                {
+                  "label": "John 3:16",
+                  "kind": "bible",
+                  "key": "john.3.16",
+                  "book": "john",
+                  "chapter": 3,
+                  "verseStart": 16,
+                  "verseEnd": 16
+                },
+                {
+                  "label": "John 15:13",
+                  "kind": "bible",
+                  "key": "john.15.13",
+                  "book": "john",
+                  "chapter": 15,
+                  "verseStart": 13,
+                  "verseEnd": 13
+                },
+                {
+                  "label": "1 Thess 4:13–14",
+                  "kind": "bible",
+                  "key": "1-thessalonians.4.13-14",
+                  "book": "1-thessalonians",
+                  "chapter": 4,
+                  "verseStart": 13,
+                  "verseEnd": 14
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"Everything is impermanent.\"*",
+              "youSay": "Everything created, yes. \"The grass withers, the flower fades, but the word of our God stands forever.\" There is One who does not change. (Isa 40:8; Mal 3:6; Heb 13:8)",
+              "verses": [
+                {
+                  "label": "Isa 40:8",
+                  "kind": "bible",
+                  "key": "isaiah.40.8",
+                  "book": "isaiah",
+                  "chapter": 40,
+                  "verseStart": 8,
+                  "verseEnd": 8
+                },
+                {
+                  "label": "Mal 3:6",
+                  "kind": "bible",
+                  "key": "malachi.3.6",
+                  "book": "malachi",
+                  "chapter": 3,
+                  "verseStart": 6,
+                  "verseEnd": 6
+                },
+                {
+                  "label": "Heb 13:8",
+                  "kind": "bible",
+                  "key": "hebrews.13.8",
+                  "book": "hebrews",
+                  "chapter": 13,
+                  "verseStart": 8,
+                  "verseEnd": 8
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"Meditation has ended a lot of my suffering.\"*",
+              "youSay": "It may have quieted your mind. It has not dealt with death, guilt or God. Jesus offers rest for the soul and a peace the world cannot give. (Matt 11:28–29; John 14:27)",
+              "verses": [
+                {
+                  "label": "Matt 11:28–29",
+                  "kind": "bible",
+                  "key": "matthew.11.28-29",
+                  "book": "matthew",
+                  "chapter": 11,
+                  "verseStart": 28,
+                  "verseEnd": 29
+                },
+                {
+                  "label": "John 14:27",
+                  "kind": "bible",
+                  "key": "john.14.27",
+                  "book": "john",
+                  "chapter": 14,
+                  "verseStart": 27,
+                  "verseEnd": 27
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"The Buddha was enlightened. Why not follow both?\"*",
+              "youSay": "They point opposite ways: no God or the living God; no self or an eternal soul; escape or resurrection. And only one of them rose from the dead. See [The resurrection](/topic/the-resurrection).",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "notes": [],
+          "links": [],
+          "opener": {
+            "text": "*\"What is nirvana like? Is there a 'you' there to enjoy it?\"*",
+            "verses": [],
+            "links": [],
+            "supplemental": false
+          },
+          "closer": {
+            "text": "*\"You have been honest that life hurts. Jesus is the only one who says He will end the hurt without ending you. 'I came that they may have life, and have it abundantly.' Would you look at Him?\"* (John 10:10; Rev 21:4)",
+            "verses": [
+              {
+                "label": "John 10:10",
+                "kind": "bible",
+                "key": "john.10.10",
+                "book": "john",
+                "chapter": 10,
+                "verseStart": 10,
+                "verseEnd": 10
+              },
+              {
+                "label": "Rev 21:4",
+                "kind": "bible",
+                "key": "revelation.21.4",
+                "book": "revelation",
+                "chapter": 21,
+                "verseStart": 4,
+                "verseEnd": 4
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          }
+        }
+      ],
+      "defense": [
+        {
+          "id": "buddhism-philosophy-not-religion-fits",
+          "objection": "\"Buddhism is a philosophy, not a religion. It fits with any belief.\"",
+          "response": "The Buddha's teaching has no Creator and no soul. Jesus teaches both, and says He is the only way. They cannot both be right.",
+          "goTo": "Gen 1:1; Matt 10:28; John 14:6",
+          "askBack": "*\"Which of the two would you give up?\"*",
+          "verses": [
+            {
+              "label": "Gen 1:1",
+              "kind": "bible",
+              "key": "genesis.1.1",
+              "book": "genesis",
+              "chapter": 1,
+              "verseStart": 1,
+              "verseEnd": 1
+            },
+            {
+              "label": "Matt 10:28",
+              "kind": "bible",
+              "key": "matthew.10.28",
+              "book": "matthew",
+              "chapter": 10,
+              "verseStart": 28,
+              "verseEnd": 28
+            },
+            {
+              "label": "John 14:6",
+              "kind": "bible",
+              "key": "john.14.6",
+              "book": "john",
+              "chapter": 14,
+              "verseStart": 6,
+              "verseEnd": 6
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "there-no-creator-universe-has",
+          "objection": "\"There is no creator. The universe has always cycled.\"",
+          "response": "Something that changes and decays cannot be eternal and self-explaining. Creation shows God's eternal power so plainly that men are without excuse. See [Worldviews: how do you know?](/topic/worldviews-how-do-you-know).",
+          "goTo": "Gen 1:1; Rom 1:19–20; Heb 3:4; Ps 19:1",
+          "askBack": "*\"Why is there something and not nothing?\"*",
+          "verses": [
+            {
+              "label": "Gen 1:1",
+              "kind": "bible",
+              "key": "genesis.1.1",
+              "book": "genesis",
+              "chapter": 1,
+              "verseStart": 1,
+              "verseEnd": 1
+            },
+            {
+              "label": "Rom 1:19–20",
+              "kind": "bible",
+              "key": "romans.1.19-20",
+              "book": "romans",
+              "chapter": 1,
+              "verseStart": 19,
+              "verseEnd": 20
+            },
+            {
+              "label": "Heb 3:4",
+              "kind": "bible",
+              "key": "hebrews.3.4",
+              "book": "hebrews",
+              "chapter": 3,
+              "verseStart": 4,
+              "verseEnd": 4
+            },
+            {
+              "label": "Ps 19:1",
+              "kind": "bible",
+              "key": "psalms.19.1",
+              "book": "psalms",
+              "chapter": 19,
+              "verseStart": 1,
+              "verseEnd": 1
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "desire-root-suffering",
+          "objection": "\"Desire is the root of suffering.\"",
+          "response": "Wrong desire is. God made us to desire, and commands us to delight in Him. Sin is what brought suffering in.",
+          "goTo": "Ps 37:4; Ps 16:11; James 1:14–15; Rom 5:12",
+          "askBack": "*\"Is the desire to end suffering also a problem?\"*",
+          "verses": [
+            {
+              "label": "Ps 37:4",
+              "kind": "bible",
+              "key": "psalms.37.4",
+              "book": "psalms",
+              "chapter": 37,
+              "verseStart": 4,
+              "verseEnd": 4
+            },
+            {
+              "label": "Ps 16:11",
+              "kind": "bible",
+              "key": "psalms.16.11",
+              "book": "psalms",
+              "chapter": 16,
+              "verseStart": 11,
+              "verseEnd": 11
+            },
+            {
+              "label": "Jas 1:14–15",
+              "kind": "bible",
+              "key": "james.1.14-15",
+              "book": "james",
+              "chapter": 1,
+              "verseStart": 14,
+              "verseEnd": 15
+            },
+            {
+              "label": "Rom 5:12",
+              "kind": "bible",
+              "key": "romans.5.12",
+              "book": "romans",
+              "chapter": 5,
+              "verseStart": 12,
+              "verseEnd": 12
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "there-no-self",
+          "objection": "\"There is no self.\"",
+          "response": "Then who is practicing, and who is reborn? You know you are someone. God made you in His image and knows you by name.",
+          "goTo": "Gen 1:27; Ps 139:13–16; Isa 43:1",
+          "askBack": "*\"Who is the one asking?\"*",
+          "verses": [
+            {
+              "label": "Gen 1:27",
+              "kind": "bible",
+              "key": "genesis.1.27",
+              "book": "genesis",
+              "chapter": 1,
+              "verseStart": 27,
+              "verseEnd": 27
+            },
+            {
+              "label": "Ps 139:13–16",
+              "kind": "bible",
+              "key": "psalms.139.13-16",
+              "book": "psalms",
+              "chapter": 139,
+              "verseStart": 13,
+              "verseEnd": 16
+            },
+            {
+              "label": "Isa 43:1",
+              "kind": "bible",
+              "key": "isaiah.43.1",
+              "book": "isaiah",
+              "chapter": 43,
+              "verseStart": 1,
+              "verseEnd": 1
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "im-responsible-for-my-own",
+          "objection": "\"I'm responsible for my own liberation.\"",
+          "response": "That is honest, and it is the bad news. No one keeps the path perfectly. The gospel is for the helpless.",
+          "goTo": "Rom 5:6; Rom 7:18–19; Eph 2:8–9; Titus 3:5",
+          "askBack": "*\"How is the path going?\"*",
+          "verses": [
+            {
+              "label": "Rom 5:6",
+              "kind": "bible",
+              "key": "romans.5.6",
+              "book": "romans",
+              "chapter": 5,
+              "verseStart": 6,
+              "verseEnd": 6
+            },
+            {
+              "label": "Rom 7:18–19",
+              "kind": "bible",
+              "key": "romans.7.18-19",
+              "book": "romans",
+              "chapter": 7,
+              "verseStart": 18,
+              "verseEnd": 19
+            },
+            {
+              "label": "Eph 2:8–9",
+              "kind": "bible",
+              "key": "ephesians.2.8-9",
+              "book": "ephesians",
+              "chapter": 2,
+              "verseStart": 8,
+              "verseEnd": 9
+            },
+            {
+              "label": "Titus 3:5",
+              "kind": "bible",
+              "key": "titus.3.5",
+              "book": "titus",
+              "chapter": 3,
+              "verseStart": 5,
+              "verseEnd": 5
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "karma-perfectly-fair",
+          "objection": "\"Karma is perfectly fair.\"",
+          "response": "Fair is exactly what we should fear. And with no judge, who administers it? Scripture has a Judge who is just, and who also made a way for mercy.",
+          "goTo": "Rom 2:5–6; Rom 3:25–26; Ps 103:10",
+          "askBack": "*\"Do you want what you deserve?\"*",
+          "verses": [
+            {
+              "label": "Rom 2:5–6",
+              "kind": "bible",
+              "key": "romans.2.5-6",
+              "book": "romans",
+              "chapter": 2,
+              "verseStart": 5,
+              "verseEnd": 6
+            },
+            {
+              "label": "Rom 3:25–26",
+              "kind": "bible",
+              "key": "romans.3.25-26",
+              "book": "romans",
+              "chapter": 3,
+              "verseStart": 25,
+              "verseEnd": 26
+            },
+            {
+              "label": "Ps 103:10",
+              "kind": "bible",
+              "key": "psalms.103.10",
+              "book": "psalms",
+              "chapter": 103,
+              "verseStart": 10,
+              "verseEnd": 10
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "christians-believe-hell-buddhism-more",
+          "objection": "\"Christians believe in hell. Buddhism is more compassionate.\"",
+          "response": "Traditional Buddhism has hells too, for ages. The question is what is true. The same Jesus who warned of hell died to keep people out of it. See [Hell and eternal judgment](/topic/hell-and-eternal-judgment).",
+          "goTo": "Matt 25:46; John 3:16–17; 2 Pet 3:9",
+          "askBack": "*\"If the warning is true, is it unkind to give it?\"*",
+          "verses": [
+            {
+              "label": "Matt 25:46",
+              "kind": "bible",
+              "key": "matthew.25.46",
+              "book": "matthew",
+              "chapter": 25,
+              "verseStart": 46,
+              "verseEnd": 46
+            },
+            {
+              "label": "John 3:16–17",
+              "kind": "bible",
+              "key": "john.3.16-17",
+              "book": "john",
+              "chapter": 3,
+              "verseStart": 16,
+              "verseEnd": 17
+            },
+            {
+              "label": "2 Pet 3:9",
+              "kind": "bible",
+              "key": "2-peter.3.9",
+              "book": "2-peter",
+              "chapter": 3,
+              "verseStart": 9,
+              "verseEnd": 9
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "all-teachers-same-thing-kind",
+          "objection": "\"All teachers say the same thing: be kind.\"",
+          "response": "They share some ethics and differ on everything underneath. Only Jesus claimed to be God, died for sins and rose. Kindness does not remove guilt.",
+          "goTo": "John 8:58; 1 Cor 15:3–4; Acts 17:31",
+          "askBack": "*\"Did the Buddha claim to forgive sins?\"*",
+          "verses": [
+            {
+              "label": "John 8:58",
+              "kind": "bible",
+              "key": "john.8.58",
+              "book": "john",
+              "chapter": 8,
+              "verseStart": 58,
+              "verseEnd": 58
+            },
+            {
+              "label": "1 Cor 15:3–4",
+              "kind": "bible",
+              "key": "1-corinthians.15.3-4",
+              "book": "1-corinthians",
+              "chapter": 15,
+              "verseStart": 3,
+              "verseEnd": 4
+            },
+            {
+              "label": "Acts 17:31",
+              "kind": "bible",
+              "key": "acts.17.31",
+              "book": "acts",
+              "chapter": 17,
+              "verseStart": 31,
+              "verseEnd": 31
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "just-live-present-moment",
+          "objection": "\"I just live in the present moment.\"",
+          "response": "Good, as far as it goes. But the present moment is moving toward a day God has fixed. Wisdom numbers its days.",
+          "goTo": "Ps 90:12; Heb 9:27; 2 Cor 6:2",
+          "askBack": "*\"What happens in the moment after your last one?\"*",
+          "verses": [
+            {
+              "label": "Ps 90:12",
+              "kind": "bible",
+              "key": "psalms.90.12",
+              "book": "psalms",
+              "chapter": 90,
+              "verseStart": 12,
+              "verseEnd": 12
+            },
+            {
+              "label": "Heb 9:27",
+              "kind": "bible",
+              "key": "hebrews.9.27",
+              "book": "hebrews",
+              "chapter": 9,
+              "verseStart": 27,
+              "verseEnd": 27
+            },
+            {
+              "label": "2 Cor 6:2",
+              "kind": "bible",
+              "key": "2-corinthians.6.2",
+              "book": "2-corinthians",
+              "chapter": 6,
+              "verseStart": 2,
+              "verseEnd": 2
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        }
+      ],
+      "exits": {
+        "label": "Typical exits",
+        "items": [
+          {
+            "text": "\"It works for me.\" (Ask: *\"Does it work for your guilt and your death?\"*)",
+            "verses": [],
+            "links": [],
+            "supplemental": false
+          },
+          {
+            "text": "\"I don't think in terms of God.\" (Leave Gen 1:1 and the question, *\"What if there is One who thinks in terms of you?\"*)",
+            "verses": [
+              {
+                "label": "Gen 1:1",
+                "kind": "bible",
+                "key": "genesis.1.1",
+                "book": "genesis",
+                "chapter": 1,
+                "verseStart": 1,
+                "verseEnd": 1
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          },
+          {
+            "text": "\"Let's not be attached to views.\" (Smile: *\"That is a view. Jesus made claims. Would you read Mark and weigh them?\"*)",
+            "verses": [],
+            "links": [],
+            "supplemental": false
+          },
+          {
+            "text": "Calm agreement and a change of subject. (Leave one sentence: *\"Strive on,\" or \"It is finished.\"*)",
+            "verses": [],
+            "links": [],
+            "supplemental": false
+          }
+        ]
+      }
+    },
+    {
+      "slug": "new-age",
+      "name": "New Age / Spiritualist",
+      "heading": "NEW AGE / SPIRITUALISTS",
+      "color": "#a78bfa",
+      "emoji": "✨",
+      "beliefs": {
+        "text": "There is no book and no creed, which is the point: \"I'm spiritual, not religious.\" The common threads are these. All is one, and the divine is an energy or consciousness in everything, often called \"the Universe.\" You are divine at your core, and your problem is not sin but forgetting who you are. You create your own reality by your thoughts (manifestation, the law of attraction). Truth is personal: \"my truth.\" Guidance comes from within, and from tools such as astrology, tarot, crystals, energy healing, psychedelics, spirit guides, angels and the dead. Most believe in reincarnation and karma. Jesus is an enlightened teacher who reached \"Christ consciousness,\" which anyone can reach.",
+        "verses": [],
+        "links": [],
+        "supplemental": false
+      },
+      "lead": [
+        {
+          "label": "Their position",
+          "text": "There is no book and no creed, which is the point: \"I'm spiritual, not religious.\" The common threads are these. All is one, and the divine is an energy or consciousness in everything, often called \"the Universe.\" You are divine at your core, and your problem is not sin but forgetting who you are. You create your own reality by your thoughts (manifestation, the law of attraction). Truth is personal: \"my truth.\" Guidance comes from within, and from tools such as astrology, tarot, crystals, energy healing, psychedelics, spirit guides, angels and the dead. Most believe in reincarnation and karma. Jesus is an enlightened teacher who reached \"Christ consciousness,\" which anyone can reach.",
+          "verses": [],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "The dividing issue",
+          "text": "Who is God: the Creator, or you. Scripture draws a hard line between the Creator and everything He made, says the human heart is not divine but deceitful, and calls contact with spirits what it is. The first lie in the Bible is the New Age gospel in five words: \"You will be like God.\" (Gen 3:4–5; Rom 1:25; Jer 17:9; Isa 45:5)",
+          "verses": [
+            {
+              "label": "Gen 3:4–5",
+              "kind": "bible",
+              "key": "genesis.3.4-5",
+              "book": "genesis",
+              "chapter": 3,
+              "verseStart": 4,
+              "verseEnd": 5
+            },
+            {
+              "label": "Rom 1:25",
+              "kind": "bible",
+              "key": "romans.1.25",
+              "book": "romans",
+              "chapter": 1,
+              "verseStart": 25,
+              "verseEnd": 25
+            },
+            {
+              "label": "Jer 17:9",
+              "kind": "bible",
+              "key": "jeremiah.17.9",
+              "book": "jeremiah",
+              "chapter": 17,
+              "verseStart": 9,
+              "verseEnd": 9
+            },
+            {
+              "label": "Isa 45:5",
+              "kind": "bible",
+              "key": "isaiah.45.5",
+              "book": "isaiah",
+              "chapter": 45,
+              "verseStart": 5,
+              "verseEnd": 5
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "Ask this question",
+          "text": "*\"If your truth and my truth contradict each other, can they both be true? And how do you know the voice you are listening to is good?\"* (1 John 4:1)",
+          "verses": [
+            {
+              "label": "1 John 4:1",
+              "kind": "bible",
+              "key": "1-john.4.1",
+              "book": "1-john",
+              "chapter": 4,
+              "verseStart": 1,
+              "verseEnd": 1
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "Scriptural response",
+          "text": "God made the world; He is not the world, and neither are you. He forbids divination, fortune-telling, mediums and calling up the dead, because they are detestable to Him and because He has spoken. Satan disguises himself as an angel of light. There is one mediator between God and men, the man Christ Jesus. It is appointed for men to die once, and after this comes judgment. (Acts 17:24–25; Deut 18:10–12; Isa 8:19–20; 2 Cor 11:14; 1 Tim 2:5; Heb 9:27)",
+          "verses": [
+            {
+              "label": "Acts 17:24–25",
+              "kind": "bible",
+              "key": "acts.17.24-25",
+              "book": "acts",
+              "chapter": 17,
+              "verseStart": 24,
+              "verseEnd": 25
+            },
+            {
+              "label": "Deut 18:10–12",
+              "kind": "bible",
+              "key": "deuteronomy.18.10-12",
+              "book": "deuteronomy",
+              "chapter": 18,
+              "verseStart": 10,
+              "verseEnd": 12
+            },
+            {
+              "label": "Isa 8:19–20",
+              "kind": "bible",
+              "key": "isaiah.8.19-20",
+              "book": "isaiah",
+              "chapter": 8,
+              "verseStart": 19,
+              "verseEnd": 20
+            },
+            {
+              "label": "2 Cor 11:14",
+              "kind": "bible",
+              "key": "2-corinthians.11.14",
+              "book": "2-corinthians",
+              "chapter": 11,
+              "verseStart": 14,
+              "verseEnd": 14
+            },
+            {
+              "label": "1 Tim 2:5",
+              "kind": "bible",
+              "key": "1-timothy.2.5",
+              "book": "1-timothy",
+              "chapter": 2,
+              "verseStart": 5,
+              "verseEnd": 5
+            },
+            {
+              "label": "Heb 9:27",
+              "kind": "bible",
+              "key": "hebrews.9.27",
+              "book": "hebrews",
+              "chapter": 9,
+              "verseStart": 27,
+              "verseEnd": 27
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "Common objection",
+          "text": "*\"I've had real experiences. I've felt the energy, and my readings come true.\"* → I believe you. The Bible never says these things are fake; it says they are forbidden. A slave girl in Philippi told fortunes accurately by a spirit, and Paul cast it out. Real is not the same as good. The test of a spirit is what it says about Jesus. (Acts 16:16–18; 1 John 4:1–3; Deut 13:1–3)",
+          "verses": [
+            {
+              "label": "Acts 16:16–18",
+              "kind": "bible",
+              "key": "acts.16.16-18",
+              "book": "acts",
+              "chapter": 16,
+              "verseStart": 16,
+              "verseEnd": 18
+            },
+            {
+              "label": "1 John 4:1–3",
+              "kind": "bible",
+              "key": "1-john.4.1-3",
+              "book": "1-john",
+              "chapter": 4,
+              "verseStart": 1,
+              "verseEnd": 3
+            },
+            {
+              "label": "Deut 13:1–3",
+              "kind": "bible",
+              "key": "deuteronomy.13.1-3",
+              "book": "deuteronomy",
+              "chapter": 13,
+              "verseStart": 1,
+              "verseEnd": 3
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "Gospel bridge",
+          "text": "*\"You have been told to look within. What if what is within is the problem, and the help has to come from outside you?\"* You are not God, and that is good news: you don't have to hold your universe together. The God who made you came for you. He does not ask you to raise your vibration; He raises the dead. (Mark 7:21–23; Eph 2:4–5; Col 1:16–17; John 10:10)",
+          "verses": [
+            {
+              "label": "Mark 7:21–23",
+              "kind": "bible",
+              "key": "mark.7.21-23",
+              "book": "mark",
+              "chapter": 7,
+              "verseStart": 21,
+              "verseEnd": 23
+            },
+            {
+              "label": "Eph 2:4–5",
+              "kind": "bible",
+              "key": "ephesians.2.4-5",
+              "book": "ephesians",
+              "chapter": 2,
+              "verseStart": 4,
+              "verseEnd": 5
+            },
+            {
+              "label": "Col 1:16–17",
+              "kind": "bible",
+              "key": "colossians.1.16-17",
+              "book": "colossians",
+              "chapter": 1,
+              "verseStart": 16,
+              "verseEnd": 17
+            },
+            {
+              "label": "John 10:10",
+              "kind": "bible",
+              "key": "john.10.10",
+              "book": "john",
+              "chapter": 10,
+              "verseStart": 10,
+              "verseEnd": 10
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "Where we agree",
+          "text": "There is more to reality than matter. The spiritual world is real. People are more than animals, the world's religion of money and status is empty, and a great deal of church life has been cold and hypocritical. We are made for something beyond ourselves.",
+          "verses": [],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "Approach",
+          "text": "This is probably the most common belief you will meet, often mixed with a church background. Many came to it through pain, illness or a bad church. Ask what they practice and what they were looking for when they started. Don't mock crystals; go to the heart: who is God, what is wrong with us, how do you know. Define every word, because they will say \"Christ,\" \"light,\" \"spirit\" and \"energy\" with other meanings. Take the spirits seriously, not fearfully: greater is He who is in you. Expect \"that's your truth\"; answer it once, kindly, and go back to Jesus. MacArthur's warning about the pull of false religion applies here in full, and he includes every system in it. (Col 2:8; 1 John 4:4; Acts 19:18–20; Jude 1:22–23)",
+          "verses": [
+            {
+              "label": "Col 2:8",
+              "kind": "bible",
+              "key": "colossians.2.8",
+              "book": "colossians",
+              "chapter": 2,
+              "verseStart": 8,
+              "verseEnd": 8
+            },
+            {
+              "label": "1 John 4:4",
+              "kind": "bible",
+              "key": "1-john.4.4",
+              "book": "1-john",
+              "chapter": 4,
+              "verseStart": 4,
+              "verseEnd": 4
+            },
+            {
+              "label": "Acts 19:18–20",
+              "kind": "bible",
+              "key": "acts.19.18-20",
+              "book": "acts",
+              "chapter": 19,
+              "verseStart": 18,
+              "verseEnd": 20
+            },
+            {
+              "label": "Jude 1:22–23",
+              "kind": "bible",
+              "key": "jude.1.22-23",
+              "book": "jude",
+              "chapter": 1,
+              "verseStart": 22,
+              "verseEnd": 23
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        }
+      ],
+      "cheatCardTitle": "New Age Cheat Card",
+      "cheatCard": [
+        {
+          "text": "**Gen 3:4–5**: *\"Who first said, 'You will be like God'?\"*",
+          "verses": [
+            {
+              "label": "Gen 3:4–5",
+              "kind": "bible",
+              "key": "genesis.3.4-5",
+              "book": "genesis",
+              "chapter": 3,
+              "verseStart": 4,
+              "verseEnd": 5
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "text": "**Jer 17:9**: *\"If the heart is deceitful, is 'follow your heart' safe advice?\"*",
+          "verses": [
+            {
+              "label": "Jer 17:9",
+              "kind": "bible",
+              "key": "jeremiah.17.9",
+              "book": "jeremiah",
+              "chapter": 17,
+              "verseStart": 9,
+              "verseEnd": 9
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "text": "**Deut 18:10–12**: *\"What does God say about mediums, fortune-telling and divination?\"*",
+          "verses": [
+            {
+              "label": "Deut 18:10–12",
+              "kind": "bible",
+              "key": "deuteronomy.18.10-12",
+              "book": "deuteronomy",
+              "chapter": 18,
+              "verseStart": 10,
+              "verseEnd": 12
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "text": "**2 Cor 11:14**: *\"If a spirit of darkness came to you, how would it look?\"*",
+          "verses": [
+            {
+              "label": "2 Cor 11:14",
+              "kind": "bible",
+              "key": "2-corinthians.11.14",
+              "book": "2-corinthians",
+              "chapter": 11,
+              "verseStart": 14,
+              "verseEnd": 14
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "text": "**John 14:6**: *\"Did Jesus say 'find your truth,' or 'I am the truth'?\"*",
+          "verses": [
+            {
+              "label": "John 14:6",
+              "kind": "bible",
+              "key": "john.14.6",
+              "book": "john",
+              "chapter": 14,
+              "verseStart": 6,
+              "verseEnd": 6
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "text": "**Heb 9:27**: *\"How many times does a person die?\"*",
+          "verses": [
+            {
+              "label": "Heb 9:27",
+              "kind": "bible",
+              "key": "hebrews.9.27",
+              "book": "hebrews",
+              "chapter": 9,
+              "verseStart": 27,
+              "verseEnd": 27
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        }
+      ],
+      "offense": [
+        {
+          "id": "play-1",
+          "number": 1,
+          "title": "Are you God?",
+          "subtitle": "Creator and creature",
+          "warning": false,
+          "supplemental": false,
+          "altOpeners": [
+            {
+              "text": "*\"If we are all divine, why is the world like this?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "chain": [
+            {
+              "text": "**Gen 1:1; Acts 17:24–25**: God made the world and everything in it, and gives to all people life and breath. He is the giver; we are the receivers. *\"Did you make yourself?\"*",
+              "verses": [
+                {
+                  "label": "Gen 1:1",
+                  "kind": "bible",
+                  "key": "genesis.1.1",
+                  "book": "genesis",
+                  "chapter": 1,
+                  "verseStart": 1,
+                  "verseEnd": 1
+                },
+                {
+                  "label": "Acts 17:24–25",
+                  "kind": "bible",
+                  "key": "acts.17.24-25",
+                  "book": "acts",
+                  "chapter": 17,
+                  "verseStart": 24,
+                  "verseEnd": 25
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Isa 45:5; Isa 46:9**: \"I am God, and there is no other; I am God, and there is no one like Me.\" That leaves no room for seven billion more.",
+              "verses": [
+                {
+                  "label": "Isa 45:5",
+                  "kind": "bible",
+                  "key": "isaiah.45.5",
+                  "book": "isaiah",
+                  "chapter": 45,
+                  "verseStart": 5,
+                  "verseEnd": 5
+                },
+                {
+                  "label": "Isa 46:9",
+                  "kind": "bible",
+                  "key": "isaiah.46.9",
+                  "book": "isaiah",
+                  "chapter": 46,
+                  "verseStart": 9,
+                  "verseEnd": 9
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Gen 3:4–5**: The serpent's offer was, \"You will be like God.\" *\"The idea that we are divine is not new. Where did it first come from, and how did it turn out?\"*",
+              "verses": [
+                {
+                  "label": "Gen 3:4–5",
+                  "kind": "bible",
+                  "key": "genesis.3.4-5",
+                  "book": "genesis",
+                  "chapter": 3,
+                  "verseStart": 4,
+                  "verseEnd": 5
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Ezek 28:2**: \"You are a man and not God, although you make your heart like the heart of God.\" We get tired, we get sick, we cannot keep our own resolutions, and we die.",
+              "verses": [
+                {
+                  "label": "Ezek 28:2",
+                  "kind": "bible",
+                  "key": "ezekiel.28.2",
+                  "book": "ezekiel",
+                  "chapter": 28,
+                  "verseStart": 2,
+                  "verseEnd": 2
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Rom 1:21–25**: Knowing God, men did not honor Him or give thanks, and exchanged the truth of God for a lie, worshiping the creature rather than the Creator. *\"Is it possible that 'the Universe' is a way to have spirituality without Someone to answer to?\"*",
+              "verses": [
+                {
+                  "label": "Rom 1:21–25",
+                  "kind": "bible",
+                  "key": "romans.1.21-25",
+                  "book": "romans",
+                  "chapter": 1,
+                  "verseStart": 21,
+                  "verseEnd": 25
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Mark 7:21–23; Jer 17:9**: What is within is not a spark of God. Jesus said evil comes from within. That is why \"look within\" cannot save.",
+              "verses": [
+                {
+                  "label": "Mark 7:21–23",
+                  "kind": "bible",
+                  "key": "mark.7.21-23",
+                  "book": "mark",
+                  "chapter": 7,
+                  "verseStart": 21,
+                  "verseEnd": 23
+                },
+                {
+                  "label": "Jer 17:9",
+                  "kind": "bible",
+                  "key": "jeremiah.17.9",
+                  "book": "jeremiah",
+                  "chapter": 17,
+                  "verseStart": 9,
+                  "verseEnd": 9
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Col 1:16–17; John 1:1–3, 14**: The One through whom all things were made, and in whom all things hold together, became flesh and came to us. *\"You don't have to become God. God became man.\"*",
+              "verses": [
+                {
+                  "label": "Col 1:16–17",
+                  "kind": "bible",
+                  "key": "colossians.1.16-17",
+                  "book": "colossians",
+                  "chapter": 1,
+                  "verseStart": 16,
+                  "verseEnd": 17
+                },
+                {
+                  "label": "John 1:1–3",
+                  "kind": "bible",
+                  "key": "john.1.1-3",
+                  "book": "john",
+                  "chapter": 1,
+                  "verseStart": 1,
+                  "verseEnd": 3
+                },
+                {
+                  "label": "John 1:14",
+                  "kind": "bible",
+                  "key": "john.1.14",
+                  "book": "john",
+                  "chapter": 1,
+                  "verseStart": 14,
+                  "verseEnd": 14
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "questions": [],
+          "ifTheySay": [
+            {
+              "theySay": "*\"Jesus said, 'The kingdom of God is within you.'\"*",
+              "youSay": "He said it to Pharisees who were plotting against Him; He was not telling them they were divine. The King was standing in their midst. The same Jesus said that what comes from within a man defiles him. (Luke 17:20–21; Mark 7:20–23)",
+              "verses": [
+                {
+                  "label": "Luke 17:20–21",
+                  "kind": "bible",
+                  "key": "luke.17.20-21",
+                  "book": "luke",
+                  "chapter": 17,
+                  "verseStart": 20,
+                  "verseEnd": 21
+                },
+                {
+                  "label": "Mark 7:20–23",
+                  "kind": "bible",
+                  "key": "mark.7.20-23",
+                  "book": "mark",
+                  "chapter": 7,
+                  "verseStart": 20,
+                  "verseEnd": 23
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"Jesus reached Christ consciousness, and so can we.\"*",
+              "youSay": "\"Christ\" is not a state of mind; it is a title, the Messiah, and it belongs to one Man. He warned that many would come saying \"I am the Christ.\" (Matt 16:16; Matt 24:4–5, 23–24; 1 John 2:22)",
+              "verses": [
+                {
+                  "label": "Matt 16:16",
+                  "kind": "bible",
+                  "key": "matthew.16.16",
+                  "book": "matthew",
+                  "chapter": 16,
+                  "verseStart": 16,
+                  "verseEnd": 16
+                },
+                {
+                  "label": "Matt 24:4–5",
+                  "kind": "bible",
+                  "key": "matthew.24.4-5",
+                  "book": "matthew",
+                  "chapter": 24,
+                  "verseStart": 4,
+                  "verseEnd": 5
+                },
+                {
+                  "label": "Matt 24:23–24",
+                  "kind": "bible",
+                  "key": "matthew.24.23-24",
+                  "book": "matthew",
+                  "chapter": 24,
+                  "verseStart": 23,
+                  "verseEnd": 24
+                },
+                {
+                  "label": "1 John 2:22",
+                  "kind": "bible",
+                  "key": "1-john.2.22",
+                  "book": "1-john",
+                  "chapter": 2,
+                  "verseStart": 22,
+                  "verseEnd": 22
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"We're all children of God.\"*",
+              "youSay": "All are made by God. But the right to become children of God is given to those who receive Christ and believe in His name. (John 1:12; Gal 3:26; Acts 17:28–29)",
+              "verses": [
+                {
+                  "label": "John 1:12",
+                  "kind": "bible",
+                  "key": "john.1.12",
+                  "book": "john",
+                  "chapter": 1,
+                  "verseStart": 12,
+                  "verseEnd": 12
+                },
+                {
+                  "label": "Gal 3:26",
+                  "kind": "bible",
+                  "key": "galatians.3.26",
+                  "book": "galatians",
+                  "chapter": 3,
+                  "verseStart": 26,
+                  "verseEnd": 26
+                },
+                {
+                  "label": "Acts 17:28–29",
+                  "kind": "bible",
+                  "key": "acts.17.28-29",
+                  "book": "acts",
+                  "chapter": 17,
+                  "verseStart": 28,
+                  "verseEnd": 29
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"That's your truth.\"*",
+              "youSay": "Is that statement true for both of us, or only for you? Jesus did not say He had a truth. He said, \"I am the truth.\" See [Faith and reason](/topic/faith-and-reason). (John 14:6; John 18:37)",
+              "verses": [
+                {
+                  "label": "John 14:6",
+                  "kind": "bible",
+                  "key": "john.14.6",
+                  "book": "john",
+                  "chapter": 14,
+                  "verseStart": 6,
+                  "verseEnd": 6
+                },
+                {
+                  "label": "John 18:37",
+                  "kind": "bible",
+                  "key": "john.18.37",
+                  "book": "john",
+                  "chapter": 18,
+                  "verseStart": 37,
+                  "verseEnd": 37
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "notes": [],
+          "links": [],
+          "opener": {
+            "text": "*\"When you say 'the Universe,' do you mean a someone or a something? Does it know your name?\"*",
+            "verses": [],
+            "links": [],
+            "supplemental": false
+          },
+          "closer": {
+            "text": "*\"Being your own god is exhausting. You were never meant to hold it all together. There is One who does, and He says, 'Come to Me.' Would you?\"* (Col 1:17; Matt 11:28)",
+            "verses": [
+              {
+                "label": "Col 1:17",
+                "kind": "bible",
+                "key": "colossians.1.17",
+                "book": "colossians",
+                "chapter": 1,
+                "verseStart": 17,
+                "verseEnd": 17
+              },
+              {
+                "label": "Matt 11:28",
+                "kind": "bible",
+                "key": "matthew.11.28",
+                "book": "matthew",
+                "chapter": 11,
+                "verseStart": 28,
+                "verseEnd": 28
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          }
+        },
+        {
+          "id": "play-2",
+          "number": 2,
+          "title": "Which spirit?",
+          "subtitle": "guides, readings and the test",
+          "warning": false,
+          "supplemental": false,
+          "altOpeners": [
+            {
+              "text": "*\"Has anything you've encountered ever frightened you?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "chain": [
+            {
+              "text": "**Eph 6:12; 1 Pet 5:8**: The Bible agrees the spirit world is real, and says not all of it is friendly. There are spiritual forces of wickedness, and an adversary who prowls like a lion.",
+              "verses": [
+                {
+                  "label": "Eph 6:12",
+                  "kind": "bible",
+                  "key": "ephesians.6.12",
+                  "book": "ephesians",
+                  "chapter": 6,
+                  "verseStart": 12,
+                  "verseEnd": 12
+                },
+                {
+                  "label": "1 Pet 5:8",
+                  "kind": "bible",
+                  "key": "1-peter.5.8",
+                  "book": "1-peter",
+                  "chapter": 5,
+                  "verseStart": 8,
+                  "verseEnd": 8
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**2 Cor 11:14**: Satan disguises himself as an angel of light. A deceiving spirit would be warm, wise-sounding and affirming. *\"So how would you tell?\"*",
+              "verses": [
+                {
+                  "label": "2 Cor 11:14",
+                  "kind": "bible",
+                  "key": "2-corinthians.11.14",
+                  "book": "2-corinthians",
+                  "chapter": 11,
+                  "verseStart": 14,
+                  "verseEnd": 14
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Deut 18:10–12**: God forbids divination, omens, sorcery, mediums, spiritists and calling up the dead, and calls them detestable. That covers tarot, astrology, channeling and séances. **Isa 47:13–14**: the stargazers cannot even save themselves.",
+              "verses": [
+                {
+                  "label": "Deut 18:10–12",
+                  "kind": "bible",
+                  "key": "deuteronomy.18.10-12",
+                  "book": "deuteronomy",
+                  "chapter": 18,
+                  "verseStart": 10,
+                  "verseEnd": 12
+                },
+                {
+                  "label": "Isa 47:13–14",
+                  "kind": "bible",
+                  "key": "isaiah.47.13-14",
+                  "book": "isaiah",
+                  "chapter": 47,
+                  "verseStart": 13,
+                  "verseEnd": 14
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Isa 8:19–20**: \"Should not a people consult their God? Should they consult the dead on behalf of the living? To the law and to the testimony!\" God is not silent; He has spoken in His word.",
+              "verses": [
+                {
+                  "label": "Isa 8:19–20",
+                  "kind": "bible",
+                  "key": "isaiah.8.19-20",
+                  "book": "isaiah",
+                  "chapter": 8,
+                  "verseStart": 19,
+                  "verseEnd": 20
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**1 John 4:1–3**: Test the spirits. Every spirit that does not confess Jesus, the Christ come in the flesh, is not from God. *\"What do your guides say about Jesus dying for sins?\"*",
+              "verses": [
+                {
+                  "label": "1 John 4:1–3",
+                  "kind": "bible",
+                  "key": "1-john.4.1-3",
+                  "book": "1-john",
+                  "chapter": 4,
+                  "verseStart": 1,
+                  "verseEnd": 3
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**1 Tim 2:5; Heb 4:14–16**: There is one mediator. You do not need a psychic, a guide or a dead relative; you may come straight to the throne of grace through Christ.",
+              "verses": [
+                {
+                  "label": "1 Tim 2:5",
+                  "kind": "bible",
+                  "key": "1-timothy.2.5",
+                  "book": "1-timothy",
+                  "chapter": 2,
+                  "verseStart": 5,
+                  "verseEnd": 5
+                },
+                {
+                  "label": "Heb 4:14–16",
+                  "kind": "bible",
+                  "key": "hebrews.4.14-16",
+                  "book": "hebrews",
+                  "chapter": 4,
+                  "verseStart": 14,
+                  "verseEnd": 16
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Acts 19:18–20; Col 2:15**: In Ephesus those who had practiced magic brought their books and burned them. Christ disarmed the rulers and authorities at the cross. *\"Whatever you have opened the door to, He is stronger.\"*",
+              "verses": [
+                {
+                  "label": "Acts 19:18–20",
+                  "kind": "bible",
+                  "key": "acts.19.18-20",
+                  "book": "acts",
+                  "chapter": 19,
+                  "verseStart": 18,
+                  "verseEnd": 20
+                },
+                {
+                  "label": "Col 2:15",
+                  "kind": "bible",
+                  "key": "colossians.2.15",
+                  "book": "colossians",
+                  "chapter": 2,
+                  "verseStart": 15,
+                  "verseEnd": 15
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "questions": [],
+          "ifTheySay": [
+            {
+              "theySay": "*\"My guides are loving. They only tell me good things.\"*",
+              "youSay": "A spirit that never names your sin and never points you to Christ's cross is telling you what the serpent told Eve: you will not die. Love tells the truth. (Gen 3:4; Jer 6:14; Gal 1:8)",
+              "verses": [
+                {
+                  "label": "Gen 3:4",
+                  "kind": "bible",
+                  "key": "genesis.3.4",
+                  "book": "genesis",
+                  "chapter": 3,
+                  "verseStart": 4,
+                  "verseEnd": 4
+                },
+                {
+                  "label": "Jer 6:14",
+                  "kind": "bible",
+                  "key": "jeremiah.6.14",
+                  "book": "jeremiah",
+                  "chapter": 6,
+                  "verseStart": 14,
+                  "verseEnd": 14
+                },
+                {
+                  "label": "Gal 1:8",
+                  "kind": "bible",
+                  "key": "galatians.1.8",
+                  "book": "galatians",
+                  "chapter": 1,
+                  "verseStart": 8,
+                  "verseEnd": 8
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"I talk to my grandmother. It comforts me.\"*",
+              "youSay": "I'm sorry for your loss. Scripture says the dead do not return to guide us, and forbids seeking them, so whatever is answering is not her. The God of all comfort invites you to bring that grief to Him. (Luke 16:26; Deut 18:11; 2 Cor 1:3–4)",
+              "verses": [
+                {
+                  "label": "Luke 16:26",
+                  "kind": "bible",
+                  "key": "luke.16.26",
+                  "book": "luke",
+                  "chapter": 16,
+                  "verseStart": 26,
+                  "verseEnd": 26
+                },
+                {
+                  "label": "Deut 18:11",
+                  "kind": "bible",
+                  "key": "deuteronomy.18.11",
+                  "book": "deuteronomy",
+                  "chapter": 18,
+                  "verseStart": 11,
+                  "verseEnd": 11
+                },
+                {
+                  "label": "2 Cor 1:3–4",
+                  "kind": "bible",
+                  "key": "2-corinthians.1.3-4",
+                  "book": "2-corinthians",
+                  "chapter": 1,
+                  "verseStart": 3,
+                  "verseEnd": 4
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"It's just for fun. Astrology is harmless.\"*",
+              "youSay": "God does not call it harmless, and it trains you to look to creation for what only the Creator gives. He made the stars; ask Him. (Deut 4:19; Isa 47:13; James 1:5)",
+              "verses": [
+                {
+                  "label": "Deut 4:19",
+                  "kind": "bible",
+                  "key": "deuteronomy.4.19",
+                  "book": "deuteronomy",
+                  "chapter": 4,
+                  "verseStart": 19,
+                  "verseEnd": 19
+                },
+                {
+                  "label": "Isa 47:13",
+                  "kind": "bible",
+                  "key": "isaiah.47.13",
+                  "book": "isaiah",
+                  "chapter": 47,
+                  "verseStart": 13,
+                  "verseEnd": 13
+                },
+                {
+                  "label": "Jas 1:5",
+                  "kind": "bible",
+                  "key": "james.1.5",
+                  "book": "james",
+                  "chapter": 1,
+                  "verseStart": 5,
+                  "verseEnd": 5
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"Christians are afraid of everything.\"*",
+              "youSay": "Not afraid: free. \"Greater is He who is in you than he who is in the world.\" We simply don't go where our Father said not to. (1 John 4:4; 2 Tim 1:7)",
+              "verses": [
+                {
+                  "label": "1 John 4:4",
+                  "kind": "bible",
+                  "key": "1-john.4.4",
+                  "book": "1-john",
+                  "chapter": 4,
+                  "verseStart": 4,
+                  "verseEnd": 4
+                },
+                {
+                  "label": "2 Tim 1:7",
+                  "kind": "bible",
+                  "key": "2-timothy.1.7",
+                  "book": "2-timothy",
+                  "chapter": 1,
+                  "verseStart": 7,
+                  "verseEnd": 7
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "notes": [],
+          "links": [],
+          "opener": {
+            "text": "*\"How do you know that your guides, or the cards, are telling you the truth?\"*",
+            "verses": [],
+            "links": [],
+            "supplemental": false
+          },
+          "closer": {
+            "text": "*\"You've been looking for a voice you can trust. There is one who proved He can be trusted by dying for you and walking out of His grave. 'My sheep hear My voice.' Would you listen to Him in the Gospel of John?\"* (John 10:27–28; John 20:31)",
+            "verses": [
+              {
+                "label": "John 10:27–28",
+                "kind": "bible",
+                "key": "john.10.27-28",
+                "book": "john",
+                "chapter": 10,
+                "verseStart": 27,
+                "verseEnd": 28
+              },
+              {
+                "label": "John 20:31",
+                "kind": "bible",
+                "key": "john.20.31",
+                "book": "john",
+                "chapter": 20,
+                "verseStart": 31,
+                "verseEnd": 31
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          }
+        }
+      ],
+      "defense": [
+        {
+          "id": "im-spiritual-not-religious",
+          "objection": "\"I'm spiritual, not religious.\"",
+          "response": "Jesus was hard on empty religion too. But \"spiritual\" still has to answer: which spirit, and is it true? The alternative to dead religion is not making it up; it is knowing the living God.",
+          "goTo": "Matt 23:27–28; John 4:23–24; John 17:3",
+          "askBack": "*\"What does 'spiritual' mean to you?\"*",
+          "verses": [
+            {
+              "label": "Matt 23:27–28",
+              "kind": "bible",
+              "key": "matthew.23.27-28",
+              "book": "matthew",
+              "chapter": 23,
+              "verseStart": 27,
+              "verseEnd": 28
+            },
+            {
+              "label": "John 4:23–24",
+              "kind": "bible",
+              "key": "john.4.23-24",
+              "book": "john",
+              "chapter": 4,
+              "verseStart": 23,
+              "verseEnd": 24
+            },
+            {
+              "label": "John 17:3",
+              "kind": "bible",
+              "key": "john.17.3",
+              "book": "john",
+              "chapter": 17,
+              "verseStart": 3,
+              "verseEnd": 3
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "universe-has-my-back",
+          "objection": "\"The Universe has my back.\"",
+          "response": "An impersonal universe cannot love, hear or keep a promise. What you are hoping for is a Father. There is one, and He has a name.",
+          "goTo": "Matt 6:26, 32; Ps 121:1–2; Rom 8:32",
+          "askBack": "*\"Has the Universe ever forgiven you?\"*",
+          "verses": [
+            {
+              "label": "Matt 6:26",
+              "kind": "bible",
+              "key": "matthew.6.26",
+              "book": "matthew",
+              "chapter": 6,
+              "verseStart": 26,
+              "verseEnd": 26
+            },
+            {
+              "label": "Matt 6:32",
+              "kind": "bible",
+              "key": "matthew.6.32",
+              "book": "matthew",
+              "chapter": 6,
+              "verseStart": 32,
+              "verseEnd": 32
+            },
+            {
+              "label": "Ps 121:1–2",
+              "kind": "bible",
+              "key": "psalms.121.1-2",
+              "book": "psalms",
+              "chapter": 121,
+              "verseStart": 1,
+              "verseEnd": 2
+            },
+            {
+              "label": "Rom 8:32",
+              "kind": "bible",
+              "key": "romans.8.32",
+              "book": "romans",
+              "chapter": 8,
+              "verseStart": 32,
+              "verseEnd": 32
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "manifest-my-reality-thoughts-become",
+          "objection": "\"I manifest my reality. Thoughts become things.\"",
+          "response": "Then every suffering person caused their own cancer, and you carry a weight no one can bear. Scripture says God rules and we ask: \"If the Lord wills.\" That is freedom, not control.",
+          "goTo": "James 4:13–15; Prov 16:9; Matt 6:9–11; Lam 3:37",
+          "askBack": "*\"Did the child in the hospital manifest that?\"*",
+          "verses": [
+            {
+              "label": "Jas 4:13–15",
+              "kind": "bible",
+              "key": "james.4.13-15",
+              "book": "james",
+              "chapter": 4,
+              "verseStart": 13,
+              "verseEnd": 15
+            },
+            {
+              "label": "Prov 16:9",
+              "kind": "bible",
+              "key": "proverbs.16.9",
+              "book": "proverbs",
+              "chapter": 16,
+              "verseStart": 9,
+              "verseEnd": 9
+            },
+            {
+              "label": "Matt 6:9–11",
+              "kind": "bible",
+              "key": "matthew.6.9-11",
+              "book": "matthew",
+              "chapter": 6,
+              "verseStart": 9,
+              "verseEnd": 11
+            },
+            {
+              "label": "Lam 3:37",
+              "kind": "bible",
+              "key": "lamentations.3.37",
+              "book": "lamentations",
+              "chapter": 3,
+              "verseStart": 37,
+              "verseEnd": 37
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "we-are-all-one-separation",
+          "objection": "\"We are all one. Separation is an illusion.\"",
+          "response": "If all is one, there is no real difference between love and cruelty. The Bible says the separation that matters is real: our sins have separated us from God. And it can be healed.",
+          "goTo": "Isa 59:2; Gen 1:1; Col 1:21–22",
+          "askBack": "*\"Is evil part of the oneness?\"*",
+          "verses": [
+            {
+              "label": "Isa 59:2",
+              "kind": "bible",
+              "key": "isaiah.59.2",
+              "book": "isaiah",
+              "chapter": 59,
+              "verseStart": 2,
+              "verseEnd": 2
+            },
+            {
+              "label": "Gen 1:1",
+              "kind": "bible",
+              "key": "genesis.1.1",
+              "book": "genesis",
+              "chapter": 1,
+              "verseStart": 1,
+              "verseEnd": 1
+            },
+            {
+              "label": "Col 1:21–22",
+              "kind": "bible",
+              "key": "colossians.1.21-22",
+              "book": "colossians",
+              "chapter": 1,
+              "verseStart": 21,
+              "verseEnd": 22
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "theres-no-sin-only-lower",
+          "objection": "\"There's no sin, only lower vibrations and lessons.\"",
+          "response": "You don't believe that when you are betrayed. Wrong is real, guilt is real, and renaming it does not remove it. Blood does.",
+          "goTo": "Rom 3:23; 1 John 1:8–9; Heb 9:22",
+          "askBack": "*\"Have you ever needed to be forgiven?\"*",
+          "verses": [
+            {
+              "label": "Rom 3:23",
+              "kind": "bible",
+              "key": "romans.3.23",
+              "book": "romans",
+              "chapter": 3,
+              "verseStart": 23,
+              "verseEnd": 23
+            },
+            {
+              "label": "1 John 1:8–9",
+              "kind": "bible",
+              "key": "1-john.1.8-9",
+              "book": "1-john",
+              "chapter": 1,
+              "verseStart": 8,
+              "verseEnd": 9
+            },
+            {
+              "label": "Heb 9:22",
+              "kind": "bible",
+              "key": "hebrews.9.22",
+              "book": "hebrews",
+              "chapter": 9,
+              "verseStart": 22,
+              "verseEnd": 22
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "ive-lived-many-lives",
+          "objection": "\"I've lived many lives.\"",
+          "response": "Scripture says once, then judgment. And notice that past-life \"memories\" are always of someone interesting. More to the point: if many lives haven't fixed us, another won't.",
+          "goTo": "Heb 9:27; Luke 16:26; 2 Cor 5:10",
+          "askBack": "*\"If this is the only one, are you ready?\"*",
+          "verses": [
+            {
+              "label": "Heb 9:27",
+              "kind": "bible",
+              "key": "hebrews.9.27",
+              "book": "hebrews",
+              "chapter": 9,
+              "verseStart": 27,
+              "verseEnd": 27
+            },
+            {
+              "label": "Luke 16:26",
+              "kind": "bible",
+              "key": "luke.16.26",
+              "book": "luke",
+              "chapter": 16,
+              "verseStart": 26,
+              "verseEnd": 26
+            },
+            {
+              "label": "2 Cor 5:10",
+              "kind": "bible",
+              "key": "2-corinthians.5.10",
+              "book": "2-corinthians",
+              "chapter": 5,
+              "verseStart": 10,
+              "verseEnd": 10
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "jesus-was-great-spiritual-teacher",
+          "objection": "\"Jesus was a great spiritual teacher, like the others.\"",
+          "response": "Great teachers don't claim to be God, forgive sins and say all will be judged by them, unless it is true. He is not on the list; He is in a category of one.",
+          "goTo": "John 8:58; Mark 2:5–7; John 5:22–23",
+          "askBack": "*\"Have you read what He actually claimed?\"*",
+          "verses": [
+            {
+              "label": "John 8:58",
+              "kind": "bible",
+              "key": "john.8.58",
+              "book": "john",
+              "chapter": 8,
+              "verseStart": 58,
+              "verseEnd": 58
+            },
+            {
+              "label": "Mark 2:5–7",
+              "kind": "bible",
+              "key": "mark.2.5-7",
+              "book": "mark",
+              "chapter": 2,
+              "verseStart": 5,
+              "verseEnd": 7
+            },
+            {
+              "label": "John 5:22–23",
+              "kind": "bible",
+              "key": "john.5.22-23",
+              "book": "john",
+              "chapter": 5,
+              "verseStart": 22,
+              "verseEnd": 23
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "church-suppressed-real-mystical-jesus",
+          "objection": "\"The church suppressed the real, mystical Jesus.\"",
+          "response": "The \"hidden\" gospels are second-century and later, and read nothing like eyewitness accounts. The four Gospels come from the first century and the apostles' circle. See [Is the Bible reliable?](/topic/is-the-bible-reliable).",
+          "goTo": "Luke 1:1–4; 2 Pet 1:16; Gal 1:8",
+          "askBack": "*\"Which source is closest to the events?\"*",
+          "verses": [
+            {
+              "label": "Luke 1:1–4",
+              "kind": "bible",
+              "key": "luke.1.1-4",
+              "book": "luke",
+              "chapter": 1,
+              "verseStart": 1,
+              "verseEnd": 4
+            },
+            {
+              "label": "2 Pet 1:16",
+              "kind": "bible",
+              "key": "2-peter.1.16",
+              "book": "2-peter",
+              "chapter": 1,
+              "verseStart": 16,
+              "verseEnd": 16
+            },
+            {
+              "label": "Gal 1:8",
+              "kind": "bible",
+              "key": "galatians.1.8",
+              "book": "galatians",
+              "chapter": 1,
+              "verseStart": 8,
+              "verseEnd": 8
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "crystals-sage-energy-work-heal",
+          "objection": "\"Crystals, sage and energy work heal me.\"",
+          "response": "God made stones and plants good, and they are not gods. To look to created things for protection and power is the exchange Romans 1 describes. Bring the need to the One who made them.",
+          "goTo": "Rom 1:25; Isa 44:17; Ps 103:2–3; James 5:14–15",
+          "askBack": "*\"What is it you are hoping to be healed of?\"*",
+          "verses": [
+            {
+              "label": "Rom 1:25",
+              "kind": "bible",
+              "key": "romans.1.25",
+              "book": "romans",
+              "chapter": 1,
+              "verseStart": 25,
+              "verseEnd": 25
+            },
+            {
+              "label": "Isa 44:17",
+              "kind": "bible",
+              "key": "isaiah.44.17",
+              "book": "isaiah",
+              "chapter": 44,
+              "verseStart": 17,
+              "verseEnd": 17
+            },
+            {
+              "label": "Ps 103:2–3",
+              "kind": "bible",
+              "key": "psalms.103.2-3",
+              "book": "psalms",
+              "chapter": 103,
+              "verseStart": 2,
+              "verseEnd": 3
+            },
+            {
+              "label": "Jas 5:14–15",
+              "kind": "bible",
+              "key": "james.5.14-15",
+              "book": "james",
+              "chapter": 5,
+              "verseStart": 14,
+              "verseEnd": 15
+            },
+            {
+              "label": "Rom 1",
+              "kind": "bible",
+              "key": "romans.1",
+              "book": "romans",
+              "chapter": 1
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "everything-happens-for-reason-all",
+          "objection": "\"Everything happens for a reason, and it all works out for everyone.\"",
+          "response": "God does rule all things, and He promises good to those who love Him and are called by Him. For those who refuse Him, Scripture promises judgment. Don't take the comfort without the Christ.",
+          "goTo": "Rom 8:28; John 3:36; Heb 10:31",
+          "askBack": "*\"Whose reason? Who is behind it?\"*",
+          "verses": [
+            {
+              "label": "Rom 8:28",
+              "kind": "bible",
+              "key": "romans.8.28",
+              "book": "romans",
+              "chapter": 8,
+              "verseStart": 28,
+              "verseEnd": 28
+            },
+            {
+              "label": "John 3:36",
+              "kind": "bible",
+              "key": "john.3.36",
+              "book": "john",
+              "chapter": 3,
+              "verseStart": 36,
+              "verseEnd": 36
+            },
+            {
+              "label": "Heb 10:31",
+              "kind": "bible",
+              "key": "hebrews.10.31",
+              "book": "hebrews",
+              "chapter": 10,
+              "verseStart": 31,
+              "verseEnd": 31
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        }
+      ],
+      "exits": {
+        "label": "Typical exits",
+        "items": [
+          {
+            "text": "\"That's your truth.\" (Ask: *\"Is that true for me too?\"* and leave John 14:6.)",
+            "verses": [
+              {
+                "label": "John 14:6",
+                "kind": "bible",
+                "key": "john.14.6",
+                "book": "john",
+                "chapter": 14,
+                "verseStart": 6,
+                "verseEnd": 6
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          },
+          {
+            "text": "\"You're giving off negative energy.\" (Smile: *\"I may be. I'd rather be honest with you than agreeable.\"*)",
+            "verses": [],
+            "links": [],
+            "supplemental": false
+          },
+          {
+            "text": "\"I respect all paths.\" (Ask: *\"Including the one that says there is only one?\"*)",
+            "verses": [],
+            "links": [],
+            "supplemental": false
+          },
+          {
+            "text": "\"I'll see what my guides say.\" (Give 1 John 4:1–3 and ask them to put that test to the guide.)",
+            "verses": [
+              {
+                "label": "1 John 4:1–3",
+                "kind": "bible",
+                "key": "1-john.4.1-3",
+                "book": "1-john",
+                "chapter": 4,
+                "verseStart": 1,
+                "verseEnd": 3
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          }
+        ]
+      }
+    },
+    {
       "slug": "oneness",
       "name": "Oneness Pentecostal",
       "heading": "ONENESS PENTECOSTALS",
@@ -32708,6 +37062,227 @@
             {
               "label": "Lived experience / \"my truth\"",
               "text": "Personal experience treated as an authority that Scripture may not overrule.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ]
+        },
+        {
+          "heading": "Hindu",
+          "lines": [
+            {
+              "label": "Brahman",
+              "text": "The one ultimate reality behind everything. Impersonal in some schools, personal in others.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Atman",
+              "text": "The true self or soul, said to be one with Brahman.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Samsara",
+              "text": "The cycle of birth, death and rebirth.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Karma",
+              "text": "The moral weight of deeds that carries into the next life. Not grace: you get what you earned.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Moksha",
+              "text": "Release from the cycle of rebirth. The Hindu idea of salvation.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Avatar",
+              "text": "A god coming down in visible form, such as Krishna or Rama as forms of Vishnu. Not the same as the incarnation.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Bhakti",
+              "text": "The path of loving devotion to a chosen god.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Puja",
+              "text": "Worship offered to an image or deity, at home or in a temple.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Guru",
+              "text": "A spiritual teacher, often treated as a channel of the divine.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ]
+        },
+        {
+          "heading": "Buddhist",
+          "lines": [
+            {
+              "label": "Dukkha",
+              "text": "Suffering or unsatisfactoriness. The first Noble Truth: life is marked by it.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Four Noble Truths",
+              "text": "Suffering; its cause (craving); its end; and the path to its end.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Eightfold Path",
+              "text": "The Buddha's program of right view, intention, speech, action, livelihood, effort, mindfulness and concentration.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Anatta",
+              "text": "\"No self.\" The teaching that there is no permanent soul.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Nirvana",
+              "text": "\"Blowing out.\" The end of craving and rebirth. Not heaven.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Dharma",
+              "text": "The Buddha's teaching, or the way things are.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Merit",
+              "text": "Good karma stored up by good deeds, giving and ritual.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Bodhisattva",
+              "text": "In Mahayana Buddhism, one who delays nirvana to help others reach it.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Pure Land",
+              "text": "A branch that trusts Amida Buddha to bring the believer to his paradise. The nearest thing in Buddhism to grace.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ]
+        },
+        {
+          "heading": "New Age",
+          "lines": [
+            {
+              "label": "The Universe",
+              "text": "An impersonal stand-in for God: a force or consciousness said to guide and provide.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Manifestation / law of attraction",
+              "text": "The belief that your thoughts and \"energy\" bring things into being.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Vibration / frequency",
+              "text": "Spiritual \"levels.\" Sin is renamed low vibration.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Christ consciousness",
+              "text": "A supposed enlightened state Jesus reached and anyone can. Not the biblical Christ.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Spirit guides",
+              "text": "Spirits consulted for direction. Scripture forbids it (Deut 18:10–12).",
+              "verses": [
+                {
+                  "label": "Deut 18:10–12",
+                  "kind": "bible",
+                  "key": "deuteronomy.18.10-12",
+                  "book": "deuteronomy",
+                  "chapter": 18,
+                  "verseStart": 10,
+                  "verseEnd": 12
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Channeling / mediumship",
+              "text": "Receiving messages from spirits or the dead.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Divination",
+              "text": "Seeking hidden knowledge through tarot, astrology, numerology and the like.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Higher self",
+              "text": "The idea that your true inner self is divine and all-knowing.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Ascended masters",
+              "text": "Supposed enlightened beings, with Jesus listed as one of them.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Monism / pantheism",
+              "text": "All is one; all is God.",
               "verses": [],
               "links": [],
               "supplemental": false
