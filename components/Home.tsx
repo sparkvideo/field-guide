@@ -9,7 +9,7 @@ import { getPins, getRecent, type Pin } from "@/lib/pins";
 import { formatRef, parseReference, readerHref, type TypedRef } from "@/lib/reference";
 import { searchGuide } from "@/lib/search";
 import { Chevron } from "./Bits";
-import { BookIcon, CrossIcon, DoorIcon, DrillIcon, FlameIcon, GameIcon, Mark, NoteIcon, PenIcon, TabletsIcon, TargetIcon, TriangleIcon, TrinityIcon, WordsIcon } from "./Icons";
+import { BookIcon, CreationIcon, CrossIcon, DoorIcon, DrillIcon, FlameIcon, GameIcon, Mark, NoteIcon, PenIcon, TabletsIcon, TargetIcon, TriangleIcon, TrinityIcon, WordsIcon } from "./Icons";
 import { readStreak } from "./Train";
 import { Welcome } from "./Welcome";
 
@@ -297,6 +297,14 @@ export function Home({ groups }: { groups: GroupRow[] }) {
               <span>
                 <span className="block text-[20px] font-semibold">Worldviews: how do you know?</span>
                 <span className="sub">Presuppositions, and why unbelief can't stand</span>
+              </span>
+              <Chevron />
+            </Link>
+                        <Link href="/topic/the-fallacy-of-evolution" className="row">
+              <CreationIcon />
+              <span>
+                <span className="block text-[20px] font-semibold">The fallacy of evolution</span>
+                <span className="sub">Why evolution cannot stand, and why creation is true</span>
               </span>
               <Chevron />
             </Link>

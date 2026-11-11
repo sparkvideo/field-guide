@@ -144,13 +144,72 @@ Show that what he has been borrowing belongs to God. Logic reflects God's unchan
 - **Don't say "you believe in nothing."** He will name things he believes, and he'll be right. Say his worldview can't account for them.
 - **Don't call him or his view dumb, and don't dismiss him.** Say "that doesn't hold together," and stay kind when he gets sharp. (2 Tim 2:24–26)
 - **Don't blame evil on God's hands being tied.** When evil or hell comes up, don't say God wanted to stop it but free will prevented Him. God is sovereign over all things, He is not the author of sin, and people answer for their own sin. Use [the evil and suffering answer](/atheist/objection/if-god-good-why-there) and [the "why create me?" answer](/atheist/objection/if-god-knew-id-reject). (Eph 1:11; Gen 50:20; Acts 2:23)
-- **Don't trade away creation to sound reasonable.** God made everything in six days. See [the evolution answer](/atheist/objection/evolution-explains-life-we-dont).
+- **Don't trade away creation to sound reasonable.** God made everything in six days. See [the evolution answer](/atheist/objection/evolution-explains-life-we-dont). The full case is on [The fallacy of evolution](/topic/the-fallacy-of-evolution).
 - **Don't treat it as a trick.** Winning the exchange saves no one. He is not confused; he is suppressing the truth, and only God opens blind eyes. (2 Cor 4:4–6; 1 Cor 2:14)
 - **Evidence still belongs.** The apostles pointed to the empty tomb and the eyewitnesses. Give the evidence as God's facts, not as something a neutral judge gets to rule on. (Acts 17:31; 1 Cor 15:3–8)
 - **Don't lean on quotes and numbers you can't back up.** A line credited to Darwin or a statistic from a sermon can be wrong, and one bad quote costs you the hearing. Stay with Scripture and with questions.
 - **Get to the cross.** This clears the ground. Then give [The Gospel](/topic/the-gospel).
 
 For a short version to run live, open [the borrowed capital play](/atheist/case/play-3).
+
+# The fallacy of evolution
+> Why evolution cannot stand, and why creation is true.
+
+God made the heavens, the earth and everything in them in six days, and He made man directly, in His image (Gen 1:1; Gen 1:27; Gen 2:7; Ex 20:11). That is our starting point, not our conclusion. Evolution is not a discovery that forced itself on honest observers. It is the origin story of a worldview that has already ruled God out. (Rom 1:20–22; 2 Pet 3:3–6)
+
+## What you are showing
+You and he look at the same fossils, the same rocks and the same DNA. The difference is not the evidence. It is the starting point each of you reads it with. No one watched the beginning, and no one can repeat it in a lab. One Witness was there, and He has told us what He did. (Job 38:4; Heb 11:3; Ps 33:6; Ps 33:9)
+**Ask:** *"Were you there? Then whose account of the beginning are you trusting, and why?"*
+
+## The starting point decides the answer
+Many of evolution's own defenders say so. Harvard geneticist Richard Lewontin wrote that scientists accept material explanations because of a prior commitment to materialism, and that "we cannot allow a Divine Foot in the door" (*New York Review of Books*, January 9, 1997). That is a rule about what answers are allowed, made before the evidence is looked at.
+**Ask:** *"If God did create, would your method ever be allowed to find that out?"*
+
+## What evolution cannot give you
+Ask one question at a time and wait for the answer.
+- **A beginning.** Something does not come from nothing. *"Where did matter, energy and the laws they follow come from?"* (Gen 1:1; John 1:3)
+- **Life.** Life has only ever been seen to come from life. Natural selection can only work on something already alive and reproducing, so it cannot explain the first living thing. *"How did the first life arise, and has anyone ever seen it happen?"*
+- **Information.** DNA is a code: instructions, stored and read. Everywhere else we find a code, we know a mind wrote it. *"Have you ever seen a message write itself?"* (Ps 139:13–16)
+- **Kinds.** We see change within kinds: dog breeds, finch beaks, bacteria that resist a drug. They are still dogs, finches and bacteria. That is variation in what God made "after their kind." It is not one kind turning into another. *"Is that change you've watched, or change you've been told happened?"* (Gen 1:21; Gen 1:24–25)
+- **A mind you can trust.** If your brain is the product of survival and not of truth, you have no reason to trust its conclusions, including evolution. Darwin felt this. He wrote of his "horrid doubt" whether the convictions of a mind developed from lower animals "are of any value or at all trustworthy" (letter to William Graham, July 3, 1881). *"Why trust a brain that was shaped only to survive?"* See [Worldviews](/topic/worldviews-how-do-you-know).
+- **Right and wrong.** If we are animals shaped by survival of the fittest, there is no "ought." The strong removing the weak is simply how the process works. He does not live that way, because he is made in God's image. *"If evolution is true, what makes cruelty wrong?"* (Gen 9:6; Rom 2:14–15)
+- **Worth and purpose.** An accident has no purpose and no worth beyond what it can do. Every person you meet knows better. (Ps 100:3; Eccl 3:11; Col 1:16)
+
+## Why creation is true
+- **God says so, and He was there.** Scripture is the standard, not the thing on trial. (Gen 1:31; Ex 20:11; Ps 33:6; Ps 33:9; Neh 9:6)
+- **Jesus says so.** He treated Genesis as history: God made them male and female "from the beginning of creation," not after ages of animal ancestry. (Mark 10:6; Matt 19:4–5; Luke 11:50–51)
+- **Creation says so.** What God made shows His power and nature so clearly that everyone is without excuse. (Rom 1:20; Ps 19:1–4; Isa 45:18)
+- **The gospel depends on it.** Adam was a real man (Luke 3:38). Through that one man sin entered the world, and death through sin (Rom 5:12). Christ is the last Adam, who undoes what the first Adam did (1 Cor 15:21–22; 1 Cor 15:45). If death was here for ages before Adam, death is not the wages of sin, and the cross answers a problem that was never real.
+
+## Can't God have used evolution?
+Some Christians say so to keep the peace. It costs too much.
+- It puts death, disease and suffering before sin, in a world God called "very good." (Gen 1:31; Rom 5:12; Rom 8:20–22)
+- It turns Adam into a symbol, when Luke, Paul and Jesus treat him as a man. (Luke 3:38; Rom 5:14; 1 Cor 15:45)
+- It makes the days mean something the fourth commandment does not allow: Israel worked six days and rested one because God did. (Ex 20:9–11)
+- It lets the changing opinions of men correct the word of God. (Isa 40:8; Mark 7:13)
+
+## If he says
+- **"Evolution is a proven fact. All scientists agree."** → A count of hands is not a proof, and the majority has been wrong before. *"Which part has been observed: change within a kind, or one kind becoming another?"*
+- **"The fossils show it."** → Fossils show that things died and were buried, most of them suddenly, in water-laid rock, all over the earth. That fits a worldwide flood. A fossil does not come with a date or a list of its children. (Gen 7:19–23; 2 Pet 3:5–6)
+- **"We share 98% of our DNA with chimps."** → Similar design points to one Designer as easily as to one ancestor. A builder uses the same materials in different houses. And the differences that remain are the difference between an ape and a man who writes symphonies and prays. (Gen 1:26–27)
+- **"Radiometric dating proves billions of years."** → The measurement is of what is in the rock today. The age is a calculation that assumes how much was there at the start, that nothing was added or lost, and that the rate never changed. No one was there to check any of the three. *"How do you know the starting amount?"*
+- **"That's religion, not science."** → Both are claims about a past no one can repeat. And modern science grew up among men who expected order because they believed in a Lawgiver: Kepler, Boyle, Newton, Faraday, Maxwell. *"Why should a universe that came from nothing obey laws at all?"*
+- **"You're using God to fill the gaps."** → No. We reason from what we do know: codes come from minds, and life comes from life. He is the one filling the gaps, with time and chance. *"Is 'given enough time, it happened' an observation or a hope?"*
+- **"Then who made God?"** → Whatever begins needs a cause. God has no beginning. He is not one more thing inside the universe that needs explaining. He is the reason there is anything to explain. (Ps 90:2; Isa 40:28)
+- **"Genesis is poetry."** → Genesis 1 is written as Hebrew narrative, with numbered days, evening and morning. Moses, Jesus and Paul all read it as history. (Ex 20:11; Mark 10:6; Rom 5:12–14)
+
+## Watch out
+- **Don't say "there's no evidence for evolution."** He will show you evidence of change within kinds and think he has won. Say: same evidence, different starting point.
+- **Don't say "it's only a theory," "why are there still monkeys?" or "the second law of thermodynamics disproves it."** Creation ministries themselves tell Christians to drop these. They are easy to answer and cost you the hearing.
+- **Don't repeat stories you can't source**, such as Darwin recanting on his deathbed. He did not.
+- **Don't make it the main thing.** A man can give up evolution and still be lost. The aim is the Creator he answers to, and the Savior he needs. (Acts 17:24–31)
+- **Stay kind.** Many have never heard evolution questioned. Ask, don't mock. (2 Tim 2:24–26; 1 Pet 3:15)
+
+## Bring it to the gospel
+The One who made him is the One he has sinned against. The Creator entered His own creation, died for sinners and rose again, and He now commands all people everywhere to repent. (John 1:3; John 1:14; Col 1:16; Col 1:19–20; Acts 17:30–31)
+**Ask:** *"If you were made, you belong to Someone. Are you ready to meet Him?"*
+
+Then give [The Gospel](/topic/the-gospel). For the short answer to use live, open [the evolution answer](/atheist/objection/evolution-explains-life-we-dont).
 
 # MacArthur on Rome
 > What John MacArthur says about Roman Catholicism, in his own words.

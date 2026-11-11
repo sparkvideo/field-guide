@@ -55,6 +55,12 @@ export const TrinityIcon = () => (
     <path d="M7.5 8.7a4.5 4.5 0 1 0 9.0 0a4.5 4.5 0 1 0 -9.0 0M3.8000000000000007 15a4.5 4.5 0 1 0 9.0 0a4.5 4.5 0 1 0 -9.0 0M11.2 15a4.5 4.5 0 1 0 9.0 0a4.5 4.5 0 1 0 -9.0 0" />
   </Icon>
 );
+// The earth with the sun rising over it: "In the beginning God created the heavens and the earth."
+export const CreationIcon = () => (
+  <Icon>
+    <path d="M3.500 17.500a8.500 8.500 0 0 1 17 0zM2 17.500h20M12 3v2.500M5 6.500l1.700 1.700M19 6.500l-1.700 1.700" />
+  </Icon>
+);
 export const BookIcon = () => (
   <Icon>
     <path d="M12 6.500c-2-1.300-4.800-1.700-8-1.300v12.300c3.200-.4 6 0 8 1.300 2-1.300 4.800-1.700 8-1.300V5.200c-3.200-.4-6 0-8 1.300zM12 6.500v12.300" />
