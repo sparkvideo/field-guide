@@ -8672,6 +8672,2223 @@
       }
     },
     {
+      "slug": "jewish",
+      "name": "Jewish",
+      "heading": "JEWISH PEOPLE",
+      "color": "#38bdf8",
+      "emoji": "✡️",
+      "beliefs": {
+        "text": "There is one God, He gave the Torah to Israel at Sinai, and Israel is His covenant people. The Messiah has not come yet: he will be a human king from David's line who gathers Israel, rebuilds the temple and brings peace to the world, and Jesus did none of that. Man is not born guilty and is able to choose good. Sin is forgiven through repentance, prayer and deeds of charity, with Yom Kippur at the centre. Know who you are talking to: in America about 9% of Jewish people are Orthodox, 37% Reform, 17% Conservative, and 32% claim no branch at all [Pew, Jewish Americans in 2020]. Many have never read Isaiah.",
+        "verses": [],
+        "links": [],
+        "supplemental": false
+      },
+      "lead": [
+        {
+          "label": "Their position",
+          "text": "There is one God, He gave the Torah to Israel at Sinai, and Israel is His covenant people. The Messiah has not come yet: he will be a human king from David's line who gathers Israel, rebuilds the temple and brings peace to the world, and Jesus did none of that. Man is not born guilty and is able to choose good. Sin is forgiven through repentance, prayer and deeds of charity, with Yom Kippur at the centre. Know who you are talking to: in America about 9% of Jewish people are Orthodox, 37% Reform, 17% Conservative, and 32% claim no branch at all [Pew, Jewish Americans in 2020]. Many have never read Isaiah.",
+          "verses": [],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "The dividing issue",
+          "text": "Whether a person needs a Savior from sin, and whether Jesus is that Savior, the promised Messiah. John MacArthur: \"Judaism doesn't need a savior from sin. Christianity exalts the Savior from sin\" [MacArthur, sermon introducing Isaiah 53]. If keeping, repenting and suffering can make a man right with God, a Messiah who dies in the sinner's place has no purpose. Scripture says no one living is righteous before God, and that the Servant bears the sin of many. (Ps 143:2; Isa 64:6; Isa 53:5–6; Isa 53:11)",
+          "verses": [
+            {
+              "label": "Isa 53",
+              "kind": "bible",
+              "key": "isaiah.53",
+              "book": "isaiah",
+              "chapter": 53
+            },
+            {
+              "label": "Ps 143:2",
+              "kind": "bible",
+              "key": "psalms.143.2",
+              "book": "psalms",
+              "chapter": 143,
+              "verseStart": 2,
+              "verseEnd": 2
+            },
+            {
+              "label": "Isa 64:6",
+              "kind": "bible",
+              "key": "isaiah.64.6",
+              "book": "isaiah",
+              "chapter": 64,
+              "verseStart": 6,
+              "verseEnd": 6
+            },
+            {
+              "label": "Isa 53:5–6",
+              "kind": "bible",
+              "key": "isaiah.53.5-6",
+              "book": "isaiah",
+              "chapter": 53,
+              "verseStart": 5,
+              "verseEnd": 6
+            },
+            {
+              "label": "Isa 53:11",
+              "kind": "bible",
+              "key": "isaiah.53.11",
+              "book": "isaiah",
+              "chapter": 53,
+              "verseStart": 11,
+              "verseEnd": 11
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "Ask this question",
+          "text": "*\"Do you, personally, need a Savior to take your place and bear God's judgment for your sins?\"* (Isa 53:6)",
+          "verses": [
+            {
+              "label": "Isa 53:6",
+              "kind": "bible",
+              "key": "isaiah.53.6",
+              "book": "isaiah",
+              "chapter": 53,
+              "verseStart": 6,
+              "verseEnd": 6
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "Scriptural response",
+          "text": "Stay in their own Scriptures. Seven hundred years before Jesus, Isaiah described a righteous Servant who is rejected by his own people, pierced for their transgressions, killed, buried with a rich man, alive again to see his offspring, and who makes many righteous by bearing their sins. Moses said it is the blood that makes atonement. Daniel said the Anointed One would be cut off before the city and the temple were destroyed, and that happened in AD 70. (Isa 53:5–6; Isa 53:8–11; Lev 17:11; Dan 9:26; Zech 12:10)",
+          "verses": [
+            {
+              "label": "Isa 53:5–6",
+              "kind": "bible",
+              "key": "isaiah.53.5-6",
+              "book": "isaiah",
+              "chapter": 53,
+              "verseStart": 5,
+              "verseEnd": 6
+            },
+            {
+              "label": "Isa 53:8–11",
+              "kind": "bible",
+              "key": "isaiah.53.8-11",
+              "book": "isaiah",
+              "chapter": 53,
+              "verseStart": 8,
+              "verseEnd": 11
+            },
+            {
+              "label": "Lev 17:11",
+              "kind": "bible",
+              "key": "leviticus.17.11",
+              "book": "leviticus",
+              "chapter": 17,
+              "verseStart": 11,
+              "verseEnd": 11
+            },
+            {
+              "label": "Dan 9:26",
+              "kind": "bible",
+              "key": "daniel.9.26",
+              "book": "daniel",
+              "chapter": 9,
+              "verseStart": 26,
+              "verseEnd": 26
+            },
+            {
+              "label": "Zech 12:10",
+              "kind": "bible",
+              "key": "zechariah.12.10",
+              "book": "zechariah",
+              "chapter": 12,
+              "verseStart": 10,
+              "verseEnd": 10
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "Common objection",
+          "text": "*\"The servant in Isaiah 53 is the nation of Israel.\"* → Israel is called God's servant earlier in the book, but this Servant restores Israel, so he cannot be Israel. He is innocent, and Isaiah opens his book calling Israel a sinful nation. He suffers silently and willingly, for \"my people,\" as a guilt offering. The oldest Jewish readings took him to be the Messiah [Targum Jonathan on Isa 52:13; Talmud, Sanhedrin 98b]. (Isa 49:5–6; Isa 53:8–9; Isa 1:4; Isa 53:10)",
+          "verses": [
+            {
+              "label": "Isa 53",
+              "kind": "bible",
+              "key": "isaiah.53",
+              "book": "isaiah",
+              "chapter": 53
+            },
+            {
+              "label": "Isa 52:13",
+              "kind": "bible",
+              "key": "isaiah.52.13",
+              "book": "isaiah",
+              "chapter": 52,
+              "verseStart": 13,
+              "verseEnd": 13
+            },
+            {
+              "label": "Isa 49:5–6",
+              "kind": "bible",
+              "key": "isaiah.49.5-6",
+              "book": "isaiah",
+              "chapter": 49,
+              "verseStart": 5,
+              "verseEnd": 6
+            },
+            {
+              "label": "Isa 53:8–9",
+              "kind": "bible",
+              "key": "isaiah.53.8-9",
+              "book": "isaiah",
+              "chapter": 53,
+              "verseStart": 8,
+              "verseEnd": 9
+            },
+            {
+              "label": "Isa 1:4",
+              "kind": "bible",
+              "key": "isaiah.1.4",
+              "book": "isaiah",
+              "chapter": 1,
+              "verseStart": 4,
+              "verseEnd": 4
+            },
+            {
+              "label": "Isa 53:10",
+              "kind": "bible",
+              "key": "isaiah.53.10",
+              "book": "isaiah",
+              "chapter": 53,
+              "verseStart": 10,
+              "verseEnd": 10
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "Gospel bridge",
+          "text": "*\"Abraham told Isaac, 'God will provide for Himself the lamb.' Isaiah says the Servant was led like a lamb to slaughter, and that Yahweh laid on him the iniquity of us all. If God has provided the Lamb, what will you do with Him?\"* Abraham believed God and it was counted to him as righteousness. The same promise stands for the Jew first. (Gen 22:8; Isa 53:6–7; Gen 15:6; Rom 1:16; Rom 10:9–13)",
+          "verses": [
+            {
+              "label": "Gen 22:8",
+              "kind": "bible",
+              "key": "genesis.22.8",
+              "book": "genesis",
+              "chapter": 22,
+              "verseStart": 8,
+              "verseEnd": 8
+            },
+            {
+              "label": "Isa 53:6–7",
+              "kind": "bible",
+              "key": "isaiah.53.6-7",
+              "book": "isaiah",
+              "chapter": 53,
+              "verseStart": 6,
+              "verseEnd": 7
+            },
+            {
+              "label": "Gen 15:6",
+              "kind": "bible",
+              "key": "genesis.15.6",
+              "book": "genesis",
+              "chapter": 15,
+              "verseStart": 6,
+              "verseEnd": 6
+            },
+            {
+              "label": "Rom 1:16",
+              "kind": "bible",
+              "key": "romans.1.16",
+              "book": "romans",
+              "chapter": 1,
+              "verseStart": 16,
+              "verseEnd": 16
+            },
+            {
+              "label": "Rom 10:9–13",
+              "kind": "bible",
+              "key": "romans.10.9-13",
+              "book": "romans",
+              "chapter": 10,
+              "verseStart": 9,
+              "verseEnd": 13
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "Where we agree",
+          "text": "There is one God, the Maker of heaven and earth, the God of Abraham, Isaac and Jacob. The Law, the Prophets and the Writings are His word. God chose Israel, has kept them through every attempt to destroy them, and is not finished with them. Sin is real and must be confessed to God. A Messiah from David's line is promised. Every writer of the New Testament but perhaps one was Jewish, and so is Jesus.",
+          "verses": [],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "Approach",
+          "text": "Come with love and a debt of thanks: the Scriptures, the covenants and the Messiah came to us through them. MacArthur told Ben Shapiro, \"I am a Christian because of the Old Testament\" [MacArthur, interview with Ben Shapiro]. Paul had great sorrow and unceasing grief for his kinsmen and prayed for their salvation, and so should you. Never say \"the Jews killed Jesus\" as a charge against the person in front of you: Jews and Gentiles together did what God's hand had decided beforehand, and Jesus laid down His life of His own accord. Own the history honestly: terrible things were done to Jewish people in the name of Christ, against everything Christ taught. Do not be arrogant toward the branches; you stand by faith. Use the Old Testament first, ask them to read the passage aloud, and ask \"Who is this about?\" before you say a word. The hope is sure. MacArthur: \"God's not through with them\" [MacArthur, conference message on Israel's future]. (Rom 9:1–5; Rom 10:1; Acts 4:27–28; John 10:17–18; Rom 11:18–20; Rom 11:25–27)",
+          "verses": [
+            {
+              "label": "Rom 9:1–5",
+              "kind": "bible",
+              "key": "romans.9.1-5",
+              "book": "romans",
+              "chapter": 9,
+              "verseStart": 1,
+              "verseEnd": 5
+            },
+            {
+              "label": "Rom 10:1",
+              "kind": "bible",
+              "key": "romans.10.1",
+              "book": "romans",
+              "chapter": 10,
+              "verseStart": 1,
+              "verseEnd": 1
+            },
+            {
+              "label": "Acts 4:27–28",
+              "kind": "bible",
+              "key": "acts.4.27-28",
+              "book": "acts",
+              "chapter": 4,
+              "verseStart": 27,
+              "verseEnd": 28
+            },
+            {
+              "label": "John 10:17–18",
+              "kind": "bible",
+              "key": "john.10.17-18",
+              "book": "john",
+              "chapter": 10,
+              "verseStart": 17,
+              "verseEnd": 18
+            },
+            {
+              "label": "Rom 11:18–20",
+              "kind": "bible",
+              "key": "romans.11.18-20",
+              "book": "romans",
+              "chapter": 11,
+              "verseStart": 18,
+              "verseEnd": 20
+            },
+            {
+              "label": "Rom 11:25–27",
+              "kind": "bible",
+              "key": "romans.11.25-27",
+              "book": "romans",
+              "chapter": 11,
+              "verseStart": 25,
+              "verseEnd": 27
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        }
+      ],
+      "cheatCardTitle": "Jewish Cheat Card",
+      "cheatCard": [
+        {
+          "text": "**Isa 53:5–6**: *\"Who is this, pierced for someone else's sins?\"*",
+          "verses": [
+            {
+              "label": "Isa 53:5–6",
+              "kind": "bible",
+              "key": "isaiah.53.5-6",
+              "book": "isaiah",
+              "chapter": 53,
+              "verseStart": 5,
+              "verseEnd": 6
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "text": "**Isa 53:8–10**: *\"He is cut off from the land of the living, and then prolongs his days. How?\"*",
+          "verses": [
+            {
+              "label": "Isa 53:8–10",
+              "kind": "bible",
+              "key": "isaiah.53.8-10",
+              "book": "isaiah",
+              "chapter": 53,
+              "verseStart": 8,
+              "verseEnd": 10
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "text": "**Lev 17:11**: *\"God says the blood makes atonement. With no temple, what is yours?\"*",
+          "verses": [
+            {
+              "label": "Lev 17:11",
+              "kind": "bible",
+              "key": "leviticus.17.11",
+              "book": "leviticus",
+              "chapter": 17,
+              "verseStart": 11,
+              "verseEnd": 11
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "text": "**Dan 9:26**: *\"The Anointed One is cut off before the temple falls. The temple fell in AD 70. Who was it?\"*",
+          "verses": [
+            {
+              "label": "Dan 9:26",
+              "kind": "bible",
+              "key": "daniel.9.26",
+              "book": "daniel",
+              "chapter": 9,
+              "verseStart": 26,
+              "verseEnd": 26
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "text": "**Zech 12:10**: *\"God says, 'They will look on Me whom they have pierced.' When was God pierced?\"*",
+          "verses": [
+            {
+              "label": "Zech 12:10",
+              "kind": "bible",
+              "key": "zechariah.12.10",
+              "book": "zechariah",
+              "chapter": 12,
+              "verseStart": 10,
+              "verseEnd": 10
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "text": "**Jer 31:31–34**: *\"God promised a new covenant, not like Sinai. Has it come?\"*",
+          "verses": [
+            {
+              "label": "Jer 31:31–34",
+              "kind": "bible",
+              "key": "jeremiah.31.31-34",
+              "book": "jeremiah",
+              "chapter": 31,
+              "verseStart": 31,
+              "verseEnd": 34
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        }
+      ],
+      "offense": [
+        {
+          "id": "play-1",
+          "number": 1,
+          "title": "Who is Isaiah talking about?",
+          "subtitle": "the Servant of Isaiah 53",
+          "warning": false,
+          "supplemental": false,
+          "altOpeners": [
+            {
+              "text": "*\"I'm a Christian because of the Hebrew Scriptures. Can I show you the chapter that did it?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "chain": [
+            {
+              "text": "**Isa 52:13–15**: The passage starts here, three verses before the chapter break. God says, \"Behold, My Servant.\" He will be exalted, yet his appearance is marred more than any man. *\"Have you read this before?\"*",
+              "verses": [
+                {
+                  "label": "Isa 52:13–15",
+                  "kind": "bible",
+                  "key": "isaiah.52.13-15",
+                  "book": "isaiah",
+                  "chapter": 52,
+                  "verseStart": 13,
+                  "verseEnd": 15
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Isa 53:1–3**: He grows up like a root out of dry ground, with nothing to draw anyone to him. He is despised and rejected by his own people. *\"Who is the 'we' that did not esteem him?\"*",
+              "verses": [
+                {
+                  "label": "Isa 53:1–3",
+                  "kind": "bible",
+                  "key": "isaiah.53.1-3",
+                  "book": "isaiah",
+                  "chapter": 53,
+                  "verseStart": 1,
+                  "verseEnd": 3
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Isa 53:4–6**: He is pierced for our transgressions and crushed for our iniquities. All of us like sheep have gone astray, and Yahweh laid on him the iniquity of us all. *\"Is he suffering for his own sins, or for someone else's?\"*",
+              "verses": [
+                {
+                  "label": "Isa 53:4–6",
+                  "kind": "bible",
+                  "key": "isaiah.53.4-6",
+                  "book": "isaiah",
+                  "chapter": 53,
+                  "verseStart": 4,
+                  "verseEnd": 6
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Isa 53:7–9**: He is silent like a lamb led to slaughter, cut off from the land of the living for the transgression of \"my people,\" given a grave with the wicked yet with a rich man in his death, though he had done no violence and spoken no deceit. *\"If he dies for 'my people,' can he be the people?\"*",
+              "verses": [
+                {
+                  "label": "Isa 53:7–9",
+                  "kind": "bible",
+                  "key": "isaiah.53.7-9",
+                  "book": "isaiah",
+                  "chapter": 53,
+                  "verseStart": 7,
+                  "verseEnd": 9
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Isa 53:10**: Yahweh was pleased to crush him, and he gives himself as a guilt offering. Then he sees his offspring and prolongs his days. *\"How does a dead man prolong his days?\"*",
+              "verses": [
+                {
+                  "label": "Isa 53:10",
+                  "kind": "bible",
+                  "key": "isaiah.53.10",
+                  "book": "isaiah",
+                  "chapter": 53,
+                  "verseStart": 10,
+                  "verseEnd": 10
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Isa 53:11–12**: The Righteous One, My Servant, will justify the many, for he will bear their iniquities. *\"How does one man's suffering make many people righteous?\"*",
+              "verses": [
+                {
+                  "label": "Isa 53:11–12",
+                  "kind": "bible",
+                  "key": "isaiah.53.11-12",
+                  "book": "isaiah",
+                  "chapter": 53,
+                  "verseStart": 11,
+                  "verseEnd": 12
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Acts 8:32–35**: An official from Ethiopia was reading this very passage and asked whom the prophet meant. Philip began from that Scripture and told him the good news about Jesus. That is the pattern.",
+              "verses": [
+                {
+                  "label": "Acts 8:32–35",
+                  "kind": "bible",
+                  "key": "acts.8.32-35",
+                  "book": "acts",
+                  "chapter": 8,
+                  "verseStart": 32,
+                  "verseEnd": 35
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "questions": [],
+          "ifTheySay": [
+            {
+              "theySay": "*\"The servant is Israel.\"*",
+              "youSay": "Isaiah does call Israel God's servant (Isa 41:8), a servant he then calls blind and deaf (Isa 42:19). But in Isa 49:5–6 the Servant is the one who brings Jacob back and raises up the tribes of Israel. One restores the other. And this Servant is innocent (Isa 53:9), while Isaiah's Israel is \"a people weighed down with iniquity\" (Isa 1:4). *\"When did Israel suffer silently, willingly and sinlessly, to pay for someone else's sins?\"*",
+              "verses": [
+                {
+                  "label": "Isa 41:8",
+                  "kind": "bible",
+                  "key": "isaiah.41.8",
+                  "book": "isaiah",
+                  "chapter": 41,
+                  "verseStart": 8,
+                  "verseEnd": 8
+                },
+                {
+                  "label": "Isa 42:19",
+                  "kind": "bible",
+                  "key": "isaiah.42.19",
+                  "book": "isaiah",
+                  "chapter": 42,
+                  "verseStart": 19,
+                  "verseEnd": 19
+                },
+                {
+                  "label": "Isa 49:5–6",
+                  "kind": "bible",
+                  "key": "isaiah.49.5-6",
+                  "book": "isaiah",
+                  "chapter": 49,
+                  "verseStart": 5,
+                  "verseEnd": 6
+                },
+                {
+                  "label": "Isa 53:9",
+                  "kind": "bible",
+                  "key": "isaiah.53.9",
+                  "book": "isaiah",
+                  "chapter": 53,
+                  "verseStart": 9,
+                  "verseEnd": 9
+                },
+                {
+                  "label": "Isa 1:4",
+                  "kind": "bible",
+                  "key": "isaiah.1.4",
+                  "book": "isaiah",
+                  "chapter": 1,
+                  "verseStart": 4,
+                  "verseEnd": 4
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"That is a Christian reading.\"*",
+              "youSay": "The Aramaic Targum, read in synagogues, renders Isa 52:13 \"Behold, My servant the Messiah\" [Targum Jonathan]. The Talmud gives Messiah a name from Isa 53:4 [Sanhedrin 98b]. Reading the servant as the nation became the standard answer with Rashi, in the eleventh century, a thousand years after Jesus. *\"Why did the reading change?\"*",
+              "verses": [
+                {
+                  "label": "Isa 52:13",
+                  "kind": "bible",
+                  "key": "isaiah.52.13",
+                  "book": "isaiah",
+                  "chapter": 52,
+                  "verseStart": 13,
+                  "verseEnd": 13
+                },
+                {
+                  "label": "Isa 53:4",
+                  "kind": "bible",
+                  "key": "isaiah.53.4",
+                  "book": "isaiah",
+                  "chapter": 53,
+                  "verseStart": 4,
+                  "verseEnd": 4
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"We never read that in synagogue.\"*",
+              "youSay": "That is true. The weekly readings from the Prophets stop at Isa 52:12 and pick up again at Isa 54:1. Don't accuse anyone of hiding it. Just say, *\"Then let's read it now.\"*",
+              "verses": [
+                {
+                  "label": "Isa 52:12",
+                  "kind": "bible",
+                  "key": "isaiah.52.12",
+                  "book": "isaiah",
+                  "chapter": 52,
+                  "verseStart": 12,
+                  "verseEnd": 12
+                },
+                {
+                  "label": "Isa 54:1",
+                  "kind": "bible",
+                  "key": "isaiah.54.1",
+                  "book": "isaiah",
+                  "chapter": 54,
+                  "verseStart": 1,
+                  "verseEnd": 1
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"He was just a man who died. Many Jews were crucified.\"*",
+              "youSay": "Only one was foretold as dying for others' sins, buried in a rich man's tomb, and alive afterward. Go to [The resurrection](/topic/the-resurrection).",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "notes": [],
+          "links": [],
+          "opener": {
+            "text": "*\"Would you read a passage from the prophet Isaiah with me and tell me who you think it describes?\"*",
+            "verses": [],
+            "links": [],
+            "supplemental": false
+          },
+          "closer": {
+            "text": "*\"Isaiah wrote it in the past tense, as Israel looking back and saying, 'We thought God had struck him, but he was pierced for our transgressions.' Zechariah says that day is coming for the whole nation. It can be today for you.\"* (Zech 12:10; Zech 13:1; Isa 53:4–5)",
+            "verses": [
+              {
+                "label": "Zech 12:10",
+                "kind": "bible",
+                "key": "zechariah.12.10",
+                "book": "zechariah",
+                "chapter": 12,
+                "verseStart": 10,
+                "verseEnd": 10
+              },
+              {
+                "label": "Zech 13:1",
+                "kind": "bible",
+                "key": "zechariah.13.1",
+                "book": "zechariah",
+                "chapter": 13,
+                "verseStart": 1,
+                "verseEnd": 1
+              },
+              {
+                "label": "Isa 53:4–5",
+                "kind": "bible",
+                "key": "isaiah.53.4-5",
+                "book": "isaiah",
+                "chapter": 53,
+                "verseStart": 4,
+                "verseEnd": 5
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          }
+        },
+        {
+          "id": "play-2",
+          "number": 2,
+          "title": "Where is the atonement?",
+          "subtitle": "sin, sacrifice and no temple",
+          "warning": false,
+          "supplemental": false,
+          "altOpeners": [
+            {
+              "text": "*\"The Torah gives a whole book to sacrifice. Since the temple fell, what takes its place, and who said so?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "chain": [
+            {
+              "text": "**Isa 1:4–6; Isa 59:2**: Isaiah begins by telling the covenant people they are a sinful nation, sick from head to foot, and that their iniquities have separated them from God. Being Abraham's child did not exempt them. *\"Was Isaiah wrong about them, or is he right about all of us?\"*",
+              "verses": [
+                {
+                  "label": "Isa 1:4–6",
+                  "kind": "bible",
+                  "key": "isaiah.1.4-6",
+                  "book": "isaiah",
+                  "chapter": 1,
+                  "verseStart": 4,
+                  "verseEnd": 6
+                },
+                {
+                  "label": "Isa 59:2",
+                  "kind": "bible",
+                  "key": "isaiah.59.2",
+                  "book": "isaiah",
+                  "chapter": 59,
+                  "verseStart": 2,
+                  "verseEnd": 2
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Ps 143:2; Eccl 7:20; Isa 64:6**: No one living is righteous before God. There is not a righteous man on earth who never sins. Our righteous deeds are like a filthy garment. *\"If the good deeds are stained too, what do you bring?\"*",
+              "verses": [
+                {
+                  "label": "Ps 143:2",
+                  "kind": "bible",
+                  "key": "psalms.143.2",
+                  "book": "psalms",
+                  "chapter": 143,
+                  "verseStart": 2,
+                  "verseEnd": 2
+                },
+                {
+                  "label": "Eccl 7:20",
+                  "kind": "bible",
+                  "key": "ecclesiastes.7.20",
+                  "book": "ecclesiastes",
+                  "chapter": 7,
+                  "verseStart": 20,
+                  "verseEnd": 20
+                },
+                {
+                  "label": "Isa 64:6",
+                  "kind": "bible",
+                  "key": "isaiah.64.6",
+                  "book": "isaiah",
+                  "chapter": 64,
+                  "verseStart": 6,
+                  "verseEnd": 6
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Lev 17:11**: The life of the flesh is in the blood, and God gave it on the altar to make atonement. *\"God chose the means. Can we choose another?\"*",
+              "verses": [
+                {
+                  "label": "Lev 17:11",
+                  "kind": "bible",
+                  "key": "leviticus.17.11",
+                  "book": "leviticus",
+                  "chapter": 17,
+                  "verseStart": 11,
+                  "verseEnd": 11
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Lev 16:15–16, 21–22**: On the Day of Atonement one goat dies and the sins of the people are confessed over the head of the other, which carries them away. An innocent substitute bears the guilt. *\"Where is that substitute today?\"*",
+              "verses": [
+                {
+                  "label": "Lev 16:15–16",
+                  "kind": "bible",
+                  "key": "leviticus.16.15-16",
+                  "book": "leviticus",
+                  "chapter": 16,
+                  "verseStart": 15,
+                  "verseEnd": 16
+                },
+                {
+                  "label": "Lev 16:21–22",
+                  "kind": "bible",
+                  "key": "leviticus.16.21-22",
+                  "book": "leviticus",
+                  "chapter": 16,
+                  "verseStart": 21,
+                  "verseEnd": 22
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Dan 9:26**: The Anointed One is cut off and has nothing, and then the city and the sanctuary are destroyed. The temple has been gone since AD 70. *\"Would God take away the sacrifices and leave nothing in their place?\"*",
+              "verses": [
+                {
+                  "label": "Dan 9:26",
+                  "kind": "bible",
+                  "key": "daniel.9.26",
+                  "book": "daniel",
+                  "chapter": 9,
+                  "verseStart": 26,
+                  "verseEnd": 26
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Isa 53:10**: The Servant gives himself as a guilt offering. The animal sacrifices were pictures; he is what they pictured. (Heb 10:4; Heb 10:11–14)",
+              "verses": [
+                {
+                  "label": "Isa 53:10",
+                  "kind": "bible",
+                  "key": "isaiah.53.10",
+                  "book": "isaiah",
+                  "chapter": 53,
+                  "verseStart": 10,
+                  "verseEnd": 10
+                },
+                {
+                  "label": "Heb 10:4",
+                  "kind": "bible",
+                  "key": "hebrews.10.4",
+                  "book": "hebrews",
+                  "chapter": 10,
+                  "verseStart": 4,
+                  "verseEnd": 4
+                },
+                {
+                  "label": "Heb 10:11–14",
+                  "kind": "bible",
+                  "key": "hebrews.10.11-14",
+                  "book": "hebrews",
+                  "chapter": 10,
+                  "verseStart": 11,
+                  "verseEnd": 14
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Jer 31:31–34**: God promised a new covenant, not like the one made at Sinai, in which He forgives iniquity and remembers sin no more. *\"Has that covenant come? Through whom?\"*",
+              "verses": [
+                {
+                  "label": "Jer 31:31–34",
+                  "kind": "bible",
+                  "key": "jeremiah.31.31-34",
+                  "book": "jeremiah",
+                  "chapter": 31,
+                  "verseStart": 31,
+                  "verseEnd": 34
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "questions": [],
+          "ifTheySay": [
+            {
+              "theySay": "*\"Repentance, prayer and charity atone now.\"*",
+              "youSay": "Scripture commands all three, and never says they replace the blood. Daniel repented and prayed in exile, and still confessed that he had no righteousness of his own to plead, only God's great compassion (Dan 9:18). *\"Where does God say He changed the means of atonement?\"*",
+              "verses": [
+                {
+                  "label": "Dan 9:18",
+                  "kind": "bible",
+                  "key": "daniel.9.18",
+                  "book": "daniel",
+                  "chapter": 9,
+                  "verseStart": 18,
+                  "verseEnd": 18
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"God doesn't want sacrifice. Hosea 6:6, Psalm 51:16.\"*",
+              "youSay": "Those verses rebuke sacrifice offered with a heart far from God. David's psalm ends with God delighting in righteous sacrifices on His altar (Ps 51:19). God was not cancelling Leviticus; He was demanding a broken heart with it.",
+              "verses": [
+                {
+                  "label": "Hos 6:6",
+                  "kind": "bible",
+                  "key": "hosea.6.6",
+                  "book": "hosea",
+                  "chapter": 6,
+                  "verseStart": 6,
+                  "verseEnd": 6
+                },
+                {
+                  "label": "Ps 51:16",
+                  "kind": "bible",
+                  "key": "psalms.51.16",
+                  "book": "psalms",
+                  "chapter": 51,
+                  "verseStart": 16,
+                  "verseEnd": 16
+                },
+                {
+                  "label": "Ps 51:19",
+                  "kind": "bible",
+                  "key": "psalms.51.19",
+                  "book": "psalms",
+                  "chapter": 51,
+                  "verseStart": 19,
+                  "verseEnd": 19
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"The prayers of our lips replace the bulls. Hosea 14:2.\"*",
+              "youSay": "Hosea calls Israel to return with words of confession. He does not say words pay for sin. Someone still has to bear it. (Isa 53:6)",
+              "verses": [
+                {
+                  "label": "Hos 14:2",
+                  "kind": "bible",
+                  "key": "hosea.14.2",
+                  "book": "hosea",
+                  "chapter": 14,
+                  "verseStart": 2,
+                  "verseEnd": 2
+                },
+                {
+                  "label": "Isa 53:6",
+                  "kind": "bible",
+                  "key": "isaiah.53.6",
+                  "book": "isaiah",
+                  "chapter": 53,
+                  "verseStart": 6,
+                  "verseEnd": 6
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"I'm a good person. I keep the commandments.\"*",
+              "youSay": "Ask which one they have kept perfectly, and walk through a few. Go to [The Way of the Master](/topic/the-way-of-the-master). The Law was given to show sin, and Moses himself said the people would not keep it. (Deut 31:27–29; Deut 27:26)",
+              "verses": [
+                {
+                  "label": "Deut 31:27–29",
+                  "kind": "bible",
+                  "key": "deuteronomy.31.27-29",
+                  "book": "deuteronomy",
+                  "chapter": 31,
+                  "verseStart": 27,
+                  "verseEnd": 29
+                },
+                {
+                  "label": "Deut 27:26",
+                  "kind": "bible",
+                  "key": "deuteronomy.27.26",
+                  "book": "deuteronomy",
+                  "chapter": 27,
+                  "verseStart": 26,
+                  "verseEnd": 26
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"I'm Jewish. I'm already in the covenant.\"*",
+              "youSay": "Isaiah, Jeremiah and John the Baptist all preached repentance to people in the covenant. God requires a circumcised heart. (Deut 10:16; Jer 4:4; Matt 3:9; Rom 2:28–29)",
+              "verses": [
+                {
+                  "label": "Deut 10:16",
+                  "kind": "bible",
+                  "key": "deuteronomy.10.16",
+                  "book": "deuteronomy",
+                  "chapter": 10,
+                  "verseStart": 16,
+                  "verseEnd": 16
+                },
+                {
+                  "label": "Jer 4:4",
+                  "kind": "bible",
+                  "key": "jeremiah.4.4",
+                  "book": "jeremiah",
+                  "chapter": 4,
+                  "verseStart": 4,
+                  "verseEnd": 4
+                },
+                {
+                  "label": "Matt 3:9",
+                  "kind": "bible",
+                  "key": "matthew.3.9",
+                  "book": "matthew",
+                  "chapter": 3,
+                  "verseStart": 9,
+                  "verseEnd": 9
+                },
+                {
+                  "label": "Rom 2:28–29",
+                  "kind": "bible",
+                  "key": "romans.2.28-29",
+                  "book": "romans",
+                  "chapter": 2,
+                  "verseStart": 28,
+                  "verseEnd": 29
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "notes": [],
+          "links": [],
+          "opener": {
+            "text": "*\"On Yom Kippur, how do you know your sins are actually forgiven?\"*",
+            "verses": [],
+            "links": [],
+            "supplemental": false
+          },
+          "closer": {
+            "text": "*\"Abraham was counted righteous before he had done anything, because he believed God. Habakkuk says the righteous will live by faith. God has provided the sacrifice Himself. Will you trust Him?\"* (Gen 15:6; Hab 2:4; Isa 53:11)",
+            "verses": [
+              {
+                "label": "Gen 15:6",
+                "kind": "bible",
+                "key": "genesis.15.6",
+                "book": "genesis",
+                "chapter": 15,
+                "verseStart": 6,
+                "verseEnd": 6
+              },
+              {
+                "label": "Hab 2:4",
+                "kind": "bible",
+                "key": "habakkuk.2.4",
+                "book": "habakkuk",
+                "chapter": 2,
+                "verseStart": 4,
+                "verseEnd": 4
+              },
+              {
+                "label": "Isa 53:11",
+                "kind": "bible",
+                "key": "isaiah.53.11",
+                "book": "isaiah",
+                "chapter": 53,
+                "verseStart": 11,
+                "verseEnd": 11
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          }
+        },
+        {
+          "id": "play-3",
+          "number": 3,
+          "title": "Who is the Messiah?",
+          "subtitle": "when he comes, what he does, who he is",
+          "warning": false,
+          "supplemental": false,
+          "altOpeners": [
+            {
+              "text": "*\"If the Messiah had already come, how would you know?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "chain": [
+            {
+              "text": "**Mic 5:2**: He is born in Bethlehem, and his goings forth are from long ago, from the days of eternity. *\"What kind of man has origins from eternity?\"*",
+              "verses": [
+                {
+                  "label": "Mic 5:2",
+                  "kind": "bible",
+                  "key": "micah.5.2",
+                  "book": "micah",
+                  "chapter": 5,
+                  "verseStart": 2,
+                  "verseEnd": 2
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Isa 9:6–7**: A child is born, a son is given, who sits on David's throne forever, and his name is Mighty God. *\"Is that title ever given to a mere man?\"*",
+              "verses": [
+                {
+                  "label": "Isa 9:6–7",
+                  "kind": "bible",
+                  "key": "isaiah.9.6-7",
+                  "book": "isaiah",
+                  "chapter": 9,
+                  "verseStart": 6,
+                  "verseEnd": 7
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Ps 110:1**: David calls his own descendant \"my Lord,\" and Yahweh seats him at His right hand. *\"Why would David call his son 'Lord'?\"* (Matt 22:41–46)",
+              "verses": [
+                {
+                  "label": "Ps 110:1",
+                  "kind": "bible",
+                  "key": "psalms.110.1",
+                  "book": "psalms",
+                  "chapter": 110,
+                  "verseStart": 1,
+                  "verseEnd": 1
+                },
+                {
+                  "label": "Matt 22:41–46",
+                  "kind": "bible",
+                  "key": "matthew.22.41-46",
+                  "book": "matthew",
+                  "chapter": 22,
+                  "verseStart": 41,
+                  "verseEnd": 46
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Dan 7:13–14**: One like a Son of Man comes with the clouds of heaven, and all peoples serve him in a kingdom that never ends. That service belongs to God alone.",
+              "verses": [
+                {
+                  "label": "Dan 7:13–14",
+                  "kind": "bible",
+                  "key": "daniel.7.13-14",
+                  "book": "daniel",
+                  "chapter": 7,
+                  "verseStart": 13,
+                  "verseEnd": 14
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Zech 9:9**: Your king comes to you humble, riding on a donkey. **Dan 7:13**: he comes on the clouds. *\"How can both be true of one Messiah?\"* Two comings: first to suffer, then to reign.",
+              "verses": [
+                {
+                  "label": "Zech 9:9",
+                  "kind": "bible",
+                  "key": "zechariah.9.9",
+                  "book": "zechariah",
+                  "chapter": 9,
+                  "verseStart": 9,
+                  "verseEnd": 9
+                },
+                {
+                  "label": "Dan 7:13",
+                  "kind": "bible",
+                  "key": "daniel.7.13",
+                  "book": "daniel",
+                  "chapter": 7,
+                  "verseStart": 13,
+                  "verseEnd": 13
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Dan 9:24–26**: He comes to atone for iniquity, he is cut off, and then the temple is destroyed. *\"The temple was destroyed in AD 70. Who came before that, claimed to be Messiah, died, and is worshiped by a billion Gentiles as Isaiah 49:6 said?\"*",
+              "verses": [
+                {
+                  "label": "Dan 9:24–26",
+                  "kind": "bible",
+                  "key": "daniel.9.24-26",
+                  "book": "daniel",
+                  "chapter": 9,
+                  "verseStart": 24,
+                  "verseEnd": 26
+                },
+                {
+                  "label": "Isa 49:6",
+                  "kind": "bible",
+                  "key": "isaiah.49.6",
+                  "book": "isaiah",
+                  "chapter": 49,
+                  "verseStart": 6,
+                  "verseEnd": 6
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Zech 12:10**: God pours out the Spirit of grace on the house of David, and \"they will look on Me whom they have pierced\" and mourn as for an only son. The One pierced is the One speaking.",
+              "verses": [
+                {
+                  "label": "Zech 12:10",
+                  "kind": "bible",
+                  "key": "zechariah.12.10",
+                  "book": "zechariah",
+                  "chapter": 12,
+                  "verseStart": 10,
+                  "verseEnd": 10
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "questions": [],
+          "ifTheySay": [
+            {
+              "theySay": "*\"The Messiah brings world peace. There is no peace, so Jesus is not the Messiah.\"*",
+              "youSay": "He will bring it. The prophets give two pictures, a suffering Servant and a reigning King, and the rabbis saw the tension themselves and proposed two Messiahs, one of whom is killed [Talmud, Sukkah 52a]. Scripture's answer is one Messiah who comes twice. He dealt with sin first, because peace with God has to come before peace on earth. (Isa 53:5; Isa 2:4; Zech 14:4, 9)",
+              "verses": [
+                {
+                  "label": "Isa 53:5",
+                  "kind": "bible",
+                  "key": "isaiah.53.5",
+                  "book": "isaiah",
+                  "chapter": 53,
+                  "verseStart": 5,
+                  "verseEnd": 5
+                },
+                {
+                  "label": "Isa 2:4",
+                  "kind": "bible",
+                  "key": "isaiah.2.4",
+                  "book": "isaiah",
+                  "chapter": 2,
+                  "verseStart": 4,
+                  "verseEnd": 4
+                },
+                {
+                  "label": "Zech 14:4",
+                  "kind": "bible",
+                  "key": "zechariah.14.4",
+                  "book": "zechariah",
+                  "chapter": 14,
+                  "verseStart": 4,
+                  "verseEnd": 4
+                },
+                {
+                  "label": "Zech 14:9",
+                  "kind": "bible",
+                  "key": "zechariah.14.9",
+                  "book": "zechariah",
+                  "chapter": 14,
+                  "verseStart": 9,
+                  "verseEnd": 9
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"God is not a man. Numbers 23:19.\"*",
+              "youSay": "That verse says God does not lie or change His mind the way a man does. It does not say God cannot take on flesh. He appeared to Abraham and ate with him (Gen 18:1–2), and Isaiah calls the child born \"Mighty God\" (Isa 9:6).",
+              "verses": [
+                {
+                  "label": "Num 23:19",
+                  "kind": "bible",
+                  "key": "numbers.23.19",
+                  "book": "numbers",
+                  "chapter": 23,
+                  "verseStart": 19,
+                  "verseEnd": 19
+                },
+                {
+                  "label": "Gen 18:1–2",
+                  "kind": "bible",
+                  "key": "genesis.18.1-2",
+                  "book": "genesis",
+                  "chapter": 18,
+                  "verseStart": 1,
+                  "verseEnd": 2
+                },
+                {
+                  "label": "Isa 9:6",
+                  "kind": "bible",
+                  "key": "isaiah.9.6",
+                  "book": "isaiah",
+                  "chapter": 9,
+                  "verseStart": 6,
+                  "verseEnd": 6
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"The Messiah is a man, not God.\"*",
+              "youSay": "He is both. Go to [The Trinity](/topic/the-trinity) and use Ps 110:1, Isa 9:6 and Dan 7:13–14 from this play.",
+              "verses": [
+                {
+                  "label": "Ps 110:1",
+                  "kind": "bible",
+                  "key": "psalms.110.1",
+                  "book": "psalms",
+                  "chapter": 110,
+                  "verseStart": 1,
+                  "verseEnd": 1
+                },
+                {
+                  "label": "Isa 9:6",
+                  "kind": "bible",
+                  "key": "isaiah.9.6",
+                  "book": "isaiah",
+                  "chapter": 9,
+                  "verseStart": 6,
+                  "verseEnd": 6
+                },
+                {
+                  "label": "Dan 7:13–14",
+                  "kind": "bible",
+                  "key": "daniel.7.13-14",
+                  "book": "daniel",
+                  "chapter": 7,
+                  "verseStart": 13,
+                  "verseEnd": 14
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"Isaiah 7:14 says 'young woman,' not 'virgin.'\"*",
+              "youSay": "The word is *almah*, a young unmarried woman, and Jewish translators before Jesus was born rendered it in Greek with the word for virgin [Septuagint]. A young woman giving birth is no sign at all. But don't make this your lead text; Isaiah 53 and Daniel 9 carry more weight in this conversation.",
+              "verses": [
+                {
+                  "label": "Isa 7:14",
+                  "kind": "bible",
+                  "key": "isaiah.7.14",
+                  "book": "isaiah",
+                  "chapter": 7,
+                  "verseStart": 14,
+                  "verseEnd": 14
+                },
+                {
+                  "label": "Isa 53",
+                  "kind": "bible",
+                  "key": "isaiah.53",
+                  "book": "isaiah",
+                  "chapter": 53
+                },
+                {
+                  "label": "Dan 9",
+                  "kind": "bible",
+                  "key": "daniel.9",
+                  "book": "daniel",
+                  "chapter": 9
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "notes": [],
+          "links": [],
+          "opener": {
+            "text": "*\"What do you think the Messiah will do when he comes, and how will you recognize him?\"*",
+            "verses": [],
+            "links": [],
+            "supplemental": false
+          },
+          "closer": {
+            "text": "*\"Moses said God would raise up a Prophet like him, and that God would hold accountable anyone who would not listen to him. I believe He has come. Would you read the Gospel of Matthew, written by a Jew for Jews, and see whether Jesus is the one Moses and the prophets wrote about?\"* (Deut 18:15, 18–19; John 5:46)",
+            "verses": [
+              {
+                "label": "Deut 18:15",
+                "kind": "bible",
+                "key": "deuteronomy.18.15",
+                "book": "deuteronomy",
+                "chapter": 18,
+                "verseStart": 15,
+                "verseEnd": 15
+              },
+              {
+                "label": "Deut 18:18–19",
+                "kind": "bible",
+                "key": "deuteronomy.18.18-19",
+                "book": "deuteronomy",
+                "chapter": 18,
+                "verseStart": 18,
+                "verseEnd": 19
+              },
+              {
+                "label": "John 5:46",
+                "kind": "bible",
+                "key": "john.5.46",
+                "book": "john",
+                "chapter": 5,
+                "verseStart": 46,
+                "verseEnd": 46
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          }
+        }
+      ],
+      "defense": [
+        {
+          "id": "servant-isaiah-53-israel",
+          "objection": "\"The servant in Isaiah 53 is Israel.\"",
+          "response": "This Servant restores Israel, is sinless, suffers willingly and dies for \"my people.\" None of that fits the nation Isaiah calls sinful. The oldest Jewish readings took him to be Messiah [Targum Jonathan; Sanhedrin 98b]. Run Play 1.",
+          "goTo": "Isa 49:5–6; Isa 53:8–9; Isa 1:4",
+          "askBack": "*\"If he dies for the people, how can he be the people?\"*",
+          "verses": [
+            {
+              "label": "Isa 49:5–6",
+              "kind": "bible",
+              "key": "isaiah.49.5-6",
+              "book": "isaiah",
+              "chapter": 49,
+              "verseStart": 5,
+              "verseEnd": 6
+            },
+            {
+              "label": "Isa 53:8–9",
+              "kind": "bible",
+              "key": "isaiah.53.8-9",
+              "book": "isaiah",
+              "chapter": 53,
+              "verseStart": 8,
+              "verseEnd": 9
+            },
+            {
+              "label": "Isa 1:4",
+              "kind": "bible",
+              "key": "isaiah.1.4",
+              "book": "isaiah",
+              "chapter": 1,
+              "verseStart": 4,
+              "verseEnd": 4
+            },
+            {
+              "label": "Isa 53",
+              "kind": "bible",
+              "key": "isaiah.53",
+              "book": "isaiah",
+              "chapter": 53
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "jesus-didnt-bring-peace-he",
+          "objection": "\"Jesus didn't bring peace, so he isn't the Messiah.\"",
+          "response": "The prophets show Messiah suffering and Messiah reigning. One Messiah, two comings. He dealt with sin first; He will reign on David's throne and the nations will learn war no more.",
+          "goTo": "Isa 53:5; Zech 9:9–10; Isa 2:4; Zech 12:10",
+          "askBack": "*\"Which does a sinner need first: peace on earth, or peace with God?\"*",
+          "verses": [
+            {
+              "label": "Isa 53:5",
+              "kind": "bible",
+              "key": "isaiah.53.5",
+              "book": "isaiah",
+              "chapter": 53,
+              "verseStart": 5,
+              "verseEnd": 5
+            },
+            {
+              "label": "Zech 9:9–10",
+              "kind": "bible",
+              "key": "zechariah.9.9-10",
+              "book": "zechariah",
+              "chapter": 9,
+              "verseStart": 9,
+              "verseEnd": 10
+            },
+            {
+              "label": "Isa 2:4",
+              "kind": "bible",
+              "key": "isaiah.2.4",
+              "book": "isaiah",
+              "chapter": 2,
+              "verseStart": 4,
+              "verseEnd": 4
+            },
+            {
+              "label": "Zech 12:10",
+              "kind": "bible",
+              "key": "zechariah.12.10",
+              "book": "zechariah",
+              "chapter": 12,
+              "verseStart": 10,
+              "verseEnd": 10
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "hear-o-israel-lord-one",
+          "objection": "\"'Hear, O Israel, the LORD is one.' The Trinity is idolatry.\"",
+          "response": "We confess the Shema. One God, one Being. The Hebrew Scriptures themselves show more: \"Let Us make man,\" Yahweh sending His Servant and His Spirit, and David's Lord seated beside Yahweh. See [The Trinity](/topic/the-trinity).",
+          "goTo": "Deut 6:4; Gen 1:26; Isa 48:16; Ps 110:1",
+          "askBack": "*\"Who is David's 'Lord' in Psalm 110?\"*",
+          "verses": [
+            {
+              "label": "Deut 6:4",
+              "kind": "bible",
+              "key": "deuteronomy.6.4",
+              "book": "deuteronomy",
+              "chapter": 6,
+              "verseStart": 4,
+              "verseEnd": 4
+            },
+            {
+              "label": "Gen 1:26",
+              "kind": "bible",
+              "key": "genesis.1.26",
+              "book": "genesis",
+              "chapter": 1,
+              "verseStart": 26,
+              "verseEnd": 26
+            },
+            {
+              "label": "Isa 48:16",
+              "kind": "bible",
+              "key": "isaiah.48.16",
+              "book": "isaiah",
+              "chapter": 48,
+              "verseStart": 16,
+              "verseEnd": 16
+            },
+            {
+              "label": "Ps 110:1",
+              "kind": "bible",
+              "key": "psalms.110.1",
+              "book": "psalms",
+              "chapter": 110,
+              "verseStart": 1,
+              "verseEnd": 1
+            },
+            {
+              "label": "Ps 110",
+              "kind": "bible",
+              "key": "psalms.110",
+              "book": "psalms",
+              "chapter": 110
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "god-not-man",
+          "objection": "\"God is not a man.\"",
+          "response": "Numbers 23:19 says God does not lie like a man. It does not say He cannot come in flesh. He appeared to Abraham as a man, and the child of Isaiah 9 is called Mighty God.",
+          "goTo": "Num 23:19; Gen 18:1–2; Isa 9:6; Mic 5:2",
+          "askBack": "*\"Is anything too hard for Yahweh?\"*",
+          "verses": [
+            {
+              "label": "Num 23:19",
+              "kind": "bible",
+              "key": "numbers.23.19",
+              "book": "numbers",
+              "chapter": 23,
+              "verseStart": 19,
+              "verseEnd": 19
+            },
+            {
+              "label": "Gen 18:1–2",
+              "kind": "bible",
+              "key": "genesis.18.1-2",
+              "book": "genesis",
+              "chapter": 18,
+              "verseStart": 1,
+              "verseEnd": 2
+            },
+            {
+              "label": "Isa 9:6",
+              "kind": "bible",
+              "key": "isaiah.9.6",
+              "book": "isaiah",
+              "chapter": 9,
+              "verseStart": 6,
+              "verseEnd": 6
+            },
+            {
+              "label": "Mic 5:2",
+              "kind": "bible",
+              "key": "micah.5.2",
+              "book": "micah",
+              "chapter": 5,
+              "verseStart": 2,
+              "verseEnd": 2
+            },
+            {
+              "label": "Isa 9",
+              "kind": "bible",
+              "key": "isaiah.9",
+              "book": "isaiah",
+              "chapter": 9
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "no-one-can-die-for",
+          "objection": "\"No one can die for another's sins. Ezekiel 18.\"",
+          "response": "Ezekiel is answering people who blamed their fathers for their own judgment; each sinner answers for his own sin. That is the problem, not the solution. The whole sacrificial system is an innocent substitute bearing guilt, and Isaiah says Yahweh laid our iniquity on the Servant.",
+          "goTo": "Ezek 18:20; Lev 16:21–22; Isa 53:6; Isa 53:12",
+          "askBack": "*\"Then what was the goat on Yom Kippur doing?\"*",
+          "verses": [
+            {
+              "label": "Ezek 18:20",
+              "kind": "bible",
+              "key": "ezekiel.18.20",
+              "book": "ezekiel",
+              "chapter": 18,
+              "verseStart": 20,
+              "verseEnd": 20
+            },
+            {
+              "label": "Lev 16:21–22",
+              "kind": "bible",
+              "key": "leviticus.16.21-22",
+              "book": "leviticus",
+              "chapter": 16,
+              "verseStart": 21,
+              "verseEnd": 22
+            },
+            {
+              "label": "Isa 53:6",
+              "kind": "bible",
+              "key": "isaiah.53.6",
+              "book": "isaiah",
+              "chapter": 53,
+              "verseStart": 6,
+              "verseEnd": 6
+            },
+            {
+              "label": "Isa 53:12",
+              "kind": "bible",
+              "key": "isaiah.53.12",
+              "book": "isaiah",
+              "chapter": 53,
+              "verseStart": 12,
+              "verseEnd": 12
+            },
+            {
+              "label": "Ezek 18",
+              "kind": "bible",
+              "key": "ezekiel.18",
+              "book": "ezekiel",
+              "chapter": 18
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "god-hates-human-sacrifice",
+          "objection": "\"God hates human sacrifice.\"",
+          "response": "He forbids men to offer their children to idols. Here it is God who gives, and the Servant who willingly gives himself. Yahweh was pleased to crush him, and he poured out himself to death. No one took his life from him.",
+          "goTo": "Isa 53:10; Isa 53:12; Gen 22:8; John 10:17–18",
+          "askBack": "*\"Who is the offerer in Isaiah 53:10?\"*",
+          "verses": [
+            {
+              "label": "Isa 53:10",
+              "kind": "bible",
+              "key": "isaiah.53.10",
+              "book": "isaiah",
+              "chapter": 53,
+              "verseStart": 10,
+              "verseEnd": 10
+            },
+            {
+              "label": "Isa 53:12",
+              "kind": "bible",
+              "key": "isaiah.53.12",
+              "book": "isaiah",
+              "chapter": 53,
+              "verseStart": 12,
+              "verseEnd": 12
+            },
+            {
+              "label": "Gen 22:8",
+              "kind": "bible",
+              "key": "genesis.22.8",
+              "book": "genesis",
+              "chapter": 22,
+              "verseStart": 8,
+              "verseEnd": 8
+            },
+            {
+              "label": "John 10:17–18",
+              "kind": "bible",
+              "key": "john.10.17-18",
+              "book": "john",
+              "chapter": 10,
+              "verseStart": 17,
+              "verseEnd": 18
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "we-dont-need-sacrifice-we",
+          "objection": "\"We don't need a sacrifice. We repent.\"",
+          "response": "Repentance is commanded, and it is not payment. A judge who lets the guilty go because they are sorry is not just, and God says He will by no means leave the guilty unpunished. Someone bears it: you, or the substitute God provided.",
+          "goTo": "Ex 34:6–7; Lev 17:11; Prov 17:15; Isa 53:5",
+          "askBack": "*\"If God just overlooks sin, is He still just?\"*",
+          "verses": [
+            {
+              "label": "Ex 34:6–7",
+              "kind": "bible",
+              "key": "exodus.34.6-7",
+              "book": "exodus",
+              "chapter": 34,
+              "verseStart": 6,
+              "verseEnd": 7
+            },
+            {
+              "label": "Lev 17:11",
+              "kind": "bible",
+              "key": "leviticus.17.11",
+              "book": "leviticus",
+              "chapter": 17,
+              "verseStart": 11,
+              "verseEnd": 11
+            },
+            {
+              "label": "Prov 17:15",
+              "kind": "bible",
+              "key": "proverbs.17.15",
+              "book": "proverbs",
+              "chapter": 17,
+              "verseStart": 15,
+              "verseEnd": 15
+            },
+            {
+              "label": "Isa 53:5",
+              "kind": "bible",
+              "key": "isaiah.53.5",
+              "book": "isaiah",
+              "chapter": 53,
+              "verseStart": 5,
+              "verseEnd": 5
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "im-good-person-god-weighs",
+          "objection": "\"I'm a good person. God weighs the good against the bad.\"",
+          "response": "Scripture has no scale like that. It says no one living is righteous before Him and that even our righteous deeds are stained. Use the commandments: see [The Way of the Master](/topic/the-way-of-the-master).",
+          "goTo": "Ps 143:2; Eccl 7:20; Isa 64:6; Ps 14:2–3",
+          "askBack": "*\"Have you loved God with all your heart every day of your life?\"*",
+          "verses": [
+            {
+              "label": "Ps 143:2",
+              "kind": "bible",
+              "key": "psalms.143.2",
+              "book": "psalms",
+              "chapter": 143,
+              "verseStart": 2,
+              "verseEnd": 2
+            },
+            {
+              "label": "Eccl 7:20",
+              "kind": "bible",
+              "key": "ecclesiastes.7.20",
+              "book": "ecclesiastes",
+              "chapter": 7,
+              "verseStart": 20,
+              "verseEnd": 20
+            },
+            {
+              "label": "Isa 64:6",
+              "kind": "bible",
+              "key": "isaiah.64.6",
+              "book": "isaiah",
+              "chapter": 64,
+              "verseStart": 6,
+              "verseEnd": 6
+            },
+            {
+              "label": "Ps 14:2–3",
+              "kind": "bible",
+              "key": "psalms.14.2-3",
+              "book": "psalms",
+              "chapter": 14,
+              "verseStart": 2,
+              "verseEnd": 3
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "if-believe-jesus-stop-being",
+          "objection": "\"If I believe in Jesus I stop being Jewish.\"",
+          "response": "Jesus is Jewish. So were the apostles and the whole first church, thousands in Jerusalem, many of them priests. Paul said, \"I too am an Israelite.\" Following Israel's Messiah is the most Jewish thing a person can do. Do admit the cost: family may treat it as betrayal, and Jesus said He is worth it.",
+          "goTo": "Rom 11:1; Acts 21:20; Acts 6:7; Matt 10:37–39",
+          "askBack": "*\"Was Paul still Jewish after the Damascus road?\"*",
+          "verses": [
+            {
+              "label": "Rom 11:1",
+              "kind": "bible",
+              "key": "romans.11.1",
+              "book": "romans",
+              "chapter": 11,
+              "verseStart": 1,
+              "verseEnd": 1
+            },
+            {
+              "label": "Acts 21:20",
+              "kind": "bible",
+              "key": "acts.21.20",
+              "book": "acts",
+              "chapter": 21,
+              "verseStart": 20,
+              "verseEnd": 20
+            },
+            {
+              "label": "Acts 6:7",
+              "kind": "bible",
+              "key": "acts.6.7",
+              "book": "acts",
+              "chapter": 6,
+              "verseStart": 7,
+              "verseEnd": 7
+            },
+            {
+              "label": "Matt 10:37–39",
+              "kind": "bible",
+              "key": "matthew.10.37-39",
+              "book": "matthew",
+              "chapter": 10,
+              "verseStart": 37,
+              "verseEnd": 39
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "christians-have-persecuted-us-for",
+          "objection": "\"Christians have persecuted us for centuries.\"",
+          "response": "Agree, and grieve it. Crusades, expulsions and pogroms were done in Christ's name against Christ's commands. They were sin. Judge Jesus by Jesus: He wept over Jerusalem and prayed for those who crucified Him.",
+          "goTo": "Luke 19:41–42; Luke 23:34; Rom 9:1–3; Rom 11:18–20",
+          "askBack": "*\"Would you judge Moses by the Israelites who made the golden calf?\"*",
+          "verses": [
+            {
+              "label": "Luke 19:41–42",
+              "kind": "bible",
+              "key": "luke.19.41-42",
+              "book": "luke",
+              "chapter": 19,
+              "verseStart": 41,
+              "verseEnd": 42
+            },
+            {
+              "label": "Luke 23:34",
+              "kind": "bible",
+              "key": "luke.23.34",
+              "book": "luke",
+              "chapter": 23,
+              "verseStart": 34,
+              "verseEnd": 34
+            },
+            {
+              "label": "Rom 9:1–3",
+              "kind": "bible",
+              "key": "romans.9.1-3",
+              "book": "romans",
+              "chapter": 9,
+              "verseStart": 1,
+              "verseEnd": 3
+            },
+            {
+              "label": "Rom 11:18–20",
+              "kind": "bible",
+              "key": "romans.11.18-20",
+              "book": "romans",
+              "chapter": 11,
+              "verseStart": 18,
+              "verseEnd": 20
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "new-testament-antisemitic",
+          "objection": "\"The New Testament is antisemitic.\"",
+          "response": "It was written by Jews about a Jewish Messiah, and its hard words to Israel are no harder than Isaiah's or Jeremiah's. It says salvation is from the Jews, that the gospel is for the Jew first, and that God has not rejected His people.",
+          "goTo": "John 4:22; Rom 1:16; Rom 11:1–2; Isa 1:4",
+          "askBack": "*\"Was Isaiah antisemitic when he called Israel a sinful nation?\"*",
+          "verses": [
+            {
+              "label": "John 4:22",
+              "kind": "bible",
+              "key": "john.4.22",
+              "book": "john",
+              "chapter": 4,
+              "verseStart": 22,
+              "verseEnd": 22
+            },
+            {
+              "label": "Rom 1:16",
+              "kind": "bible",
+              "key": "romans.1.16",
+              "book": "romans",
+              "chapter": 1,
+              "verseStart": 16,
+              "verseEnd": 16
+            },
+            {
+              "label": "Rom 11:1–2",
+              "kind": "bible",
+              "key": "romans.11.1-2",
+              "book": "romans",
+              "chapter": 11,
+              "verseStart": 1,
+              "verseEnd": 2
+            },
+            {
+              "label": "Isa 1:4",
+              "kind": "bible",
+              "key": "isaiah.1.4",
+              "book": "isaiah",
+              "chapter": 1,
+              "verseStart": 4,
+              "verseEnd": 4
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "jesus-broke-torah-abolished",
+          "objection": "\"Jesus broke the Torah and abolished it.\"",
+          "response": "He said He came to fulfill the Law and the Prophets, not abolish them, and no one could convict Him of sin. What He rejected were traditions added to God's word. And God Himself promised a new covenant unlike Sinai.",
+          "goTo": "Matt 5:17–18; John 8:46; Mark 7:8–9; Jer 31:31–32",
+          "askBack": "*\"Which commandment of Moses did Jesus break?\"*",
+          "verses": [
+            {
+              "label": "Matt 5:17–18",
+              "kind": "bible",
+              "key": "matthew.5.17-18",
+              "book": "matthew",
+              "chapter": 5,
+              "verseStart": 17,
+              "verseEnd": 18
+            },
+            {
+              "label": "John 8:46",
+              "kind": "bible",
+              "key": "john.8.46",
+              "book": "john",
+              "chapter": 8,
+              "verseStart": 46,
+              "verseEnd": 46
+            },
+            {
+              "label": "Mark 7:8–9",
+              "kind": "bible",
+              "key": "mark.7.8-9",
+              "book": "mark",
+              "chapter": 7,
+              "verseStart": 8,
+              "verseEnd": 9
+            },
+            {
+              "label": "Jer 31:31–32",
+              "kind": "bible",
+              "key": "jeremiah.31.31-32",
+              "book": "jeremiah",
+              "chapter": 31,
+              "verseStart": 31,
+              "verseEnd": 32
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "if-jesus-were-messiah-rabbis",
+          "objection": "\"If Jesus were the Messiah, the rabbis would have believed.\"",
+          "response": "Isaiah foretold the opposite: \"Who has believed our message?\" The Servant is despised and rejected by his own. Yet thousands of Jews did believe, including many priests. Paul says a partial hardening has come on Israel until the fullness of the Gentiles comes in, and then all Israel will be saved.",
+          "goTo": "Isa 53:1–3; Isa 6:9–10; Acts 6:7; Rom 11:25–26",
+          "askBack": "*\"Did Israel's leaders usually listen to the prophets God sent?\"*",
+          "verses": [
+            {
+              "label": "Isa 53:1–3",
+              "kind": "bible",
+              "key": "isaiah.53.1-3",
+              "book": "isaiah",
+              "chapter": 53,
+              "verseStart": 1,
+              "verseEnd": 3
+            },
+            {
+              "label": "Isa 6:9–10",
+              "kind": "bible",
+              "key": "isaiah.6.9-10",
+              "book": "isaiah",
+              "chapter": 6,
+              "verseStart": 9,
+              "verseEnd": 10
+            },
+            {
+              "label": "Acts 6:7",
+              "kind": "bible",
+              "key": "acts.6.7",
+              "book": "acts",
+              "chapter": 6,
+              "verseStart": 7,
+              "verseEnd": 7
+            },
+            {
+              "label": "Rom 11:25–26",
+              "kind": "bible",
+              "key": "romans.11.25-26",
+              "book": "romans",
+              "chapter": 11,
+              "verseStart": 25,
+              "verseEnd": 26
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "christians-church-has-replaced-israel",
+          "objection": "\"Christians say the church has replaced Israel. God is done with us.\"",
+          "response": "Scripture does not say so. God tied His promise to Israel to the sun, moon and stars. Within the nation there has always been a believing remnant, and Paul says the day is coming when the nation and the remnant are the same: all Israel will be saved, when they look on the One they pierced [Abner Chou; MacArthur].",
+          "goTo": "Jer 31:35–37; Rom 11:1–5; Rom 11:26–29; Zech 12:10",
+          "askBack": "*\"Why are there still Jewish people on earth, when the Hittites and Amorites are gone?\"*",
+          "verses": [
+            {
+              "label": "Jer 31:35–37",
+              "kind": "bible",
+              "key": "jeremiah.31.35-37",
+              "book": "jeremiah",
+              "chapter": 31,
+              "verseStart": 35,
+              "verseEnd": 37
+            },
+            {
+              "label": "Rom 11:1–5",
+              "kind": "bible",
+              "key": "romans.11.1-5",
+              "book": "romans",
+              "chapter": 11,
+              "verseStart": 1,
+              "verseEnd": 5
+            },
+            {
+              "label": "Rom 11:26–29",
+              "kind": "bible",
+              "key": "romans.11.26-29",
+              "book": "romans",
+              "chapter": 11,
+              "verseStart": 26,
+              "verseEnd": 29
+            },
+            {
+              "label": "Zech 12:10",
+              "kind": "bible",
+              "key": "zechariah.12.10",
+              "book": "zechariah",
+              "chapter": 12,
+              "verseStart": 10,
+              "verseEnd": 10
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "im-jewish-but-im-not",
+          "objection": "\"I'm Jewish, but I'm not religious.\"",
+          "response": "Most Jewish people you meet are here. Don't argue rabbinics. Ask what they think happens after death, use the commandments, and then show them Isaiah 53 as something from their own heritage they may never have seen. See [The Gospel](/topic/the-gospel).",
+          "goTo": "Isa 53:5–6; Eccl 12:14; Dan 12:2",
+          "askBack": "*\"Have you ever read the prophets for yourself?\"*",
+          "verses": [
+            {
+              "label": "Isa 53:5–6",
+              "kind": "bible",
+              "key": "isaiah.53.5-6",
+              "book": "isaiah",
+              "chapter": 53,
+              "verseStart": 5,
+              "verseEnd": 6
+            },
+            {
+              "label": "Eccl 12:14",
+              "kind": "bible",
+              "key": "ecclesiastes.12.14",
+              "book": "ecclesiastes",
+              "chapter": 12,
+              "verseStart": 14,
+              "verseEnd": 14
+            },
+            {
+              "label": "Dan 12:2",
+              "kind": "bible",
+              "key": "daniel.12.2",
+              "book": "daniel",
+              "chapter": 12,
+              "verseStart": 2,
+              "verseEnd": 2
+            },
+            {
+              "label": "Isa 53",
+              "kind": "bible",
+              "key": "isaiah.53",
+              "book": "isaiah",
+              "chapter": 53
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        }
+      ],
+      "exits": {
+        "label": "Typical exits",
+        "items": [
+          {
+            "text": "\"Ask a rabbi; he can explain Isaiah 53.\" (Answer: *\"I'd be glad to hear it. Would you read the chapter yourself first and tell me who you see?\"*)",
+            "verses": [
+              {
+                "label": "Isa 53",
+                "kind": "bible",
+                "key": "isaiah.53",
+                "book": "isaiah",
+                "chapter": 53
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          },
+          {
+            "text": "\"We don't believe in that.\" (Ask: *\"What do you believe God does with sin?\"*)",
+            "verses": [],
+            "links": [],
+            "supplemental": false
+          },
+          {
+            "text": "\"My family would disown me.\" (Don't minimize it. Leave Matt 10:37–39 and Ps 27:10, and stay a friend.)",
+            "verses": [
+              {
+                "label": "Matt 10:37–39",
+                "kind": "bible",
+                "key": "matthew.10.37-39",
+                "book": "matthew",
+                "chapter": 10,
+                "verseStart": 37,
+                "verseEnd": 39
+              },
+              {
+                "label": "Ps 27:10",
+                "kind": "bible",
+                "key": "psalms.27.10",
+                "book": "psalms",
+                "chapter": 27,
+                "verseStart": 10,
+                "verseEnd": 10
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          },
+          {
+            "text": "\"That's your Bible, not ours.\" (Stay in Isaiah, Leviticus, Daniel and Zechariah, which are theirs.)",
+            "verses": [],
+            "links": [],
+            "supplemental": false
+          }
+        ]
+      }
+    },
+    {
       "slug": "oneness",
       "name": "Oneness Pentecostal",
       "heading": "ONENESS PENTECOSTALS",
@@ -26716,6 +28933,129 @@
             {
               "label": "Unam Sanctam",
               "text": "the 1302 bull of Boniface VIII that defined submission to the Roman Pontiff as necessary for salvation.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ]
+        },
+        {
+          "heading": "Jewish",
+          "lines": [
+            {
+              "label": "Tanakh",
+              "text": "The Hebrew Scriptures, our Old Testament: Torah (Law), Nevi'im (Prophets) and Ketuvim (Writings). Same books, different order.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Torah",
+              "text": "The five books of Moses. Also used loosely for all Jewish teaching.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Talmud",
+              "text": "The written collection of rabbinic discussion (Mishnah and Gemara), finished centuries after Jesus. Orthodox Jews treat it as the authoritative \"oral Torah.\"",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Mashiach",
+              "text": "Messiah, \"anointed one.\" In Judaism, a human king from David still to come.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Shema",
+              "text": "\"Hear, O Israel\" (Deut 6:4), the daily confession that God is one.",
+              "verses": [
+                {
+                  "label": "Deut 6:4",
+                  "kind": "bible",
+                  "key": "deuteronomy.6.4",
+                  "book": "deuteronomy",
+                  "chapter": 6,
+                  "verseStart": 4,
+                  "verseEnd": 4
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Hashem",
+              "text": "\"The Name.\" How observant Jews refer to God rather than pronounce His name.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Teshuvah",
+              "text": "Repentance, literally \"return.\" With prayer and charity, the rabbinic answer to how sin is forgiven.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Yom Kippur",
+              "text": "The Day of Atonement (Lev 16). Today kept with fasting and prayer, without the sacrifices Leviticus commands.",
+              "verses": [
+                {
+                  "label": "Lev 16",
+                  "kind": "bible",
+                  "key": "leviticus.16",
+                  "book": "leviticus",
+                  "chapter": 16
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Haftarah",
+              "text": "The set reading from the Prophets in synagogue each week. Isaiah 53 is not among the readings.",
+              "verses": [
+                {
+                  "label": "Isa 53",
+                  "kind": "bible",
+                  "key": "isaiah.53",
+                  "book": "isaiah",
+                  "chapter": 53
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Targum",
+              "text": "An ancient Aramaic paraphrase of the Hebrew Scriptures read in synagogues.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Rashi",
+              "text": "Rabbi Shlomo Yitzchaki (died 1105), the most widely read Jewish commentator. He made \"the servant is Israel\" the standard reading of Isaiah 53.",
+              "verses": [
+                {
+                  "label": "Isa 53",
+                  "kind": "bible",
+                  "key": "isaiah.53",
+                  "book": "isaiah",
+                  "chapter": 53
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Yeshua",
+              "text": "The Hebrew name of Jesus. Jewish believers in Him often use it.",
               "verses": [],
               "links": [],
               "supplemental": false

@@ -14,6 +14,7 @@
 | **Unitarian** (Biblical Unitarian / non-Trinitarian) | [UNI Offense](#uni-offense) | [UNI Defense](#uni-defense) | [UNI Card](#uni-card) |
 | **Mormon** (LDS) | [LDS Offense](#lds-offense) | [LDS Defense](#lds-defense) | [LDS Card](#lds-card) |
 | **Muslim** | [ISL Offense](#isl-offense) | [ISL Defense](#isl-defense) | [ISL Card](#isl-card) |
+| **Jewish** | [JEW Offense](#jew-offense) | [JEW Defense](#jew-defense) | [JEW Card](#jew-card) |
 | **Oneness Pentecostal** | [ONE Offense](#one-offense) | [ONE Defense](#one-defense) | [ONE Card](#one-card) |
 | **Roman Catholic** | [RCC Offense](#rcc-offense) | [RCC Defense](#rcc-defense) | [RCC Card](#rcc-card) |
 | **Eastern Orthodox** | [EO Offense](#eo-offense) | [EO Defense](#eo-defense) | [EO Card](#eo-card) |
@@ -495,6 +496,114 @@ Verses to read ([▶](https://youtu.be/DPFeuxNkxCA?t=710)): **Q 4:24** (married 
 **Typical exits:** "That's not the point though" (*"It **is** the point."*) ([▶](https://youtu.be/HwCcC0D0M08?t=35)) · switching to Isaiah 42 for Ahmad (Q 61:6 says **Jesus** foretold him, not Isaiah) ([▶](https://youtu.be/qKfI6OlRhtM?t=728)) · redefining Arabic words (make them define the word, then read it in context).
 
 ---
+
+# ✡️ JEWISH PEOPLE
+
+**Their position:** There is one God, He gave the Torah to Israel at Sinai, and Israel is His covenant people. The Messiah has not come yet: he will be a human king from David's line who gathers Israel, rebuilds the temple and brings peace to the world, and Jesus did none of that. Man is not born guilty and is able to choose good. Sin is forgiven through repentance, prayer and deeds of charity, with Yom Kippur at the centre. Know who you are talking to: in America about 9% of Jewish people are Orthodox, 37% Reform, 17% Conservative, and 32% claim no branch at all [Pew, Jewish Americans in 2020]. Many have never read Isaiah.
+
+**The dividing issue:** Whether a person needs a Savior from sin, and whether Jesus is that Savior, the promised Messiah. John MacArthur: "Judaism doesn't need a savior from sin. Christianity exalts the Savior from sin" [MacArthur, sermon introducing Isaiah 53]. If keeping, repenting and suffering can make a man right with God, a Messiah who dies in the sinner's place has no purpose. Scripture says no one living is righteous before God, and that the Servant bears the sin of many. (Ps 143:2; Isa 64:6; Isa 53:5–6; Isa 53:11)
+
+**Ask this question:** *"Do you, personally, need a Savior to take your place and bear God's judgment for your sins?"* (Isa 53:6)
+
+**Scriptural response:** Stay in their own Scriptures. Seven hundred years before Jesus, Isaiah described a righteous Servant who is rejected by his own people, pierced for their transgressions, killed, buried with a rich man, alive again to see his offspring, and who makes many righteous by bearing their sins. Moses said it is the blood that makes atonement. Daniel said the Anointed One would be cut off before the city and the temple were destroyed, and that happened in AD 70. (Isa 53:5–6; Isa 53:8–11; Lev 17:11; Dan 9:26; Zech 12:10)
+
+**Common objection:** *"The servant in Isaiah 53 is the nation of Israel."* → Israel is called God's servant earlier in the book, but this Servant restores Israel, so he cannot be Israel. He is innocent, and Isaiah opens his book calling Israel a sinful nation. He suffers silently and willingly, for "my people," as a guilt offering. The oldest Jewish readings took him to be the Messiah [Targum Jonathan on Isa 52:13; Talmud, Sanhedrin 98b]. (Isa 49:5–6; Isa 53:8–9; Isa 1:4; Isa 53:10)
+
+**Gospel bridge:** *"Abraham told Isaac, 'God will provide for Himself the lamb.' Isaiah says the Servant was led like a lamb to slaughter, and that Yahweh laid on him the iniquity of us all. If God has provided the Lamb, what will you do with Him?"* Abraham believed God and it was counted to him as righteousness. The same promise stands for the Jew first. (Gen 22:8; Isa 53:6–7; Gen 15:6; Rom 1:16; Rom 10:9–13)
+
+**Where we agree:** There is one God, the Maker of heaven and earth, the God of Abraham, Isaac and Jacob. The Law, the Prophets and the Writings are His word. God chose Israel, has kept them through every attempt to destroy them, and is not finished with them. Sin is real and must be confessed to God. A Messiah from David's line is promised. Every writer of the New Testament but perhaps one was Jewish, and so is Jesus.
+
+**Approach:** Come with love and a debt of thanks: the Scriptures, the covenants and the Messiah came to us through them. MacArthur told Ben Shapiro, "I am a Christian because of the Old Testament" [MacArthur, interview with Ben Shapiro]. Paul had great sorrow and unceasing grief for his kinsmen and prayed for their salvation, and so should you. Never say "the Jews killed Jesus" as a charge against the person in front of you: Jews and Gentiles together did what God's hand had decided beforehand, and Jesus laid down His life of His own accord. Own the history honestly: terrible things were done to Jewish people in the name of Christ, against everything Christ taught. Do not be arrogant toward the branches; you stand by faith. Use the Old Testament first, ask them to read the passage aloud, and ask "Who is this about?" before you say a word. The hope is sure. MacArthur: "God's not through with them" [MacArthur, conference message on Israel's future]. (Rom 9:1–5; Rom 10:1; Acts 4:27–28; John 10:17–18; Rom 11:18–20; Rom 11:25–27)
+
+<a id="jew-card"></a>
+### 📇 Jewish Cheat Card
+1. **Isa 53:5–6**: *"Who is this, pierced for someone else's sins?"*
+2. **Isa 53:8–10**: *"He is cut off from the land of the living, and then prolongs his days. How?"*
+3. **Lev 17:11**: *"God says the blood makes atonement. With no temple, what is yours?"*
+4. **Dan 9:26**: *"The Anointed One is cut off before the temple falls. The temple fell in AD 70. Who was it?"*
+5. **Zech 12:10**: *"God says, 'They will look on Me whom they have pierced.' When was God pierced?"*
+6. **Jer 31:31–34**: *"God promised a new covenant, not like Sinai. Has it come?"*
+
+<a id="jew-offense"></a>
+### 🗡️ JEWISH OFFENSE
+
+#### PLAY 1: Who is Isaiah talking about? (the Servant of Isaiah 53)
+- **Opener:** *"Would you read a passage from the prophet Isaiah with me and tell me who you think it describes?"*
+- **Or open with:** *"I'm a Christian because of the Hebrew Scriptures. Can I show you the chapter that did it?"*
+- **Chain:**
+  1. **Isa 52:13–15**: The passage starts here, three verses before the chapter break. God says, "Behold, My Servant." He will be exalted, yet his appearance is marred more than any man. *"Have you read this before?"*
+  2. **Isa 53:1–3**: He grows up like a root out of dry ground, with nothing to draw anyone to him. He is despised and rejected by his own people. *"Who is the 'we' that did not esteem him?"*
+  3. **Isa 53:4–6**: He is pierced for our transgressions and crushed for our iniquities. All of us like sheep have gone astray, and Yahweh laid on him the iniquity of us all. *"Is he suffering for his own sins, or for someone else's?"*
+  4. **Isa 53:7–9**: He is silent like a lamb led to slaughter, cut off from the land of the living for the transgression of "my people," given a grave with the wicked yet with a rich man in his death, though he had done no violence and spoken no deceit. *"If he dies for 'my people,' can he be the people?"*
+  5. **Isa 53:10**: Yahweh was pleased to crush him, and he gives himself as a guilt offering. Then he sees his offspring and prolongs his days. *"How does a dead man prolong his days?"*
+  6. **Isa 53:11–12**: The Righteous One, My Servant, will justify the many, for he will bear their iniquities. *"How does one man's suffering make many people righteous?"*
+  7. **Acts 8:32–35**: An official from Ethiopia was reading this very passage and asked whom the prophet meant. Philip began from that Scripture and told him the good news about Jesus. That is the pattern.
+- **If they say →**
+  - *"The servant is Israel."* → Isaiah does call Israel God's servant (Isa 41:8), a servant he then calls blind and deaf (Isa 42:19). But in Isa 49:5–6 the Servant is the one who brings Jacob back and raises up the tribes of Israel. One restores the other. And this Servant is innocent (Isa 53:9), while Isaiah's Israel is "a people weighed down with iniquity" (Isa 1:4). *"When did Israel suffer silently, willingly and sinlessly, to pay for someone else's sins?"*
+  - *"That is a Christian reading."* → The Aramaic Targum, read in synagogues, renders Isa 52:13 "Behold, My servant the Messiah" [Targum Jonathan]. The Talmud gives Messiah a name from Isa 53:4 [Sanhedrin 98b]. Reading the servant as the nation became the standard answer with Rashi, in the eleventh century, a thousand years after Jesus. *"Why did the reading change?"*
+  - *"We never read that in synagogue."* → That is true. The weekly readings from the Prophets stop at Isa 52:12 and pick up again at Isa 54:1. Don't accuse anyone of hiding it. Just say, *"Then let's read it now."*
+  - *"He was just a man who died. Many Jews were crucified."* → Only one was foretold as dying for others' sins, buried in a rich man's tomb, and alive afterward. Go to [The resurrection](/topic/the-resurrection).
+- **Closer:** *"Isaiah wrote it in the past tense, as Israel looking back and saying, 'We thought God had struck him, but he was pierced for our transgressions.' Zechariah says that day is coming for the whole nation. It can be today for you."* (Zech 12:10; Zech 13:1; Isa 53:4–5)
+
+#### PLAY 2: Where is the atonement? (sin, sacrifice and no temple)
+- **Opener:** *"On Yom Kippur, how do you know your sins are actually forgiven?"*
+- **Or open with:** *"The Torah gives a whole book to sacrifice. Since the temple fell, what takes its place, and who said so?"*
+- **Chain:**
+  1. **Isa 1:4–6; Isa 59:2**: Isaiah begins by telling the covenant people they are a sinful nation, sick from head to foot, and that their iniquities have separated them from God. Being Abraham's child did not exempt them. *"Was Isaiah wrong about them, or is he right about all of us?"*
+  2. **Ps 143:2; Eccl 7:20; Isa 64:6**: No one living is righteous before God. There is not a righteous man on earth who never sins. Our righteous deeds are like a filthy garment. *"If the good deeds are stained too, what do you bring?"*
+  3. **Lev 17:11**: The life of the flesh is in the blood, and God gave it on the altar to make atonement. *"God chose the means. Can we choose another?"*
+  4. **Lev 16:15–16, 21–22**: On the Day of Atonement one goat dies and the sins of the people are confessed over the head of the other, which carries them away. An innocent substitute bears the guilt. *"Where is that substitute today?"*
+  5. **Dan 9:26**: The Anointed One is cut off and has nothing, and then the city and the sanctuary are destroyed. The temple has been gone since AD 70. *"Would God take away the sacrifices and leave nothing in their place?"*
+  6. **Isa 53:10**: The Servant gives himself as a guilt offering. The animal sacrifices were pictures; he is what they pictured. (Heb 10:4; Heb 10:11–14)
+  7. **Jer 31:31–34**: God promised a new covenant, not like the one made at Sinai, in which He forgives iniquity and remembers sin no more. *"Has that covenant come? Through whom?"*
+- **If they say →**
+  - *"Repentance, prayer and charity atone now."* → Scripture commands all three, and never says they replace the blood. Daniel repented and prayed in exile, and still confessed that he had no righteousness of his own to plead, only God's great compassion (Dan 9:18). *"Where does God say He changed the means of atonement?"*
+  - *"God doesn't want sacrifice. Hosea 6:6, Psalm 51:16."* → Those verses rebuke sacrifice offered with a heart far from God. David's psalm ends with God delighting in righteous sacrifices on His altar (Ps 51:19). God was not cancelling Leviticus; He was demanding a broken heart with it.
+  - *"The prayers of our lips replace the bulls. Hosea 14:2."* → Hosea calls Israel to return with words of confession. He does not say words pay for sin. Someone still has to bear it. (Isa 53:6)
+  - *"I'm a good person. I keep the commandments."* → Ask which one they have kept perfectly, and walk through a few. Go to [The Way of the Master](/topic/the-way-of-the-master). The Law was given to show sin, and Moses himself said the people would not keep it. (Deut 31:27–29; Deut 27:26)
+  - *"I'm Jewish. I'm already in the covenant."* → Isaiah, Jeremiah and John the Baptist all preached repentance to people in the covenant. God requires a circumcised heart. (Deut 10:16; Jer 4:4; Matt 3:9; Rom 2:28–29)
+- **Closer:** *"Abraham was counted righteous before he had done anything, because he believed God. Habakkuk says the righteous will live by faith. God has provided the sacrifice Himself. Will you trust Him?"* (Gen 15:6; Hab 2:4; Isa 53:11)
+
+#### PLAY 3: Who is the Messiah? (when he comes, what he does, who he is)
+- **Opener:** *"What do you think the Messiah will do when he comes, and how will you recognize him?"*
+- **Or open with:** *"If the Messiah had already come, how would you know?"*
+- **Chain:**
+  1. **Mic 5:2**: He is born in Bethlehem, and his goings forth are from long ago, from the days of eternity. *"What kind of man has origins from eternity?"*
+  2. **Isa 9:6–7**: A child is born, a son is given, who sits on David's throne forever, and his name is Mighty God. *"Is that title ever given to a mere man?"*
+  3. **Ps 110:1**: David calls his own descendant "my Lord," and Yahweh seats him at His right hand. *"Why would David call his son 'Lord'?"* (Matt 22:41–46)
+  4. **Dan 7:13–14**: One like a Son of Man comes with the clouds of heaven, and all peoples serve him in a kingdom that never ends. That service belongs to God alone.
+  5. **Zech 9:9**: Your king comes to you humble, riding on a donkey. **Dan 7:13**: he comes on the clouds. *"How can both be true of one Messiah?"* Two comings: first to suffer, then to reign.
+  6. **Dan 9:24–26**: He comes to atone for iniquity, he is cut off, and then the temple is destroyed. *"The temple was destroyed in AD 70. Who came before that, claimed to be Messiah, died, and is worshiped by a billion Gentiles as Isaiah 49:6 said?"*
+  7. **Zech 12:10**: God pours out the Spirit of grace on the house of David, and "they will look on Me whom they have pierced" and mourn as for an only son. The One pierced is the One speaking.
+- **If they say →**
+  - *"The Messiah brings world peace. There is no peace, so Jesus is not the Messiah."* → He will bring it. The prophets give two pictures, a suffering Servant and a reigning King, and the rabbis saw the tension themselves and proposed two Messiahs, one of whom is killed [Talmud, Sukkah 52a]. Scripture's answer is one Messiah who comes twice. He dealt with sin first, because peace with God has to come before peace on earth. (Isa 53:5; Isa 2:4; Zech 14:4, 9)
+  - *"God is not a man. Numbers 23:19."* → That verse says God does not lie or change His mind the way a man does. It does not say God cannot take on flesh. He appeared to Abraham and ate with him (Gen 18:1–2), and Isaiah calls the child born "Mighty God" (Isa 9:6).
+  - *"The Messiah is a man, not God."* → He is both. Go to [The Trinity](/topic/the-trinity) and use Ps 110:1, Isa 9:6 and Dan 7:13–14 from this play.
+  - *"Isaiah 7:14 says 'young woman,' not 'virgin.'"* → The word is *almah*, a young unmarried woman, and Jewish translators before Jesus was born rendered it in Greek with the word for virgin [Septuagint]. A young woman giving birth is no sign at all. But don't make this your lead text; Isaiah 53 and Daniel 9 carry more weight in this conversation.
+- **Closer:** *"Moses said God would raise up a Prophet like him, and that God would hold accountable anyone who would not listen to him. I believe He has come. Would you read the Gospel of Matthew, written by a Jew for Jews, and see whether Jesus is the one Moses and the prophets wrote about?"* (Deut 18:15, 18–19; John 5:46)
+
+<a id="jew-defense"></a>
+### 🛡️ JEWISH DEFENSE
+
+| They say… | Quick answer | Go to | Ask back |
+|---|---|---|---|
+| **"The servant in Isaiah 53 is Israel."** | This Servant restores Israel, is sinless, suffers willingly and dies for "my people." None of that fits the nation Isaiah calls sinful. The oldest Jewish readings took him to be Messiah [Targum Jonathan; Sanhedrin 98b]. Run Play 1. | Isa 49:5–6; Isa 53:8–9; Isa 1:4 | *"If he dies for the people, how can he be the people?"* |
+| **"Jesus didn't bring peace, so he isn't the Messiah."** | The prophets show Messiah suffering and Messiah reigning. One Messiah, two comings. He dealt with sin first; He will reign on David's throne and the nations will learn war no more. | Isa 53:5; Zech 9:9–10; Isa 2:4; Zech 12:10 | *"Which does a sinner need first: peace on earth, or peace with God?"* |
+| **"'Hear, O Israel, the LORD is one.' The Trinity is idolatry."** | We confess the Shema. One God, one Being. The Hebrew Scriptures themselves show more: "Let Us make man," Yahweh sending His Servant and His Spirit, and David's Lord seated beside Yahweh. See [The Trinity](/topic/the-trinity). | Deut 6:4; Gen 1:26; Isa 48:16; Ps 110:1 | *"Who is David's 'Lord' in Psalm 110?"* |
+| **"God is not a man."** | Numbers 23:19 says God does not lie like a man. It does not say He cannot come in flesh. He appeared to Abraham as a man, and the child of Isaiah 9 is called Mighty God. | Num 23:19; Gen 18:1–2; Isa 9:6; Mic 5:2 | *"Is anything too hard for Yahweh?"* |
+| **"No one can die for another's sins. Ezekiel 18."** | Ezekiel is answering people who blamed their fathers for their own judgment; each sinner answers for his own sin. That is the problem, not the solution. The whole sacrificial system is an innocent substitute bearing guilt, and Isaiah says Yahweh laid our iniquity on the Servant. | Ezek 18:20; Lev 16:21–22; Isa 53:6; Isa 53:12 | *"Then what was the goat on Yom Kippur doing?"* |
+| **"God hates human sacrifice."** | He forbids men to offer their children to idols. Here it is God who gives, and the Servant who willingly gives himself. Yahweh was pleased to crush him, and he poured out himself to death. No one took his life from him. | Isa 53:10; Isa 53:12; Gen 22:8; John 10:17–18 | *"Who is the offerer in Isaiah 53:10?"* |
+| **"We don't need a sacrifice. We repent."** | Repentance is commanded, and it is not payment. A judge who lets the guilty go because they are sorry is not just, and God says He will by no means leave the guilty unpunished. Someone bears it: you, or the substitute God provided. | Ex 34:6–7; Lev 17:11; Prov 17:15; Isa 53:5 | *"If God just overlooks sin, is He still just?"* |
+| **"I'm a good person. God weighs the good against the bad."** | Scripture has no scale like that. It says no one living is righteous before Him and that even our righteous deeds are stained. Use the commandments: see [The Way of the Master](/topic/the-way-of-the-master). | Ps 143:2; Eccl 7:20; Isa 64:6; Ps 14:2–3 | *"Have you loved God with all your heart every day of your life?"* |
+| **"If I believe in Jesus I stop being Jewish."** | Jesus is Jewish. So were the apostles and the whole first church, thousands in Jerusalem, many of them priests. Paul said, "I too am an Israelite." Following Israel's Messiah is the most Jewish thing a person can do. Do admit the cost: family may treat it as betrayal, and Jesus said He is worth it. | Rom 11:1; Acts 21:20; Acts 6:7; Matt 10:37–39 | *"Was Paul still Jewish after the Damascus road?"* |
+| **"Christians have persecuted us for centuries."** | Agree, and grieve it. Crusades, expulsions and pogroms were done in Christ's name against Christ's commands. They were sin. Judge Jesus by Jesus: He wept over Jerusalem and prayed for those who crucified Him. | Luke 19:41–42; Luke 23:34; Rom 9:1–3; Rom 11:18–20 | *"Would you judge Moses by the Israelites who made the golden calf?"* |
+| **"The New Testament is antisemitic."** | It was written by Jews about a Jewish Messiah, and its hard words to Israel are no harder than Isaiah's or Jeremiah's. It says salvation is from the Jews, that the gospel is for the Jew first, and that God has not rejected His people. | John 4:22; Rom 1:16; Rom 11:1–2; Isa 1:4 | *"Was Isaiah antisemitic when he called Israel a sinful nation?"* |
+| **"Jesus broke the Torah and abolished it."** | He said He came to fulfill the Law and the Prophets, not abolish them, and no one could convict Him of sin. What He rejected were traditions added to God's word. And God Himself promised a new covenant unlike Sinai. | Matt 5:17–18; John 8:46; Mark 7:8–9; Jer 31:31–32 | *"Which commandment of Moses did Jesus break?"* |
+| **"If Jesus were the Messiah, the rabbis would have believed."** | Isaiah foretold the opposite: "Who has believed our message?" The Servant is despised and rejected by his own. Yet thousands of Jews did believe, including many priests. Paul says a partial hardening has come on Israel until the fullness of the Gentiles comes in, and then all Israel will be saved. | Isa 53:1–3; Isa 6:9–10; Acts 6:7; Rom 11:25–26 | *"Did Israel's leaders usually listen to the prophets God sent?"* |
+| **"Christians say the church has replaced Israel. God is done with us."** | Scripture does not say so. God tied His promise to Israel to the sun, moon and stars. Within the nation there has always been a believing remnant, and Paul says the day is coming when the nation and the remnant are the same: all Israel will be saved, when they look on the One they pierced [Abner Chou; MacArthur]. | Jer 31:35–37; Rom 11:1–5; Rom 11:26–29; Zech 12:10 | *"Why are there still Jewish people on earth, when the Hittites and Amorites are gone?"* |
+| **"I'm Jewish, but I'm not religious."** | Most Jewish people you meet are here. Don't argue rabbinics. Ask what they think happens after death, use the commandments, and then show them Isaiah 53 as something from their own heritage they may never have seen. See [The Gospel](/topic/the-gospel). | Isa 53:5–6; Eccl 12:14; Dan 12:2 | *"Have you ever read the prophets for yourself?"* |
+
+**Typical exits:** "Ask a rabbi; he can explain Isaiah 53." (Answer: *"I'd be glad to hear it. Would you read the chapter yourself first and tell me who you see?"*) · "We don't believe in that." (Ask: *"What do you believe God does with sin?"*) · "My family would disown me." (Don't minimize it. Leave Matt 10:37–39 and Ps 27:10, and stay a friend.) · "That's your Bible, not ours." (Stay in Isaiah, Leviticus, Daniel and Zechariah, which are theirs.)
 
 # 🕊️ ONENESS PENTECOSTALS
 

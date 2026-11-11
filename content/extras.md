@@ -741,6 +741,20 @@ The suffering Servant, the pierced hands and feet, the birthplace of the Messiah
 - **Necessary vs. sufficient:** Rome says grace, faith and Scripture are necessary. The Reformation said each is also enough: Scripture alone, grace alone, faith alone, Christ alone.
 - **Unam Sanctam:** the 1302 bull of Boniface VIII that defined submission to the Roman Pontiff as necessary for salvation.
 
+## Jewish
+- **Tanakh:** The Hebrew Scriptures, our Old Testament: Torah (Law), Nevi'im (Prophets) and Ketuvim (Writings). Same books, different order.
+- **Torah:** The five books of Moses. Also used loosely for all Jewish teaching.
+- **Talmud:** The written collection of rabbinic discussion (Mishnah and Gemara), finished centuries after Jesus. Orthodox Jews treat it as the authoritative "oral Torah."
+- **Mashiach:** Messiah, "anointed one." In Judaism, a human king from David still to come.
+- **Shema:** "Hear, O Israel" (Deut 6:4), the daily confession that God is one.
+- **Hashem:** "The Name." How observant Jews refer to God rather than pronounce His name.
+- **Teshuvah:** Repentance, literally "return." With prayer and charity, the rabbinic answer to how sin is forgiven.
+- **Yom Kippur:** The Day of Atonement (Lev 16). Today kept with fasting and prayer, without the sacrifices Leviticus commands.
+- **Haftarah:** The set reading from the Prophets in synagogue each week. Isaiah 53 is not among the readings.
+- **Targum:** An ancient Aramaic paraphrase of the Hebrew Scriptures read in synagogues.
+- **Rashi:** Rabbi Shlomo Yitzchaki (died 1105), the most widely read Jewish commentator. He made "the servant is Israel" the standard reading of Isaiah 53.
+- **Yeshua:** The Hebrew name of Jesus. Jewish believers in Him often use it.
+
 ## Oneness Pentecostal
 - **Oneness:** the teaching that God is one person who shows Himself as Father, Son and Holy Spirit, and whose name is Jesus.
 - **Modalism (Sabellianism):** the ancient name for the same idea: one person in three modes or roles. The church rejected it in the third century.
