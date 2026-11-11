@@ -606,9 +606,9 @@ export function Game() {
 
         // pointers to things off the edge of the screen
         const far = s.phase === "church" ? s.churchX - p.x : s.boss && !s.boss.told ? s.boss.x - p.x : 0;
-        if (Math.abs(far) > 62) {
+        if (Math.abs(far) > (s.phase === "church" ? 105 : 62)) {
           const right = far > 0;
-          const what = s.phase === "church" ? "CHURCH" : "LAST ONE";
+          const what = s.phase === "church" ? "VALLEY BIBLE CHURCH" : "LAST ONE";
           label(right ? `${what} >` : `< ${what}`, right ? OW - 22 : 22, OH / 2 - 40, 28, "#ffe9a8", right ? "right" : "left");
         }
         if (s.phase === "church" && Math.abs(far) <= 80) {

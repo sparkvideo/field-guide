@@ -300,6 +300,14 @@ export function Home({ groups }: { groups: GroupRow[] }) {
               </span>
               <Chevron />
             </Link>
+                        <Link href="/topic/macarthur-on-rome" className="row">
+              <BookIcon />
+              <span>
+                <span className="block text-[20px] font-semibold">MacArthur on Rome</span>
+                <span className="sub">His case against Roman Catholicism, in his words</span>
+              </span>
+              <Chevron />
+            </Link>
             <Link href="/method" className="row">
               <TargetIcon />
               <span>

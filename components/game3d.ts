@@ -316,9 +316,10 @@ export function createStage(canvas: HTMLCanvasElement) {
     church.add(mark);
     // the sign out front
     const board = lambert("#1d2320");
-    church.add(box(3.0, 1.05, 0.12, board, 3.5, 1.25, 1.5), box(0.12, 0.8, 0.12, board, 2.2, 0.4, 1.5), box(0.12, 0.8, 0.12, board, 4.8, 0.4, 1.5));
-    const logo = new THREE.Mesh(new THREE.PlaneGeometry(2.7, 0.83), logoMat("/icons/vbc-logo.png"));
-    logo.position.set(3.5, 1.25, 1.57);
+    // It stands on the side you walk in from, and it is large, so the name is read before the door.
+    church.add(box(4.2, 1.5, 0.12, board, -5.0, 3.05, 1.9), box(0.14, 2.3, 0.14, board, -6.8, 1.15, 1.9), box(0.14, 2.3, 0.14, board, -3.2, 1.15, 1.9));
+    const logo = new THREE.Mesh(new THREE.PlaneGeometry(3.9, 1.19), logoMat("/icons/vbc-logo.png"));
+    logo.position.set(-5.0, 3.05, 1.97);
     church.add(logo);
     church.position.z = -2.6;
     church.visible = false;

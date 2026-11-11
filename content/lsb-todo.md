@@ -1,11 +1,16 @@
-# LSB verses still to fill in (42 of 605)
+# LSB verses still to fill in (80 of 643)
 
 Open `content/lsb-verses.json`, find the reference, and paste the LSB text between the quotes after "text".
 Until a slot is filled, the app shows the BSB text with a small "BSB" label.
 
+- [ ] Genesis 9:6
 - [ ] Deuteronomy 13:1–3
+- [ ] Psalms 19:1–4
+- [ ] Psalms 100:3
 - [ ] Psalms 115:4–8
 - [ ] Psalms 116:1–4
+- [ ] Psalms 139:13–14
+- [ ] Isaiah 45:18
 - [ ] Isaiah 45:20
 - [ ] Isaiah 45:21–22
 - [ ] Jeremiah 7:18
@@ -13,35 +18,68 @@ Until a slot is filled, the app shows the BSB text with a small "BSB" label.
 - [ ] Jeremiah 44:25
 - [ ] Matthew 6:7–9
 - [ ] Matthew 8:14
+- [ ] Matthew 10:37
 - [ ] Matthew 12:46–50
+- [ ] Matthew 23:9
+- [ ] Mark 10:29–30
 - [ ] Luke 1:38
 - [ ] Luke 1:46–48
+- [ ] Luke 16:26
 - [ ] Luke 17:10
+- [ ] Luke 18:9–14
 - [ ] Luke 22:31–32
+- [ ] John 1:12–13
+- [ ] John 5:15–16
+- [ ] John 9:22
+- [ ] John 12:42–43
 - [ ] John 14:13–14
 - [ ] John 16:7
 - [ ] John 17:11
 - [ ] John 21:15–17
 - [ ] Acts 1:11
+- [ ] Acts 2:22–38
 - [ ] Acts 3:21
+- [ ] Acts 8:36–38
+- [ ] Acts 15:1
+- [ ] Acts 15:5
+- [ ] Acts 15:7–11
+- [ ] Acts 16:30–31
 - [ ] Romans 6:9–10
+- [ ] Romans 10:1–4
+- [ ] Romans 10:1
 - [ ] Romans 15:20
 - [ ] Romans 16:3–16
 - [ ] 1 Corinthians 7:7–9
 - [ ] 1 Corinthians 9:5
+- [ ] 1 Corinthians 11:27–29
+- [ ] 2 Corinthians 4:4
+- [ ] 2 Corinthians 5:10
+- [ ] 2 Corinthians 6:17
+- [ ] 2 Corinthians 10:4–5
+- [ ] 2 Corinthians 11:13–15
 - [ ] 2 Corinthians 11:14
 - [ ] Galatians 2:7–8
 - [ ] Galatians 4:8
+- [ ] Galatians 5:2–4
+- [ ] Galatians 5:9
 - [ ] Ephesians 1:22
+- [ ] Philippians 3:4–9
+- [ ] Colossians 1:19–20
+- [ ] Colossians 2:10
 - [ ] 1 Thessalonians 1:9
+- [ ] 2 Thessalonians 2:3–4
 - [ ] 1 Timothy 3:2
 - [ ] 1 Timothy 4:1–3
 - [ ] Titus 1:6
 - [ ] Hebrews 4:15–16
 - [ ] Hebrews 9:11–12
+- [ ] Hebrews 10:10–14
 - [ ] Hebrews 10:12–13
+- [ ] James 3:9
 - [ ] 1 Peter 5:1–3
 - [ ] 1 Peter 5:1–2
+- [ ] 2 Peter 2:1
+- [ ] 1 John 2:18
 - [ ] 1 John 5:14
 - [ ] Revelation 4:8–11
 - [ ] Revelation 5:11–14

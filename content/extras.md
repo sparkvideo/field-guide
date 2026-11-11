@@ -119,6 +119,14 @@ Start here when he calls something evil, unfair or hateful.
 - **"That's true for you. This is my truth."** → An opinion is not the same as truth. Truth is what matches reality, whoever believes it. *"Can a person sincerely believe something and be wrong?"*
 - **"It's objective."** → *"Then who set the standard, and why does it bind everyone?"* (Rom 2:14–15)
 
+## Start with the Creator
+Many people today have no Bible background. Words like sin, judgment and Savior mean little to someone who thinks he is an accident. Peter preached to people who knew the Scriptures and went straight to Christ and repentance (Acts 2:22–38). Paul, in Athens, began with the God who made the world and everything in it, and then said God now commands all people everywhere to repent (Acts 17:24–31). John's Gospel begins the same way: all things came into being through Christ (John 1:1–3; Col 1:16). You are not delaying the gospel. You are telling him whose world this is, so that sin makes sense and the cross is good news.
+**Ask:** *"Who made you? And if you were made, who do you answer to?"*
+- **Made on purpose.** He is not a cosmic accident. He was made by God, in God's image, to know Him. (Gen 1:27; Ps 100:3; Ps 139:13–14)
+- **Worth.** Every person bears God's image: unborn, disabled, old, unable to contribute anything. *"If worth depends on what a person can do, is a strong man worth more than a child with Down syndrome?"* (Gen 9:6; James 3:9)
+- **Guilt.** He may have been taught that guilt is only herd instinct or upbringing. *"When someone wrongs you, is that only instinct, or did he really do wrong?"* The conscience is God's law written on the heart. (Rom 2:14–15)
+- **Then sin and the Savior.** The One who made him is the One he has sinned against, and the One who came to die for sinners. (Col 1:16; Col 1:19–20)
+
 ## Step 4: Bring him back to your ground
 Show that what he has been borrowing belongs to God. Logic reflects God's unchanging mind, morality His holy character, the order of nature His faithfulness, and our reasoning His image in us. All things were made through the Word. (Gen 1:27; Mal 3:6; John 1:1–3; Acts 17:24–28)
 
@@ -139,9 +147,54 @@ Show that what he has been borrowing belongs to God. Logic reflects God's unchan
 - **Don't trade away creation to sound reasonable.** God made everything in six days. See [the evolution answer](/atheist/objection/evolution-explains-life-we-dont).
 - **Don't treat it as a trick.** Winning the exchange saves no one. He is not confused; he is suppressing the truth, and only God opens blind eyes. (2 Cor 4:4–6; 1 Cor 2:14)
 - **Evidence still belongs.** The apostles pointed to the empty tomb and the eyewitnesses. Give the evidence as God's facts, not as something a neutral judge gets to rule on. (Acts 17:31; 1 Cor 15:3–8)
+- **Don't lean on quotes and numbers you can't back up.** A line credited to Darwin or a statistic from a sermon can be wrong, and one bad quote costs you the hearing. Stay with Scripture and with questions.
 - **Get to the cross.** This clears the ground. Then give [The Gospel](/topic/the-gospel).
 
 For a short version to run live, open [the borrowed capital play](/atheist/case/play-3).
+
+# MacArthur on Rome
+> What John MacArthur says about Roman Catholicism, in his own words.
+
+These lines come from John MacArthur's sermons on the Pope and the papacy, the Mass, the priesthood, Galatians 5 and the idolatry of Mary worship (Grace to You). Use them to know where our teachers stand and why. With a Catholic friend, open the Bible first and ask questions; these are for your own conviction and for when someone asks, "Is it really that serious?"
+
+## His heart
+He begins with grief, not anger: "We find no delight in people who are condemned to hell." And he ends with a plea: "People need to be rescued from this system." (Ezek 33:11; Rom 10:1; 2 Tim 2:24–26)
+
+## The system
+MacArthur calls Roman Catholicism "an apostate, corrupt, heretical, false Christianity" and "a front for the kingdom of Satan." On adding works to faith he says, "There is no room for any alteration of the gospel." Of Rome and Eastern Orthodoxy together: "It is not to be joined, it is to be cursed." He is using Paul's word, anathema. (Gal 1:6–9; Gal 5:2–4; 2 Cor 11:13–15; 2 Pet 2:1)
+- **Backing:** Trent placed its curse on justification by faith alone [Sess. 6, can. 9, 12, 14] and has never withdrawn it. Paul put his curse on any gospel that adds to faith.
+
+## The Mass
+He calls transubstantiation "mystical hocus-pocus, mumbo-jumbo for sure," and says that phrase came from the Latin words of the Mass, *hoc est corpus meum*. He says the Mass is paid for: "You pay for a Mass. That's how the coffers of the Catholic Church are filled." And he reminds us that English believers were burned alive for denying it. (Heb 9:25–28; Heb 10:10–14; Heb 10:18)
+- **Backing:** Rome's own law lets a priest accept an offering to apply a Mass for a named intention [Code of Canon Law, can. 945]. Trent calls the Mass propitiatory for the living and the dead [Sess. 22, can. 3].
+- **Backing:** Archbishop John Tillotson gave the same origin for "hocus-pocus" in 1694. Rest the argument on Hebrews, and use the phrase as MacArthur's.
+- **Backing:** Foxe's *Book of Martyrs* records about 280 people burned under Mary Tudor (1555–1558), many of them for rejecting the Mass.
+
+## Mary
+"Pagan goddess worship dressed up in Roman Catholic fantasy." He traces it to the old mother-and-child cults (Ishtar, Astarte, Isis) and to the "queen of heaven" whom God judged Judah for worshiping. On "Mother of God" he says, "God was never born." On the claim that we reach Christ through Mary: "This is a Satanic fabrication." On Co-Redemptrix: not formal dogma, but "unofficial reality." (Jer 7:18; Jer 44:17–19; Luke 1:46–48; Luke 11:27–28; 1 Tim 2:5; Isa 42:8)
+- **Backing:** He quotes Rome's own writers, above all Alphonsus de Liguori's *The Glories of Mary*, which Rome has never condemned. Liguori is a canonized saint and a Doctor of the Church.
+- **Backing:** The Catechism still calls Mary Advocate, Helper, Benefactress and Mediatrix and says she was exalted "as Queen over all things" [CCC 966, 968–969]. The 2025 Vatican note set aside a title. It removed no doctrine.
+
+## Purgatory and indulgences
+"Purgatory is what makes the whole system work." He says Rome invented it, that it is a second chance after death, and that indulgences are forgiveness for sale: the treasury of merit can be drawn on, and "you can buy it." (Heb 1:3; Heb 9:27; Luke 23:43; Acts 8:20)
+- **Backing:** Rome still teaches the treasury of merit and indulgences for the living and the dead [CCC 1471–1479], and still grants them for acts such as passing through a Holy Door in a Jubilee year (2000, 2025). The open sale of indulgences is what Luther attacked in 1517.
+
+## The Pope
+He says the titles are stolen. "Holy Father" is what Jesus called God. Head of the church belongs to Christ. And Vicar of Christ, the one who stands in Christ's place: "He has stolen that from the Holy Spirit." He says there is no evidence in Scripture that Peter was ever in Rome. He reads out the papacy's record of immorality and wealth and calls its display "theater." On Antichrist he quotes Luther, Calvin, Knox, the Puritans and Spurgeon, then gives his own view: the Pope is not the final Antichrist, but "the very embodiment of antichrist" in this age, and it is "not a bad guess to see the final Antichrist as a pope." (John 17:11; Matt 23:9; Col 1:18; John 16:7; 1 John 2:18; 2 Thess 2:3–4)
+- **Backing:** This was the common Protestant confession. Luther's Smalcald Articles (II.4), the Westminster Confession (25.6) and the 1689 London Baptist Confession (26.4) all name the Pope as "that Antichrist, that man of sin."
+- **Backing:** Our church teaches a future, personal Antichrist. MacArthur's wording fits that: many antichrists now (1 John 2:18), the final one still to come.
+
+## The priesthood
+On required celibacy he goes to 1 Timothy 4: "Those who forbid marriage are advocating a doctrine of demons." He ties the scandals of the priesthood to that rule and to a priesthood the New Testament never created. (1 Tim 4:1–3; 1 Tim 3:2; 1 Cor 9:5; 1 Pet 2:9)
+
+## How it began
+"What was born with Constantine was Christendom rather than Christianity." He says the empire made one official religion, pagan practice came in with the crowds, and true believers were there through every century, protesting.
+- **Dates to know:** Constantine legalized Christianity in 313 and called the Council of Nicaea in 325. Theodosius made it the state religion in 380. The papal claims grew after that: Leo I (440–461), then Gregory VII and Boniface VIII in the Middle Ages.
+
+## Why people stay
+From John 5, where a man healed by Jesus sides with the leaders against Him: "That is the power of false religion." People fear being put out. Expect it, and pray. (John 5:15–16; John 9:22; 2 Cor 10:4–5; 2 Cor 4:4)
+
+Then go to [the Catholic plays](/catholic) and give [The Gospel](/topic/the-gospel).
 
 # The Trinity
 > One God in three Persons.
@@ -249,6 +302,9 @@ The suffering Servant, the pierced hands and feet, the birthplace of the Messiah
 - **Purgatory:** final purification after death for those who die in grace "but still imperfectly purified" [CCC 1030–1031].
 - **Indulgence:** remission of temporal punishment for sins already forgiven, applicable to oneself or to souls in purgatory [CCC 1471, 1498].
 - **Deuterocanonical books:** what Rome calls the Apocrypha: Tobit, Judith, Wisdom, Sirach, Baruch, 1–2 Maccabees, and additions to Esther and Daniel [Trent, Sess. 4].
+- **Judaizers:** teachers in the New Testament who believed in Jesus and said Gentiles must also be circumcised and keep the Law of Moses to be saved (Acts 15:1, 5). Galatians was written against them.
+- **Necessary vs. sufficient:** Rome says grace, faith and Scripture are necessary. The Reformation said each is also enough: Scripture alone, grace alone, faith alone, Christ alone.
+- **Unam Sanctam:** the 1302 bull of Boniface VIII that defined submission to the Roman Pontiff as necessary for salvation.
 
 ## Eastern Orthodox
 - **Holy Tradition:** "the doctrine of the faith, the law of God, the sacraments, and the ritual as handed down" [Philaret Q17]. It includes Scripture and the councils.
@@ -261,6 +317,9 @@ The suffering Servant, the pierced hands and feet, the birthplace of the Messiah
 - **Essence / energies:** God's unknowable essence vs. His uncreated energies, in which believers participate (Gregory Palamas).
 - **Toll houses:** a pious tradition about demonic testing of the soul after death; **not dogma**.
 - **Dormition:** Mary's "falling asleep" (Aug. 15). Many Orthodox believe she was taken bodily to heaven, but the East never defined it as Rome did in 1950.
+- **Chrismation:** anointing with holy oil (chrism) right after baptism, the Orthodox form of confirmation. It is also how most converts from other churches are received.
+- **Infant communion:** baptized and chrismated infants receive communion [OCA, *The Orthodox Faith*, vol. 2].
+- **Prayers for the departed:** prayers, alms and the liturgy offered for the dead, which Dositheus says deliver some souls from Hades [Decree 18].
 
 ## Atheist
 - **Atheist:** does not believe in God. Some go further and say there is no God.
