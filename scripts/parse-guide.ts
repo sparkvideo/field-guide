@@ -366,6 +366,7 @@ const GROUPS: { match: RegExp; slug: Group["slug"]; name: string; color: string;
   { match: /HINDUS/, slug: "hindu", name: "Hindu", color: "#f59e0b" },
   { match: /BUDDHISTS/, slug: "buddhist", name: "Buddhist", color: "#84cc16" },
   { match: /NEW AGE/, slug: "new-age", name: "New Age / Spiritualist", color: "#a78bfa" },
+  { match: /SATANISTS/, slug: "satanist", name: "Satanist", color: "#e11d48" },
   { match: /ONENESS/, slug: "oneness", name: "Oneness Pentecostal", color: "#ea580c" },
   { match: /PROGRESSIVE/, slug: "progressive", name: "Progressive Christian", color: "#db2777" },
   // Built but not launched: no home tile, no search, no training cards. Reachable only at /hebrew-roots.

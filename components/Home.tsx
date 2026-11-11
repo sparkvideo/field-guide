@@ -17,7 +17,7 @@ type GroupRow = { slug: string; name: string; color: string; plays: number; obje
 
 // The home screen is one scrolling page. Groups sit under three headings as small tiles.
 const FAMILIES = [
-  { id: "sec-religions", title: "Religious worldviews", slugs: ["muslim", "jewish", "hindu", "buddhist", "new-age"] },
+  { id: "sec-religions", title: "Religious worldviews", slugs: ["muslim", "jewish", "hindu", "buddhist", "new-age", "satanist"] },
   { id: "sec-christian", title: "False Christianity & competing claims", slugs: ["jw", "lds", "unitarian", "oneness", "catholic", "orthodox", "progressive"] },
   { id: "sec-nonreligious", title: "Nonreligious worldviews", slugs: ["atheist", "agnostic", "humanist", "deist"] },
 ];

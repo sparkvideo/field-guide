@@ -315,6 +315,7 @@ The statement in 1 Corinthians 15:3–5 is one Paul says he was handed. He met P
 - **Jesus is who He said He is.** (Rom 1:4)
 - **The payment was accepted.** He was raised for our justification. (Rom 4:25)
 - **Death is beaten.** Those who are His will be raised. (1 Cor 15:20–22; John 11:25–26)
+- **His resurrection is not like Lazarus's.** Lazarus came out still bound in his grave clothes and later died again. Jesus left His lying in the tomb and will never die again. Lazarus shows that Christ's voice commands death; Christ's own rising is the first of a new kind of life, the one His people will share. [Abner Chou, sermon on John 11:41–44] (John 11:43–44; John 20:6–7; Rom 6:9; 1 Cor 15:20)
 - **A day of judgment is fixed, and the Judge has been named.** (Acts 17:30–31)
 **Ask:** *"He is alive today. What will you do with a living Lord?"*
 
@@ -872,6 +873,16 @@ Pray for yourself:
 - **Higher self:** The idea that your true inner self is divine and all-knowing.
 - **Ascended masters:** Supposed enlightened beings, with Jesus listed as one of them.
 - **Monism / pantheism:** All is one; all is God.
+
+## Satanist
+- **LaVeyan Satanism:** The Church of Satan, founded by Anton LaVey in 1966. Atheistic: Satan is a symbol of pride, appetite and self-rule.
+- **The Satanic Temple:** A non-theistic activist group founded in 2013, known for its seven tenets and public protests. Not the same as the Church of Satan.
+- **Theistic Satanism:** The minority who believe Satan is a real being and honor or worship him.
+- **Luciferianism:** Honors Lucifer as a "light-bringer" and liberator rather than as evil. The serpent's side of Genesis 3.
+- **Left-hand path:** An occult term for spiritualities that seek self-deification and break religious taboos.
+- **Baphomet:** A goat-headed figure used as a symbol by both main Satanist groups.
+- **Black mass:** A ritual that mocks Christian worship, especially the Roman Catholic Mass.
+- **"Hail Satan":** A greeting or slogan. For most it is provocation, not prayer.
 
 ## Oneness Pentecostal
 - **Oneness:** the teaching that God is one person who shows Himself as Father, Son and Holy Spirit, and whose name is Jesus.

@@ -18,6 +18,7 @@
 | **Hindu** | [HIN Offense](#hin-offense) | [HIN Defense](#hin-defense) | [HIN Card](#hin-card) |
 | **Buddhist** | [BUD Offense](#bud-offense) | [BUD Defense](#bud-defense) | [BUD Card](#bud-card) |
 | **New Age / Spiritualist** | [NA Offense](#na-offense) | [NA Defense](#na-defense) | [NA Card](#na-card) |
+| **Satanist** | [SAT Offense](#sat-offense) | [SAT Defense](#sat-defense) | [SAT Card](#sat-card) |
 | **Oneness Pentecostal** | [ONE Offense](#one-offense) | [ONE Defense](#one-defense) | [ONE Card](#one-card) |
 | **Progressive Christian** | [PROG Offense](#prog-offense) | [PROG Defense](#prog-defense) | [PROG Card](#prog-card) |
 | **Roman Catholic** | [RCC Offense](#rcc-offense) | [RCC Defense](#rcc-defense) | [RCC Card](#rcc-card) |
@@ -903,6 +904,90 @@ Verses to read ([▶](https://youtu.be/DPFeuxNkxCA?t=710)): **Q 4:24** (married 
 
 **Typical exits:** "That's your truth." (Ask: *"Is that true for me too?"* and leave John 14:6.) · "You're giving off negative energy." (Smile: *"I may be. I'd rather be honest with you than agreeable."*) · "I respect all paths." (Ask: *"Including the one that says there is only one?"*) · "I'll see what my guides say." (Give 1 John 4:1–3 and ask them to put that test to the guide.)
 
+# 🔥 SATANISTS
+
+**Their position:** There are three kinds, and you need to know which one is in front of you. Most are atheists: the Church of Satan (Anton LaVey, 1966) does not believe in a real devil and uses Satan as a symbol of pride, appetite and being your own god; its first statement is "Satan represents indulgence instead of abstinence!" [LaVey, The Satanic Bible, 1969]. The Satanic Temple (2013) is also non-theistic and is mainly a political and activist group with seven tenets about reason, empathy and bodily autonomy, such as "One's body is inviolable, subject to one's own will alone" [The Satanic Temple, Tenet III]. A small minority are theistic: they believe Satan or Lucifer is a real being and honor or worship him, often mixed with occult practice. What all three share is the creed of the garden: no God over me; I decide good and evil.
+
+**The dividing issue:** Who is God: the Creator, or the self. Satanism in every form is the worship of self, which is exactly what Scripture says the devil offered at the start and still offers. And Scripture says the devil is real whether a man believes in him or not: a created, fallen, lying, defeated enemy who has never loved anyone who served him. (Gen 3:4–5; Isa 14:13–14; John 8:44; Rom 1:25)
+
+**Ask this question:** *"Jesus said everyone who sins is a slave of sin. Has doing whatever you want made you free, or does it own you?"* (John 8:34)
+
+**Scriptural response:** Satan said in his heart, "I will make myself like the Most High," and was cast down. He is a liar and a murderer from the beginning, and he blinds the minds of the unbelieving. The Son of God appeared to destroy the works of the devil, disarmed the rulers and authorities at the cross, and through death rendered powerless him who had the power of death. The devil's end is the lake of fire, and it is shared by those who follow him. (Isa 14:12–15; John 8:44; 2 Cor 4:4; 1 John 3:8; Col 2:15; Heb 2:14–15; Rev 20:10; Matt 25:41)
+
+**Common objection:** *"I don't believe in Satan or God. It's a symbol, a protest against religious hypocrisy and control."* → Then look at what you chose for a symbol: the first rebel, whose whole message was "be your own god." Scripture says a person does not have to believe in the devil to follow him; he only has to live for himself. All of us once walked that way. And hypocrisy is a reason to reject hypocrites, not Christ, who condemned them harder than you do. (Eph 2:1–3; 2 Cor 4:4; Matt 23:27–28)
+
+**Gospel bridge:** *"The devil has never died for anyone. Christ did. Which master has actually loved you?"* God rescues people from the domain of darkness and transfers them to the kingdom of His beloved Son, in whom we have redemption, the forgiveness of sins. No one has gone too far: people who practiced magic burned their books and believed. (Col 1:13–14; John 10:10–11; Acts 26:18; Acts 19:18–20; 1 Tim 1:15)
+
+**Where we agree:** Religious hypocrisy and abuse are real and should be exposed. No one can be forced into faith; coerced religion is worthless. The individual matters, and honesty is better than pretending. Many of these people were truly wronged by someone who claimed Christ's name.
+
+**Approach:** Do not be afraid and do not be shocked. Shock is often the point; meet it with calm and kindness. Greater is He who is in you than he who is in the world. Ask which kind they are and how they got there, because there is very often a story of church hurt, abuse or rejection behind it, and you should listen to it. With the atheist kinds, use this page's first play together with the [Atheist](/atheist) plays and [Morality and justice](/topic/morality-and-justice): they are atheists in costume. With the theistic and occult kind, take the danger seriously and keep to the gospel. We do not use rituals or formulas of deliverance, and we do not rail at the devil; even Michael the archangel said only, "The Lord rebuke you." Christ sets captives free through His word. Pray before, during and after: see [How to pray](/topic/how-to-pray). (1 John 4:4; 2 Tim 1:7; Jude 1:9; Eph 6:10–12; James 4:7)
+
+<a id="sat-card"></a>
+### 📇 Satanist Cheat Card
+1. **Gen 3:4–5**: *"Who first said, 'You will be like God'? How did it turn out?"*
+2. **John 8:34**: *"Is doing what you want freedom, or slavery?"*
+3. **John 8:44**: *"What does Jesus say the devil is, from the beginning?"*
+4. **Col 2:15**: *"What happened to the powers of darkness at the cross?"*
+5. **Rev 20:10**: *"How does the devil's story end?"*
+6. **Col 1:13–14**: *"What does God do for those in the domain of darkness?"*
+
+<a id="sat-offense"></a>
+### 🗡️ SATANIST OFFENSE
+
+#### PLAY 1: Your own god? (the atheist kinds: Church of Satan, Satanic Temple)
+- **Opener:** *"What does Satan stand for, to you?"*
+- **Or open with:** *"If you are your own highest authority, who do you answer to when you are wrong?"*
+- **Chain:**
+  1. **Gen 3:4–5**: The serpent's promise: you will not die, and you will be like God, deciding good and evil for yourself. *"That is the idea you've taken up. It is the oldest one there is. What did it deliver?"* Shame, blame, hiding and death. (Gen 3:7–10)
+  2. **Isa 14:13–15**: Five times: "I will." "I will make myself like the Most High." And the answer: "You will be thrust down to Sheol." Self-exaltation is the devil's own biography, and it ends in ruin.
+  3. A god should be able to do three things: make himself, keep himself alive and clear his own guilt. *"Which of those can you do?"* (Ps 100:3; Ps 49:7–9)
+  4. **John 8:34; Rom 6:16**: Everyone who commits sin is the slave of sin. You are slaves of the one you obey. Indulgence does not end in freedom; ask anyone owned by a bottle, a screen or his own anger.
+  5. **Rom 1:21–25**: They exchanged the truth of God for a lie and worshiped the creature rather than the Creator. The self is a creature too.
+  6. **Phil 2:5–11**: Set the two side by side. Satan grasped at being God and was cast down. Christ, who is God, emptied Himself, took the form of a slave, obeyed to death on a cross, and was exalted above every name. *"Which one is actually strong?"*
+  7. **Matt 16:25–26**: Whoever wants to save his life will lose it. What does it profit a man to gain the whole world and forfeit his soul?
+- **If they say →**
+  - *"Christianity is for the weak. It's a slave religion."* → It is for the guilty, which is everyone. As for weak: its founder went to a Roman cross on purpose, forgave the men nailing Him there and walked out of His grave. Self-indulgence takes no strength at all; any child can do it. (John 10:17–18; Luke 23:34; Titus 2:11–12)
+  - *"Our tenets are more moral than your Bible: compassion, reason, justice."* → Those are good things, and they are borrowed. In a world with no God, why is compassion binding on anyone, and why is justice more than opinion? If each person decides, the rapist is never wrong. See [Morality and justice](/topic/morality-and-justice). (Rom 2:14–15; Mic 6:8)
+  - *"I don't hurt anyone. I just live for myself."* → The first and greatest commandment is to love God with all your heart, and living for yourself breaks it every hour. And you have hurt people; all of us have. (Matt 22:37–38; Rom 3:23)
+  - *"My body is mine alone."* → You did not make it and you cannot keep it. It is on loan from the One who knit it together, and He will ask for an account. (Ps 139:13–14; 1 Cor 6:19–20; Heb 9:27)
+- **Closer:** *"You wanted no master. Everyone has one. Jesus says, 'If the Son makes you free, you will be free indeed.' Would you like to be?"* (John 8:36; Matt 11:28–30)
+
+#### PLAY 2: The real Satan (for those who honor him, and for the occult)
+- **Opener:** *"What do you believe Satan is, and what has he done for you?"*
+- **Or open with:** *"Do you know how the Bible says his story ends?"*
+- **Chain:**
+  1. **Ezek 28:15; Col 1:16**: He is a creature. He was made, and he is not God's opposite or equal. There is no contest between the Creator and something He made.
+  2. **Job 1:12; Luke 22:31**: He has to ask permission. He could not touch Job or sift Peter without God's leave. *"Why serve the one on the leash rather than the One holding it?"*
+  3. **John 8:44**: Jesus says he was a murderer from the beginning and there is no truth in him; when he lies he speaks his own language. Whatever he has promised you, he is lying.
+  4. **2 Cor 11:14; Rev 12:10**: He disguises himself as an angel of light, and he is the accuser. First he flatters, then he accuses. He has no love for those he uses.
+  5. **1 Pet 5:8**: He prowls like a roaring lion, seeking someone to devour. You are not his partner. You are his prey.
+  6. **Col 2:15; Heb 2:14–15**: At the cross Christ disarmed the rulers and authorities and made a public display of them. Through death He rendered powerless the one who had the power of death, and freed those enslaved by the fear of it.
+  7. **Rev 20:10; Matt 25:41**: The devil will be thrown into the lake of fire, and the eternal fire prepared for him and his angels is where those on his side are sent with him. *"He cannot save himself. He will not save you."*
+  8. **Col 1:13–14; Acts 26:18**: God rescues from the domain of darkness and transfers into the kingdom of His Son. Jesus sent Paul to turn people from the authority of Satan to God, to receive forgiveness of sins.
+- **If they say →**
+  - *"He gives me power. It works."* → He offered Jesus all the kingdoms of the world for one act of worship. He pays in things that cannot be kept, and the price is you. A girl in Philippi had real power from a spirit, and she was a slave. (Matt 4:8–10; Mark 8:36; Acts 16:16–18)
+  - *"Lucifer is the light-bringer who freed us with knowledge. God is the tyrant."* → He promised they would be like God and would not die. They got shame, fear and a grave. Then look at who the "tyrant" turned out to be: the One who laid down His life for His enemies. The thief comes to steal, kill and destroy; the Good Shepherd lays down His life for the sheep. (Gen 3:4–10; John 10:10–11; Rom 5:8)
+  - *"I've gone too far. I gave myself to him."* → Your soul was never yours to sign away: "All souls are Mine," God says. Jesus freed a man who had a legion of demons, and saved the man who called himself the foremost of sinners. No pact outranks His blood. (Ezek 18:4; Mark 5:15; 1 Tim 1:15; Col 2:14–15)
+  - *"I'm afraid of what happens if I leave."* → No one can snatch Christ's sheep out of His hand. Submit to God, resist the devil, and he will flee from you. Get rid of the objects and books, as the Ephesians did, and get into a faithful church. (John 10:28–29; James 4:7; Acts 19:18–20)
+- **Closer:** *"You have served a master who hates you and is already beaten. There is a King who died for His enemies and lives. Will you come over to Him today?"* (Col 1:13–14; John 6:37)
+
+<a id="sat-defense"></a>
+### 🛡️ SATANIST DEFENSE
+
+| They say… | Quick answer | Go to | Ask back |
+|---|---|---|---|
+| **"We don't worship the devil. Satanism is atheism."** | Understood, and most do mean that. Then the questions are the atheist's: where do reason, worth and right and wrong come from? See the [Atheist](/atheist) plays. And notice what you took for a mascot. | Rom 1:19–20; Rom 2:14–15; Gen 3:5 | *"Of all symbols, why that one?"* |
+| **"Christians invented lies about us. The Satanic Panic."** | False accusation is sin, and where Christians spread stories that were not true, they broke the ninth commandment. That does not make the philosophy true. Judge it by what it teaches. | Ex 20:16; Prov 18:17; Eph 4:25 | *"Setting the rumors aside, is 'be your own god' true?"* |
+| **"In the Bible, God kills millions and Satan kills a handful."** | The Giver of life has the right to take it, and every death He decrees is just. The devil is called a murderer from the beginning because he brought death on the whole race with a lie. And only One of them died to give life back. | Deut 32:39; John 8:44; Rom 5:12; John 10:10–11 | *"Who brought death into the world in Genesis 3?"* |
+| **"Religion is slavery. I bow to no one."** | Everyone serves something: appetite, approval, anger, self. The question is which master is good. Christ's yoke is easy, and He calls His servants friends. | Rom 6:16; Matt 11:28–30; John 15:15 | *"What can you not say no to?"* |
+| **"We fight for freedom and against theocracy."** | Faith cannot be forced, and Christians should say so first. But freedom from God is not freedom; it is the far country, and it ends at the pig trough. The Father is still watching the road. | John 8:36; Luke 15:13–20; Gal 5:13 | *"Free for what?"* |
+| **"I renounced my baptism."** | Water never saved anyone, so there was nothing magic to undo. What matters is not a ceremony but Christ, and He receives those who come to Him, including those who once cursed Him. | Eph 2:8–9; 1 Tim 1:13–15; John 6:37 | *"What would it take for you to come back?"* |
+| **"Blasphemy is funny. Hail Satan."** | God is not shaken; He who sits in the heavens laughs. But ask why it is always Jesus' name and never Zeus's. People do not rage at what they think is nothing. His patience with you is kindness, meant to lead you to repentance. | Ps 2:1–4; Rom 2:4; Gal 6:7 | *"Why does He bother you so much?"* |
+| **"Hell is a threat to control people."** | Jesus, who warned of it most, is the one who died to keep people out of it. A warning from someone who paid your way out is not a threat. See [Hell and eternal judgment](/topic/hell-and-eternal-judgment). | Matt 25:41; John 3:16–18; 2 Pet 3:9 | *"If it is real, would you want to be told?"* |
+| **"I've seen things. Spirits are real, and they answer me."** | I believe you. Scripture says they are real, that they lie, and that God forbids contact with them because they destroy. Test them by what they say about Jesus. | Deut 18:10–12; 1 John 4:1–3; 2 Cor 11:14 | *"What do they say about the cross?"* |
+
+**Typical exits:** "Hail Satan." (Don't flinch. Say: *"He won't hail you back. Jesus would have you."*) · "You're just scared of us." (Smile: *"No. I'm concerned for you. There's a difference."*) · "I had enough of church growing up." (Ask what happened, and listen all the way through.) · "It's just a joke." (Leave John 8:34 and the question, *"Are you free?"*)
+
 # 🕊️ ONENESS PENTECOSTALS
 
 **Their position:** There is one God, and He is one person. Father, Son and Holy Spirit are not three persons but three ways the one God has shown Himself, and His name is Jesus. In their words: "There is one God, who has revealed Himself as our Father, in His Son Jesus Christ, and as the Holy Spirit" [UPCI, Our Beliefs]. Many say "the Son" means the human nature of Christ, which began at Bethlehem, and "the Father" means the deity in Him. Full salvation is "repentance, baptism in water by immersion in the name of the Lord Jesus Christ for the remission of sins, and the baptism of the Holy Ghost with the initial sign of speaking with other tongues" [UPCI, Fundamental Doctrine].
@@ -960,6 +1045,7 @@ Verses to read ([▶](https://youtu.be/DPFeuxNkxCA?t=710)): **Q 4:24** (married 
   4. **John 6:38; John 3:13**: "I have come down from heaven, not to do My own will, but the will of Him who sent Me." *"Who came down, and who sent Him?"*
   5. **Phil 2:5–7**: He existed in the form of God and then took the form of a slave. *"Who decided to humble Himself before becoming man?"*
   6. **Gal 4:4**: "God sent forth His Son, born of a woman." *"Was He the Son when He was sent, or only after He arrived?"*
+  7. **John 11:41–42**: At Lazarus' tomb Jesus thanks the Father aloud "so that they may believe that You sent Me." Abner Chou's point on "sent" in John: what is sent already exists, no one sends himself, and the one sent represents the sender. So the Son existed before Bethlehem, is distinct from the Father, and bears His full authority. *"Can a person send himself?"*
 - **If they say →**
   - *"'The Son' is the humanity that began at Bethlehem (Luke 1:35)."* → Luke 1:35 says why the child would be **called** Son of God. It does not say the Son began then. The Son made the world (Col 1:16; Heb 1:2). A human nature that did not yet exist made nothing.
   - *"The Word was God's thought or plan, not a person."* → A plan is not "with God" face to face, does not make all things, and is not called "He" and "the only begotten from the Father." (John 1:2–3, 14, 18)

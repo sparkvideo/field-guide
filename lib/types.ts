@@ -61,7 +61,7 @@ export type Objection = Meta & {
 };
 
 export type Group = {
-  slug: "jw" | "unitarian" | "lds" | "muslim" | "catholic" | "orthodox" | "atheist" | "oneness" | "progressive" | "jewish" | "hindu" | "buddhist" | "new-age" | "agnostic" | "humanist" | "deist" | "hebrew-roots";
+  slug: "jw" | "unitarian" | "lds" | "muslim" | "catholic" | "orthodox" | "atheist" | "oneness" | "progressive" | "jewish" | "hindu" | "buddhist" | "new-age" | "agnostic" | "humanist" | "deist" | "hebrew-roots" | "satanist";
   name: string;
   heading: string; // heading as written in the markdown
   color: string;

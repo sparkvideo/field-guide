@@ -60,9 +60,19 @@
     "text": "And the serpent said to the woman, “You surely will not die!”"
   },
   {
+    "ref": "Genesis 3:4–10",
+    "key": "genesis.3.4-10",
+    "text": ""
+  },
+  {
     "ref": "Genesis 3:5",
     "key": "genesis.3.5",
     "text": "For God knows that in the day you eat from it your eyes will be opened, and you will be like God, knowing good and evil."
+  },
+  {
+    "ref": "Genesis 3:7–10",
+    "key": "genesis.3.7-10",
+    "text": ""
   },
   {
     "ref": "Genesis 3:17–19",
@@ -218,6 +228,11 @@
     "ref": "Exodus 20:13",
     "key": "exodus.20.13",
     "text": "You shall not murder."
+  },
+  {
+    "ref": "Exodus 20:16",
+    "key": "exodus.20.16",
+    "text": ""
   },
   {
     "ref": "Exodus 21:16",
@@ -440,6 +455,11 @@
     "text": "The Rock! His work is perfect, For all His ways are just; A God of faithfulness and without injustice, Righteous and upright is He."
   },
   {
+    "ref": "Deuteronomy 32:39",
+    "key": "deuteronomy.32.39",
+    "text": ""
+  },
+  {
     "ref": "Judges 1:1–2",
     "key": "judges.1.1-2",
     "text": "¹ Now it happened after the death of Joshua that the sons of Israel asked of Yahweh, saying, “Who shall go up first for us against the Canaanites, to fight against them?” ² And Yahweh said, “Judah shall go up; behold, I have given the land into his hand.”"
@@ -485,6 +505,11 @@
     "text": "You alone are Yahweh. You have made the heavens, The heaven of heavens with all their host, The earth and all that is on it, The seas and all that is in them. You give life to all of them And the heavenly host bows down to You."
   },
   {
+    "ref": "Job 1:12",
+    "key": "job.1.12",
+    "text": ""
+  },
+  {
     "ref": "Job 2:13",
     "key": "job.2.13",
     "text": "Then they sat down on the ground with him for seven days and seven nights with no one speaking a word to him, for they saw that his pain was very great."
@@ -508,6 +533,11 @@
     "ref": "Job 42:1–6",
     "key": "job.42.1-6",
     "text": "¹ Then Job answered Yahweh and said, ² “I know that You can do all things, And that no purpose of Yours can be thwarted. ³ ‘Who is this that hides counsel without knowledge?’ Therefore I have declared that which I did not understand, Things too marvelous for me, which I did not know. ⁴ ‘Hear, now, and I will speak; I will ask You, and You make me know.’ ⁵ I have heard of You by the hearing of the ear; But now my eye sees You; ⁶ Therefore I reject myself, And I repent in dust and ashes.”"
+  },
+  {
+    "ref": "Psalms 2:1–4",
+    "key": "psalms.2.1-4",
+    "text": ""
   },
   {
     "ref": "Psalms 8:3–5",
@@ -875,6 +905,11 @@
     "text": "He who justifies the wicked and he who condemns the righteous, Both of them alike are an abomination to Yahweh."
   },
   {
+    "ref": "Proverbs 18:17",
+    "key": "proverbs.18.17",
+    "text": ""
+  },
+  {
     "ref": "Proverbs 20:6",
     "key": "proverbs.20.6",
     "text": "Many a man will call out his own lovingkindness, But a faithful man, who can find?"
@@ -1063,6 +1098,21 @@
     "ref": "Isaiah 10:1",
     "key": "isaiah.10.1",
     "text": "Woe to those who enact evil statutes And to those who constantly record mischief,"
+  },
+  {
+    "ref": "Isaiah 14:12–15",
+    "key": "isaiah.14.12-15",
+    "text": ""
+  },
+  {
+    "ref": "Isaiah 14:13–14",
+    "key": "isaiah.14.13-14",
+    "text": ""
+  },
+  {
+    "ref": "Isaiah 14:13–15",
+    "key": "isaiah.14.13-15",
+    "text": ""
   },
   {
     "ref": "Isaiah 31:3",
@@ -1500,6 +1550,11 @@
     "text": "Who is there who speaks and it happens, Unless the Lord has commanded it?"
   },
   {
+    "ref": "Ezekiel 18:4",
+    "key": "ezekiel.18.4",
+    "text": ""
+  },
+  {
     "ref": "Ezekiel 18:20",
     "key": "ezekiel.18.20",
     "text": "The soul who sins will die. The son will not bear the iniquity of the father, nor will the father bear the iniquity of the son; the righteousness of the righteous will be upon himself, and the wickedness of the wicked will be upon himself."
@@ -1518,6 +1573,11 @@
     "ref": "Ezekiel 28:2",
     "key": "ezekiel.28.2",
     "text": "“Son of man, say to the ruler of Tyre, ‘Thus says Lord Yahweh, “Because your heart is lofty And you have said, ‘I am a god; I sit enthroned in the seat of gods In the heart of the seas’; Yet you are a man and not God, Although you make your heart like the heart of God—”’”"
+  },
+  {
+    "ref": "Ezekiel 28:15",
+    "key": "ezekiel.28.15",
+    "text": ""
   },
   {
     "ref": "Ezekiel 33:11",
@@ -1790,6 +1850,11 @@
     "text": "But He answered and said, “It is written, ‘Man shall not live on bread alone, but on every word that proceeds out of the mouth of God.’”"
   },
   {
+    "ref": "Matthew 4:8–10",
+    "key": "matthew.4.8-10",
+    "text": ""
+  },
+  {
     "ref": "Matthew 4:10",
     "key": "matthew.4.10",
     "text": "Then Jesus *said to him, “Go, Satan! For it is written, ‘You shall worship the Lord your God, and serve Him only.’”"
@@ -2040,6 +2105,11 @@
     "text": "²⁴ Then Jesus said to His disciples, “If anyone wishes to come after Me, let him deny himself, and take up his cross and follow Me. ²⁵ For whoever wishes to save his life will lose it; but whoever loses his life for My sake will find it.”"
   },
   {
+    "ref": "Matthew 16:25–26",
+    "key": "matthew.16.25-26",
+    "text": ""
+  },
+  {
     "ref": "Matthew 18:6",
     "key": "matthew.18.6",
     "text": "but whoever causes one of these little ones who believe in Me to stumble, it is better for him that a heavy millstone be hung around his neck, and that he be drowned in the depth of the sea."
@@ -2075,6 +2145,11 @@
     "text": "But regarding the resurrection of the dead, have you not read what was spoken to you by God, saying,"
   },
   {
+    "ref": "Matthew 22:37–38",
+    "key": "matthew.22.37-38",
+    "text": "³⁷ And He said to him, “‘You shall love the Lord your God with all your heart, and with all your soul, and with all your mind.’ ³⁸ This is the great and foremost commandment.”"
+  },
+  {
     "ref": "Matthew 22:37",
     "key": "matthew.22.37",
     "text": "And He said to him, “‘You shall love the Lord your God with all your heart, and with all your soul, and with all your mind.’”"
@@ -2083,11 +2158,6 @@
     "ref": "Matthew 22:37–39",
     "key": "matthew.22.37-39",
     "text": "³⁷ And He said to him, “‘You shall love the Lord your God with all your heart, and with all your soul, and with all your mind.’ ³⁸ This is the great and foremost commandment. ³⁹ And the second is like it, ‘You shall love your neighbor as yourself.’”"
-  },
-  {
-    "ref": "Matthew 22:37–38",
-    "key": "matthew.22.37-38",
-    "text": "³⁷ And He said to him, “‘You shall love the Lord your God with all your heart, and with all your soul, and with all your mind.’ ³⁸ This is the great and foremost commandment.”"
   },
   {
     "ref": "Matthew 22:37–40",
@@ -2228,6 +2298,11 @@
     "ref": "Mark 2:5–7",
     "key": "mark.2.5-7",
     "text": "⁵ And Jesus seeing their faith *said to the paralytic, “Child, your sins are forgiven.” ⁶ But some of the scribes were sitting there and reasoning in their hearts, ⁷ “Why does this man speak that way? He is blaspheming; who can forgive sins but God alone?”"
+  },
+  {
+    "ref": "Mark 5:15",
+    "key": "mark.5.15",
+    "text": ""
   },
   {
     "ref": "Mark 6:3",
@@ -2490,6 +2565,11 @@
     "text": "²⁷ Whoever does not carry his own cross and come after Me cannot be My disciple. ²⁸ For which one of you, when he wants to build a tower, does not first sit down and calculate the cost to see if he has enough to complete it?"
   },
   {
+    "ref": "Luke 15:13–20",
+    "key": "luke.15.13-20",
+    "text": ""
+  },
+  {
     "ref": "Luke 16:23–28",
     "key": "luke.16.23-28",
     "text": "²³ And in Hades he lifted up his eyes, being in torment, and *saw Abraham far away and Lazarus in his bosom. ²⁴ And he cried out and said, ‘Father Abraham, have mercy on me, and send Lazarus so that he may dip the tip of his finger in water and cool off my tongue, for I am in agony in this flame.’ ²⁵ But Abraham said, ‘Child, remember that during your life you received your good things, and likewise Lazarus bad things. But now he is being comforted here, and you are in agony. ²⁶ And besides all this, between us and you there is a great chasm fixed, so that those who wish to come over from here to you are not able, and none may cross over from there to us.’ ²⁷ And he said, ‘Then I am asking you, father, that you send him to my father’s house— ²⁸ for I have five brothers—in order that he may warn them, so that they will not also come to this place of torment.’"
@@ -2548,6 +2628,11 @@
     "ref": "Luke 22:19",
     "key": "luke.22.19",
     "text": "And when He had taken some bread and given thanks, He broke it and gave it to them, saying, “This is My body which is given for you. Do this in remembrance of Me.”"
+  },
+  {
+    "ref": "Luke 22:31",
+    "key": "luke.22.31",
+    "text": ""
   },
   {
     "ref": "Luke 22:31–32",
@@ -2935,6 +3020,11 @@
     "text": "So Jesus was saying to those Jews who had believed Him, “If you abide in My word, then you are truly My disciples;"
   },
   {
+    "ref": "John 8:34",
+    "key": "john.8.34",
+    "text": ""
+  },
+  {
     "ref": "John 8:35–36",
     "key": "john.8.35-36",
     "text": "³⁵ And the slave does not remain in the house forever; the son does remain forever. ³⁶ So if the Son makes you free, you will be free indeed."
@@ -2943,6 +3033,11 @@
     "ref": "John 8:36",
     "key": "john.8.36",
     "text": "So if the Son makes you free, you will be free indeed."
+  },
+  {
+    "ref": "John 8:44",
+    "key": "john.8.44",
+    "text": ""
   },
   {
     "ref": "John 8:46",
@@ -2978,6 +3073,11 @@
     "ref": "John 10:10",
     "key": "john.10.10",
     "text": "The thief comes only to steal and kill and destroy; I came that they may have life, and have it abundantly."
+  },
+  {
+    "ref": "John 10:10–11",
+    "key": "john.10.10-11",
+    "text": ""
   },
   {
     "ref": "John 10:11",
@@ -3025,6 +3125,11 @@
     "text": "²⁸ and I give eternal life to them, and they will never perish—ever; and no one will snatch them out of My hand. ²⁹ My Father, who has given them to Me, is greater than all; and no one is able to snatch them out of the Father’s hand. ³⁰ I and the Father are one.” ³¹ The Jews picked up stones again to stone Him. ³² Jesus answered them, “I showed you many good works from the Father; for which of them are you stoning Me?” ³³ The Jews answered Him, “For a good work we do not stone You, but for blasphemy; and because You, being a man, make Yourself God.”"
   },
   {
+    "ref": "John 10:28–29",
+    "key": "john.10.28-29",
+    "text": ""
+  },
+  {
     "ref": "John 10:30",
     "key": "john.10.30",
     "text": "I and the Father are one."
@@ -3053,6 +3158,21 @@
     "ref": "John 11:35",
     "key": "john.11.35",
     "text": "Jesus wept."
+  },
+  {
+    "ref": "John 11:41–42",
+    "key": "john.11.41-42",
+    "text": ""
+  },
+  {
+    "ref": "John 11:41–44",
+    "key": "john.11.41-44",
+    "text": ""
+  },
+  {
+    "ref": "John 11:43–44",
+    "key": "john.11.43-44",
+    "text": ""
   },
   {
     "ref": "John 12:9–11",
@@ -3150,6 +3270,11 @@
     "text": "Greater love has no one than this, that one lay down his life for his friends."
   },
   {
+    "ref": "John 15:15",
+    "key": "john.15.15",
+    "text": ""
+  },
+  {
     "ref": "John 15:26",
     "key": "john.15.26",
     "text": "“When the Advocate comes, whom I will send to you from the Father, the Spirit of truth who proceeds from the Father, He will bear witness about Me,"
@@ -3233,6 +3358,11 @@
     "ref": "John 20:1–2",
     "key": "john.20.1-2",
     "text": "¹ Now on the first day of the week, Mary Magdalene *came early to the tomb, while it *was still dark, and *saw the stone already taken away from the tomb. ² So she *ran and *came to Simon Peter and to the other disciple whom Jesus loved, and *said to them, “They have taken away the Lord out of the tomb, and we do not know where they have laid Him.”"
+  },
+  {
+    "ref": "John 20:6–7",
+    "key": "john.20.6-7",
+    "text": ""
   },
   {
     "ref": "John 20:17",
@@ -4070,9 +4200,19 @@
     "text": "⁹ knowing that Christ, having been raised from the dead, is never to die again; death no longer is master over Him. ¹⁰ For the death that He died, He died to sin once for all, but the life that He lives, He lives to God."
   },
   {
+    "ref": "Romans 6:9",
+    "key": "romans.6.9",
+    "text": ""
+  },
+  {
     "ref": "Romans 6:14–15",
     "key": "romans.6.14-15",
     "text": "¹⁴ For sin shall not be master over you, for you are not under law but under grace. ¹⁵ What then? Shall we sin because we are not under law but under grace? May it never be!"
+  },
+  {
+    "ref": "Romans 6:16",
+    "key": "romans.6.16",
+    "text": ""
   },
   {
     "ref": "Romans 6:23",
@@ -4483,6 +4623,11 @@
     "ref": "1 Corinthians 6:9–10",
     "key": "1-corinthians.6.9-10",
     "text": "⁹ Or do you not know that the unrighteous will not inherit the kingdom of God? Do not be deceived; neither the sexually immoral, nor idolaters, nor adulterers, nor effeminate, nor homosexuals, ¹⁰ nor thieves, nor the greedy, nor drunkards, nor revilers, nor swindlers, will inherit the kingdom of God."
+  },
+  {
+    "ref": "1 Corinthians 6:19–20",
+    "key": "1-corinthians.6.19-20",
+    "text": ""
   },
   {
     "ref": "1 Corinthians 7:7–9",
@@ -4980,6 +5125,11 @@
     "text": "A little leaven leavens the whole lump."
   },
   {
+    "ref": "Galatians 5:13",
+    "key": "galatians.5.13",
+    "text": ""
+  },
+  {
     "ref": "Galatians 6:1",
     "key": "galatians.6.1",
     "text": "Brothers, even if anyone is caught in any transgression, you who are spiritual, restore such a one in a spirit of gentleness, each of you looking to yourself, so that you too will not be tempted."
@@ -5020,14 +5170,14 @@
     "text": "And He put all things in subjection under His feet, and gave Him as head over all things to the church,"
   },
   {
-    "ref": "Ephesians 2:1–5",
-    "key": "ephesians.2.1-5",
-    "text": "¹ And you were dead in your transgressions and sins, ² in which you formerly walked according to the course of this world, according to the ruler of the power of the air, the spirit that is now working in the sons of disobedience, ³ among whom we all also formerly conducted ourselves in the lusts of our flesh, doing the desires of the flesh and of the mind, and were by nature children of wrath, even as the rest. ⁴ But God, being rich in mercy because of His great love with which He loved us, ⁵ even when we were dead in our transgressions, made us alive together with Christ— by grace you have been saved—"
-  },
-  {
     "ref": "Ephesians 2:1–3",
     "key": "ephesians.2.1-3",
     "text": "¹ And you were dead in your transgressions and sins, ² in which you formerly walked according to the course of this world, according to the ruler of the power of the air, the spirit that is now working in the sons of disobedience, ³ among whom we all also formerly conducted ourselves in the lusts of our flesh, doing the desires of the flesh and of the mind, and were by nature children of wrath, even as the rest."
+  },
+  {
+    "ref": "Ephesians 2:1–5",
+    "key": "ephesians.2.1-5",
+    "text": "¹ And you were dead in your transgressions and sins, ² in which you formerly walked according to the course of this world, according to the ruler of the power of the air, the spirit that is now working in the sons of disobedience, ³ among whom we all also formerly conducted ourselves in the lusts of our flesh, doing the desires of the flesh and of the mind, and were by nature children of wrath, even as the rest. ⁴ But God, being rich in mercy because of His great love with which He loved us, ⁵ even when we were dead in our transgressions, made us alive together with Christ— by grace you have been saved—"
   },
   {
     "ref": "Ephesians 2:1",
@@ -5120,6 +5270,11 @@
     "text": "¹⁷ Therefore this I say, and testify in the Lord, that you walk no longer just as the Gentiles also walk, in the futility of their mind, ¹⁸ being darkened in their mind, alienated from the life of God because of the ignorance that is in them, because of the hardness of their heart."
   },
   {
+    "ref": "Ephesians 4:25",
+    "key": "ephesians.4.25",
+    "text": ""
+  },
+  {
     "ref": "Ephesians 4:30",
     "key": "ephesians.4.30",
     "text": "And do not grieve the Holy Spirit of God, by whom you were sealed for the day of redemption."
@@ -5133,6 +5288,11 @@
     "ref": "Ephesians 5:25",
     "key": "ephesians.5.25",
     "text": "Husbands, love your wives, just as Christ also loved the church and gave Himself up for her,"
+  },
+  {
+    "ref": "Ephesians 6:10–12",
+    "key": "ephesians.6.10-12",
+    "text": ""
   },
   {
     "ref": "Ephesians 6:10–11",
@@ -5168,6 +5328,11 @@
     "ref": "Philippians 2:5–8",
     "key": "philippians.2.5-8",
     "text": "⁵ Have this way of thinking in yourselves which was also in Christ Jesus, ⁶ who, although existing in the form of God, did not regard equality with God a thing to be grasped, ⁷ but emptied Himself, by taking the form of a slave, by being made in the likeness of men. ⁸ Being found in appearance as a man, He humbled Himself by becoming obedient to the point of death, even death on a cross."
+  },
+  {
+    "ref": "Philippians 2:5–11",
+    "key": "philippians.2.5-11",
+    "text": ""
   },
   {
     "ref": "Philippians 2:5–7",
@@ -5260,6 +5425,11 @@
     "text": "¹² giving thanks to the Father, who has qualified us to share in the inheritance of the saints in light. ¹³ Who rescued us from the authority of darkness, and transferred us to the kingdom of the Son of His love,"
   },
   {
+    "ref": "Colossians 1:13–14",
+    "key": "colossians.1.13-14",
+    "text": ""
+  },
+  {
     "ref": "Colossians 1:13–17",
     "key": "colossians.1.13-17",
     "text": "¹³ Who rescued us from the authority of darkness, and transferred us to the kingdom of the Son of His love, ¹⁴ in whom we have redemption, the forgiveness of sins. ¹⁵ Who is the image of the invisible God, the firstborn of all creation. ¹⁶ For in Him all things were created, both in the heavens and on earth, visible and invisible, whether thrones or dominions or rulers or authorities— all things have been created through Him and for Him. ¹⁷ And He is before all things, And in Him all things hold together."
@@ -5328,6 +5498,11 @@
     "ref": "Colossians 2:13–14",
     "key": "colossians.2.13-14",
     "text": "¹³ And you being dead in your transgressions and the uncircumcision of your flesh, He made you alive with Him, having graciously forgiven us all our transgressions. ¹⁴ Having canceled out the certificate of debt consisting of decrees against us which was hostile to us, He also has taken it out of the way, having nailed it to the cross."
+  },
+  {
+    "ref": "Colossians 2:14–15",
+    "key": "colossians.2.14-15",
+    "text": ""
   },
   {
     "ref": "Colossians 2:14",
@@ -5443,6 +5618,16 @@
     "ref": "1 Timothy 1:10",
     "key": "1-timothy.1.10",
     "text": "for sexually immoral persons, for homosexuals, for kidnappers, for liars, for perjurers, and whatever else is contrary to sound teaching,"
+  },
+  {
+    "ref": "1 Timothy 1:13–15",
+    "key": "1-timothy.1.13-15",
+    "text": ""
+  },
+  {
+    "ref": "1 Timothy 1:15",
+    "key": "1-timothy.1.15",
+    "text": ""
   },
   {
     "ref": "1 Timothy 1:15–16",
@@ -6045,6 +6230,11 @@
     "text": "But He gives a greater grace. Therefore it says, “God is opposed to the proud, but gives grace to the humble.”"
   },
   {
+    "ref": "James 4:7",
+    "key": "james.4.7",
+    "text": ""
+  },
+  {
     "ref": "James 4:13–15",
     "key": "james.4.13-15",
     "text": "¹³ Come now, you who say, “Today or tomorrow we will go to such and such a city, and spend a year there and engage in business and make a profit.” ¹⁴ Yet you do not know what your life will be like tomorrow. You are a vapor that appears for a little while and then vanishes away. ¹⁵ Instead, you ought to say, “If the Lord wills, we will live and also do this or that.”"
@@ -6295,6 +6485,11 @@
     "text": "Everyone who does sin also does lawlessness; and sin is lawlessness."
   },
   {
+    "ref": "1 John 3:8",
+    "key": "1-john.3.8",
+    "text": ""
+  },
+  {
     "ref": "1 John 3:15",
     "key": "1-john.3.15",
     "text": "Everyone who hates his brother is a murderer, and you know that no murderer has eternal life abiding in him."
@@ -6400,7 +6595,7 @@
     "text": "Now I want to remind you, though you know all things, that Jesus, having once saved a people out of the land of Egypt, subsequently destroyed those who did not believe."
   },
   {
-    "ref": "Jude 9",
+    "ref": "Jude 1:9",
     "key": "jude.1.9",
     "text": "But Michael the archangel, when he, disputing with the devil, was arguing about the body of Moses, did not dare pronounce against him a blasphemous judgment, but said, “The Lord rebuke you!”"
   },
@@ -6503,6 +6698,11 @@
     "ref": "Revelation 7:15",
     "key": "revelation.7.15",
     "text": "For this reason, they are before the throne of God; and they serve Him day and night in His sanctuary; and He who sits on the throne will dwell over them."
+  },
+  {
+    "ref": "Revelation 12:10",
+    "key": "revelation.12.10",
+    "text": ""
   },
   {
     "ref": "Revelation 14:11",
