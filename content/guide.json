@@ -45090,6 +45090,40 @@
               ],
               "links": [],
               "supplemental": false
+            },
+            {
+              "text": "**Make it a habit.** Joel Beeke tells his students that \"praying with people is the most important thing you can do,\" believer or unbeliever, because we cannot convert anyone; the Spirit must open the heart. His own morning prayer is that God would put him in touch that day with someone who needs the gospel. [Joel Beeke, Q&A panel at Grace Community Church] (Col 4:3; Acts 16:14; 1 Cor 3:6–7)",
+              "verses": [
+                {
+                  "label": "Col 4:3",
+                  "kind": "bible",
+                  "key": "colossians.4.3",
+                  "book": "colossians",
+                  "chapter": 4,
+                  "verseStart": 3,
+                  "verseEnd": 3
+                },
+                {
+                  "label": "Acts 16:14",
+                  "kind": "bible",
+                  "key": "acts.16.14",
+                  "book": "acts",
+                  "chapter": 16,
+                  "verseStart": 14,
+                  "verseEnd": 14
+                },
+                {
+                  "label": "1 Cor 3:6–7",
+                  "kind": "bible",
+                  "key": "1-corinthians.3.6-7",
+                  "book": "1-corinthians",
+                  "chapter": 3,
+                  "verseStart": 6,
+                  "verseEnd": 7
+                }
+              ],
+              "links": [],
+              "supplemental": false
             }
           ]
         },

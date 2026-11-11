@@ -740,6 +740,7 @@ Pray for yourself:
 ## While you are talking
 - **Pray short, silent prayers.** Nehemiah prayed between a king's question and his own answer. "Lord, help me." "Lord, open his heart." (Neh 2:4–5; Ps 46:1)
 - **Offer to pray for them.** Many people who will not debate will let you pray for a real need. Pray aloud, briefly, to the Father in Jesus' name, and let them hear the gospel in how you pray. (1 Tim 2:1–4; James 5:16)
+- **Make it a habit.** Joel Beeke tells his students that "praying with people is the most important thing you can do," believer or unbeliever, because we cannot convert anyone; the Spirit must open the heart. His own morning prayer is that God would put him in touch that day with someone who needs the gospel. [Joel Beeke, Q&A panel at Grace Community Church] (Col 4:3; Acts 16:14; 1 Cor 3:6–7)
 
 ## Afterward
 - **Give thanks, whatever happened.** The results are His. (1 Cor 3:6–7; 1 Thess 5:18)

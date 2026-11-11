@@ -1,4 +1,4 @@
-# LSB verses still to fill in (45 of 1361)
+# LSB verses still to fill in (46 of 1362)
 
 Open `content/lsb-verses.json`, find the reference, and paste the LSB text between the quotes after "text".
 Until a slot is filled, the app shows the BSB text with a small "BSB" label.
@@ -42,6 +42,7 @@ Until a slot is filled, the app shows the BSB text with a small "BSB" label.
 - [ ] Philippians 2:5–11
 - [ ] Colossians 1:13–14
 - [ ] Colossians 2:14–15
+- [ ] Colossians 4:3
 - [ ] 1 Timothy 1:13–15
 - [ ] 1 Timothy 1:15
 - [ ] Hebrews 10:29
