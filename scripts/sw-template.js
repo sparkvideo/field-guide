@@ -80,7 +80,25 @@ self.addEventListener("fetch", (event) => {
   event.respondWith(
     (async () => {
       const cached = await fromCache(request);
-      if (cached) return cached;
+      if (cached) {
+        // iPhones ask for sound files a piece at a time, and will not play a whole-file answer.
+        const range = request.headers.get("range");
+        const m = range && /^bytes=(\d+)-(\d*)$/.exec(range);
+        if (!m) return cached;
+        const buf = await cached.arrayBuffer();
+        const start = Number(m[1]);
+        const end = Math.min(m[2] ? Number(m[2]) : buf.byteLength - 1, buf.byteLength - 1);
+        if (start > end) return new Response(null, { status: 416, headers: { "Content-Range": `bytes */${buf.byteLength}` } });
+        return new Response(buf.slice(start, end + 1), {
+          status: 206,
+          headers: {
+            "Content-Type": cached.headers.get("Content-Type") || "audio/mpeg",
+            "Content-Range": `bytes ${start}-${end}/${buf.byteLength}`,
+            "Content-Length": String(end - start + 1),
+            "Accept-Ranges": "bytes",
+          },
+        });
+      }
       try {
         const res = await fetch(request);
         if (res.ok && url.pathname.startsWith("/bible/")) {

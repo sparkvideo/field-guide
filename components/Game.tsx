@@ -135,28 +135,24 @@ export function Game() {
       clear: () => [523, 659, 784, 1047, 1319].forEach((f, i) => tone(f, 0.18, "square", i * 0.09)),
       end: () => [784, 659, 523, 392].forEach((f, i) => tone(f, 0.26, "square", i * 0.16)),
     };
-    // Music: a bass line and a melody, one step at a time. Each place has its own key.
-    const BASS = [0, -1, 0, -1, 0, -1, 7, -1, 5, -1, 5, -1, 7, -1, 7, -1];
-    const LEAD = [12, 16, 19, 16, 12, 16, 19, 24, 17, 21, 24, 21, 19, 23, 26, 23];
-    const STORM = [12, 15, 19, 15, 12, 15, 20, 19, 17, 20, 24, 20, 19, 22, 24, 22];
-    const ROOTS = [110, 123.47, 98, 103.83];
-    let nextNote = 0;
-    let step = 0;
-    const music = () => {
-      if (!audio || !soundRef.current || s.mode !== "play") { nextNote = 0; return; }
-      if (nextNote < audio.currentTime) nextNote = audio.currentTime + 0.05;
-      const storm = s.boss !== null;
-      const len = storm ? 0.17 : 0.22;
-      const root = ROOTS[storm ? 3 : s.theme] * (s.bold > 0 ? 1.5 : 1);
-      while (nextNote < audio.currentTime + 0.2) {
-        const d = nextNote - audio.currentTime;
-        const b = BASS[step % 16];
-        if (b >= 0) tone(root * Math.pow(2, b / 12), len * 1.6, "triangle", d, 0.07);
-        if (s.phase === "play") tone(root * Math.pow(2, (storm ? STORM : LEAD)[step % 16] / 12), len * 0.8, "square", d, 0.022);
-        step++;
-        nextNote += len;
-      }
+    // Music: one song on a loop while a round is being played. Phones only let sound start
+    // from a tap, so the first tap or key press unlocks it.
+    const song = new Audio("/audio/theme.mp3");
+    song.loop = true;
+    song.volume = 0.38;
+    song.preload = "auto";
+    let unlocked = false;
+    const unlock = () => {
+      if (unlocked || !soundRef.current) return;
+      song.play().then(() => { unlocked = true; if (s.mode !== "play") song.pause(); }).catch(() => {});
     };
+    const music = () => {
+      const want = unlocked && soundRef.current && s.mode === "play" && !document.hidden;
+      if (want && song.paused) song.play().catch(() => {});
+      else if (!want && !song.paused && unlocked) song.pause();
+    };
+    window.addEventListener("pointerdown", unlock);
+    window.addEventListener("keydown", unlock);
     window.addEventListener("pointerdown", wake);
     window.addEventListener("keydown", wake);
 
@@ -682,6 +678,10 @@ export function Game() {
     window.addEventListener("keyup", ku);
     return () => {
       cancelAnimationFrame(raf);
+      window.removeEventListener("pointerdown", unlock);
+      window.removeEventListener("keydown", unlock);
+      song.pause();
+      song.src = "";
       window.removeEventListener("pointerdown", wake);
       window.removeEventListener("keydown", wake);
       window.removeEventListener("keydown", kd);

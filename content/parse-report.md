@@ -1,6 +1,6 @@
 # Parse report
 
-Source: content/field_guide_apologetics.md (875 lines)
+Source: content/field_guide_apologetics.md (887 lines)
 
 ## Per group
 
@@ -10,7 +10,7 @@ Source: content/field_guide_apologetics.md (875 lines)
 | Unitarian | 5 | 14 | 1 | 4 | 20 | 6 | 3 | 22 | 0 |
 | Mormon | 4 | 18 | 3 | 8 | 17 | 6 | 3 | 20 | 0 |
 | Muslim | 6 | 18 | 0 | 7 | 21 | 6 | 3 | 32 | 0 |
-| Roman Catholic | 5 | 29 | 0 | 17 | 20 | 6 | 3 | 0 | 0 |
+| Roman Catholic | 5 | 31 | 0 | 17 | 30 | 6 | 3 | 0 | 0 |
 | Eastern Orthodox | 5 | 27 | 0 | 16 | 19 | 6 | 3 | 0 | 0 |
 | Atheist | 4 | 10 | 0 | 1 | 21 | 6 | 0 | 15 | 0 |
 
@@ -32,11 +32,11 @@ Source: content/field_guide_apologetics.md (875 lines)
 
 ## Verses
 
-- Bible references: 594 unique (563 verses/ranges + 31 whole-chapter mentions)
+- Bible references: 639 unique (605 verses/ranges + 34 whole-chapter mentions)
 - Quran: 26 · Book of Mormon: 6 · D&C: 1 · JST: 1 · Hadith: 5
-- Resolve in the bundled BSB: 594 of 594 ✓
-- LSB slots: 563 total, **172 still empty**
-- Whole-chapter mentions (no LSB slot; they open the chapter in the reader): Gen 15, Gen 22, Num 21, Deut 34, Ps 8, Ps 22, Ps 49, Ps 82, Ps 95, Ps 102, Prov 8, Isa 42, Isa 43–45, Isa 53, Isa 61, Ezek 37, Dan 7, Mark 7, Mark 15, John 1, John 6, John 14, Acts 2, Acts 3, Acts 10, Rom 3–5, Rom 5, 1 Cor 3, 1 Cor 8, Phil 2, Heb 2
+- Resolve in the bundled BSB: 639 of 639 ✓
+- LSB slots: 605 total, **42 still empty**
+- Whole-chapter mentions (no LSB slot; they open the chapter in the reader): Gen 15, Gen 22, Num 21, Deut 34, Ps 8, Ps 22, Ps 49, Ps 82, Ps 95, Ps 102, Ps 116, Prov 8, Isa 42, Isa 43–45, Isa 53, Isa 61, Ezek 37, Dan 7, Mark 7, Mark 15, John 1, John 6, John 14, Acts 2, Acts 3, Acts 10, Rom 3–5, Rom 5, Rom 16, 1 Cor 3, 1 Cor 8, Phil 2, Heb 2, Rev 4
 - Chapter:verse numbers written without a book name (not turned into chips):
   - Muslim objection 18: "5:16"
   - Roman Catholic objection 4: "2:14"
