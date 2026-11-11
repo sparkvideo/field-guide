@@ -15,6 +15,21 @@ import { Welcome } from "./Welcome";
 
 type GroupRow = { slug: string; name: string; color: string; plays: number; objections: number };
 
+// The home screen is one scrolling page. Groups sit under three headings as small tiles.
+const FAMILIES = [
+  { id: "sec-religions", title: "Religious worldviews", slugs: ["muslim", "jewish", "hindu", "buddhist", "new-age"] },
+  { id: "sec-christian", title: "False Christianity & competing claims", slugs: ["jw", "lds", "unitarian", "oneness", "catholic", "orthodox", "progressive"] },
+  { id: "sec-nonreligious", title: "Nonreligious worldviews", slugs: ["atheist", "agnostic", "humanist", "deist"] },
+];
+const JUMPS: [string, string][] = [
+  ["sec-religions", "Religions"],
+  ["sec-christian", "Christian claims"],
+  ["sec-nonreligious", "Nonreligious"],
+  ["sec-gospel", "Gospel"],
+  ["sec-objections", "Objections"],
+  ["sec-prepare", "Prepare"],
+];
+
 const esc = (w: string) => w.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 const SMALL_WORDS = new Set(["the", "and", "of", "a", "an", "to", "in", "is", "for", "on"]);
 
@@ -234,24 +249,37 @@ export function Home({ groups }: { groups: GroupRow[] }) {
               )
           )}
 
-          <h2 className="label" style={{ marginTop: 30 }}>Who are you talking to?</h2>
-          <nav className="rows" aria-label="Who are you talking to?">
-            {groups.map((g) => (
-              <Link key={g.slug} href={`/${g.slug}`} className="row">
-                <span className="bar" style={{ background: g.color }} aria-hidden="true" />
-                <span>
-                  <span className="block text-[20px] font-semibold">{g.name}</span>
-                  <span className="sub">
-                    {g.plays} plays, {g.objections} objections
-                  </span>
-                </span>
-                <Chevron />
-              </Link>
+          <nav className="jump" aria-label="Jump to a section">
+            {JUMPS.map(([id, label]) => (
+              <button key={id} type="button" className="jump-btn" onClick={() => document.getElementById(id)?.scrollIntoView({ behavior: "smooth", block: "start" })}>
+                {label}
+              </button>
             ))}
           </nav>
 
-          <h2 className="label" style={{ marginTop: 30 }}>For any conversation</h2>
-          <nav className="rows" aria-label="For any conversation">
+          <h2 className="home-title">Who are you talking to?</h2>
+          {FAMILIES.map((f) => {
+            const list = f.slugs.map((slug) => groups.find((g) => g.slug === slug)).filter((g): g is GroupRow => !!g);
+            return (
+              list.length > 0 && (
+                <section key={f.id} id={f.id} className="home-sec" aria-label={f.title}>
+                  <h3 className="label">{f.title}</h3>
+                  <div className="tiles">
+                    {list.map((g) => (
+                      <Link key={g.slug} href={`/${g.slug}`} className="tile">
+                        <span className="bar" style={{ background: g.color }} aria-hidden="true" />
+                        <span>{g.name}</span>
+                      </Link>
+                    ))}
+                  </div>
+                </section>
+              )
+            );
+          })}
+
+          <section id="sec-gospel" className="home-sec" aria-label="The Gospel">
+            <h3 className="label">The Gospel</h3>
+            <nav className="rows">
             <Link href="/topic/the-gospel" className="row">
               <CrossIcon />
               <span>
@@ -265,6 +293,20 @@ export function Home({ groups }: { groups: GroupRow[] }) {
               <span>
                 <span className="block text-[20px] font-semibold">The Way of the Master</span>
                 <span className="sub">The Ten Commandments, then the cross</span>
+              </span>
+              <Chevron />
+            </Link>
+            </nav>
+          </section>
+
+          <section id="sec-objections" className="home-sec" aria-label="Common objections">
+            <h3 className="label">Common objections</h3>
+            <nav className="rows">
+            <Link href="/topic/is-the-bible-reliable" className="row">
+              <BookIcon />
+              <span>
+                <span className="block text-[20px] font-semibold">Is the Bible reliable?</span>
+                <span className="sub">Manuscripts, eyewitnesses, prophecy</span>
               </span>
               <Chevron />
             </Link>
@@ -284,14 +326,6 @@ export function Home({ groups }: { groups: GroupRow[] }) {
               </span>
               <Chevron />
             </Link>
-            <Link href="/topic/is-the-bible-reliable" className="row">
-              <BookIcon />
-              <span>
-                <span className="block text-[20px] font-semibold">Is the Bible reliable?</span>
-                <span className="sub">Manuscripts, eyewitnesses, prophecy</span>
-              </span>
-              <Chevron />
-            </Link>
             <Link href="/topic/worldviews-how-do-you-know" className="row">
               <TriangleIcon />
               <span>
@@ -300,7 +334,7 @@ export function Home({ groups }: { groups: GroupRow[] }) {
               </span>
               <Chevron />
             </Link>
-                        <Link href="/topic/the-fallacy-of-evolution" className="row">
+            <Link href="/topic/the-fallacy-of-evolution" className="row">
               <CreationIcon />
               <span>
                 <span className="block text-[20px] font-semibold">The fallacy of evolution</span>
@@ -308,7 +342,7 @@ export function Home({ groups }: { groups: GroupRow[] }) {
               </span>
               <Chevron />
             </Link>
-                        <Link href="/topic/the-abolition-of-abortion" className="row">
+            <Link href="/topic/the-abolition-of-abortion" className="row">
               <LifeIcon />
               <span>
                 <span className="block text-[20px] font-semibold">The abolition of abortion</span>
@@ -316,7 +350,7 @@ export function Home({ groups }: { groups: GroupRow[] }) {
               </span>
               <Chevron />
             </Link>
-                        <Link href="/topic/macarthur-on-rome" className="row">
+            <Link href="/topic/macarthur-on-rome" className="row">
               <BookIcon />
               <span>
                 <span className="block text-[20px] font-semibold">MacArthur on Rome</span>
@@ -324,6 +358,12 @@ export function Home({ groups }: { groups: GroupRow[] }) {
               </span>
               <Chevron />
             </Link>
+            </nav>
+          </section>
+
+          <section id="sec-prepare" className="home-sec" aria-label="Prepare">
+            <h3 className="label">Prepare</h3>
+            <nav className="rows">
             <Link href="/method" className="row">
               <TargetIcon />
               <span>
@@ -348,10 +388,12 @@ export function Home({ groups }: { groups: GroupRow[] }) {
               </span>
               <Chevron />
             </Link>
-          </nav>
+            </nav>
+          </section>
 
-          <h2 className="label" style={{ marginTop: 30 }}>For you</h2>
-          <nav className="rows" aria-label="For you">
+          <section id="sec-you" className="home-sec" aria-label="For you">
+            <h3 className="label">For you</h3>
+            <nav className="rows">
             <Link href="/train" className="row">
               <DrillIcon />
               <span>
@@ -384,7 +426,8 @@ export function Home({ groups }: { groups: GroupRow[] }) {
               </span>
               <Chevron />
             </Link>
-          </nav>
+            </nav>
+          </section>
 
           <p className="mt-8 text-center">
             <Link href="/about" className="muted small inline-flex min-h-[48px] items-center px-4">

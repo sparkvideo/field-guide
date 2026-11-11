@@ -698,3 +698,16 @@ html[data-standalone] .welcome-install {
 .game-btn-text { font-size: 16px; padding: 0 12px; min-width: 72px; }
 .game-btn-main { background: var(--color-accent); color: #14110a; border-color: var(--color-accent); min-width: 96px; }
 .game-btn-main:active { background: var(--color-accent); filter: brightness(0.9); }
+
+/* Home: jump bar, section headings and group tiles */
+.jump { display: flex; gap: 8px; overflow-x: auto; margin: 18px -20px 0; padding: 2px 20px 6px; scrollbar-width: none; }
+.jump::-webkit-scrollbar { display: none; }
+.jump-btn { flex: none; min-height: 40px; padding: 0 14px; border: 1px solid var(--color-line); border-radius: 999px; background: var(--color-card); color: var(--color-ink); font-size: 15px; font-weight: 600; white-space: nowrap; }
+.jump-btn:active { background: var(--color-soft); border-color: var(--color-accent); }
+.home-title { font-family: var(--font-serif, inherit); font-size: 24px; font-weight: 700; line-height: 1.2; margin-top: 26px; }
+.home-sec { margin-top: 22px; scroll-margin-top: 14px; }
+.home-title + .home-sec { margin-top: 12px; }
+.tiles { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-top: 8px; }
+.tile { position: relative; display: flex; align-items: center; min-height: 58px; padding: 10px 12px 10px 20px; background: var(--color-card); border: 1px solid var(--color-line); border-radius: 14px; font-size: 17px; font-weight: 600; line-height: 1.2; overflow: hidden; }
+.tile .bar { position: absolute; left: 0; top: 0; bottom: 0; width: 6px; min-height: 0; border-radius: 0; }
+.tile:active { background: var(--color-soft); border-color: var(--color-accent); }
