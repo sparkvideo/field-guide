@@ -239,17 +239,25 @@ Then give [The Gospel](/topic/the-gospel). For the short answer to use live, ope
 # The abolition of abortion
 > You shall not murder.
 
-Abortion is the deliberate killing of a human being made in the image of God. It is not to be regulated or reduced. It is to be abolished, and those who do it should answer to the law as for the killing of any other person. That is the position of this guide. It rests on Scripture, and it is brought to people with the gospel, because the church's first answer to a nation's bloodshed is to call it to repent. (Ex 20:13; Gen 9:6; Prov 24:11–12)
+The child in the womb is a human being made in the image of God, and worth exactly what you are worth. That is why abortion is not to be regulated or reduced but ended: the protection every born person has belongs to the unborn too. This page is about the value of that child. It rests on Scripture, and it is brought to people with the gospel. (Ex 20:13; Gen 1:27; Gen 9:6; Prov 24:11–12)
 
 ## What you are showing
 The whole question turns on one thing: what is the unborn? If it is not a human being, no justification for abortion is needed. If it is a human being, no justification is enough. Scripture and plain observation give the same answer: from conception this is a living human being, a neighbor, and God's image bearer. (Gen 1:27; Ps 139:13–16)
 **Ask:** *"What is it? If it is a human being, what would justify killing it?"*
+
+## A human being from conception
+- **This is biology, not opinion.** When a sperm fertilizes an egg, a new, living, distinct human being exists, with his own DNA. The embryology textbooks used in universities, such as *Langman's Medical Embryology*, begin human development at fertilization.
+- **Zygote, embryo, fetus, infant, toddler, teenager: these are stages, not kinds.** Each names how far along a human being is, the way "toddler" and "teenager" do. Nothing becomes human by growing. He is human, and he grows. "Fetus" is Latin for offspring.
+- **Only four things differ between him and you.** Pastor Jeff Durbin puts it this way: size, level of development, environment and degree of dependence. *"When do we kill people because of their size?"* A seven-year-old is not fully developed. A newborn is wholly dependent. Each of us will be dependent again if we live long enough.
+- **You were once exactly that.** Every person you will ever meet was once a human embryo. *"You are here because your mother did not choose otherwise. Why wouldn't we do for them what we would want done for us?"* (Matt 7:12)
 
 ## What God says about the unborn
 - **God forms each one.** He knits the child together in the womb and writes its days before one of them exists. (Ps 139:13–16; Job 31:15; Isa 44:24)
 - **God knows them as persons.** He knew Jeremiah before he was born. John leaped in the womb at the presence of the unborn Christ. Scripture uses the same word for the baby in the womb and the baby in the manger. (Jer 1:5; Luke 1:41–44; Luke 2:12)
 - **God became one.** The Son of God took on flesh at conception, not at birth. (Luke 1:31; Luke 1:35)
 - **Children are a gift, not a burden to be removed.** (Ps 127:3)
+- **He is the fatherless child God tells us to defend.** A fatherless child is one with no one to speak for him and no one to protect him. Durbin: there is "no more fatherless child in this world" than the one abandoned in the womb. God told His own people that He would not hear their prayers while their hands were full of blood, and then said: seek justice, correct oppression, bring justice to the fatherless. The promise that scarlet sins will be white as snow comes in the very next breath. (Isa 1:15–18)
+- **He is your neighbor.** Love your neighbor as yourself. (Mark 12:31; Luke 10:36–37)
 
 ## What God says about shedding innocent blood
 - **"You shall not murder."** (Ex 20:13)
@@ -260,16 +268,25 @@ The whole question turns on one thing: what is the unborn? If it is not a human 
 
 ## Why abolition, and not regulation
 - **God does not ask a nation to sin less.** He says to stop, and to do justice. (Isa 1:16–17; Amos 5:15; Amos 5:24)
+- **You would accept it nowhere else.** No one would praise a law that allowed slavery so long as the quarters were clean, or trafficking so long as the victims were over sixteen. A law that says a child may be killed before so many weeks, or must be buried properly afterward, is the same kind of law. Durbin: "You don't change it through compromise, you change it through the truth." We may not do evil that good may come. (Rom 3:8)
 - **A law that says "and then you may kill the child" is an unjust law.** A rule that allows it before a heartbeat, before so many weeks, or after a waiting period still says that some children may be killed. Woe to those who decree unjust statutes. (Isa 10:1–2; Ex 23:7; Prov 17:15)
 - **Justice does not show partiality.** The unborn child is owed the same protection of the law as any born person, with no difference for age, size, place or how he was conceived. (Lev 19:15; Deut 1:17; James 2:9)
 - **This is what the ruler is for.** God gave the governing authority the sword to punish the one who does evil. Protecting the innocent from being killed is the first duty of any government. (Rom 13:3–4; Prov 31:8–9; Ps 82:3–4)
 - **This is how slavery was fought.** The men who ended the slave trade did not ask for kinder slavery. They called it sin and demanded its end.
 - **Biblical, not secular.** We do not leave the Bible out to sound reasonable. Abortion is sin, and the answer to sin is repentance and the gospel. (Isa 10:1; Dan 11:32)
-- **God before courts.** Abolitionists hold that when a court or a higher government commands what God forbids, rulers at every level should still protect the innocent. "We must obey God rather than men." (Acts 5:29; Dan 3:16–18)
-- **What abolitionists ask of a law.** Five things: protect the child from conception, allow no exceptions, give the unborn the equal protection of the laws on murder, do not bow to court rulings that deny it, and repeal every statute that permits abortion.
 
-## Equal protection
-The same law that protects a born child should protect an unborn one, and for the same reason. Whoever knowingly and willingly takes that life, or pays for it, performs it or forces it, should answer to the law as for any other killing, with the same due process, the same weighing of knowledge and coercion, and the same courts. Anything less says the unborn child is a lesser kind of person. (Gen 9:6; Num 35:33; Deut 19:10)
+## The same protection
+Everything the law does for a child after birth, it should do for him before birth, and for the same reason: he is one of us. We do not ask for a special law for the unborn. We ask that they no longer be left out of the law that already protects everyone else. (Lev 19:15; Prov 31:8–9; Ps 82:3–4)
+
+## If the child would suffer
+This is the argument you will hear most: he will be poor, sick, unwanted, born to addicts, or live only minutes. It says that because a child may suffer, it is kinder to kill him first. It does not hold.
+- **We never reason this way about anyone else.** We do not kill the homeless man, the addict or the veteran on the street because their lives are hard. We help them. *"You know what you can't do to someone who is suffering? Kill them."*
+- **Move the child one day past birth.** A mother learns on the day her son is born that his father is going to prison and his life will be hard. May she kill him to spare him? If not, what changed except which side of the womb he is on?
+- **No one can see a child's future.** Durbin's son Augustine was diagnosed in the womb with severe spina bifida, and his birth mother said no one would want him now. A Christian friend stood between her and the abortion clinic and found a family. He was born whole.
+- **Dying is not the same as being killed.** A child who will live ten minutes can be held, named and loved for ten minutes. A miscarriage or a stillbirth is a grief. Abortion is a decision. *"Easing suffering is something we should do. Killing the one who suffers is not how we do it."*
+- **The answer to a hard life is help.** That is where the church comes in: with a home, with money, with adoption. (James 1:27; Ps 68:5–6; Gal 6:2)
+- **Suffering is not the last word.** God gives life, numbers its days and can redeem any of them. (Ps 139:16; John 9:1–3; Rom 8:18)
+**Ask:** *"If suffering ahead is a reason to kill someone, who among us is safe?"*
 
 ## If they say
 - **"My body, my choice."** → There are two bodies. The child has his own DNA, his own heartbeat, and often a different blood type and sex. *"Whose body is being ended?"*
@@ -277,31 +294,43 @@ The same law that protects a born child should protect an unborn one, and for th
 - **"It's not a person until it's viable, or born."** → Viability measures our hospitals, not his humanity; it moves every decade. A newborn cannot survive on his own either. *"What changed in the eight inches of the birth canal?"*
 - **"What about rape?"** → Rape is a terrible crime, and the rapist should be punished severely. The child did not commit it. Scripture says the child is not put to death for the father's sin. Killing the child does not undo the crime; it adds a second victim. (Deut 24:16; Ezek 18:20)
 - **"What about the life of the mother?"** → Then there are two patients, and a doctor fights for both. Treating a mother to save her life, when her child dies in spite of every effort to save him, is not abortion. Deliberately killing the child is. Removing an ectopic pregnancy and caring for a miscarriage are not abortion either.
-- **"The baby will be poor, disabled or unwanted."** → We do not kill born people for being poor, disabled or unwanted. His worth is the image of God, not his prospects. And the church must stand ready to take in both mother and child. (James 1:27; Ps 68:5–6)
+- **"It can't survive without me. It isn't autonomous."** → Neither can a newborn, or a man on a ventilator. Needing someone has never made a person less of one. It makes us more responsible for him. *"Is a child worth less the more he needs you?"*
+- **"It isn't conscious. It can't think or feel."** → A sleeping man is not conscious, and a man under anesthesia feels nothing. We may not kill either. "Alive and human" is biology. "Conscious enough to count" is a philosophy someone made up, and it could exclude a newborn as easily. *"How conscious does a human being have to be before he has the right to live?"*
+- **"Legally, you're a person when you're born."** → The law once said a slave was property and a Jew was not a citizen. *"If the law changed tomorrow to say three-year-olds aren't persons, would that make it right?"* Law does not decide what a human being is worth. God already has.
+- **"You're a man. You don't get a say."** → Whether a child is a human being does not depend on who is asking. *"I'm not telling you what to do with your body. I'm speaking for the body inside your body."*
+- **"Have you adopted any? Then you can't talk."** → A man can oppose child trafficking without adopting every victim. And Christians do adopt, foster and give more than anyone. *"If I adopt this child today, may he live?"*
+- **"Women will die without it."** → Death in childbirth in this country is rare, and every doctor may treat a mother whose life is in danger (see the answer above on the life of the mother). Hard cases are a reason to care for two patients well. They are not a reason for a million elective abortions a year.
+- **"It's a religious issue. Christians used the Bible to defend slavery."** → Some twisted it that way. The Christians who ended the slave trade answered them from Scripture: man is made in God's image, and man-stealing was a capital crime in the law of Moses. The church has spoken the same way about abortion from the start. The *Didache*, written within a lifetime of the apostles, says, "You shall not murder a child by abortion." (Ex 21:16; Gen 1:27)
+- **"The baby will be poor, disabled or unwanted."** → We do not kill born people for being poor, disabled or unwanted. His worth is the image of God, not his prospects. See "If the child would suffer" above.
 - **"You can't legislate morality."** → Every law does. Laws against theft, rape and murder all enforce a moral judgment. The only question is whose. (Rom 13:3–4)
 - **"You only care until the baby is born."** → Even if that were true of someone, it would not make killing right. And it is not true: Christians run most of the pregnancy centers, adoptions and foster homes in this country. *"If I adopt the child, may he live?"*
-- **"Punishing the woman is cruel."** → The law already weighs coercion, deception and knowledge in every killing, and it should here. But to say she can never be responsible is to say the child was never really a person. Mercy is found at the cross, not in pretending there was no victim.
 - **"That's your religion."** → That a new human life begins at conception is biology. That it is wrong to kill an innocent human being is a moral claim everyone makes for the born. *"On what basis do you leave out the unborn?"* See [Worldviews](/topic/worldviews-how-do-you-know).
+
+## It is a matter of the heart
+Biology is on our side, and it is not enough. Most people already know what is in the womb; that is why they call it a "choice." Durbin: "The issue is sin." A child is seen as a burden because we put ourselves first, and only a new heart stops wanting that. So give the facts, and then give the gospel, which is the power of God for salvation. (Rom 1:16; Prov 8:36; Ezek 36:26)
 
 ## To the man or woman who has done it
 Many of the people you talk with have paid for an abortion, pressured someone into one, or had one. Do not soften what it was, and do not withhold the only remedy.
 - **It is sin, and it is not the unforgivable sin.** David arranged a man's death. Paul approved of Stephen's. Both were forgiven. (Ps 51:14; Acts 8:1; 1 Tim 1:15–16)
 - **Christ's blood cleanses from all sin.** "Though your sins are as scarlet, they will be as white as snow." (Isa 1:18; 1 John 1:9; 1 John 1:7)
 - **"Such were some of you."** (1 Cor 6:9–11)
+- **Calling it what it is makes forgiveness possible.** If we tell her nothing wrong was done, we leave her alone with a grief she cannot name. If it was sin, it can be forgiven, washed and remembered no more. (Heb 8:12; Ps 103:12)
 **Say:** *"What you did was real, and so is forgiveness. Christ died for sinners like you and me. Will you turn to Him?"*
 
 ## Watch out
 - **No violence, no threats, no harassment. Ever.** We call on rulers to do justice through the law, and we call sinners to repent. Vengeance belongs to God, and the sword belongs to the governing authority, not to us. (Rom 12:19; Rom 13:4; James 1:20)
 - **Don't make a guilty person feel beyond hope.** Speak the truth as one forgiven sinner to another. (Gal 6:1; Eph 4:15)
 - **Don't argue from politics or party.** Argue from Scripture and from what the child is.
-- **Don't treat brothers who work for partial laws as enemies.** They want abortion ended too. Tell them plainly why you cannot support a law that leaves some children unprotected, and keep the fellowship. (Eph 4:2–3)
+- **Oppose the position, love the brother.** Many Christians support laws that limit abortion without ending it. Say plainly why you cannot: such a law still leaves some children unprotected. And keep the fellowship. Durbin says of a pastor he disagrees with on this that he is "a better pastor and a better man" than himself. (Eph 4:2–3)
+- **Keep the child in view.** The argument is not about politics, parties or punishing anyone. It is about what he is and what he is worth. If the talk drifts, bring it back: *"What is the unborn?"*
 - **Don't stop at the law.** A man can oppose abortion and be lost. Get to the cross. (Acts 17:30–31)
 
 ## What a man can do
-Pray. Speak up for those who cannot (Prov 31:8–9). Tell your representatives you want abortion abolished, not managed. Go with your church to the abortion clinic to plead with mothers and fathers and to offer real help. Help a mother in need. Adopt, foster, give. And preach the gospel, because only new hearts stop wanting this. (Prov 24:11–12; Mic 6:8; James 1:27)
+Pray. Speak up for those who cannot (Prov 31:8–9). Tell your representatives you want abortion abolished, not managed. Go with your church to the abortion clinic to plead with mothers and fathers and to offer real help. You may have fifteen seconds before the door closes. Durbin's church says something like this: *"Mom, please don't do this to your baby. We're here because we love you. We will help you with anything you need. We will even adopt your baby."* On their first morning out, two mothers turned around. Help a mother in need. Adopt, foster, give. And preach the gospel, because only new hearts stop wanting this. (Prov 24:11–12; Mic 6:8; James 1:27)
 
 ## Who to learn from
-- **Pastor Jeff Durbin and End Abortion Now.** Durbin pastors Apologia Church here in Arizona. End Abortion Now is its ministry, "dedicated to saving lives and preaching the Gospel." It trains local churches, free of charge, to minister outside abortion clinics, and it helps Christians press their lawmakers for bills of equal protection. Its aim: "We desire equal protection for all." Its goal for itself: "When abortion ends, we end." (endabortionnow.com)
+- **Pastor Jeff Durbin and End Abortion Now.** Durbin pastors Apologia Church here in Arizona. End Abortion Now is its ministry, "dedicated to saving lives and preaching the Gospel." It trains local churches, free of charge, to minister outside abortion clinics, and it helps Christians press their lawmakers for bills of equal protection. Its aim: "We desire equal protection for all." Its goal for itself: "When abortion ends, we end." Three of Durbin's own children are adopted, and each was nearly aborted. He says, "Every single one of these babies is as valuable in the eyes of God" as his own. (endabortionnow.com)
+- **T. Russell Hunter.** A historian of the nineteenth century and founder of Abolitionists Rising. He came to this work by studying the Christians who abolished slavery and asking who is treated as less than human today.
 - **Abolitionists Rising.** Their stated goals are "the abolition of abortion, the repentance of the nation, and the glorification of God." Their marks: immediate and not gradual, equal protection, no exceptions, biblical and not secular, and obeying God over unjust rulings. (abolitionistsrising.com)
 
 Then give [The Gospel](/topic/the-gospel).

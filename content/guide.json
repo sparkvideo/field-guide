@@ -18808,7 +18808,7 @@
       "title": "The abolition of abortion",
       "intro": [
         {
-          "text": "Abortion is the deliberate killing of a human being made in the image of God. It is not to be regulated or reduced. It is to be abolished, and those who do it should answer to the law as for the killing of any other person. That is the position of this guide. It rests on Scripture, and it is brought to people with the gospel, because the church's first answer to a nation's bloodshed is to call it to repent. (Ex 20:13; Gen 9:6; Prov 24:11–12)",
+          "text": "The child in the womb is a human being made in the image of God, and worth exactly what you are worth. That is why abortion is not to be regulated or reduced but ended: the protection every born person has belongs to the unborn too. This page is about the value of that child. It rests on Scripture, and it is brought to people with the gospel. (Ex 20:13; Gen 1:27; Gen 9:6; Prov 24:11–12)",
           "verses": [
             {
               "label": "Ex 20:13",
@@ -18818,6 +18818,15 @@
               "chapter": 20,
               "verseStart": 13,
               "verseEnd": 13
+            },
+            {
+              "label": "Gen 1:27",
+              "kind": "bible",
+              "key": "genesis.1.27",
+              "book": "genesis",
+              "chapter": 1,
+              "verseStart": 27,
+              "verseEnd": 27
             },
             {
               "label": "Gen 9:6",
@@ -18875,6 +18884,46 @@
               "label": "Ask",
               "text": "*\"What is it? If it is a human being, what would justify killing it?\"*",
               "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ]
+        },
+        {
+          "heading": "A human being from conception",
+          "lines": [
+            {
+              "text": "**This is biology, not opinion.** When a sperm fertilizes an egg, a new, living, distinct human being exists, with his own DNA. The embryology textbooks used in universities, such as *Langman's Medical Embryology*, begin human development at fertilization.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Zygote, embryo, fetus, infant, toddler, teenager",
+              "text": "**these are stages, not kinds.** Each names how far along a human being is, the way \"toddler\" and \"teenager\" do. Nothing becomes human by growing. He is human, and he grows. \"Fetus\" is Latin for offspring.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Only four things differ between him and you.** Pastor Jeff Durbin puts it this way: size, level of development, environment and degree of dependence. *\"When do we kill people because of their size?\"* A seven-year-old is not fully developed. A newborn is wholly dependent. Each of us will be dependent again if we live long enough.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**You were once exactly that.** Every person you will ever meet was once a human embryo. *\"You are here because your mother did not choose otherwise. Why wouldn't we do for them what we would want done for us?\"* (Matt 7:12)",
+              "verses": [
+                {
+                  "label": "Matt 7:12",
+                  "kind": "bible",
+                  "key": "matthew.7.12",
+                  "book": "matthew",
+                  "chapter": 7,
+                  "verseStart": 12,
+                  "verseEnd": 12
+                }
+              ],
               "links": [],
               "supplemental": false
             }
@@ -18987,6 +19036,47 @@
                   "chapter": 127,
                   "verseStart": 3,
                   "verseEnd": 3
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**He is the fatherless child God tells us to defend.** A fatherless child is one with no one to speak for him and no one to protect him. Durbin: there is \"no more fatherless child in this world\" than the one abandoned in the womb. God told His own people that He would not hear their prayers while their hands were full of blood, and then said: seek justice, correct oppression, bring justice to the fatherless. The promise that scarlet sins will be white as snow comes in the very next breath. (Isa 1:15–18)",
+              "verses": [
+                {
+                  "label": "Isa 1:15–18",
+                  "kind": "bible",
+                  "key": "isaiah.1.15-18",
+                  "book": "isaiah",
+                  "chapter": 1,
+                  "verseStart": 15,
+                  "verseEnd": 18
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**He is your neighbor.** Love your neighbor as yourself. (Mark 12:31; Luke 10:36–37)",
+              "verses": [
+                {
+                  "label": "Mark 12:31",
+                  "kind": "bible",
+                  "key": "mark.12.31",
+                  "book": "mark",
+                  "chapter": 12,
+                  "verseStart": 31,
+                  "verseEnd": 31
+                },
+                {
+                  "label": "Luke 10:36–37",
+                  "kind": "bible",
+                  "key": "luke.10.36-37",
+                  "book": "luke",
+                  "chapter": 10,
+                  "verseStart": 36,
+                  "verseEnd": 37
                 }
               ],
               "links": [],
@@ -19135,6 +19225,22 @@
               "supplemental": false
             },
             {
+              "text": "**You would accept it nowhere else.** No one would praise a law that allowed slavery so long as the quarters were clean, or trafficking so long as the victims were over sixteen. A law that says a child may be killed before so many weeks, or must be buried properly afterward, is the same kind of law. Durbin: \"You don't change it through compromise, you change it through the truth.\" We may not do evil that good may come. (Rom 3:8)",
+              "verses": [
+                {
+                  "label": "Rom 3:8",
+                  "kind": "bible",
+                  "key": "romans.3.8",
+                  "book": "romans",
+                  "chapter": 3,
+                  "verseStart": 8,
+                  "verseEnd": 8
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
               "text": "**A law that says \"and then you may kill the child\" is an unjust law.** A rule that allows it before a heartbeat, before so many weeks, or after a waiting period still says that some children may be killed. Woe to those who decree unjust statutes. (Isa 10:1–2; Ex 23:7; Prov 17:15)",
               "verses": [
                 {
@@ -19266,26 +19372,143 @@
               ],
               "links": [],
               "supplemental": false
-            },
+            }
+          ]
+        },
+        {
+          "heading": "The same protection",
+          "lines": [
             {
-              "text": "**God before courts.** Abolitionists hold that when a court or a higher government commands what God forbids, rulers at every level should still protect the innocent. \"We must obey God rather than men.\" (Acts 5:29; Dan 3:16–18)",
+              "text": "Everything the law does for a child after birth, it should do for him before birth, and for the same reason: he is one of us. We do not ask for a special law for the unborn. We ask that they no longer be left out of the law that already protects everyone else. (Lev 19:15; Prov 31:8–9; Ps 82:3–4)",
               "verses": [
                 {
-                  "label": "Acts 5:29",
+                  "label": "Lev 19:15",
                   "kind": "bible",
-                  "key": "acts.5.29",
-                  "book": "acts",
-                  "chapter": 5,
-                  "verseStart": 29,
-                  "verseEnd": 29
+                  "key": "leviticus.19.15",
+                  "book": "leviticus",
+                  "chapter": 19,
+                  "verseStart": 15,
+                  "verseEnd": 15
                 },
                 {
-                  "label": "Dan 3:16–18",
+                  "label": "Prov 31:8–9",
                   "kind": "bible",
-                  "key": "daniel.3.16-18",
-                  "book": "daniel",
-                  "chapter": 3,
+                  "key": "proverbs.31.8-9",
+                  "book": "proverbs",
+                  "chapter": 31,
+                  "verseStart": 8,
+                  "verseEnd": 9
+                },
+                {
+                  "label": "Ps 82:3–4",
+                  "kind": "bible",
+                  "key": "psalms.82.3-4",
+                  "book": "psalms",
+                  "chapter": 82,
+                  "verseStart": 3,
+                  "verseEnd": 4
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ]
+        },
+        {
+          "heading": "If the child would suffer",
+          "lines": [
+            {
+              "text": "This is the argument you will hear most: he will be poor, sick, unwanted, born to addicts, or live only minutes. It says that because a child may suffer, it is kinder to kill him first. It does not hold.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**We never reason this way about anyone else.** We do not kill the homeless man, the addict or the veteran on the street because their lives are hard. We help them. *\"You know what you can't do to someone who is suffering? Kill them.\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Move the child one day past birth.** A mother learns on the day her son is born that his father is going to prison and his life will be hard. May she kill him to spare him? If not, what changed except which side of the womb he is on?",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**No one can see a child's future.** Durbin's son Augustine was diagnosed in the womb with severe spina bifida, and his birth mother said no one would want him now. A Christian friend stood between her and the abortion clinic and found a family. He was born whole.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Dying is not the same as being killed.** A child who will live ten minutes can be held, named and loved for ten minutes. A miscarriage or a stillbirth is a grief. Abortion is a decision. *\"Easing suffering is something we should do. Killing the one who suffers is not how we do it.\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**The answer to a hard life is help.** That is where the church comes in: with a home, with money, with adoption. (James 1:27; Ps 68:5–6; Gal 6:2)",
+              "verses": [
+                {
+                  "label": "Jas 1:27",
+                  "kind": "bible",
+                  "key": "james.1.27",
+                  "book": "james",
+                  "chapter": 1,
+                  "verseStart": 27,
+                  "verseEnd": 27
+                },
+                {
+                  "label": "Ps 68:5–6",
+                  "kind": "bible",
+                  "key": "psalms.68.5-6",
+                  "book": "psalms",
+                  "chapter": 68,
+                  "verseStart": 5,
+                  "verseEnd": 6
+                },
+                {
+                  "label": "Gal 6:2",
+                  "kind": "bible",
+                  "key": "galatians.6.2",
+                  "book": "galatians",
+                  "chapter": 6,
+                  "verseStart": 2,
+                  "verseEnd": 2
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Suffering is not the last word.** God gives life, numbers its days and can redeem any of them. (Ps 139:16; John 9:1–3; Rom 8:18)",
+              "verses": [
+                {
+                  "label": "Ps 139:16",
+                  "kind": "bible",
+                  "key": "psalms.139.16",
+                  "book": "psalms",
+                  "chapter": 139,
                   "verseStart": 16,
+                  "verseEnd": 16
+                },
+                {
+                  "label": "John 9:1–3",
+                  "kind": "bible",
+                  "key": "john.9.1-3",
+                  "book": "john",
+                  "chapter": 9,
+                  "verseStart": 1,
+                  "verseEnd": 3
+                },
+                {
+                  "label": "Rom 8:18",
+                  "kind": "bible",
+                  "key": "romans.8.18",
+                  "book": "romans",
+                  "chapter": 8,
+                  "verseStart": 18,
                   "verseEnd": 18
                 }
               ],
@@ -19293,47 +19516,9 @@
               "supplemental": false
             },
             {
-              "text": "**What abolitionists ask of a law.** Five things: protect the child from conception, allow no exceptions, give the unborn the equal protection of the laws on murder, do not bow to court rulings that deny it, and repeal every statute that permits abortion.",
+              "label": "Ask",
+              "text": "*\"If suffering ahead is a reason to kill someone, who among us is safe?\"*",
               "verses": [],
-              "links": [],
-              "supplemental": false
-            }
-          ]
-        },
-        {
-          "heading": "Equal protection",
-          "lines": [
-            {
-              "text": "The same law that protects a born child should protect an unborn one, and for the same reason. Whoever knowingly and willingly takes that life, or pays for it, performs it or forces it, should answer to the law as for any other killing, with the same due process, the same weighing of knowledge and coercion, and the same courts. Anything less says the unborn child is a lesser kind of person. (Gen 9:6; Num 35:33; Deut 19:10)",
-              "verses": [
-                {
-                  "label": "Gen 9:6",
-                  "kind": "bible",
-                  "key": "genesis.9.6",
-                  "book": "genesis",
-                  "chapter": 9,
-                  "verseStart": 6,
-                  "verseEnd": 6
-                },
-                {
-                  "label": "Num 35:33",
-                  "kind": "bible",
-                  "key": "numbers.35.33",
-                  "book": "numbers",
-                  "chapter": 35,
-                  "verseStart": 33,
-                  "verseEnd": 33
-                },
-                {
-                  "label": "Deut 19:10",
-                  "kind": "bible",
-                  "key": "deuteronomy.19.10",
-                  "book": "deuteronomy",
-                  "chapter": 19,
-                  "verseStart": 10,
-                  "verseEnd": 10
-                }
-              ],
               "links": [],
               "supplemental": false
             }
@@ -19392,27 +19577,69 @@
               "supplemental": false
             },
             {
-              "text": "**\"The baby will be poor, disabled or unwanted.\"** → We do not kill born people for being poor, disabled or unwanted. His worth is the image of God, not his prospects. And the church must stand ready to take in both mother and child. (James 1:27; Ps 68:5–6)",
+              "text": "**\"It can't survive without me. It isn't autonomous.\"** → Neither can a newborn, or a man on a ventilator. Needing someone has never made a person less of one. It makes us more responsible for him. *\"Is a child worth less the more he needs you?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**\"It isn't conscious. It can't think or feel.\"** → A sleeping man is not conscious, and a man under anesthesia feels nothing. We may not kill either. \"Alive and human\" is biology. \"Conscious enough to count\" is a philosophy someone made up, and it could exclude a newborn as easily. *\"How conscious does a human being have to be before he has the right to live?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**\"Legally, you're a person when you're born.\"** → The law once said a slave was property and a Jew was not a citizen. *\"If the law changed tomorrow to say three-year-olds aren't persons, would that make it right?\"* Law does not decide what a human being is worth. God already has.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**\"You're a man. You don't get a say.\"** → Whether a child is a human being does not depend on who is asking. *\"I'm not telling you what to do with your body. I'm speaking for the body inside your body.\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**\"Have you adopted any? Then you can't talk.\"** → A man can oppose child trafficking without adopting every victim. And Christians do adopt, foster and give more than anyone. *\"If I adopt this child today, may he live?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**\"Women will die without it.\"** → Death in childbirth in this country is rare, and every doctor may treat a mother whose life is in danger (see the answer above on the life of the mother). Hard cases are a reason to care for two patients well. They are not a reason for a million elective abortions a year.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**\"It's a religious issue. Christians used the Bible to defend slavery.\"** → Some twisted it that way. The Christians who ended the slave trade answered them from Scripture: man is made in God's image, and man-stealing was a capital crime in the law of Moses. The church has spoken the same way about abortion from the start. The *Didache*, written within a lifetime of the apostles, says, \"You shall not murder a child by abortion.\" (Ex 21:16; Gen 1:27)",
               "verses": [
                 {
-                  "label": "Jas 1:27",
+                  "label": "Ex 21:16",
                   "kind": "bible",
-                  "key": "james.1.27",
-                  "book": "james",
+                  "key": "exodus.21.16",
+                  "book": "exodus",
+                  "chapter": 21,
+                  "verseStart": 16,
+                  "verseEnd": 16
+                },
+                {
+                  "label": "Gen 1:27",
+                  "kind": "bible",
+                  "key": "genesis.1.27",
+                  "book": "genesis",
                   "chapter": 1,
                   "verseStart": 27,
                   "verseEnd": 27
-                },
-                {
-                  "label": "Ps 68:5–6",
-                  "kind": "bible",
-                  "key": "psalms.68.5-6",
-                  "book": "psalms",
-                  "chapter": 68,
-                  "verseStart": 5,
-                  "verseEnd": 6
                 }
               ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**\"The baby will be poor, disabled or unwanted.\"** → We do not kill born people for being poor, disabled or unwanted. His worth is the image of God, not his prospects. See \"If the child would suffer\" above.",
+              "verses": [],
               "links": [],
               "supplemental": false
             },
@@ -19439,14 +19666,47 @@
               "supplemental": false
             },
             {
-              "text": "**\"Punishing the woman is cruel.\"** → The law already weighs coercion, deception and knowledge in every killing, and it should here. But to say she can never be responsible is to say the child was never really a person. Mercy is found at the cross, not in pretending there was no victim.",
+              "text": "**\"That's your religion.\"** → That a new human life begins at conception is biology. That it is wrong to kill an innocent human being is a moral claim everyone makes for the born. *\"On what basis do you leave out the unborn?\"* See [Worldviews](/topic/worldviews-how-do-you-know).",
               "verses": [],
               "links": [],
               "supplemental": false
-            },
+            }
+          ]
+        },
+        {
+          "heading": "It is a matter of the heart",
+          "lines": [
             {
-              "text": "**\"That's your religion.\"** → That a new human life begins at conception is biology. That it is wrong to kill an innocent human being is a moral claim everyone makes for the born. *\"On what basis do you leave out the unborn?\"* See [Worldviews](/topic/worldviews-how-do-you-know).",
-              "verses": [],
+              "text": "Biology is on our side, and it is not enough. Most people already know what is in the womb; that is why they call it a \"choice.\" Durbin: \"The issue is sin.\" A child is seen as a burden because we put ourselves first, and only a new heart stops wanting that. So give the facts, and then give the gospel, which is the power of God for salvation. (Rom 1:16; Prov 8:36; Ezek 36:26)",
+              "verses": [
+                {
+                  "label": "Rom 1:16",
+                  "kind": "bible",
+                  "key": "romans.1.16",
+                  "book": "romans",
+                  "chapter": 1,
+                  "verseStart": 16,
+                  "verseEnd": 16
+                },
+                {
+                  "label": "Prov 8:36",
+                  "kind": "bible",
+                  "key": "proverbs.8.36",
+                  "book": "proverbs",
+                  "chapter": 8,
+                  "verseStart": 36,
+                  "verseEnd": 36
+                },
+                {
+                  "label": "Ezek 36:26",
+                  "kind": "bible",
+                  "key": "ezekiel.36.26",
+                  "book": "ezekiel",
+                  "chapter": 36,
+                  "verseStart": 26,
+                  "verseEnd": 26
+                }
+              ],
               "links": [],
               "supplemental": false
             }
@@ -19546,6 +19806,31 @@
               "supplemental": false
             },
             {
+              "text": "**Calling it what it is makes forgiveness possible.** If we tell her nothing wrong was done, we leave her alone with a grief she cannot name. If it was sin, it can be forgiven, washed and remembered no more. (Heb 8:12; Ps 103:12)",
+              "verses": [
+                {
+                  "label": "Heb 8:12",
+                  "kind": "bible",
+                  "key": "hebrews.8.12",
+                  "book": "hebrews",
+                  "chapter": 8,
+                  "verseStart": 12,
+                  "verseEnd": 12
+                },
+                {
+                  "label": "Ps 103:12",
+                  "kind": "bible",
+                  "key": "psalms.103.12",
+                  "book": "psalms",
+                  "chapter": 103,
+                  "verseStart": 12,
+                  "verseEnd": 12
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
               "label": "Say",
               "text": "*\"What you did was real, and so is forgiveness. Christ died for sinners like you and me. Will you turn to Him?\"*",
               "verses": [],
@@ -19623,7 +19908,7 @@
               "supplemental": false
             },
             {
-              "text": "**Don't treat brothers who work for partial laws as enemies.** They want abortion ended too. Tell them plainly why you cannot support a law that leaves some children unprotected, and keep the fellowship. (Eph 4:2–3)",
+              "text": "**Oppose the position, love the brother.** Many Christians support laws that limit abortion without ending it. Say plainly why you cannot: such a law still leaves some children unprotected. And keep the fellowship. Durbin says of a pastor he disagrees with on this that he is \"a better pastor and a better man\" than himself. (Eph 4:2–3)",
               "verses": [
                 {
                   "label": "Eph 4:2–3",
@@ -19635,6 +19920,12 @@
                   "verseEnd": 3
                 }
               ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Keep the child in view.** The argument is not about politics, parties or punishing anyone. It is about what he is and what he is worth. If the talk drifts, bring it back: *\"What is the unborn?\"*",
+              "verses": [],
               "links": [],
               "supplemental": false
             },
@@ -19660,7 +19951,7 @@
           "heading": "What a man can do",
           "lines": [
             {
-              "text": "Pray. Speak up for those who cannot (Prov 31:8–9). Tell your representatives you want abortion abolished, not managed. Go with your church to the abortion clinic to plead with mothers and fathers and to offer real help. Help a mother in need. Adopt, foster, give. And preach the gospel, because only new hearts stop wanting this. (Prov 24:11–12; Mic 6:8; James 1:27)",
+              "text": "Pray. Speak up for those who cannot (Prov 31:8–9). Tell your representatives you want abortion abolished, not managed. Go with your church to the abortion clinic to plead with mothers and fathers and to offer real help. You may have fifteen seconds before the door closes. Durbin's church says something like this: *\"Mom, please don't do this to your baby. We're here because we love you. We will help you with anything you need. We will even adopt your baby.\"* On their first morning out, two mothers turned around. Help a mother in need. Adopt, foster, give. And preach the gospel, because only new hearts stop wanting this. (Prov 24:11–12; Mic 6:8; James 1:27)",
               "verses": [
                 {
                   "label": "Prov 31:8–9",
@@ -19708,7 +19999,13 @@
           "heading": "Who to learn from",
           "lines": [
             {
-              "text": "**Pastor Jeff Durbin and End Abortion Now.** Durbin pastors Apologia Church here in Arizona. End Abortion Now is its ministry, \"dedicated to saving lives and preaching the Gospel.\" It trains local churches, free of charge, to minister outside abortion clinics, and it helps Christians press their lawmakers for bills of equal protection. Its aim: \"We desire equal protection for all.\" Its goal for itself: \"When abortion ends, we end.\" (endabortionnow.com)",
+              "text": "**Pastor Jeff Durbin and End Abortion Now.** Durbin pastors Apologia Church here in Arizona. End Abortion Now is its ministry, \"dedicated to saving lives and preaching the Gospel.\" It trains local churches, free of charge, to minister outside abortion clinics, and it helps Christians press their lawmakers for bills of equal protection. Its aim: \"We desire equal protection for all.\" Its goal for itself: \"When abortion ends, we end.\" Three of Durbin's own children are adopted, and each was nearly aborted. He says, \"Every single one of these babies is as valuable in the eyes of God\" as his own. (endabortionnow.com)",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**T. Russell Hunter.** A historian of the nineteenth century and founder of Abolitionists Rising. He came to this work by studying the Christians who abolished slavery and asking who is treated as less than human today.",
               "verses": [],
               "links": [],
               "supplemental": false
