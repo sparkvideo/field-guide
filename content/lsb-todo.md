@@ -1,4 +1,4 @@
-# LSB verses still to fill in (71 of 1316)
+# LSB verses still to fill in (70 of 1316)
 
 Open `content/lsb-verses.json`, find the reference, and paste the LSB text between the quotes after "text".
 Until a slot is filled, the app shows the BSB text with a small "BSB" label.
@@ -9,7 +9,6 @@ Until a slot is filled, the app shows the BSB text with a small "BSB" label.
 - [ ] Psalms 46:1
 - [ ] Psalms 51:10–13
 - [ ] Psalms 66:18
-- [ ] Psalms 111:2
 - [ ] Psalms 115:1
 - [ ] Psalms 139:23–24
 - [ ] Isaiah 55:10–11
