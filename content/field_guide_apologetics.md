@@ -110,7 +110,17 @@ Pray first. Only the Spirit opens eyes (John 6:44; 2 Cor 4:4–6). Watch your ow
 
 # 🟦 JEHOVAH'S WITNESSES
 
-**What they believe:** Jehovah = the Father only. Jesus = Michael the Archangel, Jehovah's first creation, "a god." The Holy Spirit = God's impersonal "active force." The NWT is the authoritative translation; the Watchtower (Governing Body) is the "faithful and discreet slave."
+**Their position:** Jehovah = the Father only. Jesus = Michael the Archangel, Jehovah's first creation, "a god." The Holy Spirit = God's impersonal "active force." The NWT is the authoritative translation; the Watchtower (Governing Body) is the "faithful and discreet slave."
+
+**The dividing issue:** Who Jesus is. To them He is Michael, the first thing Jehovah made. Scripture says He is the Maker of all things, Yahweh the Son, and that unless a man believes He is who He says He is, he will die in his sins. With that comes how a man is saved: by faith in Christ alone, or by loyalty to an organization. (John 1:1–3; Col 1:16–17; John 8:24; Eph 2:8–9)
+
+**Ask this question:** *"In Hebrews 1:10 the Father says to the Son, 'You, Lord, laid the foundation of the earth.' Those words come from Psalm 102, a prayer to Jehovah. Why does the Father speak to the Son with words written about Jehovah?"* (Heb 1:10–12; Ps 102:25–27)
+
+**Scriptural response:** All things came into being through the Word, and apart from Him nothing came into being that has come into being, so He is not one of the things that came into being. Yahweh says He made all things alone. Isaiah saw Yahweh's glory, and John says Isaiah saw Jesus' glory. Thomas called Him "my Lord and my God," and Jesus blessed that confession. (John 1:3; Isa 44:24; Isa 6:1–5; John 12:41; John 20:28–29; Col 2:9)
+
+**Common objection:** *"Jesus said, 'The Father is greater than I.'"* → Greater in position while the Son walked the earth as a servant, not greater in nature. A president is greater than I am in office and no more human than I am. The same Gospel says He made Himself equal with God, and that all are to honor the Son just as they honor the Father. (John 14:28; Phil 2:5–8; John 5:18; John 5:23)
+
+**Gospel bridge:** *"Do you know, right now, that you have eternal life?"* The Watchtower can only offer "maybe, if you stay faithful." Jesus says the one who believes has eternal life and has passed out of death into life. He did not say "Come to an organization." He said, "Come to Me." (John 5:24; 1 John 5:13; Rom 5:1; Matt 11:28)
 
 **Get this first:** *"If the Bible disagrees with the Watchtower, you'd side with the Bible, right?"* ([▶](https://youtu.be/k_P2xx2NIVg?t=166)) Lock in that commitment before you open a verse.
 
@@ -220,7 +230,17 @@ Pray first. Only the Spirit opens eyes (John 6:44; 2 Cor 4:4–6). Watch your ow
 
 # 🟩 UNITARIANS (Biblical Unitarians / non-Trinitarians / Arians)
 
-**What they believe:** Yahweh = the Father alone, one person. Jesus = a human Messiah (Biblical Unitarian) or a created spirit being (Arian). No real pre-existence. Jesus is God's "agent" (*shaliach*), so whatever He says or does as God is "agency." The Spirit = God's power or presence, not a person.
+**Their position:** Yahweh = the Father alone, one person. Jesus = a human Messiah (Biblical Unitarian) or a created spirit being (Arian). No real pre-existence. Jesus is God's "agent" (*shaliach*), so whatever He says or does as God is "agency." The Spirit = God's power or presence, not a person.
+
+**The dividing issue:** Whether Jesus is a man God empowered, or the eternal Son who became man. If He is only a creature, worshiping Him is idolatry and His death cannot pay for the sins of the world. Scripture says the Word was God and became flesh. (John 1:1; John 1:14; Phil 2:5–8; Heb 1:3)
+
+**Ask this question:** *"Yahweh says He will not give His glory to another. Then how did Jesus share the Father's glory before the world was, and why does every creature worship the Lamb together with the One on the throne?"* (Isa 42:8; John 17:5; Rev 5:13–14)
+
+**Scriptural response:** The Word was with God and was God, and all things were made through Him. Before Abraham was born, "I am." The Father says to the Son, "Your throne, O God, is forever." Thomas calls Him "my Lord and my God." And the Spirit is a person who can be lied to, and to lie to Him is to lie to God. (John 1:1–3; John 8:58; Heb 1:8–10; John 20:28; Acts 5:3–4)
+
+**Common objection:** *"Jesus calls the Father 'the only true God' (John 17:3)."* → He does, and in the same sentence eternal life is knowing the Father and Jesus Christ, and two verses later He speaks of glory He had with the Father before the world was. Calling the Father the only true God no more shuts out the Son than calling Jesus "our only Master and Lord" shuts out the Father. John himself calls the Son the true God. (John 17:3–5; Jude 1:4; 1 John 5:20)
+
+**Gospel bridge:** *"If Jesus is only a man, how can one man's death pay for the sins of the world?"* No mere man can redeem his brother. God purchased the church with His own blood, and because the Son lives forever He saves forever those who draw near to God through Him. (Ps 49:7–8; Acts 20:28; Heb 7:25; John 8:24)
 
 **Their strength:** they've drilled the Jesus texts (agency, "the Father is the only true God," John 17:3).
 **Their weak spot:** **the Holy Spirit** and the **Angel of Yahweh**. Go there early.
@@ -308,7 +328,17 @@ Pray first. Only the Spirit opens eyes (John 6:44; 2 Cor 4:4–6). Watch your ow
 
 # 🟨 MORMONS (Latter-day Saints)
 
-**What they believe:** The Father, Son and Holy Ghost are **three separate beings** (three gods) united in purpose, the "Godhead." The Father has a body of flesh and bone (D&C 130:22). "As man now is, God once was; as God now is, man may become" (Lorenzo Snow). Exaltation: faithful humans can become gods. Joseph Smith restored the church after a "great apostasy." The Book of Mormon is another testament.
+**Their position:** The Father, Son and Holy Ghost are **three separate beings** (three gods) united in purpose, the "Godhead." The Father has a body of flesh and bone (D&C 130:22). "As man now is, God once was; as God now is, man may become" (Lorenzo Snow). Exaltation: faithful humans can become gods. Joseph Smith restored the church after a "great apostasy." The Book of Mormon is another testament.
+
+**The dividing issue:** Who God is, and what grace is. Their God was once a man and is one of many gods; the God of the Bible has always been God and knows of no other. Their gospel is grace "after all we can do" (2 Nephi 25:23); the Bible's is a gift to the one who does not work but believes. (Isa 43:10; Ps 90:2; Eph 2:8–9; Rom 4:4–5)
+
+**Ask this question:** *"In Isaiah 43:10 God says, 'Before Me there was no God formed, and there will be none after Me.' How does that fit with God once being a man, and men becoming gods?"* (Isa 43:10)
+
+**Scriptural response:** Yahweh says He is the first and the last, that there is no God besides Him, and that He does not know of any other. From everlasting to everlasting He is God. God is not a man. God is spirit. He does not change. (Isa 44:6, 8; Isa 45:5; Ps 90:2; Num 23:19; John 4:24; Mal 3:6)
+
+**Common objection:** *"I have a testimony. I prayed about the Book of Mormon and I know it is true."* → I don't doubt you felt something. But Scripture says the heart is deceitful, tells us to test the spirits, and says that even an angel from heaven preaching another gospel is to be rejected. The Bereans were called noble for checking Paul against the Scriptures, not against their feelings. (Jer 17:9; 1 John 4:1; Gal 1:8; Acts 17:11)
+
+**Gospel bridge:** *"Your scripture says you are saved by grace after all you can do. Have you done all you can do?"* Nobody has. That is why the good news is that God justifies the ungodly who believes, apart from works, and wants His people to know they have eternal life. (Rom 4:4–5; Rom 11:6; Eph 2:8–9; 1 John 5:13)
 
 **Approach:** Missionaries are usually 19–20 and sincere, but haven't studied this deeply. Be warm. Your best tool is **Isaiah 43–45** plus **their own Book of Mormon**, which is more monotheistic than later LDS teaching.
 
@@ -392,7 +422,17 @@ Pray first. Only the Spirit opens eyes (John 6:44; 2 Cor 4:4–6). Watch your ow
 
 # 🟥 MUSLIMS
 
-**What they believe:** Tawhid (absolute oneness. Associating anything with Allah is *shirk*, the one sin Allah won't forgive if a person dies in it, Q 4:48). Jesus (Isa) is a prophet, born of a virgin, the Messiah, but not God, not the Son of God, and not crucified (Q 4:157). Allah gave the **Tawrat** (Torah) to Moses and the **Injil** (Gospel) to Jesus, but most Muslims will say these were "corrupted." Muhammad is the final prophet, predicted in the Bible (Q 7:157; 61:6).
+**Their position:** Tawhid (absolute oneness. Associating anything with Allah is *shirk*, the one sin Allah won't forgive if a person dies in it, Q 4:48). Jesus (Isa) is a prophet, born of a virgin, the Messiah, but not God, not the Son of God, and not crucified (Q 4:157). Allah gave the **Tawrat** (Torah) to Moses and the **Injil** (Gospel) to Jesus, but most Muslims will say these were "corrupted." Muhammad is the final prophet, predicted in the Bible (Q 7:157; 61:6).
+
+**The dividing issue:** Who Jesus is, and what happened at the cross. Islam says He is only a prophet and was not crucified (Q 4:157). The gospel is that God the Son died for sins and rose. And behind that: how a just God can forgive. Islam has a scale of deeds and no certainty; the cross is where justice was actually satisfied. (1 Cor 15:3–4; John 1:1; John 1:14; Rom 3:25–26)
+
+**Ask this question:** *"The Quran tells the people of the Gospel to judge by what Allah revealed in it (Q 5:47), and says no one can change Allah's words (Q 6:115). So is the Gospel God's word? If it is, why not believe what it says about Jesus? If it was corrupted, was the Quran wrong?"*
+
+**Scriptural response:** Asked under oath whether He is the Christ, the Son of the Blessed One, Jesus said, "I am," and claimed to be the Son of Man who comes on the clouds. They condemned Him for blasphemy. He said, "Before Abraham was born, I am." He said He came to give His life as a ransom. The earliest eyewitness testimony is that He died, was buried, was raised and was seen. (Mark 14:61–64; John 8:58; Mark 10:45; 1 Cor 15:3–8; John 20:28)
+
+**Common objection:** *"The Bible has been corrupted."* → The Quran itself points Jews and Christians of Muhammad's day to the Torah and the Gospel they had in their hands (Q 5:43; Q 5:47; Q 5:68; Q 10:94). We have copies of those books from centuries before Muhammad, and they say what our Bibles say today. So when was it corrupted? See [Is the Bible reliable?](/topic/is-the-bible-reliable).
+
+**Gospel bridge:** *"How do you know your good deeds will outweigh your bad? Can you be sure of paradise?"* A just judge cannot simply overlook guilt. God showed His love in that while we were still sinners, Christ died for us, so that He is both just and the justifier. Eternal life is a gift, and God wants you to know you have it. (Rom 3:26; Rom 5:8; Rom 6:23; 1 John 5:13)
 
 **Signature tool: THE ISLAMIC DILEMMA.** It's the #1 tool. Don't start by defending the Trinity. Start by putting **their book** on the stand.
 
@@ -818,7 +858,17 @@ Verses to read ([▶](https://youtu.be/DPFeuxNkxCA?t=710)): **Q 4:24** (married 
 
 # ⛪ ROMAN CATHOLICS
 
-**What they believe:** Revelation reaches us through Scripture *and* Sacred Tradition, and "both… must be accepted and honoured with equal sentiments of devotion and reverence" [CCC 82; Trent, Sess. 4]. Only the Magisterium (the pope and the bishops in communion with him) can interpret either one authentically [CCC 85, 100]. Justification "is conferred in Baptism" and "makes us inwardly just" [CCC 1992]. No one can merit the first grace, but the justified "can then merit for ourselves and for others… the attainment of eternal life" [CCC 2010]. The Mass is "one single sacrifice" with the cross, offered "in reparation for the sins of the living and the dead" [CCC 1367, 1414]. Mortal sin destroys sanctifying grace, and it is restored through confession to a priest [CCC 1446, 1456, 1861]. Those who die "imperfectly purified" undergo purgatory before heaven [CCC 1030–1031].
+**Their position:** Revelation reaches us through Scripture *and* Sacred Tradition, and "both… must be accepted and honoured with equal sentiments of devotion and reverence" [CCC 82; Trent, Sess. 4]. Only the Magisterium (the pope and the bishops in communion with him) can interpret either one authentically [CCC 85, 100]. Justification "is conferred in Baptism" and "makes us inwardly just" [CCC 1992]. No one can merit the first grace, but the justified "can then merit for ourselves and for others… the attainment of eternal life" [CCC 2010]. The Mass is "one single sacrifice" with the cross, offered "in reparation for the sins of the living and the dead" [CCC 1367, 1414]. Mortal sin destroys sanctifying grace, and it is restored through confession to a priest [CCC 1446, 1456, 1861]. Those who die "imperfectly purified" undergo purgatory before heaven [CCC 1030–1031].
+
+**The dividing issue:** How a sinner is made right with God, and who has the final word. Rome: justification is given in baptism, increased by the sacraments and your cooperation, lost by mortal sin, and finished after purgatory, on the authority of Scripture, Tradition and the Magisterium together. Scripture: God declares the ungodly righteous through faith alone, on the ground of Christ's finished work alone, and Scripture is the final authority. (Rom 4:4–5; Rom 5:1; Gal 2:16; Gal 2:21; 2 Tim 3:16–17)
+
+**Ask this question:** *"If you stood before God tonight and He asked, 'Why should I let you into My heaven?' what would you say?"* (Rom 3:28)
+
+**Scriptural response:** A man is justified by faith apart from works of the Law. To the one who does not work but believes, his faith is counted as righteousness. It is the gift of God, not of works. By one offering Christ has perfected for all time those who are being sanctified. There is now no condemnation for those in Christ Jesus. (Rom 3:28; Rom 4:4–5; Eph 2:8–9; Heb 10:10–14; John 19:30; Rom 8:1)
+
+**Common objection:** *"James 2:24 says a man is justified by works and not by faith alone."* → James and Paul answer different questions. Paul asks how a sinner is declared right before God. James asks how a claim to faith is shown to be alive: "Show me your faith." Abraham was counted righteous when he believed, decades before he offered Isaac. Works are the fruit of saving faith, never the ground of it. (James 2:18; Gen 15:6; Rom 4:2–5; Eph 2:10)
+
+**Gospel bridge:** *"The Mass is offered again and again, and purgatory still waits at the end. Do you know that you have eternal life?"* Jesus said, "It is finished." Whoever comes to Him He will never cast out, and having been justified by faith we have peace with God now. Will you rest on what He finished? (John 19:30; John 6:37; Rom 5:1; 1 John 5:13)
 
 **Where we agree:** They confess one God in three Persons, the full deity and humanity of Christ, the virgin birth, the bodily resurrection, the return of Christ, and eternal judgment [CCC 1035, 1040]. They affirm that Scripture is inspired, and that "no one can merit the initial grace" [CCC 2010]. Say this plainly. The disagreement is not over *whether* Jesus is God; it is over *how a sinner is made right with Him*, and over *who has the final word*.
 
@@ -969,7 +1019,17 @@ Verses to read ([▶](https://youtu.be/DPFeuxNkxCA?t=710)): **Q 4:24** (married 
 
 # ☦️ EASTERN ORTHODOX
 
-**What they believe:** Revelation is preserved "by two channels: holy tradition and holy Scripture," and the Church is "the sure repository of holy tradition" [Philaret, *Longer Catechism*, Q16, Q18]. Scripture is to be believed "not otherwise than as the Catholic Church has interpreted," and the Church "cannot err" [Confession of Dositheus, Decrees 2, 12]. Salvation is theosis, "to share in the life of God," and grace and human effort work together (synergy) [GOARCH, "Spirituality"; Philaret Q3–5]. A man is justified "not… through faith alone, but through faith which works through love, that is to say, through faith and works" [Dositheus, Decree 13]. The OCA's current adult manual adds: "Justification therefore is not a single, once-for-all event" [OCA, *Essential Orthodox Christian Beliefs* (2023), p. 218]. Icons receive veneration, "not the full adoration (*latria*)… paid only to the divine nature" [Nicaea II, Definition]. Orthodoxy has no single catechism. Above, conciliar sources (Nicaea II, Dositheus) carry more weight than catechisms and manuals (Philaret, OCA), and you should say which one you're quoting.
+**Their position:** Revelation is preserved "by two channels: holy tradition and holy Scripture," and the Church is "the sure repository of holy tradition" [Philaret, *Longer Catechism*, Q16, Q18]. Scripture is to be believed "not otherwise than as the Catholic Church has interpreted," and the Church "cannot err" [Confession of Dositheus, Decrees 2, 12]. Salvation is theosis, "to share in the life of God," and grace and human effort work together (synergy) [GOARCH, "Spirituality"; Philaret Q3–5]. A man is justified "not… through faith alone, but through faith which works through love, that is to say, through faith and works" [Dositheus, Decree 13]. The OCA's current adult manual adds: "Justification therefore is not a single, once-for-all event" [OCA, *Essential Orthodox Christian Beliefs* (2023), p. 218]. Icons receive veneration, "not the full adoration (*latria*)… paid only to the divine nature" [Nicaea II, Definition]. Orthodoxy has no single catechism. Above, conciliar sources (Nicaea II, Dositheus) carry more weight than catechisms and manuals (Philaret, OCA), and you should say which one you're quoting.
+
+**The dividing issue:** Authority, and justification. Orthodoxy says the Church cannot err and that Scripture must be read as the Church has interpreted it, so nothing stands above the Church to correct it. And it makes justification a lifelong process of faith and works, where Scripture speaks of a verdict God has already given to the one who believes. (2 Tim 3:16–17; Mark 7:8–9; Rom 5:1; Rom 4:5)
+
+**Ask this question:** *"When a tradition and Scripture seem to disagree, what do you use to test the tradition?"* (Acts 17:11)
+
+**Scriptural response:** The Bereans tested an apostle by the Scriptures and were called noble for it. Jesus rebuked religious leaders for setting aside God's word for the sake of their tradition. Scripture is breathed out by God and makes the man of God complete. And those whom God justified, He also glorified: having been justified by faith, we have peace with God. (Acts 17:11; Mark 7:8–13; 2 Tim 3:15–17; Rom 5:1; Rom 8:30; Heb 10:14)
+
+**Common objection:** *"The Church gave you the Bible. Without her you wouldn't know which books are Scripture."* → The church received and recognized God's word; she did not create it or stand over it. A man who recognizes the king does not make him king. God's people knew the Law, the Prophets and the Psalms as Scripture before any council met, and Jesus held them accountable to it. His sheep hear His voice. (Luke 24:44; Rom 3:2; John 10:27; 1 Thess 2:13)
+
+**Gospel bridge:** *"Has God already declared you righteous, or are you still waiting to find out?"* Paul counted all his religious standing as loss so that he might be found in Christ, not having a righteousness of his own but the righteousness that comes from God on the basis of faith. That can be settled today. (Phil 3:8–9; Rom 5:1; Rom 8:1; 1 John 5:13)
 
 **Where we agree:** They hold firmly to the Nicene Trinity, the full deity and humanity of Christ (Chalcedon), the virgin birth, the bodily resurrection, Christ's return, and eternal judgment. They reject the papacy and the Immaculate Conception, and generally reject purgatory as Rome defines it, though they pray for the departed [Dositheus, Decree 18]. Their liturgy is full of Scripture. And justification was never the fight in the East that it was with Rome, so some Orthodox writers sound close to us on it. Say this out loud.
 
@@ -1099,7 +1159,17 @@ Verses to read ([▶](https://youtu.be/DPFeuxNkxCA?t=710)): **Q 4:24** (married 
 
 # ⬛ ATHEISTS / AGNOSTICS
 
-**What they believe:** Atheist: usually "I don't believe in God" (some say "there is no God"). Agnostic: "I don't know" or "we can't know." Most hold that the universe and life came from natural causes alone and the Bible is a human book. Many see right and wrong as human-made.
+**Their position:** Atheist: usually "I don't believe in God" (some say "there is no God"). Agnostic: "I don't know" or "we can't know." Most hold that the universe and life came from natural causes alone and the Bible is a human book. Many see right and wrong as human-made.
+
+**The dividing issue:** Whether God has made Himself known. They say there is not enough evidence. Scripture says every person already knows God from creation and conscience and holds that truth down, because to admit Him is to admit we answer to Him. The problem is not the evidence; it is the heart. (Rom 1:18–21; Rom 2:14–15; Ps 14:1; John 3:19–20)
+
+**Ask this question:** *"Is anything truly right or wrong, for everyone, everywhere? In a universe of only matter and chance, where does that come from?"* (Rom 2:14–15)
+
+**Scriptural response:** In the beginning God created the heavens and the earth. The heavens declare His glory, and His eternal power and divine nature are clearly seen in what has been made, so that men are without excuse. The fear of Yahweh is the beginning of knowledge, and in Christ are hidden all the treasures of wisdom and knowledge. God now commands all people everywhere to repent, and has given proof by raising Jesus from the dead. (Gen 1:1; Ps 19:1; Rom 1:19–20; Prov 1:7; Col 2:3; Acts 17:30–31)
+
+**Common objection:** *"There's no evidence for God."* → Everything is evidence: that there is a universe at all, that it is ordered, that you have a conscience, and that the laws of logic you are using right now are not made of atoms. The real question is who gets to set the standard of proof. Jesus said that those who will not hear Scripture will not be persuaded even if someone rises from the dead. See [Worldviews: how do you know?](/topic/worldviews-how-do-you-know) and [Faith and reason](/topic/faith-and-reason). (Luke 16:31; Rom 1:20)
+
+**Gospel bridge:** *"You have a conscience. Have you kept even your own standard?"* Walk through a few commandments: see [The Way of the Master](/topic/the-way-of-the-master). It is appointed for men to die once, and after this comes judgment. The same God showed His love in that while we were still sinners, Christ died for us. (Rom 2:15–16; Heb 9:27; Rom 5:8; Acts 17:30–31)
 
 **Mindset:** Scripture says every person knows God and suppresses that knowledge (Rom 1:18–21). The problem isn't missing evidence; it's the heart. The first move is to **make them define their position**, and they usually back off from "God doesn't exist" to "I don't know." Then aim at the conscience. ([▶](https://youtu.be/cPUJ9-TG54U?t=14))
 

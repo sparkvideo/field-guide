@@ -1,4 +1,4 @@
-# LSB verses still to fill in (45 of 1006)
+# LSB verses still to fill in (53 of 1014)
 
 Open `content/lsb-verses.json`, find the reference, and paste the LSB text between the quotes after "text".
 Until a slot is filled, the app shows the BSB text with a small "BSB" label.
@@ -22,19 +22,26 @@ Until a slot is filled, the app shows the BSB text with a small "BSB" label.
 - [ ] Luke 6:46
 - [ ] Luke 24:25–27
 - [ ] John 3:16–18
+- [ ] John 5:18
 - [ ] John 7:24
 - [ ] John 8:11
 - [ ] John 8:24
 - [ ] John 8:31–32
 - [ ] John 10:18
 - [ ] John 13:20
+- [ ] John 17:3–5
 - [ ] John 20:27–31
 - [ ] Romans 1:26–27
+- [ ] Romans 3:26
+- [ ] Romans 8:30
 - [ ] 1 Corinthians 13:6
 - [ ] 1 Corinthians 14:37
 - [ ] 1 Corinthians 15:3
 - [ ] 2 Corinthians 5:19
 - [ ] Galatians 3:28
+- [ ] Philippians 2:5–8
+- [ ] Philippians 3:8–9
+- [ ] 1 Thessalonians 2:13
 - [ ] 1 Thessalonians 5:21
 - [ ] 1 Timothy 1:10
 - [ ] 1 Timothy 4:16
@@ -42,6 +49,7 @@ Until a slot is filled, the app shows the BSB text with a small "BSB" label.
 - [ ] 2 Timothy 4:3–4
 - [ ] Titus 1:9
 - [ ] Titus 2:14
+- [ ] Hebrews 1:10
 - [ ] Hebrews 9:26
 - [ ] 1 Peter 2:21–24
 - [ ] 2 Peter 1:21

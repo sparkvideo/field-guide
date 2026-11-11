@@ -27,7 +27,7 @@ export default async function GroupPage({ params }: { params: Promise<{ group: s
   // New-style groups open with a six-part quick reference instead of one collapsed paragraph.
   const quick = g.lead.filter((l) => l.label && QUICK.includes(l.label));
   const about = quick.length ? undefined : g.beliefs ?? g.lead.find((l) => l.label && l.label !== "Note");
-  const more = g.lead.filter((l) => l !== about && !quick.includes(l) && !l.text.includes("▶")); // skip the note that only explains video links
+  const more = g.lead.filter((l) => l !== about && !quick.includes(l) && !(l.text.includes("▶") && (!l.label || l.label === "Note"))); // skip the note that only explains video links
 
   const plays = (
     <div className="rows">
@@ -122,7 +122,7 @@ export default async function GroupPage({ params }: { params: Promise<{ group: s
             </p>
             {more.length > 0 && (
               <details className="plain mt-3">
-                <summary>More: where we agree, and how to approach them</summary>
+                <summary>More: how to approach them</summary>
                 {more.map((l, i) => (
                   <p key={i} className="mt-3">
                     {l.label && <strong>{l.label}: </strong>}

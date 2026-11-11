@@ -445,14 +445,14 @@
     "text": "For You will not forsake my soul to Sheol; You will not give Your Holy One over to see corruption."
   },
   {
-    "ref": "Psalms 19:1–4",
-    "key": "psalms.19.1-4",
-    "text": "¹ The heavens are telling of the glory of God; And the expanse is declaring the work of His hands. ² Day to day pours forth speech, And night to night reveals knowledge. ³ There is no speech, nor are there words; Their voice is not heard. ⁴ Their line has gone out through all the earth, And their utterances to the end of the world. In them He has placed a tent for the sun,"
-  },
-  {
     "ref": "Psalms 19:1",
     "key": "psalms.19.1",
     "text": "The heavens are telling of the glory of God; And the expanse is declaring the work of His hands."
+  },
+  {
+    "ref": "Psalms 19:1–4",
+    "key": "psalms.19.1-4",
+    "text": "¹ The heavens are telling of the glory of God; And the expanse is declaring the work of His hands. ² Day to day pours forth speech, And night to night reveals knowledge. ³ There is no speech, nor are there words; Their voice is not heard. ⁴ Their line has gone out through all the earth, And their utterances to the end of the world. In them He has placed a tent for the sun,"
   },
   {
     "ref": "Psalms 22:16",
@@ -1445,14 +1445,14 @@
     "text": "He who loves father or mother more than Me is not worthy of Me; and he who loves son or daughter more than Me is not worthy of Me."
   },
   {
-    "ref": "Matthew 11:28–30",
-    "key": "matthew.11.28-30",
-    "text": ""
-  },
-  {
     "ref": "Matthew 11:28",
     "key": "matthew.11.28",
     "text": "Come to Me, all who are weary and heavy-laden, and I will give you rest."
+  },
+  {
+    "ref": "Matthew 11:28–30",
+    "key": "matthew.11.28-30",
+    "text": ""
   },
   {
     "ref": "Matthew 12:46–50",
@@ -1980,6 +1980,11 @@
     "text": "and that repentance for forgiveness of sins would be proclaimed in His name to all the nations, beginning from Jerusalem."
   },
   {
+    "ref": "John 1:1–3",
+    "key": "john.1.1-3",
+    "text": "¹ In the beginning was the Word, and the Word was with God, and the Word was God. ² He was in the beginning with God. ³ All things came into being through Him, and apart from Him nothing came into being that has come into being."
+  },
+  {
     "ref": "John 1:1",
     "key": "john.1.1",
     "text": "In the beginning was the Word, and the Word was with God, and the Word was God."
@@ -1988,11 +1993,6 @@
     "ref": "John 1:1–2",
     "key": "john.1.1-2",
     "text": "¹ In the beginning was the Word, and the Word was with God, and the Word was God. ² He was in the beginning with God."
-  },
-  {
-    "ref": "John 1:1–3",
-    "key": "john.1.1-3",
-    "text": "¹ In the beginning was the Word, and the Word was with God, and the Word was God. ² He was in the beginning with God. ³ All things came into being through Him, and apart from Him nothing came into being that has come into being."
   },
   {
     "ref": "John 1:2–3",
@@ -2080,14 +2080,14 @@
     "text": "He who believes in Him is not judged; he who does not believe has been judged already, because he has not believed in the name of the only begotten Son of God."
   },
   {
-    "ref": "John 3:19",
-    "key": "john.3.19",
-    "text": "And this is the judgment, that the Light has come into the world, and men loved the darkness rather than the Light, for their deeds were evil."
-  },
-  {
     "ref": "John 3:19–20",
     "key": "john.3.19-20",
     "text": "¹⁹ And this is the judgment, that the Light has come into the world, and men loved the darkness rather than the Light, for their deeds were evil. ²⁰ For everyone who does evil hates the Light, and does not come to the Light lest his deeds be exposed."
+  },
+  {
+    "ref": "John 3:19",
+    "key": "john.3.19",
+    "text": "And this is the judgment, that the Light has come into the world, and men loved the darkness rather than the Light, for their deeds were evil."
   },
   {
     "ref": "John 3:35",
@@ -2118,6 +2118,11 @@
     "ref": "John 5:15–16",
     "key": "john.5.15-16",
     "text": "¹⁵ The man went away, and disclosed to the Jews that it was Jesus who had made him well. ¹⁶ And for this reason the Jews were persecuting Jesus, because He was doing these things on the Sabbath."
+  },
+  {
+    "ref": "John 5:18",
+    "key": "john.5.18",
+    "text": ""
   },
   {
     "ref": "John 5:18–19",
@@ -2175,14 +2180,14 @@
     "text": "Jesus said to them, “I am the bread of life. He who comes to Me will never hunger, and he who believes in Me will never thirst.”"
   },
   {
-    "ref": "John 6:37–40",
-    "key": "john.6.37-40",
-    "text": "³⁷ All that the Father gives Me will come to Me, and the one who comes to Me I will never cast out. ³⁸ For I have come down from heaven, not to do My own will, but the will of Him who sent Me. ³⁹ Now this is the will of Him who sent Me, that of all that He has given Me I lose nothing, but raise it up on the last day. ⁴⁰ For this is the will of My Father, that everyone who sees the Son and believes in Him will have eternal life, and I Myself will raise him up on the last day."
-  },
-  {
     "ref": "John 6:37",
     "key": "john.6.37",
     "text": "All that the Father gives Me will come to Me, and the one who comes to Me I will never cast out."
+  },
+  {
+    "ref": "John 6:37–40",
+    "key": "john.6.37-40",
+    "text": "³⁷ All that the Father gives Me will come to Me, and the one who comes to Me I will never cast out. ³⁸ For I have come down from heaven, not to do My own will, but the will of Him who sent Me. ³⁹ Now this is the will of Him who sent Me, that of all that He has given Me I lose nothing, but raise it up on the last day. ⁴⁰ For this is the will of My Father, that everyone who sees the Son and believes in Him will have eternal life, and I Myself will raise him up on the last day."
   },
   {
     "ref": "John 6:38",
@@ -2280,14 +2285,14 @@
     "text": "Which one of you convicts Me of sin? If I speak truth, why do you not believe Me?"
   },
   {
-    "ref": "John 8:58–59",
-    "key": "john.8.58-59",
-    "text": "⁵⁸ Jesus said to them, “Truly, truly, I say to you, before Abraham was, I am.” ⁵⁹ Therefore they picked up stones to throw at Him, but Jesus hid Himself and went out of the temple."
-  },
-  {
     "ref": "John 8:58",
     "key": "john.8.58",
     "text": "Jesus said to them, “Truly, truly, I say to you, before Abraham was, I am.”"
+  },
+  {
+    "ref": "John 8:58–59",
+    "key": "john.8.58-59",
+    "text": "⁵⁸ Jesus said to them, “Truly, truly, I say to you, before Abraham was, I am.” ⁵⁹ Therefore they picked up stones to throw at Him, but Jesus hid Himself and went out of the temple."
   },
   {
     "ref": "John 9:1–3",
@@ -2465,6 +2470,11 @@
     "text": "And this is eternal life, that they may know You, the only true God, and Jesus Christ whom You have sent."
   },
   {
+    "ref": "John 17:3–5",
+    "key": "john.17.3-5",
+    "text": ""
+  },
+  {
     "ref": "John 17:5",
     "key": "john.17.5",
     "text": "Now, Father, glorify Me together with Yourself, with the glory which I had with You before the world was."
@@ -2540,14 +2550,14 @@
     "text": ""
   },
   {
-    "ref": "John 20:28",
-    "key": "john.20.28",
-    "text": "Thomas answered and said to Him, “My Lord and my God!”"
-  },
-  {
     "ref": "John 20:28–29",
     "key": "john.20.28-29",
     "text": "²⁸ Thomas answered and said to Him, “My Lord and my God!” ²⁹ Jesus *said to him, “Because you have seen Me, have you believed? Blessed are those who did not see, and yet believed.”"
+  },
+  {
+    "ref": "John 20:28",
+    "key": "john.20.28",
+    "text": "Thomas answered and said to Him, “My Lord and my God!”"
   },
   {
     "ref": "John 20:30–31",
@@ -2825,14 +2835,14 @@
     "text": "²⁴ The God who made the world and all things in it, since He is Lord of heaven and earth, does not dwell in temples made with hands; ²⁵ nor is He served by human hands, as though He needed anything, since He Himself gives to all people life and breath and all things; ²⁶ and He made from one man every nation of mankind to inhabit all the face of the earth, having determined their appointed times and the boundaries of their habitation, ²⁷ that they would seek God, if perhaps they might grope for Him and find Him, though He is not far from each one of us; ²⁸ for in Him we live and move and exist, as even some of your own poets have said, ‘For we also are His offspring.’ ²⁹ Being then the offspring of God, we ought not to suppose that the Divine Nature is like gold or silver or stone, an image formed by the craft and thought of man. ³⁰ Therefore having overlooked the times of ignorance, God is now commanding men that everyone everywhere should repent, ³¹ because He has fixed a day in which He will judge the world in righteousness through a Man whom He determined, having furnished proof to all by raising Him from the dead.”"
   },
   {
-    "ref": "Acts 17:30",
-    "key": "acts.17.30",
-    "text": "Therefore having overlooked the times of ignorance, God is now commanding men that everyone everywhere should repent,"
-  },
-  {
     "ref": "Acts 17:30–31",
     "key": "acts.17.30-31",
     "text": "³⁰ Therefore having overlooked the times of ignorance, God is now commanding men that everyone everywhere should repent, ³¹ because He has fixed a day in which He will judge the world in righteousness through a Man whom He determined, having furnished proof to all by raising Him from the dead.”"
+  },
+  {
+    "ref": "Acts 17:30",
+    "key": "acts.17.30",
+    "text": "Therefore having overlooked the times of ignorance, God is now commanding men that everyone everywhere should repent,"
   },
   {
     "ref": "Acts 17:31",
@@ -2925,14 +2935,14 @@
     "text": "¹⁸ For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men who suppress the truth in unrighteousness, ¹⁹ because that which is known about God is evident within them; for God made it evident to them. ²⁰ For since the creation of the world His invisible attributes, both His eternal power and divine nature, have been clearly seen, being understood through what has been made, so that they are without excuse."
   },
   {
-    "ref": "Romans 1:19–21",
-    "key": "romans.1.19-21",
-    "text": "¹⁹ because that which is known about God is evident within them; for God made it evident to them. ²⁰ For since the creation of the world His invisible attributes, both His eternal power and divine nature, have been clearly seen, being understood through what has been made, so that they are without excuse. ²¹ For even though they knew God, they did not glorify Him as God or give thanks, but they became futile in their thoughts, and their foolish heart was darkened."
-  },
-  {
     "ref": "Romans 1:19–20",
     "key": "romans.1.19-20",
     "text": "¹⁹ because that which is known about God is evident within them; for God made it evident to them. ²⁰ For since the creation of the world His invisible attributes, both His eternal power and divine nature, have been clearly seen, being understood through what has been made, so that they are without excuse."
+  },
+  {
+    "ref": "Romans 1:19–21",
+    "key": "romans.1.19-21",
+    "text": "¹⁹ because that which is known about God is evident within them; for God made it evident to them. ²⁰ For since the creation of the world His invisible attributes, both His eternal power and divine nature, have been clearly seen, being understood through what has been made, so that they are without excuse. ²¹ For even though they knew God, they did not glorify Him as God or give thanks, but they became futile in their thoughts, and their foolish heart was darkened."
   },
   {
     "ref": "Romans 1:20",
@@ -3048,6 +3058,11 @@
     "ref": "Romans 3:25–26",
     "key": "romans.3.25-26",
     "text": "²⁵ whom God displayed publicly as a propitiation in His blood through faith, for a demonstration of His righteousness, because in the forbearance of God He passed over the sins previously committed; ²⁶ for the demonstration of His righteousness at the present time, so that He would be just and the justifier of the one who has faith in Jesus."
+  },
+  {
+    "ref": "Romans 3:26",
+    "key": "romans.3.26",
+    "text": ""
   },
   {
     "ref": "Romans 3:28",
@@ -3193,6 +3208,11 @@
     "ref": "Romans 8:29–30",
     "key": "romans.8.29-30",
     "text": "²⁹ Because those whom He foreknew, He also predestined to become conformed to the image of His Son, so that He would be the firstborn among many brothers; ³⁰ and those whom He predestined, He also called; and those whom He called, He also justified; and those whom He justified, He also glorified."
+  },
+  {
+    "ref": "Romans 8:30",
+    "key": "romans.8.30",
+    "text": ""
   },
   {
     "ref": "Romans 8:32",
@@ -3520,14 +3540,14 @@
     "text": "¹ Now I make known to you, brothers, the gospel which I proclaimed as good news to you, which also you received, in which also you stand, ² by which also you are saved, if you hold fast the word which I proclaimed to you as good news, unless you believed for nothing. ³ For I delivered to you as of first importance what I also received, that Christ died for our sins according to the Scriptures, ⁴ and that He was buried, and that He was raised on the third day according to the Scriptures,"
   },
   {
-    "ref": "1 Corinthians 15:3–8",
-    "key": "1-corinthians.15.3-8",
-    "text": "³ For I delivered to you as of first importance what I also received, that Christ died for our sins according to the Scriptures, ⁴ and that He was buried, and that He was raised on the third day according to the Scriptures, ⁵ and that He appeared to Cephas, then to the twelve. ⁶ After that He appeared to more than five hundred brothers at one time, most of whom remain until now, but some have fallen asleep. ⁷ After that, He appeared to James, then to all the apostles, ⁸ and last of all, as to one untimely born, He appeared to me also."
-  },
-  {
     "ref": "1 Corinthians 15:3–4",
     "key": "1-corinthians.15.3-4",
     "text": "³ For I delivered to you as of first importance what I also received, that Christ died for our sins according to the Scriptures, ⁴ and that He was buried, and that He was raised on the third day according to the Scriptures,"
+  },
+  {
+    "ref": "1 Corinthians 15:3–8",
+    "key": "1-corinthians.15.3-8",
+    "text": "³ For I delivered to you as of first importance what I also received, that Christ died for our sins according to the Scriptures, ⁴ and that He was buried, and that He was raised on the third day according to the Scriptures, ⁵ and that He appeared to Cephas, then to the twelve. ⁶ After that He appeared to more than five hundred brothers at one time, most of whom remain until now, but some have fallen asleep. ⁷ After that, He appeared to James, then to all the apostles, ⁸ and last of all, as to one untimely born, He appeared to me also."
   },
   {
     "ref": "1 Corinthians 15:3",
@@ -3940,6 +3960,11 @@
     "text": "But I am hard-pressed between the two, having the desire to depart and be with Christ, for that is very much better,"
   },
   {
+    "ref": "Philippians 2:5–8",
+    "key": "philippians.2.5-8",
+    "text": ""
+  },
+  {
     "ref": "Philippians 2:5–7",
     "key": "philippians.2.5-7",
     "text": "⁵ Have this way of thinking in yourselves which was also in Christ Jesus, ⁶ who, although existing in the form of God, did not regard equality with God a thing to be grasped, ⁷ but emptied Himself, by taking the form of a slave, by being made in the likeness of men."
@@ -3983,6 +4008,11 @@
     "ref": "Philippians 3:8",
     "key": "philippians.3.8",
     "text": "More than that, I count all things to be loss because of the surpassing value of knowing Christ Jesus my Lord, for whom I have suffered the loss of all things, and count them but rubbish so that I may gain Christ"
+  },
+  {
+    "ref": "Philippians 3:8–9",
+    "key": "philippians.3.8-9",
+    "text": ""
   },
   {
     "ref": "Philippians 3:9",
@@ -4078,6 +4108,11 @@
     "ref": "1 Thessalonians 1:10",
     "key": "1-thessalonians.1.10",
     "text": "and to wait for His Son from heaven, whom He raised from the dead, Jesus, who rescues us from the wrath to come."
+  },
+  {
+    "ref": "1 Thessalonians 2:13",
+    "key": "1-thessalonians.2.13",
+    "text": ""
   },
   {
     "ref": "1 Thessalonians 5:21",
@@ -4305,14 +4340,19 @@
     "text": "But of the Son He says, “Your throne, O God, is forever and ever, And the scepter of uprightness is the scepter of Your kingdom."
   },
   {
+    "ref": "Hebrews 1:8–10",
+    "key": "hebrews.1.8-10",
+    "text": "⁸ But of the Son He says, “Your throne, O God, is forever and ever, And the scepter of uprightness is the scepter of Your kingdom. ⁹ You have loved righteousness and hated lawlessness; Therefore God, Your God, has anointed You With the oil of gladness above Your companions.” ¹⁰ And, “You, Lord, in the beginning founded the earth, And the heavens are the works of Your hands;”"
+  },
+  {
     "ref": "Hebrews 1:8–9",
     "key": "hebrews.1.8-9",
     "text": "⁸ But of the Son He says, “Your throne, O God, is forever and ever, And the scepter of uprightness is the scepter of Your kingdom. ⁹ You have loved righteousness and hated lawlessness; Therefore God, Your God, has anointed You With the oil of gladness above Your companions.”"
   },
   {
-    "ref": "Hebrews 1:8–10",
-    "key": "hebrews.1.8-10",
-    "text": "⁸ But of the Son He says, “Your throne, O God, is forever and ever, And the scepter of uprightness is the scepter of Your kingdom. ⁹ You have loved righteousness and hated lawlessness; Therefore God, Your God, has anointed You With the oil of gladness above Your companions.” ¹⁰ And, “You, Lord, in the beginning founded the earth, And the heavens are the works of Your hands;”"
+    "ref": "Hebrews 1:10",
+    "key": "hebrews.1.10",
+    "text": ""
   },
   {
     "ref": "Hebrews 1:10–12",
