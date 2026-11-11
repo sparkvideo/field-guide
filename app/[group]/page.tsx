@@ -6,9 +6,13 @@ import { Md } from "@/components/Md";
 import { ObjectionList } from "@/components/ObjectionList";
 import { Toggle } from "@/components/Toggle";
 import { TopBar } from "@/components/TopBar";
+import { VerseChips } from "@/components/VerseSheet";
 import { getGroup, guide } from "@/lib/guide";
 
 export const dynamicParams = false;
+const withoutRefs = (text: string) => text.replace(/\s*\((?:[1-3] )?[A-Z][a-z]+ \d[^()]*\)\s*$/, "").trim();
+const QUICK = ["Their position", "The dividing issue", "Ask this question", "Scriptural response", "Common objection", "Gospel bridge"];
+
 export function generateStaticParams() {
   return guide.groups.map((g) => ({ group: g.slug }));
 }
@@ -20,8 +24,10 @@ export async function generateMetadata({ params }: { params: Promise<{ group: st
 export default async function GroupPage({ params }: { params: Promise<{ group: string }> }) {
   const g = getGroup((await params).group);
   if (!g) notFound();
-  const about = g.beliefs ?? g.lead.find((l) => l.label && l.label !== "Note");
-  const more = g.lead.filter((l) => l !== about && !l.text.includes("▶")); // skip the note that only explains video links
+  // New-style groups open with a six-part quick reference instead of one collapsed paragraph.
+  const quick = g.lead.filter((l) => l.label && QUICK.includes(l.label));
+  const about = quick.length ? undefined : g.beliefs ?? g.lead.find((l) => l.label && l.label !== "Note");
+  const more = g.lead.filter((l) => l !== about && !quick.includes(l) && !l.text.includes("▶")); // skip the note that only explains video links
 
   const plays = (
     <div className="rows">
@@ -95,7 +101,40 @@ export default async function GroupPage({ params }: { params: Promise<{ group: s
           </details>
         )}
 
-        <div className="mt-6">
+        {quick.length > 0 && (
+          <section className="quick" aria-label="What do they believe?">
+            <h2 className="label">What do they believe?</h2>
+            <div className="quick-list">
+              {quick.map((l, i) => (
+                <details key={i} open={l.label === "Their position" || l.label === "Ask this question"} className={l.label === "Ask this question" ? "quick-ask" : undefined}>
+                  <summary>
+                    <span className="quick-label">{l.label}</span>
+                  </summary>
+                  <p>
+                    <Md text={withoutRefs(l.text)} />
+                  </p>
+                  <VerseChips verses={l.verses} context={l.text} />
+                </details>
+              ))}
+            </div>
+            <p className="mt-3">
+              <a href="#arguments" className="link small">Go to the arguments</a>
+            </p>
+            {more.length > 0 && (
+              <details className="plain mt-3">
+                <summary>More: where we agree, and how to approach them</summary>
+                {more.map((l, i) => (
+                  <p key={i} className="mt-3">
+                    {l.label && <strong>{l.label}: </strong>}
+                    <Md text={l.text} />
+                  </p>
+                ))}
+              </details>
+            )}
+          </section>
+        )}
+
+        <div className="mt-6" id="arguments" style={{ scrollMarginTop: 70 }}>
           <Toggle id={g.slug} labels={["Make the case", "Answer an objection"]} panels={[plays, objections]} hashForSecond="#objections" />
         </div>
       </main>

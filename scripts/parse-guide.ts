@@ -362,6 +362,7 @@ const GROUPS: { match: RegExp; slug: Group["slug"]; name: string; color: string 
   { match: /UNITARIAN/, slug: "unitarian", name: "Unitarian", color: "#16a34a" },
   { match: /MORMON/, slug: "lds", name: "Mormon", color: "#ca8a04" },
   { match: /MUSLIM/, slug: "muslim", name: "Muslim", color: "#dc2626" },
+  { match: /ONENESS/, slug: "oneness", name: "Oneness Pentecostal", color: "#ea580c" },
   { match: /CATHOLIC/, slug: "catholic", name: "Roman Catholic", color: "#9333ea" },
   { match: /ORTHODOX/, slug: "orthodox", name: "Eastern Orthodox", color: "#0d9488" },
   { match: /ATHEIST/, slug: "atheist", name: "Atheist", color: "#a3a3ad" },
@@ -478,6 +479,11 @@ function parseGroup(sec: Section): Group {
   for (const e of toEntries(parts[0].body)) {
     const { label, rest } = splitLabel(e.text);
     if (label === "What they believe") (structural.push(label), (beliefs = line(rest, `${W} beliefs`)));
+    else if (label === "Their position") {
+      // The six-part quick reference starts here; it also serves as the "what they believe" line.
+      beliefs = line(rest, `${W} beliefs`);
+      lead.push({ label, ...line(rest, `${W} intro`) });
+    }
     else lead.push({ ...(label ? { label } : {}), ...line(rest, `${W} intro`, { explainsPlus: label === "Note" }) });
   }
 

@@ -14,6 +14,7 @@
 | **Unitarian** (Biblical Unitarian / non-Trinitarian) | [UNI Offense](#uni-offense) | [UNI Defense](#uni-defense) | [UNI Card](#uni-card) |
 | **Mormon** (LDS) | [LDS Offense](#lds-offense) | [LDS Defense](#lds-defense) | [LDS Card](#lds-card) |
 | **Muslim** | [ISL Offense](#isl-offense) | [ISL Defense](#isl-defense) | [ISL Card](#isl-card) |
+| **Oneness Pentecostal** | [ONE Offense](#one-offense) | [ONE Defense](#one-defense) | [ONE Card](#one-card) |
 | **Roman Catholic** | [RCC Offense](#rcc-offense) | [RCC Defense](#rcc-defense) | [RCC Card](#rcc-card) |
 | **Eastern Orthodox** | [EO Offense](#eo-offense) | [EO Defense](#eo-defense) | [EO Card](#eo-card) |
 | **Atheist / Agnostic** | [ATH Offense](#ath-offense) | [ATH Defense](#ath-defense) | [ATH Card](#ath-card) |
@@ -492,6 +493,110 @@ Verses to read ([▶](https://youtu.be/DPFeuxNkxCA?t=710)): **Q 4:24** (married 
 | **"Jesus said, 'Why do you call Me good? Only God is good.'"** | He didn't say He isn't good. He asked the man **why** he said it. Jesus calls Himself the Good Shepherd. | Mark 10:18; John 10:11 | *"Is Jesus good?"* |
 
 **Typical exits:** "That's not the point though" (*"It **is** the point."*) ([▶](https://youtu.be/HwCcC0D0M08?t=35)) · switching to Isaiah 42 for Ahmad (Q 61:6 says **Jesus** foretold him, not Isaiah) ([▶](https://youtu.be/qKfI6OlRhtM?t=728)) · redefining Arabic words (make them define the word, then read it in context).
+
+---
+
+# 🕊️ ONENESS PENTECOSTALS
+
+**Their position:** There is one God, and He is one person. Father, Son and Holy Spirit are not three persons but three ways the one God has shown Himself, and His name is Jesus. In their words: "There is one God, who has revealed Himself as our Father, in His Son Jesus Christ, and as the Holy Spirit" [UPCI, Our Beliefs]. Many say "the Son" means the human nature of Christ, which began at Bethlehem, and "the Father" means the deity in Him. Full salvation is "repentance, baptism in water by immersion in the name of the Lord Jesus Christ for the remission of sins, and the baptism of the Holy Ghost with the initial sign of speaking with other tongues" [UPCI, Fundamental Doctrine].
+
+**The dividing issue:** Two things. First, who God is: Scripture shows the Father, the Son and the Spirit loving, sending and speaking to one another, which one person playing three parts cannot do. Second, how a sinner is saved: they add a baptismal formula and tongues to faith in Christ. (John 17:5; Matt 3:16–17; Eph 2:8–9)
+
+**Ask this question:** *"When Jesus prayed, 'Father, glorify Me with the glory I had with You before the world was,' who was He talking to, and when did He have that glory?"* (John 17:5)
+
+**Scriptural response:** At Jesus' baptism the Son is in the water, the Spirit descends, and the Father speaks from heaven. The Word was **with** God and **was** God. The Father sent the Son, and the Son sends another Helper. The Trinity is what you get when you believe all of it: one God, three persons. (Matt 3:16–17; John 1:1–2; John 14:16–17; Gal 4:4–6; 2 Cor 13:14)
+
+**Common objection:** *"'Hear, O Israel, Yahweh is one.' You believe in three gods."* → We confess that verse with you. One God, one Being. The question is whether the one God is one person or three, and that has to come from the rest of Scripture, where the Father and the Son speak to and love each other. (Deut 6:4; John 17:24; John 8:17–18)
+
+**Gospel bridge:** *"If you died tonight, what would you be counting on: Christ's finished work, or that you were baptized with the right words and spoke in tongues?"* The Son the Father sent did everything needed. A sinner is declared right by faith in Him alone. (Rom 4:4–5; John 3:16; Acts 16:31)
+
+**Where we agree:** There is one God. Jesus Christ is fully God and fully man, born of a virgin, crucified, bodily risen and coming again. The Bible is God's word. They take holiness seriously and are often zealous and sincere.
+
+**Approach:** They love the name of Jesus, so start there with warmth. They have usually been taught that the Trinity means three gods, so say plainly what you believe first: one Being, three persons, "one what and three who's." Then stay in John's Gospel and let Jesus' own words about His Father carry it. James White, *The Forgotten Trinity*, ch. 11, is the best short treatment. Don't mock tongues or their standards of dress; keep to who God is and what saves. See [The Trinity](/topic/the-trinity).
+
+<a id="one-card"></a>
+### 📇 Oneness Cheat Card
+1. **John 17:5**: *"Who had glory with whom, before the world was?"*
+2. **Matt 3:16–17**: *"The Son in the water, the Spirit descending, the Father speaking. Who is who?"*
+3. **John 1:1–2**: *"How can the Word be* with *God and* be *God?"*
+4. **John 8:17–18**: *"Jesus counts Himself and the Father as two witnesses. Is one person two witnesses?"*
+5. **John 14:16–17**: *"The Son asks the Father to send another Helper. How many are in that sentence?"*
+6. **Eph 2:8–9**: *"Saved through faith, not of works. Where do the formula and tongues fit?"*
+
+<a id="one-offense"></a>
+### 🗡️ ONENESS OFFENSE
+
+#### PLAY 1: Who was Jesus talking to? (Father and Son are distinct persons)
+- **Opener:** *"When Jesus prayed in the garden, who was He praying to?"*
+- **Or open with:** *"At Jesus' baptism, whose voice came from heaven?"*
+- **Chain:**
+  1. **Matt 3:16–17**: The Son is baptized, the Spirit descends like a dove, the Father says, "This is My beloved Son." *"Is that one person in three places, or three persons?"*
+  2. **John 5:20; John 3:35**: The Father loves the Son and shows Him all He does. *"Can a person love and show things to his own human nature?"*
+  3. **John 8:16–18**: The Law requires two witnesses. Jesus says, "I am He who bears witness about Myself, and the Father who sent Me bears witness about Me." *"If they are one person, how many witnesses is that?"*
+  4. **John 12:28**: "Father, glorify Your name." A voice answers from heaven. *"Is that a conversation, or a monologue?"*
+  5. **John 17:1–5**: The Son speaks to the Father as "You" and to Himself as "Me," and speaks of glory they shared before the world was. *"Before there was any human nature, who was with whom?"*
+  6. **John 14:16–17, 26**: "I will ask the Father, and He will give you another Helper." *"Count them."*
+- **If they say →**
+  - *"That was His human nature praying to His divine nature."* → Natures don't pray; persons do. And John 17:5 speaks of glory shared **before the world was**, before there was any humanity to pray. *"Who is 'Me' and who is 'You' before Bethlehem?"*
+  - *"'I and the Father are one' (John 10:30)."* → Amen, one in being. But the verb is plural: "I and the Father, **we are** one." He did not say "I am the Father." And the verse before distinguishes "My hand" and "My Father's hand."
+  - *"'He who has seen Me has seen the Father' (John 14:9)."* → The next verse reads, "I am in the Father, and the Father is in Me… the Father abiding in Me does His works." He reveals the Father perfectly because He is God the Son. He does not say He is the Father. (John 1:18)
+  - *"Isaiah 9:6 calls Him 'Everlasting Father.'"* → It is a title of the Messiah-King: literally "Father of eternity," the one who is eternal and cares for His people as a father. The same book has Yahweh sending His Servant and His Spirit (Isa 48:16). Nowhere does the New Testament call Jesus "the Father."
+- **Closer:** *"The Father so loved the world that He gave His Son. That gift only means something if the Son is someone the Father could give. Do you know Him as He has shown Himself?"* (John 3:16; 1 John 2:23)
+
+#### PLAY 2: The Son before Bethlehem (the eternal Son)
+- **Opener:** *"Did the Son of God exist before Mary conceived?"*
+- **Or open with:** *"Who made all things: the Father alone, or the Father through the Son?"*
+- **Chain:**
+  1. **John 1:1–3, 14**: The Word was with God, was God, made all things, and became flesh. *"Is the Word a 'He' who was with God, or only a plan in God's mind?"*
+  2. **Col 1:13–17**: All things were created through the **Son** and for Him, and He is before all things. *"Which Son made the world?"*
+  3. **Heb 1:1–3, 8–10**: God made the world through His Son, and says **to the Son**, "Your throne, O God, is forever." *"Who is speaking to whom?"*
+  4. **John 6:38; John 3:13**: "I have come down from heaven, not to do My own will, but the will of Him who sent Me." *"Who came down, and who sent Him?"*
+  5. **Phil 2:5–7**: He existed in the form of God and then took the form of a slave. *"Who decided to humble Himself before becoming man?"*
+  6. **Gal 4:4**: "God sent forth His Son, born of a woman." *"Was He the Son when He was sent, or only after He arrived?"*
+- **If they say →**
+  - *"'The Son' is the humanity that began at Bethlehem (Luke 1:35)."* → Luke 1:35 says why the child would be **called** Son of God. It does not say the Son began then. The Son made the world (Col 1:16; Heb 1:2). A human nature that did not yet exist made nothing.
+  - *"The Word was God's thought or plan, not a person."* → A plan is not "with God" face to face, does not make all things, and is not called "He" and "the only begotten from the Father." (John 1:2–3, 14, 18)
+  - *"God is a Spirit, and Jesus is that Spirit in flesh."* → God is spirit, yes. And the Spirit is sent by the Father and the Son and is called "another" Helper (John 14:16; John 15:26). Jesus is the Son incarnate, not the Father or the Spirit incarnate.
+- **Closer:** *"The One who died for sinners is the eternal Son, who was with the Father before the world was and came down out of love. Will you trust Him as He is?"* (John 17:24; Gal 2:20)
+
+#### PLAY 3: What saves? (Acts 2:38, the formula and tongues)
+- **Opener:** *"If a man repents and trusts Christ on his deathbed and never gets to the water, is he saved?"*
+- **Or open with:** *"Is a person saved by what Christ did, or by Christ plus being baptized with the right words?"*
+- **Chain:**
+  1. **Eph 2:8–9**: By grace, through faith, not of works. *"Is baptism something done, or something believed?"*
+  2. **Rom 4:4–5**: God justifies the one who does not work but believes. *"When is he counted righteous?"*
+  3. **Acts 10:43–48**: Peter preaches forgiveness to everyone who believes. The Spirit falls while he is still speaking, **before** anyone is baptized. *"Were they God's people before the water or after?"*
+  4. **Acts 16:30–31**: "What must I do to be saved?" "Believe in the Lord Jesus." *"What did Paul leave out?"*
+  5. **1 Cor 1:14–17**: Paul thanks God he baptized few of them: "Christ did not send me to baptize, but to proclaim the gospel." *"Could he say that if baptism were part of the gospel?"*
+  6. **1 Cor 12:13, 29–30**: All believers were baptized by one Spirit into one body, and "All do not speak with tongues, do they?" *"If every believer has the Spirit and not all speak in tongues, can tongues be the proof?"*
+  7. **Matt 28:19**: Jesus' own command: "in the name of the Father and of the Son and of the Holy Spirit." *"Whose words should a church baptize with?"*
+- **If they say →**
+  - *"Acts 2:38: be baptized 'for the forgiveness of your sins.'"* → Peter's very next sermons promise forgiveness to those who repent and believe, with no mention of baptism (Acts 3:19; Acts 10:43). Baptism is the public confession of the repentance that receives forgiveness. Cornelius had the Spirit before the water.
+  - *"The apostles always baptized in Jesus' name, never 'Father, Son and Spirit.'"* → "In the name of" means by the authority of and with reference to Jesus, as against John's baptism or a Jewish washing. Luke words it four different ways (Acts 2:38; Acts 8:16; Acts 10:48; Acts 19:5), which is not how anyone records a fixed formula.
+  - *"Matthew 28:19 says 'name,' singular, and that name is Jesus."* → One name because one God. Then three are listed, each with "the": the Father, and the Son, and the Holy Spirit. That is the Trinity in one sentence.
+  - *"You haven't received the Holy Ghost unless you've spoken in tongues."* → Anyone who does not have the Spirit does not belong to Christ at all, and every believer is sealed with the Spirit when he believes. (Rom 8:9; Eph 1:13–14) Our church also holds that the sign gifts ceased with the apostles.
+  - *"John 3:5: born of water and the Spirit."* → Jesus expected Nicodemus, a teacher of Israel, to know this from the Old Testament: clean water and a new Spirit in Ezekiel 36:25–27. It is the new birth God gives, and the same chapter says whoever believes has eternal life. (John 3:10, 16)
+- **Closer:** *"Christ said, 'It is finished.' You can rest on that today, without one more step to make it count. Will you turn from sin and trust Him alone?"* (John 19:30; Rom 5:1)
+
+<a id="one-defense"></a>
+### 🛡️ ONENESS DEFENSE
+
+| They say… | Quick answer | Go to | Ask back |
+|---|---|---|---|
+| **"The Trinity is three gods."** | It is not, and say so first. One God, one Being. Within that one Being are three persons who are each fully God. Three gods would be three beings. Most people who reject the Trinity are rejecting something Christians do not believe. | Deut 6:4; Isa 44:6; Matt 28:19; 2 Cor 13:14 | *"If I told you I believe in one God, not three, what would you say the Trinity is?"* |
+| **"The word 'Trinity' isn't in the Bible."** | Neither is "Oneness," "incarnation" or "Bible." The question is whether the teaching is there: one God; the Father, the Son and the Spirit are each God; and they are distinct from one another. Believe all three and you have the Trinity. | Deut 6:4; John 1:1; Acts 5:3–4; John 14:16–17 | *"Which of those three statements does Scripture not teach?"* |
+| **"The Trinity was invented at Nicaea in 325."** | Nicaea was about whether the Son is fully God, against Arius. Long before it, Christians baptized in the threefold name and were already rejecting the teaching that the Father and the Son are one person (it was called Sabellianism in the third century). | Matt 28:19; 2 Cor 13:14; Jude 3 | *"If it began in 325, why does Matthew 28:19 read the way it does?"* |
+| **"'In Him all the fullness of Deity dwells in bodily form.' Jesus is all of God."** | Amen: Jesus is fully God, nothing lacking. That is the deity of the Son. It does not say the Son is the Father. The same letter thanks "the Father" who transferred us to the kingdom of "His beloved Son." | Col 2:9; Col 1:12–13; Col 1:19 | *"Who is the Father of the beloved Son in chapter 1?"* |
+| **"God was manifest in the flesh (1 Tim 3:16)."** | We agree that God the Son became flesh. "The Word became flesh," and the Word was with God. It was the Son who was sent, not the Father. | John 1:1; John 1:14; Gal 4:4; 1 John 4:14 | *"According to 1 John 4:14, who sent whom?"* |
+| **"Jesus said, 'I have come in My Father's name.' Jesus is the Father's name."** | To come in someone's name is to come with his authority. In the same breath Jesus says another may come "in his own name." He comes from the Father and is not the Father. | John 5:43; John 5:36–37; John 17:11 | *"Can you be sent by yourself?"* |
+| **"Zechariah 14:9: Yahweh will be one, and His name one."** | Yes, there is one Yahweh. The New Testament shows the Father, the Son and the Spirit sharing that one name and that one glory, which God gives to no other. | Zech 14:9; Isa 42:8; John 17:5; Phil 2:9–11 | *"If God gives His glory to no other, who shared it with the Father before the world was?"* |
+| **"Father, Son and Spirit are titles, like I'm a father, a son and a husband."** | That is one person with three roles, and it is the old error of modalism. A man who is a father and a son does not talk to himself, send himself or love himself as another. The Father, Son and Spirit do all three. | John 17:24; John 14:26; John 16:13–15 | *"Does your 'father' role ever speak to your 'son' role?"* |
+| **"If there are three persons, which one will we see in heaven?"** | We will see the Lamb, and John sees Him standing before the One who sits on the throne, and takes the scroll from His hand. Stephen saw Jesus standing at God's right hand. | Rev 5:6–7; Rev 5:13; Acts 7:55–56 | *"In Revelation 5, who hands the scroll to whom?"* |
+| **"Baptism in the titles is not valid. You need to be rebaptized in Jesus' name."** | Baptism "in the name of the Father and of the Son and of the Holy Spirit" is what Jesus commanded. Nothing in Acts corrects it, and no one is ever said to be lost for the wording used over him. A sinner is saved through faith. | Matt 28:19; Eph 2:8–9; Titus 3:5; Gal 2:16 | *"Where does Scripture say someone was not saved because of the words said at his baptism?"* |
+| **"Holiness standards: no jewelry, uncut hair, long dresses. Without holiness no one will see the Lord."** | Holiness is commanded, and it is the fruit of a new heart, not the price of entry. Scripture warns about rules of "do not handle, do not taste, do not touch," which look wise and have no power against the flesh. | Heb 12:14; Col 2:20–23; Gal 5:1; 1 Sam 16:7 | *"Is holiness the root of salvation, or its fruit?"* |
+| **"We have the full gospel. Other churches only have part."** | The gospel Paul received and delivered is Christ's death for our sins, His burial and His resurrection, received by faith. Anything added as a requirement is another gospel. | 1 Cor 15:1–4; Gal 1:6–9; Rom 1:16–17 | *"In 1 Corinthians 15, what does Paul call 'the gospel' by which you are saved?"* |
+
+**Typical exits:** "You just need the Holy Ghost, then you'd understand." (Answer: *"The Spirit wrote John 17. Would you read it with me?"*) · "I know what I felt." (Don't attack the experience. Ask what Scripture says God is like, and leave John 17:5.) · "My pastor can explain that." (Offer to meet with both of them, and give Rom 4:4–5 to read first.) · Repeating Acts 2:38. (Ask them to read Acts 10:43–48 aloud and say when those people received the Spirit.)
 
 ---
 

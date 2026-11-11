@@ -741,6 +741,15 @@ The suffering Servant, the pierced hands and feet, the birthplace of the Messiah
 - **Necessary vs. sufficient:** Rome says grace, faith and Scripture are necessary. The Reformation said each is also enough: Scripture alone, grace alone, faith alone, Christ alone.
 - **Unam Sanctam:** the 1302 bull of Boniface VIII that defined submission to the Roman Pontiff as necessary for salvation.
 
+## Oneness Pentecostal
+- **Oneness:** the teaching that God is one person who shows Himself as Father, Son and Holy Spirit, and whose name is Jesus.
+- **Modalism (Sabellianism):** the ancient name for the same idea: one person in three modes or roles. The church rejected it in the third century.
+- **Jesus' name baptism:** baptism with the words "in the name of Jesus Christ," held to be the only valid form and necessary for forgiveness.
+- **Initial evidence:** speaking in tongues as the necessary first sign of receiving the Holy Spirit.
+- **Apostolic:** what many Oneness churches call themselves, meaning they hold the doctrine and practice of the apostles in Acts.
+- **Manifestation:** their word for Father, Son and Spirit, in place of "person."
+- **UPCI:** the United Pentecostal Church International, the largest Oneness body.
+
 ## Eastern Orthodox
 - **Holy Tradition:** "the doctrine of the faith, the law of God, the sacraments, and the ritual as handed down" [Philaret Q17]. It includes Scripture and the councils.
 - **Theosis (deification):** sharing in the life of God as the goal of salvation [GOARCH, "Spirituality"]. Not sharing God's essence.

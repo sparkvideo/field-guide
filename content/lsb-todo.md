@@ -1,10 +1,11 @@
-# LSB verses still to fill in (109 of 831)
+# LSB verses still to fill in (157 of 879)
 
 Open `content/lsb-verses.json`, find the reference, and paste the LSB text between the quotes after "text".
 Until a slot is filled, the app shows the BSB text with a small "BSB" label.
 
 - [ ] Genesis 3:17–19
 - [ ] Deuteronomy 32:4
+- [ ] 1 Samuel 16:7
 - [ ] Job 2:13
 - [ ] Job 38:1–4
 - [ ] Job 42:1–6
@@ -19,12 +20,16 @@ Until a slot is filled, the app shows the BSB text with a small "BSB" label.
 - [ ] Ecclesiastes 8:14
 - [ ] Ecclesiastes 12:14
 - [ ] Isaiah 6:3–5
+- [ ] Isaiah 9:6
 - [ ] Isaiah 45:7
 - [ ] Isaiah 45:22
+- [ ] Isaiah 48:16
 - [ ] Isaiah 53:3–5
 - [ ] Isaiah 53:10–11
 - [ ] Isaiah 55:8–9
+- [ ] Ezekiel 36:25–27
 - [ ] Nahum 1:3
+- [ ] Zechariah 14:9
 - [ ] Matthew 10:28
 - [ ] Matthew 13:41–42
 - [ ] Matthew 16:21
@@ -46,13 +51,29 @@ Until a slot is filled, the app shows the BSB text with a small "BSB" label.
 - [ ] Luke 24:1–11
 - [ ] Luke 24:36–43
 - [ ] Luke 24:39–43
+- [ ] John 1:2–3
+- [ ] John 3:10
+- [ ] John 3:13
 - [ ] John 3:17–18
 - [ ] John 3:19–20
+- [ ] John 3:35
+- [ ] John 5:20
+- [ ] John 5:36–37
 - [ ] John 5:40
+- [ ] John 5:43
+- [ ] John 6:38
+- [ ] John 8:16–18
+- [ ] John 8:17–18
+- [ ] John 10:30
 - [ ] John 11:25–26
 - [ ] John 11:35
 - [ ] John 12:9–11
+- [ ] John 12:28
 - [ ] John 12:37
+- [ ] John 14:26
+- [ ] John 16:13–15
+- [ ] John 17:1–5
+- [ ] John 17:24
 - [ ] John 19:33–35
 - [ ] John 19:33–34
 - [ ] John 20:1–2
@@ -62,12 +83,19 @@ Until a slot is filled, the app shows the BSB text with a small "BSB" label.
 - [ ] Acts 4:18–20
 - [ ] Acts 4:27–28
 - [ ] Acts 5:40–42
+- [ ] Acts 7:55–56
+- [ ] Acts 8:16
+- [ ] Acts 10:43–48
+- [ ] Acts 10:48
+- [ ] Acts 16:31
 - [ ] Acts 17:2–3
 - [ ] Acts 18:4
+- [ ] Acts 19:5
 - [ ] Acts 20:31
 - [ ] Acts 26:25–26
 - [ ] Acts 26:26
 - [ ] Romans 1:4
+- [ ] Romans 1:16–17
 - [ ] Romans 1:19–20
 - [ ] Romans 1:21–22
 - [ ] Romans 2:1
@@ -86,8 +114,11 @@ Until a slot is filled, the app shows the BSB text with a small "BSB" label.
 - [ ] Romans 11:33
 - [ ] Romans 12:2
 - [ ] Romans 12:15
+- [ ] 1 Corinthians 1:14–17
 - [ ] 1 Corinthians 1:20–27
 - [ ] 1 Corinthians 4:7
+- [ ] 1 Corinthians 12:13
+- [ ] 1 Corinthians 12:29–30
 - [ ] 1 Corinthians 15:3–5
 - [ ] 1 Corinthians 15:7–8
 - [ ] 1 Corinthians 15:14
@@ -96,18 +127,35 @@ Until a slot is filled, the app shows the BSB text with a small "BSB" label.
 - [ ] 2 Corinthians 5:11
 - [ ] 2 Corinthians 12:8–9
 - [ ] Galatians 1:13–16
+- [ ] Galatians 2:20
 - [ ] Galatians 2:21
+- [ ] Galatians 5:1
+- [ ] Ephesians 1:13–14
 - [ ] Ephesians 2:3–5
 - [ ] Ephesians 4:17–18
+- [ ] Philippians 2:5–7
+- [ ] Colossians 1:12–13
+- [ ] Colossians 1:13–17
+- [ ] Colossians 1:19
+- [ ] Colossians 2:20–23
 - [ ] 1 Thessalonians 1:10
 - [ ] 2 Thessalonians 1:8–9
+- [ ] 1 Timothy 3:16
+- [ ] Hebrews 1:1–3
+- [ ] Hebrews 1:2
+- [ ] Hebrews 1:8–10
 - [ ] Hebrews 11:6
+- [ ] Hebrews 12:14
 - [ ] James 1:13–14
 - [ ] James 1:17
 - [ ] James 4:17
 - [ ] 2 Peter 3:9
 - [ ] 1 John 1:5
+- [ ] 1 John 2:23
+- [ ] 1 John 4:14
 - [ ] 1 John 5:11–12
+- [ ] Revelation 5:6–7
+- [ ] Revelation 5:13
 - [ ] Revelation 16:9–11
 - [ ] Revelation 20:11–13
 - [ ] Revelation 20:11–15

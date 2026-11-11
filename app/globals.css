@@ -711,3 +711,18 @@ html[data-standalone] .welcome-install {
 .tile { position: relative; display: flex; align-items: center; min-height: 58px; padding: 10px 12px 10px 20px; background: var(--color-card); border: 1px solid var(--color-line); border-radius: 14px; font-size: 17px; font-weight: 600; line-height: 1.2; overflow: hidden; }
 .tile .bar { position: absolute; left: 0; top: 0; bottom: 0; width: 6px; min-height: 0; border-radius: 0; }
 .tile:active { background: var(--color-soft); border-color: var(--color-accent); }
+
+/* Group page: six-part quick reference */
+.quick { margin-top: 16px; padding: 16px 16px 12px; background: var(--color-card); border: 1px solid var(--color-line); border-radius: 16px; }
+.quick-list { margin-top: 6px; counter-reset: q; }
+.quick-list > details { counter-increment: q; border-top: 1px solid var(--color-line); }
+.quick-list > details:first-child { border-top: 0; }
+.quick-list summary { display: flex; align-items: center; justify-content: space-between; min-height: 48px; cursor: pointer; list-style: none; }
+.quick-list summary::-webkit-details-marker { display: none; }
+.quick-list summary::after { content: "+"; color: var(--color-accent); font-size: 22px; line-height: 1; }
+.quick-list details[open] > summary::after { content: "–"; }
+.quick-list details > p { margin-top: -2px; }
+.quick-list details[open] { padding-bottom: 12px; }
+.quick-label { font-size: 16px; font-weight: 700; color: var(--color-accent); }
+.quick-label::before { content: counter(q) ". "; }
+.quick-ask p { font-size: 19px; }
