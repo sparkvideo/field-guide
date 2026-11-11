@@ -12680,6 +12680,1975 @@
       }
     },
     {
+      "slug": "progressive",
+      "name": "Progressive Christian",
+      "heading": "PROGRESSIVE CHRISTIANS",
+      "color": "#db2777",
+      "emoji": "🌈",
+      "beliefs": {
+        "text": "There is no creed, on purpose: belief matters less than behavior. Jesus is a teacher and example whose way leads to wholeness, and other religions are valid paths too; their own statement says \"the Spirit moves in beneficial ways in many faith traditions\" [ProgressiveChristianity.org, Core Values]. The Bible is a human record of people's experience of God, inspiring but mistaken in places and to be corrected by modern knowledge and experience. Their own writers say many of them reject original sin, hell, the virgin birth, the bodily resurrection, and that Jesus died bearing God's wrath in the sinner's place. Sin is mostly injustice in society, salvation is healing here and now, and love means affirming people as they are.",
+        "verses": [],
+        "links": [],
+        "supplemental": false
+      },
+      "lead": [
+        {
+          "label": "Their position",
+          "text": "There is no creed, on purpose: belief matters less than behavior. Jesus is a teacher and example whose way leads to wholeness, and other religions are valid paths too; their own statement says \"the Spirit moves in beneficial ways in many faith traditions\" [ProgressiveChristianity.org, Core Values]. The Bible is a human record of people's experience of God, inspiring but mistaken in places and to be corrected by modern knowledge and experience. Their own writers say many of them reject original sin, hell, the virgin birth, the bodily resurrection, and that Jesus died bearing God's wrath in the sinner's place. Sin is mostly injustice in society, salvation is healing here and now, and love means affirming people as they are.",
+          "verses": [],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "The dividing issue",
+          "text": "Authority, and then the gospel. Who decides what is true: God speaking in Scripture, or me and my generation sitting in judgment on Scripture? Once the Bible is negotiable, sin shrinks, the cross loses its purpose, and what is left is a different gospel with Christian words. J. Gresham Machen made the case a century ago in *Christianity and Liberalism*: this is not a variety of Christianity but another religion. (2 Tim 3:16–17; John 17:17; Gal 1:6–9; 1 Cor 15:3–4)",
+          "verses": [
+            {
+              "label": "2 Tim 3:16–17",
+              "kind": "bible",
+              "key": "2-timothy.3.16-17",
+              "book": "2-timothy",
+              "chapter": 3,
+              "verseStart": 16,
+              "verseEnd": 17
+            },
+            {
+              "label": "John 17:17",
+              "kind": "bible",
+              "key": "john.17.17",
+              "book": "john",
+              "chapter": 17,
+              "verseStart": 17,
+              "verseEnd": 17
+            },
+            {
+              "label": "Gal 1:6–9",
+              "kind": "bible",
+              "key": "galatians.1.6-9",
+              "book": "galatians",
+              "chapter": 1,
+              "verseStart": 6,
+              "verseEnd": 9
+            },
+            {
+              "label": "1 Cor 15:3–4",
+              "kind": "bible",
+              "key": "1-corinthians.15.3-4",
+              "book": "1-corinthians",
+              "chapter": 15,
+              "verseStart": 3,
+              "verseEnd": 4
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "Ask this question",
+          "text": "*\"When you and the Bible disagree, which one gives way, and how did you decide that?\"* (Isa 8:20)",
+          "verses": [
+            {
+              "label": "Isa 8:20",
+              "kind": "bible",
+              "key": "isaiah.8.20",
+              "book": "isaiah",
+              "chapter": 8,
+              "verseStart": 20,
+              "verseEnd": 20
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "Scriptural response",
+          "text": "Jesus treated Scripture as the unbreakable word of God, down to the smallest stroke. He taught that He is the only way to the Father, that He came to give His life as a ransom, and He warned of hell more than anyone in the Bible. You cannot keep His ethics and discard His claims; they come from the same mouth. The apostles handed on as of first importance that Christ died for our sins and was raised. (John 10:35; Matt 5:17–18; John 14:6; Mark 10:45; Matt 25:46; 1 Cor 15:3–4)",
+          "verses": [
+            {
+              "label": "John 10:35",
+              "kind": "bible",
+              "key": "john.10.35",
+              "book": "john",
+              "chapter": 10,
+              "verseStart": 35,
+              "verseEnd": 35
+            },
+            {
+              "label": "Matt 5:17–18",
+              "kind": "bible",
+              "key": "matthew.5.17-18",
+              "book": "matthew",
+              "chapter": 5,
+              "verseStart": 17,
+              "verseEnd": 18
+            },
+            {
+              "label": "John 14:6",
+              "kind": "bible",
+              "key": "john.14.6",
+              "book": "john",
+              "chapter": 14,
+              "verseStart": 6,
+              "verseEnd": 6
+            },
+            {
+              "label": "Mark 10:45",
+              "kind": "bible",
+              "key": "mark.10.45",
+              "book": "mark",
+              "chapter": 10,
+              "verseStart": 45,
+              "verseEnd": 45
+            },
+            {
+              "label": "Matt 25:46",
+              "kind": "bible",
+              "key": "matthew.25.46",
+              "book": "matthew",
+              "chapter": 25,
+              "verseStart": 46,
+              "verseEnd": 46
+            },
+            {
+              "label": "1 Cor 15:3–4",
+              "kind": "bible",
+              "key": "1-corinthians.15.3-4",
+              "book": "1-corinthians",
+              "chapter": 15,
+              "verseStart": 3,
+              "verseEnd": 4
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "Common objection",
+          "text": "*\"God is love. A loving God doesn't need blood to forgive, and wouldn't send anyone to hell.\"* → Scripture says God is love in the same letter that says He sent His Son to be the propitiation for our sins. That is how we know what love is. A God who shrugs at evil is not loving; ask anyone who has been wronged. At the cross justice and mercy meet: God is just and the justifier of the one who has faith in Jesus. (1 John 4:8–10; Rom 3:25–26; Rom 5:8; Ex 34:6–7)",
+          "verses": [
+            {
+              "label": "1 John 4:8–10",
+              "kind": "bible",
+              "key": "1-john.4.8-10",
+              "book": "1-john",
+              "chapter": 4,
+              "verseStart": 8,
+              "verseEnd": 10
+            },
+            {
+              "label": "Rom 3:25–26",
+              "kind": "bible",
+              "key": "romans.3.25-26",
+              "book": "romans",
+              "chapter": 3,
+              "verseStart": 25,
+              "verseEnd": 26
+            },
+            {
+              "label": "Rom 5:8",
+              "kind": "bible",
+              "key": "romans.5.8",
+              "book": "romans",
+              "chapter": 5,
+              "verseStart": 8,
+              "verseEnd": 8
+            },
+            {
+              "label": "Ex 34:6–7",
+              "kind": "bible",
+              "key": "exodus.34.6-7",
+              "book": "exodus",
+              "chapter": 34,
+              "verseStart": 6,
+              "verseEnd": 7
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "Gospel bridge",
+          "text": "*\"If Jesus is mainly an example, the news is: try harder to be like Him. How is that going? The gospel is that He did what we have not done and bore what we deserve. Would you rather have a model you can't match, or a Savior?\"* (Rom 3:23–24; 2 Cor 5:21; 1 Pet 2:24; Eph 2:8–9)",
+          "verses": [
+            {
+              "label": "Rom 3:23–24",
+              "kind": "bible",
+              "key": "romans.3.23-24",
+              "book": "romans",
+              "chapter": 3,
+              "verseStart": 23,
+              "verseEnd": 24
+            },
+            {
+              "label": "2 Cor 5:21",
+              "kind": "bible",
+              "key": "2-corinthians.5.21",
+              "book": "2-corinthians",
+              "chapter": 5,
+              "verseStart": 21,
+              "verseEnd": 21
+            },
+            {
+              "label": "1 Pet 2:24",
+              "kind": "bible",
+              "key": "1-peter.2.24",
+              "book": "1-peter",
+              "chapter": 2,
+              "verseStart": 24,
+              "verseEnd": 24
+            },
+            {
+              "label": "Eph 2:8–9",
+              "kind": "bible",
+              "key": "ephesians.2.8-9",
+              "book": "ephesians",
+              "chapter": 2,
+              "verseStart": 8,
+              "verseEnd": 9
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "Where we agree",
+          "text": "Jesus is worth following. Hypocrisy, greed and abuse in churches are real evils, and Jesus condemned them more fiercely than any critic. Christians must care for the poor, the widow, the orphan and the stranger. Love of neighbor is the second great commandment. Honest questions deserve honest answers.",
+          "verses": [],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "Approach",
+          "text": "Many are here because they were hurt, or because nobody answered their questions. Listen first and ask what happened. Do not defend what was truly sinful in a church; agree with Scripture against it. Then separate two things: what Christians did, and what Christ said. Keep bringing the conversation back to Jesus' own words, because they still claim Him. Define terms as you go: they use \"gospel,\" \"love,\" \"resurrection\" and \"inspired\" with different meanings, so ask, \"What do you mean by that?\" Don't get pulled into politics. The issue is authority and the cross. Speak the truth in love, with gentleness, as one sinner saved by grace to another person God made. (Eph 4:15; 2 Tim 2:24–26; Jude 1:3; 1 Pet 3:15)",
+          "verses": [
+            {
+              "label": "Eph 4:15",
+              "kind": "bible",
+              "key": "ephesians.4.15",
+              "book": "ephesians",
+              "chapter": 4,
+              "verseStart": 15,
+              "verseEnd": 15
+            },
+            {
+              "label": "2 Tim 2:24–26",
+              "kind": "bible",
+              "key": "2-timothy.2.24-26",
+              "book": "2-timothy",
+              "chapter": 2,
+              "verseStart": 24,
+              "verseEnd": 26
+            },
+            {
+              "label": "Jude 1:3",
+              "kind": "bible",
+              "key": "jude.1.3",
+              "book": "jude",
+              "chapter": 1,
+              "verseStart": 3,
+              "verseEnd": 3
+            },
+            {
+              "label": "1 Pet 3:15",
+              "kind": "bible",
+              "key": "1-peter.3.15",
+              "book": "1-peter",
+              "chapter": 3,
+              "verseStart": 15,
+              "verseEnd": 15
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        }
+      ],
+      "cheatCardTitle": "Progressive Christian Cheat Card",
+      "cheatCard": [
+        {
+          "text": "**John 10:35**: *\"Jesus said Scripture cannot be broken. Was He wrong?\"*",
+          "verses": [
+            {
+              "label": "John 10:35",
+              "kind": "bible",
+              "key": "john.10.35",
+              "book": "john",
+              "chapter": 10,
+              "verseStart": 35,
+              "verseEnd": 35
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "text": "**John 14:6**: *\"Did Jesus say He is a way, or the way?\"*",
+          "verses": [
+            {
+              "label": "John 14:6",
+              "kind": "bible",
+              "key": "john.14.6",
+              "book": "john",
+              "chapter": 14,
+              "verseStart": 6,
+              "verseEnd": 6
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "text": "**Mark 10:45**: *\"Why did Jesus say He came? To give His life as what?\"*",
+          "verses": [
+            {
+              "label": "Mark 10:45",
+              "kind": "bible",
+              "key": "mark.10.45",
+              "book": "mark",
+              "chapter": 10,
+              "verseStart": 45,
+              "verseEnd": 45
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "text": "**1 John 4:10**: *\"How does John define love here? What word does he use for the cross?\"*",
+          "verses": [
+            {
+              "label": "1 John 4:10",
+              "kind": "bible",
+              "key": "1-john.4.10",
+              "book": "1-john",
+              "chapter": 4,
+              "verseStart": 10,
+              "verseEnd": 10
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "text": "**1 Cor 15:3–4, 17**: *\"If Christ was not bodily raised, what does Paul say about your faith?\"*",
+          "verses": [
+            {
+              "label": "1 Cor 15:3–4",
+              "kind": "bible",
+              "key": "1-corinthians.15.3-4",
+              "book": "1-corinthians",
+              "chapter": 15,
+              "verseStart": 3,
+              "verseEnd": 4
+            },
+            {
+              "label": "1 Cor 15:17",
+              "kind": "bible",
+              "key": "1-corinthians.15.17",
+              "book": "1-corinthians",
+              "chapter": 15,
+              "verseStart": 17,
+              "verseEnd": 17
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "text": "**Gal 1:8**: *\"Is there such a thing as a different gospel? What does Paul say about it?\"*",
+          "verses": [
+            {
+              "label": "Gal 1:8",
+              "kind": "bible",
+              "key": "galatians.1.8",
+              "book": "galatians",
+              "chapter": 1,
+              "verseStart": 8,
+              "verseEnd": 8
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        }
+      ],
+      "offense": [
+        {
+          "id": "play-1",
+          "number": 1,
+          "title": "Which Jesus?",
+          "subtitle": "the Jesus of the Gospels, all of Him",
+          "warning": false,
+          "supplemental": false,
+          "altOpeners": [
+            {
+              "text": "*\"If Jesus said something you disagreed with, would you change your mind or would He be wrong?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "chain": [
+            {
+              "text": "**Matt 5:17–18**: Jesus said not the smallest letter or stroke will pass from the Law until all is accomplished. **John 10:35**: \"the Scripture cannot be broken.\" *\"What was Jesus' view of the Bible?\"*",
+              "verses": [
+                {
+                  "label": "Matt 5:17–18",
+                  "kind": "bible",
+                  "key": "matthew.5.17-18",
+                  "book": "matthew",
+                  "chapter": 5,
+                  "verseStart": 17,
+                  "verseEnd": 18
+                },
+                {
+                  "label": "John 10:35",
+                  "kind": "bible",
+                  "key": "john.10.35",
+                  "book": "john",
+                  "chapter": 10,
+                  "verseStart": 35,
+                  "verseEnd": 35
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Matt 19:4–6**: Asked about marriage, He went to Genesis as history and as God's own voice: \"Have you not read… He who created them from the beginning made them male and female.\" *\"Did He treat Genesis as myth?\"*",
+              "verses": [
+                {
+                  "label": "Matt 19:4–6",
+                  "kind": "bible",
+                  "key": "matthew.19.4-6",
+                  "book": "matthew",
+                  "chapter": 19,
+                  "verseStart": 4,
+                  "verseEnd": 6
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Mark 7:20–23**: He said evil comes from within, out of the heart of man. *\"Did Jesus think people are basically good?\"*",
+              "verses": [
+                {
+                  "label": "Mark 7:20–23",
+                  "kind": "bible",
+                  "key": "mark.7.20-23",
+                  "book": "mark",
+                  "chapter": 7,
+                  "verseStart": 20,
+                  "verseEnd": 23
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**John 14:6; John 8:24**: \"No one comes to the Father but through Me.\" \"Unless you believe that I am He, you will die in your sins.\" *\"Is that one path among many?\"*",
+              "verses": [
+                {
+                  "label": "John 14:6",
+                  "kind": "bible",
+                  "key": "john.14.6",
+                  "book": "john",
+                  "chapter": 14,
+                  "verseStart": 6,
+                  "verseEnd": 6
+                },
+                {
+                  "label": "John 8:24",
+                  "kind": "bible",
+                  "key": "john.8.24",
+                  "book": "john",
+                  "chapter": 8,
+                  "verseStart": 24,
+                  "verseEnd": 24
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Matt 25:41, 46; Mark 9:47–48**: He spoke of eternal fire and eternal punishment. *\"Who is speaking in these verses?\"*",
+              "verses": [
+                {
+                  "label": "Matt 25:41",
+                  "kind": "bible",
+                  "key": "matthew.25.41",
+                  "book": "matthew",
+                  "chapter": 25,
+                  "verseStart": 41,
+                  "verseEnd": 41
+                },
+                {
+                  "label": "Matt 25:46",
+                  "kind": "bible",
+                  "key": "matthew.25.46",
+                  "book": "matthew",
+                  "chapter": 25,
+                  "verseStart": 46,
+                  "verseEnd": 46
+                },
+                {
+                  "label": "Mark 9:47–48",
+                  "kind": "bible",
+                  "key": "mark.9.47-48",
+                  "book": "mark",
+                  "chapter": 9,
+                  "verseStart": 47,
+                  "verseEnd": 48
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Mark 10:45; Matt 26:28**: He said He came to give His life as a ransom for many, and that His blood is poured out for forgiveness of sins. *\"What did Jesus think His death was for?\"*",
+              "verses": [
+                {
+                  "label": "Mark 10:45",
+                  "kind": "bible",
+                  "key": "mark.10.45",
+                  "book": "mark",
+                  "chapter": 10,
+                  "verseStart": 45,
+                  "verseEnd": 45
+                },
+                {
+                  "label": "Matt 26:28",
+                  "kind": "bible",
+                  "key": "matthew.26.28",
+                  "book": "matthew",
+                  "chapter": 26,
+                  "verseStart": 28,
+                  "verseEnd": 28
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Luke 24:25–27, 39**: Risen, with flesh and bones, He rebuked His disciples for being slow to believe all that the prophets have spoken.",
+              "verses": [
+                {
+                  "label": "Luke 24:25–27",
+                  "kind": "bible",
+                  "key": "luke.24.25-27",
+                  "book": "luke",
+                  "chapter": 24,
+                  "verseStart": 25,
+                  "verseEnd": 27
+                },
+                {
+                  "label": "Luke 24:39",
+                  "kind": "bible",
+                  "key": "luke.24.39",
+                  "book": "luke",
+                  "chapter": 24,
+                  "verseStart": 39,
+                  "verseEnd": 39
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "questions": [],
+          "ifTheySay": [
+            {
+              "theySay": "*\"The Gospel writers put those words in His mouth.\"*",
+              "youSay": "Then on what basis do you keep the Sermon on the Mount? The same witnesses give us both. You cannot trust them for \"love your enemies\" and distrust them two chapters later. Go to [Is the Bible reliable?](/topic/is-the-bible-reliable).",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"I follow the red letters, not Paul.\"*",
+              "youSay": "The red letters say Scripture cannot be broken, and Jesus personally chose and sent His apostles: \"He who receives whomever I send receives Me.\" Peter calls Paul's letters Scripture. (John 13:20; 2 Pet 3:15–16; 1 Cor 14:37)",
+              "verses": [
+                {
+                  "label": "John 13:20",
+                  "kind": "bible",
+                  "key": "john.13.20",
+                  "book": "john",
+                  "chapter": 13,
+                  "verseStart": 20,
+                  "verseEnd": 20
+                },
+                {
+                  "label": "2 Pet 3:15–16",
+                  "kind": "bible",
+                  "key": "2-peter.3.15-16",
+                  "book": "2-peter",
+                  "chapter": 3,
+                  "verseStart": 15,
+                  "verseEnd": 16
+                },
+                {
+                  "label": "1 Cor 14:37",
+                  "kind": "bible",
+                  "key": "1-corinthians.14.37",
+                  "book": "1-corinthians",
+                  "chapter": 14,
+                  "verseStart": 37,
+                  "verseEnd": 37
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"Jesus welcomed everyone and never judged.\"*",
+              "youSay": "He welcomed sinners and called them to repent. To the woman caught in adultery: \"Go, and from now on sin no more.\" He came to call sinners to repentance. (John 8:11; Luke 5:32; Mark 1:15)",
+              "verses": [
+                {
+                  "label": "John 8:11",
+                  "kind": "bible",
+                  "key": "john.8.11",
+                  "book": "john",
+                  "chapter": 8,
+                  "verseStart": 11,
+                  "verseEnd": 11
+                },
+                {
+                  "label": "Luke 5:32",
+                  "kind": "bible",
+                  "key": "luke.5.32",
+                  "book": "luke",
+                  "chapter": 5,
+                  "verseStart": 32,
+                  "verseEnd": 32
+                },
+                {
+                  "label": "Mark 1:15",
+                  "kind": "bible",
+                  "key": "mark.1.15",
+                  "book": "mark",
+                  "chapter": 1,
+                  "verseStart": 15,
+                  "verseEnd": 15
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"That's your interpretation.\"*",
+              "youSay": "Then read the verse aloud and tell me another meaning the words can bear. Go to [Faith and reason](/topic/faith-and-reason).",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "notes": [],
+          "links": [],
+          "opener": {
+            "text": "*\"You follow Jesus. What do you think was the most important thing He taught?\"*",
+            "verses": [],
+            "links": [],
+            "supplemental": false
+          },
+          "closer": {
+            "text": "*\"Jesus asked, 'Why do you call Me, Lord, Lord, and do not do what I say?' The real Jesus is better than the edited one, because the real one can save. Will you take Him as He is?\"* (Luke 6:46; John 6:68)",
+            "verses": [
+              {
+                "label": "Luke 6:46",
+                "kind": "bible",
+                "key": "luke.6.46",
+                "book": "luke",
+                "chapter": 6,
+                "verseStart": 46,
+                "verseEnd": 46
+              },
+              {
+                "label": "John 6:68",
+                "kind": "bible",
+                "key": "john.6.68",
+                "book": "john",
+                "chapter": 6,
+                "verseStart": 68,
+                "verseEnd": 68
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          }
+        },
+        {
+          "id": "play-2",
+          "number": 2,
+          "title": "What did the cross do?",
+          "subtitle": "substitution, not just an example",
+          "warning": false,
+          "supplemental": false,
+          "altOpeners": [
+            {
+              "text": "*\"If Jesus had died of old age after a life of teaching, would anything be missing?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "chain": [
+            {
+              "text": "**Rom 3:23; Rom 6:23**: All have sinned, and the wages of sin is death. *\"Is that true of you?\"* If sin is only \"out there\" in systems, use the commandments: go to [The Way of the Master](/topic/the-way-of-the-master).",
+              "verses": [
+                {
+                  "label": "Rom 3:23",
+                  "kind": "bible",
+                  "key": "romans.3.23",
+                  "book": "romans",
+                  "chapter": 3,
+                  "verseStart": 23,
+                  "verseEnd": 23
+                },
+                {
+                  "label": "Rom 6:23",
+                  "kind": "bible",
+                  "key": "romans.6.23",
+                  "book": "romans",
+                  "chapter": 6,
+                  "verseStart": 23,
+                  "verseEnd": 23
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Isa 53:5–6, 10**: The Servant is pierced for our transgressions, Yahweh lays our iniquity on him, and Yahweh is pleased to crush him. *\"Whose idea was the cross?\"*",
+              "verses": [
+                {
+                  "label": "Isa 53:5–6",
+                  "kind": "bible",
+                  "key": "isaiah.53.5-6",
+                  "book": "isaiah",
+                  "chapter": 53,
+                  "verseStart": 5,
+                  "verseEnd": 6
+                },
+                {
+                  "label": "Isa 53:10",
+                  "kind": "bible",
+                  "key": "isaiah.53.10",
+                  "book": "isaiah",
+                  "chapter": 53,
+                  "verseStart": 10,
+                  "verseEnd": 10
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**John 10:17–18**: \"No one takes My life from Me. I lay it down of Myself.\" The Son is not a victim of the Father. He is God the Son, giving Himself.",
+              "verses": [
+                {
+                  "label": "John 10:17–18",
+                  "kind": "bible",
+                  "key": "john.10.17-18",
+                  "book": "john",
+                  "chapter": 10,
+                  "verseStart": 17,
+                  "verseEnd": 18
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**2 Cor 5:21; 1 Pet 2:24**: He who knew no sin was made sin on our behalf. He bore our sins in His body on the tree. *\"What happened to those sins?\"*",
+              "verses": [
+                {
+                  "label": "2 Cor 5:21",
+                  "kind": "bible",
+                  "key": "2-corinthians.5.21",
+                  "book": "2-corinthians",
+                  "chapter": 5,
+                  "verseStart": 21,
+                  "verseEnd": 21
+                },
+                {
+                  "label": "1 Pet 2:24",
+                  "kind": "bible",
+                  "key": "1-peter.2.24",
+                  "book": "1-peter",
+                  "chapter": 2,
+                  "verseStart": 24,
+                  "verseEnd": 24
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Rom 3:25–26**: God put Christ forward as a propitiation, a sacrifice that satisfies His wrath, so that He would be both just and the justifier. *\"How can God forgive and still be just? This is how.\"*",
+              "verses": [
+                {
+                  "label": "Rom 3:25–26",
+                  "kind": "bible",
+                  "key": "romans.3.25-26",
+                  "book": "romans",
+                  "chapter": 3,
+                  "verseStart": 25,
+                  "verseEnd": 26
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**1 Pet 2:21–24**: Yes, He is our example. Peter says so, and in the same breath says He bore our sins. Scripture gives both; the progressive version keeps one.",
+              "verses": [
+                {
+                  "label": "1 Pet 2:21–24",
+                  "kind": "bible",
+                  "key": "1-peter.2.21-24",
+                  "book": "1-peter",
+                  "chapter": 2,
+                  "verseStart": 21,
+                  "verseEnd": 24
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Gal 2:21**: If righteousness comes through what we do, then Christ died needlessly.",
+              "verses": [
+                {
+                  "label": "Gal 2:21",
+                  "kind": "bible",
+                  "key": "galatians.2.21",
+                  "book": "galatians",
+                  "chapter": 2,
+                  "verseStart": 21,
+                  "verseEnd": 21
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "questions": [],
+          "ifTheySay": [
+            {
+              "theySay": "*\"Penal substitution is cosmic child abuse.\"*",
+              "youSay": "That picture has an angry Father and an unwilling third party. Scripture has one God: the Father giving His Son in love, and the Son laying down His own life. \"God was in Christ reconciling the world to Himself.\" (John 3:16; John 10:18; 2 Cor 5:19; Gal 2:20)",
+              "verses": [
+                {
+                  "label": "John 3:16",
+                  "kind": "bible",
+                  "key": "john.3.16",
+                  "book": "john",
+                  "chapter": 3,
+                  "verseStart": 16,
+                  "verseEnd": 16
+                },
+                {
+                  "label": "John 10:18",
+                  "kind": "bible",
+                  "key": "john.10.18",
+                  "book": "john",
+                  "chapter": 10,
+                  "verseStart": 18,
+                  "verseEnd": 18
+                },
+                {
+                  "label": "2 Cor 5:19",
+                  "kind": "bible",
+                  "key": "2-corinthians.5.19",
+                  "book": "2-corinthians",
+                  "chapter": 5,
+                  "verseStart": 19,
+                  "verseEnd": 19
+                },
+                {
+                  "label": "Gal 2:20",
+                  "kind": "bible",
+                  "key": "galatians.2.20",
+                  "book": "galatians",
+                  "chapter": 2,
+                  "verseStart": 20,
+                  "verseEnd": 20
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"That theory was invented by Anselm or the Reformers.\"*",
+              "youSay": "Isaiah 53 was written seven centuries before Christ, and Paul says he received it and passed it on as of first importance: Christ died for our sins. (1 Cor 15:3; Rom 4:25)",
+              "verses": [
+                {
+                  "label": "Isa 53",
+                  "kind": "bible",
+                  "key": "isaiah.53",
+                  "book": "isaiah",
+                  "chapter": 53
+                },
+                {
+                  "label": "1 Cor 15:3",
+                  "kind": "bible",
+                  "key": "1-corinthians.15.3",
+                  "book": "1-corinthians",
+                  "chapter": 15,
+                  "verseStart": 3,
+                  "verseEnd": 3
+                },
+                {
+                  "label": "Rom 4:25",
+                  "kind": "bible",
+                  "key": "romans.4.25",
+                  "book": "romans",
+                  "chapter": 4,
+                  "verseStart": 25,
+                  "verseEnd": 25
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"The cross shows God's solidarity with victims.\"*",
+              "youSay": "He does draw near to the broken. But solidarity does not take sin away. A doctor who catches your disease to keep you company has not cured you. (Heb 9:22; Heb 9:26)",
+              "verses": [
+                {
+                  "label": "Heb 9:22",
+                  "kind": "bible",
+                  "key": "hebrews.9.22",
+                  "book": "hebrews",
+                  "chapter": 9,
+                  "verseStart": 22,
+                  "verseEnd": 22
+                },
+                {
+                  "label": "Heb 9:26",
+                  "kind": "bible",
+                  "key": "hebrews.9.26",
+                  "book": "hebrews",
+                  "chapter": 9,
+                  "verseStart": 26,
+                  "verseEnd": 26
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"A loving God just forgives.\"*",
+              "youSay": "Even we don't believe that. When a judge frees the guilty we call it corruption. Go to [Morality and justice](/topic/morality-and-justice).",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "notes": [],
+          "links": [],
+          "opener": {
+            "text": "*\"Why did Jesus have to die? What did His death actually accomplish?\"*",
+            "verses": [],
+            "links": [],
+            "supplemental": false
+          },
+          "closer": {
+            "text": "*\"On the cross He said, 'It is finished.' Not 'follow My example,' but paid. Are you trusting what He finished, or what you are doing?\"* (John 19:30; Rom 4:4–5)",
+            "verses": [
+              {
+                "label": "John 19:30",
+                "kind": "bible",
+                "key": "john.19.30",
+                "book": "john",
+                "chapter": 19,
+                "verseStart": 30,
+                "verseEnd": 30
+              },
+              {
+                "label": "Rom 4:4–5",
+                "kind": "bible",
+                "key": "romans.4.4-5",
+                "book": "romans",
+                "chapter": 4,
+                "verseStart": 4,
+                "verseEnd": 5
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          }
+        },
+        {
+          "id": "play-3",
+          "number": 3,
+          "title": "Who decides?",
+          "subtitle": "Scripture, or me",
+          "warning": false,
+          "supplemental": false,
+          "altOpeners": [
+            {
+              "text": "*\"Is there anything the Bible teaches that you don't like but believe anyway?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "chain": [
+            {
+              "text": "**Gen 3:1**: The first temptation was a question: \"Has God really said?\" *\"Is it possible that question is still being asked?\"*",
+              "verses": [
+                {
+                  "label": "Gen 3:1",
+                  "kind": "bible",
+                  "key": "genesis.3.1",
+                  "book": "genesis",
+                  "chapter": 3,
+                  "verseStart": 1,
+                  "verseEnd": 1
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**2 Tim 3:16–17; 2 Pet 1:20–21**: All Scripture is breathed out by God. Men spoke from God as they were carried along by the Holy Spirit. It is God's word through men, not men's guesses about God.",
+              "verses": [
+                {
+                  "label": "2 Tim 3:16–17",
+                  "kind": "bible",
+                  "key": "2-timothy.3.16-17",
+                  "book": "2-timothy",
+                  "chapter": 3,
+                  "verseStart": 16,
+                  "verseEnd": 17
+                },
+                {
+                  "label": "2 Pet 1:20–21",
+                  "kind": "bible",
+                  "key": "2-peter.1.20-21",
+                  "book": "2-peter",
+                  "chapter": 1,
+                  "verseStart": 20,
+                  "verseEnd": 21
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Jer 17:9; Prov 14:12**: The heart is deceitful above all else. There is a way that seems right to a man, and its end is death. *\"If my heart is the judge, who checks the judge?\"*",
+              "verses": [
+                {
+                  "label": "Jer 17:9",
+                  "kind": "bible",
+                  "key": "jeremiah.17.9",
+                  "book": "jeremiah",
+                  "chapter": 17,
+                  "verseStart": 9,
+                  "verseEnd": 9
+                },
+                {
+                  "label": "Prov 14:12",
+                  "kind": "bible",
+                  "key": "proverbs.14.12",
+                  "book": "proverbs",
+                  "chapter": 14,
+                  "verseStart": 12,
+                  "verseEnd": 12
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Judges 21:25**: Everyone did what was right in his own eyes. Scripture records that as a tragedy, not a goal.",
+              "verses": [
+                {
+                  "label": "Judg 21:25",
+                  "kind": "bible",
+                  "key": "judges.21.25",
+                  "book": "judges",
+                  "chapter": 21,
+                  "verseStart": 25,
+                  "verseEnd": 25
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Isa 5:20**: Woe to those who call evil good and good evil. Every generation is sure its own morals are the enlightened ones. *\"Which generation got to be right, and why ours?\"*",
+              "verses": [
+                {
+                  "label": "Isa 5:20",
+                  "kind": "bible",
+                  "key": "isaiah.5.20",
+                  "book": "isaiah",
+                  "chapter": 5,
+                  "verseStart": 20,
+                  "verseEnd": 20
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**2 Tim 4:3–4**: A time will come when people gather teachers to suit their own desires and turn from the truth. *\"How would a person know if that was happening to them?\"*",
+              "verses": [
+                {
+                  "label": "2 Tim 4:3–4",
+                  "kind": "bible",
+                  "key": "2-timothy.4.3-4",
+                  "book": "2-timothy",
+                  "chapter": 4,
+                  "verseStart": 3,
+                  "verseEnd": 4
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Matt 4:4; John 17:17**: Jesus answered the devil with \"It is written,\" and prayed, \"Your word is truth.\"",
+              "verses": [
+                {
+                  "label": "Matt 4:4",
+                  "kind": "bible",
+                  "key": "matthew.4.4",
+                  "book": "matthew",
+                  "chapter": 4,
+                  "verseStart": 4,
+                  "verseEnd": 4
+                },
+                {
+                  "label": "John 17:17",
+                  "kind": "bible",
+                  "key": "john.17.17",
+                  "book": "john",
+                  "chapter": 17,
+                  "verseStart": 17,
+                  "verseEnd": 17
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "questions": [],
+          "ifTheySay": [
+            {
+              "theySay": "*\"The Bible was written by men of their time.\"*",
+              "youSay": "By men, yes, carried along by the Spirit. Jesus quoted those men and said, \"God said.\" If He is Lord, His view of the Bible settles it. (Matt 15:4; Matt 22:31)",
+              "verses": [
+                {
+                  "label": "Matt 15:4",
+                  "kind": "bible",
+                  "key": "matthew.15.4",
+                  "book": "matthew",
+                  "chapter": 15,
+                  "verseStart": 4,
+                  "verseEnd": 4
+                },
+                {
+                  "label": "Matt 22:31",
+                  "kind": "bible",
+                  "key": "matthew.22.31",
+                  "book": "matthew",
+                  "chapter": 22,
+                  "verseStart": 31,
+                  "verseEnd": 31
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"The Bible is full of contradictions and errors.\"*",
+              "youSay": "Ask for one, and look at it together. Go to [Is the Bible reliable?](/topic/is-the-bible-reliable).",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"The church used the Bible to defend slavery, and we corrected it. This is the same.\"*",
+              "youSay": "Men twisted Scripture to defend man-stealing, which Scripture punishes with death, and it was Bible-believing Christians who led abolition by appealing to Scripture. That is the Bible correcting sinners. Today's revisions go the other way: correcting the Bible to suit the age. (Ex 21:16; 1 Tim 1:10; Gal 3:28)",
+              "verses": [
+                {
+                  "label": "Ex 21:16",
+                  "kind": "bible",
+                  "key": "exodus.21.16",
+                  "book": "exodus",
+                  "chapter": 21,
+                  "verseStart": 16,
+                  "verseEnd": 16
+                },
+                {
+                  "label": "1 Tim 1:10",
+                  "kind": "bible",
+                  "key": "1-timothy.1.10",
+                  "book": "1-timothy",
+                  "chapter": 1,
+                  "verseStart": 10,
+                  "verseEnd": 10
+                },
+                {
+                  "label": "Gal 3:28",
+                  "kind": "bible",
+                  "key": "galatians.3.28",
+                  "book": "galatians",
+                  "chapter": 3,
+                  "verseStart": 28,
+                  "verseEnd": 28
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"The Spirit is still speaking and doing a new thing.\"*",
+              "youSay": "The Spirit does not contradict what He has already said. Test every spirit by the word He gave. (1 John 4:1; Isa 8:20; Gal 1:8)",
+              "verses": [
+                {
+                  "label": "1 John 4:1",
+                  "kind": "bible",
+                  "key": "1-john.4.1",
+                  "book": "1-john",
+                  "chapter": 4,
+                  "verseStart": 1,
+                  "verseEnd": 1
+                },
+                {
+                  "label": "Isa 8:20",
+                  "kind": "bible",
+                  "key": "isaiah.8.20",
+                  "book": "isaiah",
+                  "chapter": 8,
+                  "verseStart": 20,
+                  "verseEnd": 20
+                },
+                {
+                  "label": "Gal 1:8",
+                  "kind": "bible",
+                  "key": "galatians.1.8",
+                  "book": "galatians",
+                  "chapter": 1,
+                  "verseStart": 8,
+                  "verseEnd": 8
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "notes": [],
+          "links": [],
+          "opener": {
+            "text": "*\"How do you decide which parts of the Bible to keep?\"*",
+            "verses": [],
+            "links": [],
+            "supplemental": false
+          },
+          "closer": {
+            "text": "*\"If your god never disagrees with you, you may be worshiping an idealized version of yourself. The God who is there speaks, and He has not stuttered. Will you let Him be God?\"* (Isa 55:8–9; Luke 6:46)",
+            "verses": [
+              {
+                "label": "Isa 55:8–9",
+                "kind": "bible",
+                "key": "isaiah.55.8-9",
+                "book": "isaiah",
+                "chapter": 55,
+                "verseStart": 8,
+                "verseEnd": 9
+              },
+              {
+                "label": "Luke 6:46",
+                "kind": "bible",
+                "key": "luke.6.46",
+                "book": "luke",
+                "chapter": 6,
+                "verseStart": 46,
+                "verseEnd": 46
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          }
+        }
+      ],
+      "defense": [
+        {
+          "id": "god-love-there-no-hell",
+          "objection": "\"God is love, so there is no hell.\"",
+          "response": "The one who spoke most about hell is Jesus. Love and judgment are not opposites: a God who loves must hate what destroys. The cross shows both at full strength. See [Hell and eternal judgment](/topic/hell-and-eternal-judgment).",
+          "goTo": "Matt 25:46; John 3:16–18; John 3:36; 1 John 4:10",
+          "askBack": "*\"What did Jesus say He was saving people from?\"*",
+          "verses": [
+            {
+              "label": "Matt 25:46",
+              "kind": "bible",
+              "key": "matthew.25.46",
+              "book": "matthew",
+              "chapter": 25,
+              "verseStart": 46,
+              "verseEnd": 46
+            },
+            {
+              "label": "John 3:16–18",
+              "kind": "bible",
+              "key": "john.3.16-18",
+              "book": "john",
+              "chapter": 3,
+              "verseStart": 16,
+              "verseEnd": 18
+            },
+            {
+              "label": "John 3:36",
+              "kind": "bible",
+              "key": "john.3.36",
+              "book": "john",
+              "chapter": 3,
+              "verseStart": 36,
+              "verseEnd": 36
+            },
+            {
+              "label": "1 John 4:10",
+              "kind": "bible",
+              "key": "1-john.4.10",
+              "book": "1-john",
+              "chapter": 4,
+              "verseStart": 10,
+              "verseEnd": 10
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "all-religions-lead-god",
+          "objection": "\"All religions lead to God.\"",
+          "response": "They contradict each other about who God is and how man is made right, so they cannot all be true. Jesus did not leave this open. See [The exclusivity of Christ](/topic/the-exclusivity-of-christ).",
+          "goTo": "John 14:6; Acts 4:12; 1 Tim 2:5",
+          "askBack": "*\"If there were another way, why did Jesus pray 'let this cup pass' and still go to the cross?\"*",
+          "verses": [
+            {
+              "label": "John 14:6",
+              "kind": "bible",
+              "key": "john.14.6",
+              "book": "john",
+              "chapter": 14,
+              "verseStart": 6,
+              "verseEnd": 6
+            },
+            {
+              "label": "Acts 4:12",
+              "kind": "bible",
+              "key": "acts.4.12",
+              "book": "acts",
+              "chapter": 4,
+              "verseStart": 12,
+              "verseEnd": 12
+            },
+            {
+              "label": "1 Tim 2:5",
+              "kind": "bible",
+              "key": "1-timothy.2.5",
+              "book": "1-timothy",
+              "chapter": 2,
+              "verseStart": 5,
+              "verseEnd": 5
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "follow-jesus-not-paul-or",
+          "objection": "\"I follow Jesus, not Paul or the Old Testament.\"",
+          "response": "Jesus affirmed the Old Testament to the letter and sent the apostles with His authority. To receive them is to receive Him.",
+          "goTo": "Matt 5:17–18; John 13:20; 2 Pet 3:15–16; Luke 24:44",
+          "askBack": "*\"Which Bible did Jesus use?\"*",
+          "verses": [
+            {
+              "label": "Matt 5:17–18",
+              "kind": "bible",
+              "key": "matthew.5.17-18",
+              "book": "matthew",
+              "chapter": 5,
+              "verseStart": 17,
+              "verseEnd": 18
+            },
+            {
+              "label": "John 13:20",
+              "kind": "bible",
+              "key": "john.13.20",
+              "book": "john",
+              "chapter": 13,
+              "verseStart": 20,
+              "verseEnd": 20
+            },
+            {
+              "label": "2 Pet 3:15–16",
+              "kind": "bible",
+              "key": "2-peter.3.15-16",
+              "book": "2-peter",
+              "chapter": 3,
+              "verseStart": 15,
+              "verseEnd": 16
+            },
+            {
+              "label": "Luke 24:44",
+              "kind": "bible",
+              "key": "luke.24.44",
+              "book": "luke",
+              "chapter": 24,
+              "verseStart": 44,
+              "verseEnd": 44
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "dont-judge-jesus-said",
+          "objection": "\"Don't judge. Jesus said so.\"",
+          "response": "Read on: He says take the log out of your own eye so that you can see clearly to help your brother. He forbids hypocritical judging, and a few verses later tells us to recognize false prophets by their fruit.",
+          "goTo": "Matt 7:1–5; Matt 7:15–16; John 7:24",
+          "askBack": "*\"Isn't 'you shouldn't judge' a judgment?\"*",
+          "verses": [
+            {
+              "label": "Matt 7:1–5",
+              "kind": "bible",
+              "key": "matthew.7.1-5",
+              "book": "matthew",
+              "chapter": 7,
+              "verseStart": 1,
+              "verseEnd": 5
+            },
+            {
+              "label": "Matt 7:15–16",
+              "kind": "bible",
+              "key": "matthew.7.15-16",
+              "book": "matthew",
+              "chapter": 7,
+              "verseStart": 15,
+              "verseEnd": 16
+            },
+            {
+              "label": "John 7:24",
+              "kind": "bible",
+              "key": "john.7.24",
+              "book": "john",
+              "chapter": 7,
+              "verseStart": 24,
+              "verseEnd": 24
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "jesus-never-said-anything-about",
+          "objection": "\"Jesus never said anything about homosexuality.\"",
+          "response": "He defined marriage from Genesis as one man and one woman, and condemned all sexual immorality outside it. He also affirmed the whole Law and sent the apostles who addressed it directly. And the same passage holds out washing and a new life to every kind of sinner: \"such were some of you.\"",
+          "goTo": "Matt 19:4–6; Mark 7:21; Rom 1:26–27; 1 Cor 6:9–11",
+          "askBack": "*\"When Jesus was asked about marriage, where did He go for His answer?\"*",
+          "verses": [
+            {
+              "label": "Matt 19:4–6",
+              "kind": "bible",
+              "key": "matthew.19.4-6",
+              "book": "matthew",
+              "chapter": 19,
+              "verseStart": 4,
+              "verseEnd": 6
+            },
+            {
+              "label": "Mark 7:21",
+              "kind": "bible",
+              "key": "mark.7.21",
+              "book": "mark",
+              "chapter": 7,
+              "verseStart": 21,
+              "verseEnd": 21
+            },
+            {
+              "label": "Rom 1:26–27",
+              "kind": "bible",
+              "key": "romans.1.26-27",
+              "book": "romans",
+              "chapter": 1,
+              "verseStart": 26,
+              "verseEnd": 27
+            },
+            {
+              "label": "1 Cor 6:9–11",
+              "kind": "bible",
+              "key": "1-corinthians.6.9-11",
+              "book": "1-corinthians",
+              "chapter": 6,
+              "verseStart": 9,
+              "verseEnd": 11
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "love-love-loving-god-affirms",
+          "objection": "\"Love is love. A loving God affirms people as they are.\"",
+          "response": "God loves sinners as they are and does not leave them as they are. Love that never warns is not love. Jesus' first sermon was \"Repent and believe the gospel.\" Every one of us is called to deny himself, in different places.",
+          "goTo": "Mark 1:15; Luke 9:23; Rom 2:4; 1 Cor 13:6",
+          "askBack": "*\"Has Jesus ever asked you to give up something you wanted?\"*",
+          "verses": [
+            {
+              "label": "Mark 1:15",
+              "kind": "bible",
+              "key": "mark.1.15",
+              "book": "mark",
+              "chapter": 1,
+              "verseStart": 15,
+              "verseEnd": 15
+            },
+            {
+              "label": "Luke 9:23",
+              "kind": "bible",
+              "key": "luke.9.23",
+              "book": "luke",
+              "chapter": 9,
+              "verseStart": 23,
+              "verseEnd": 23
+            },
+            {
+              "label": "Rom 2:4",
+              "kind": "bible",
+              "key": "romans.2.4",
+              "book": "romans",
+              "chapter": 2,
+              "verseStart": 4,
+              "verseEnd": 4
+            },
+            {
+              "label": "1 Cor 13:6",
+              "kind": "bible",
+              "key": "1-corinthians.13.6",
+              "book": "1-corinthians",
+              "chapter": 13,
+              "verseStart": 6,
+              "verseEnd": 6
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "resurrection-metaphor-for-new-hope",
+          "objection": "\"The resurrection is a metaphor for new hope.\"",
+          "response": "The apostles said they touched Him and ate with Him, and Paul says that if Christ has not been raised, faith is worthless and we are still in our sins. Nobody dies for a metaphor. See [The resurrection](/topic/the-resurrection).",
+          "goTo": "Luke 24:39–43; 1 Cor 15:14–19; Acts 2:32",
+          "askBack": "*\"If the tomb was not empty, what exactly is the hope?\"*",
+          "verses": [
+            {
+              "label": "Luke 24:39–43",
+              "kind": "bible",
+              "key": "luke.24.39-43",
+              "book": "luke",
+              "chapter": 24,
+              "verseStart": 39,
+              "verseEnd": 43
+            },
+            {
+              "label": "1 Cor 15:14–19",
+              "kind": "bible",
+              "key": "1-corinthians.15.14-19",
+              "book": "1-corinthians",
+              "chapter": 15,
+              "verseStart": 14,
+              "verseEnd": 19
+            },
+            {
+              "label": "Acts 2:32",
+              "kind": "bible",
+              "key": "acts.2.32",
+              "book": "acts",
+              "chapter": 2,
+              "verseStart": 32,
+              "verseEnd": 32
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "people-are-basically-good-original",
+          "objection": "\"People are basically good. Original sin is a harmful doctrine.\"",
+          "response": "Jesus said evil comes out of the heart, and called His own disciples \"you, being evil.\" The doctrine is not what harms us; the sin is. A diagnosis is good news when there is a cure.",
+          "goTo": "Mark 7:21–23; Matt 7:11; Rom 3:10–12; Eph 2:1–5",
+          "askBack": "*\"Do you find it easy to do what you know is right?\"*",
+          "verses": [
+            {
+              "label": "Mark 7:21–23",
+              "kind": "bible",
+              "key": "mark.7.21-23",
+              "book": "mark",
+              "chapter": 7,
+              "verseStart": 21,
+              "verseEnd": 23
+            },
+            {
+              "label": "Matt 7:11",
+              "kind": "bible",
+              "key": "matthew.7.11",
+              "book": "matthew",
+              "chapter": 7,
+              "verseStart": 11,
+              "verseEnd": 11
+            },
+            {
+              "label": "Rom 3:10–12",
+              "kind": "bible",
+              "key": "romans.3.10-12",
+              "book": "romans",
+              "chapter": 3,
+              "verseStart": 10,
+              "verseEnd": 12
+            },
+            {
+              "label": "Eph 2:1–5",
+              "kind": "bible",
+              "key": "ephesians.2.1-5",
+              "book": "ephesians",
+              "chapter": 2,
+              "verseStart": 1,
+              "verseEnd": 5
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "gospel-about-justice-here-now",
+          "objection": "\"The gospel is about justice here and now, not the afterlife.\"",
+          "response": "Christians must do justice and love mercy. But that is the fruit of the gospel, not the gospel. The gospel is news about what Christ did: He died for our sins and rose. What does it profit a man to gain the whole world and forfeit his soul?",
+          "goTo": "1 Cor 15:1–4; Mic 6:8; Mark 8:36; Titus 2:14",
+          "askBack": "*\"If we fixed every injustice tomorrow, would people still need forgiveness?\"*",
+          "verses": [
+            {
+              "label": "1 Cor 15:1–4",
+              "kind": "bible",
+              "key": "1-corinthians.15.1-4",
+              "book": "1-corinthians",
+              "chapter": 15,
+              "verseStart": 1,
+              "verseEnd": 4
+            },
+            {
+              "label": "Mic 6:8",
+              "kind": "bible",
+              "key": "micah.6.8",
+              "book": "micah",
+              "chapter": 6,
+              "verseStart": 8,
+              "verseEnd": 8
+            },
+            {
+              "label": "Mark 8:36",
+              "kind": "bible",
+              "key": "mark.8.36",
+              "book": "mark",
+              "chapter": 8,
+              "verseStart": 36,
+              "verseEnd": 36
+            },
+            {
+              "label": "Titus 2:14",
+              "kind": "bible",
+              "key": "titus.2.14",
+              "book": "titus",
+              "chapter": 2,
+              "verseStart": 14,
+              "verseEnd": 14
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "doctrine-divides-love-unites",
+          "objection": "\"Doctrine divides. Love unites.\"",
+          "response": "Love without truth has no content: love whom, and how? Jesus said to love God with all your mind, and the apostles commanded us to guard sound doctrine. The claim \"doctrine doesn't matter\" is itself a doctrine.",
+          "goTo": "Matt 22:37; 1 Tim 4:16; Titus 1:9; 2 John 1:9–10",
+          "askBack": "*\"Is it true that doctrine doesn't matter?\"*",
+          "verses": [
+            {
+              "label": "Matt 22:37",
+              "kind": "bible",
+              "key": "matthew.22.37",
+              "book": "matthew",
+              "chapter": 22,
+              "verseStart": 37,
+              "verseEnd": 37
+            },
+            {
+              "label": "1 Tim 4:16",
+              "kind": "bible",
+              "key": "1-timothy.4.16",
+              "book": "1-timothy",
+              "chapter": 4,
+              "verseStart": 16,
+              "verseEnd": 16
+            },
+            {
+              "label": "Titus 1:9",
+              "kind": "bible",
+              "key": "titus.1.9",
+              "book": "titus",
+              "chapter": 1,
+              "verseStart": 9,
+              "verseEnd": 9
+            },
+            {
+              "label": "2 John 1:9–10",
+              "kind": "bible",
+              "key": "2-john.1.9-10",
+              "book": "2-john",
+              "chapter": 1,
+              "verseStart": 9,
+              "verseEnd": 10
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "bible-human-book-about-peoples",
+          "objection": "\"The Bible is a human book about people's experience of God.\"",
+          "response": "It claims to be God speaking, and Jesus treated it that way. If He rose from the dead, His view of Scripture stands. See [Is the Bible reliable?](/topic/is-the-bible-reliable).",
+          "goTo": "2 Tim 3:16; 2 Pet 1:21; Matt 22:31; John 10:35",
+          "askBack": "*\"If Jesus believed it was God's word, why don't you?\"*",
+          "verses": [
+            {
+              "label": "2 Tim 3:16",
+              "kind": "bible",
+              "key": "2-timothy.3.16",
+              "book": "2-timothy",
+              "chapter": 3,
+              "verseStart": 16,
+              "verseEnd": 16
+            },
+            {
+              "label": "2 Pet 1:21",
+              "kind": "bible",
+              "key": "2-peter.1.21",
+              "book": "2-peter",
+              "chapter": 1,
+              "verseStart": 21,
+              "verseEnd": 21
+            },
+            {
+              "label": "Matt 22:31",
+              "kind": "bible",
+              "key": "matthew.22.31",
+              "book": "matthew",
+              "chapter": 22,
+              "verseStart": 31,
+              "verseEnd": 31
+            },
+            {
+              "label": "John 10:35",
+              "kind": "bible",
+              "key": "john.10.35",
+              "book": "john",
+              "chapter": 10,
+              "verseStart": 35,
+              "verseEnd": 35
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "church-hurt-me-christians-are",
+          "objection": "\"The church hurt me. Christians are hypocrites.\"",
+          "response": "Listen, and grieve what was truly wrong. Jesus reserved His hardest words for religious hypocrites, so He agrees with you about them. But a counterfeit proves there is a real thing. Don't let people who disobeyed Christ keep you from Christ.",
+          "goTo": "Matt 23:27–28; Ezek 34:2–4; Matt 11:28–30; John 6:68",
+          "askBack": "*\"Was it Jesus who hurt you, or people who weren't acting like Him?\"*",
+          "verses": [
+            {
+              "label": "Matt 23:27–28",
+              "kind": "bible",
+              "key": "matthew.23.27-28",
+              "book": "matthew",
+              "chapter": 23,
+              "verseStart": 27,
+              "verseEnd": 28
+            },
+            {
+              "label": "Ezek 34:2–4",
+              "kind": "bible",
+              "key": "ezekiel.34.2-4",
+              "book": "ezekiel",
+              "chapter": 34,
+              "verseStart": 2,
+              "verseEnd": 4
+            },
+            {
+              "label": "Matt 11:28–30",
+              "kind": "bible",
+              "key": "matthew.11.28-30",
+              "book": "matthew",
+              "chapter": 11,
+              "verseStart": 28,
+              "verseEnd": 30
+            },
+            {
+              "label": "John 6:68",
+              "kind": "bible",
+              "key": "john.6.68",
+              "book": "john",
+              "chapter": 6,
+              "verseStart": 68,
+              "verseEnd": 68
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "im-deconstructing-im-not-sure",
+          "objection": "\"I'm deconstructing. I'm not sure what I believe.\"",
+          "response": "Asking questions is not sin. Test everything, and hold fast what is good. But examine the doubts as hard as the beliefs: many are tearing down a caricature. Offer to read one Gospel together and look at Jesus Himself.",
+          "goTo": "1 Thess 5:21; Acts 17:11; Jude 1:22; John 20:27–31",
+          "askBack": "*\"What is the one question that, if it were answered, would matter most?\"*",
+          "verses": [
+            {
+              "label": "1 Thess 5:21",
+              "kind": "bible",
+              "key": "1-thessalonians.5.21",
+              "book": "1-thessalonians",
+              "chapter": 5,
+              "verseStart": 21,
+              "verseEnd": 21
+            },
+            {
+              "label": "Acts 17:11",
+              "kind": "bible",
+              "key": "acts.17.11",
+              "book": "acts",
+              "chapter": 17,
+              "verseStart": 11,
+              "verseEnd": 11
+            },
+            {
+              "label": "Jude 1:22",
+              "kind": "bible",
+              "key": "jude.1.22",
+              "book": "jude",
+              "chapter": 1,
+              "verseStart": 22,
+              "verseEnd": 22
+            },
+            {
+              "label": "John 20:27–31",
+              "kind": "bible",
+              "key": "john.20.27-31",
+              "book": "john",
+              "chapter": 20,
+              "verseStart": 27,
+              "verseEnd": 31
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "faith-journey-certainty-arrogance",
+          "objection": "\"Faith is a journey. Certainty is arrogance.\"",
+          "response": "Humility is believing what God has said, not doubting it. John wrote \"so that you may know that you have eternal life.\" It is not arrogant to take God at His word; the arrogance would be correcting Him.",
+          "goTo": "1 John 5:13; John 8:31–32; 2 Tim 1:12; Luke 1:3–4",
+          "askBack": "*\"Are you certain that we can't be certain?\"*",
+          "verses": [
+            {
+              "label": "1 John 5:13",
+              "kind": "bible",
+              "key": "1-john.5.13",
+              "book": "1-john",
+              "chapter": 5,
+              "verseStart": 13,
+              "verseEnd": 13
+            },
+            {
+              "label": "John 8:31–32",
+              "kind": "bible",
+              "key": "john.8.31-32",
+              "book": "john",
+              "chapter": 8,
+              "verseStart": 31,
+              "verseEnd": 32
+            },
+            {
+              "label": "2 Tim 1:12",
+              "kind": "bible",
+              "key": "2-timothy.1.12",
+              "book": "2-timothy",
+              "chapter": 1,
+              "verseStart": 12,
+              "verseEnd": 12
+            },
+            {
+              "label": "Luke 1:3–4",
+              "kind": "bible",
+              "key": "luke.1.3-4",
+              "book": "luke",
+              "chapter": 1,
+              "verseStart": 3,
+              "verseEnd": 4
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        }
+      ],
+      "exits": {
+        "label": "Typical exits",
+        "items": [
+          {
+            "text": "\"That's just your interpretation.\" (Ask: *\"What do you think the verse means? Let's read it again.\"*)",
+            "verses": [],
+            "links": [],
+            "supplemental": false
+          },
+          {
+            "text": "\"I can't believe in a God like that.\" (Answer gently: *\"The question isn't which God we'd prefer, but which God is there. Would you read Mark with me?\"*)",
+            "verses": [],
+            "links": [],
+            "supplemental": false
+          },
+          {
+            "text": "\"You're being judgmental.\" (Say: *\"I'm under the same verdict. I'm telling you where I found mercy.\"*)",
+            "verses": [],
+            "links": [],
+            "supplemental": false
+          },
+          {
+            "text": "\"We'll have to agree to disagree.\" (Leave one verse, Mark 10:45, and the question, *\"Why did Jesus say He came?\"*)",
+            "verses": [
+              {
+                "label": "Mark 10:45",
+                "kind": "bible",
+                "key": "mark.10.45",
+                "book": "mark",
+                "chapter": 10,
+                "verseStart": 45,
+                "verseEnd": 45
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          }
+        ]
+      }
+    },
+    {
       "slug": "catholic",
       "name": "Roman Catholic",
       "heading": "ROMAN CATHOLICS",
@@ -29056,6 +31025,74 @@
             {
               "label": "Yeshua",
               "text": "The Hebrew name of Jesus. Jewish believers in Him often use it.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ]
+        },
+        {
+          "heading": "Progressive Christian",
+          "lines": [
+            {
+              "label": "Progressive Christianity",
+              "text": "A movement that keeps Christian language while revising or dropping historic doctrine. Today's form of the theological liberalism Machen answered in 1923.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Deconstruction",
+              "text": "Taking apart the beliefs one was raised with. For some it ends in a truer faith; for many it ends in leaving the faith.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Red-letter Christian",
+              "text": "One who claims to follow Jesus' own words (printed in red in some Bibles) over the rest of Scripture.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Penal substitution",
+              "text": "Christ bore the penalty of God's wrath in the place of sinners. The heart of the gospel, and the doctrine progressives most often reject.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "\"Cosmic child abuse\"",
+              "text": "A slogan against penal substitution, from Steve Chalke's *The Lost Message of Jesus* (2003).",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Universalism",
+              "text": "Everyone will be saved in the end, whatever they believed.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Affirming / inclusive",
+              "text": "Approving same-sex relationships and transgender identities as good, and treating disagreement as harm.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Social gospel",
+              "text": "Salvation understood as the reform of society rather than the forgiveness of sinners.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Lived experience / \"my truth\"",
+              "text": "Personal experience treated as an authority that Scripture may not overrule.",
               "verses": [],
               "links": [],
               "supplemental": false

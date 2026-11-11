@@ -364,6 +364,7 @@ const GROUPS: { match: RegExp; slug: Group["slug"]; name: string; color: string 
   { match: /MUSLIM/, slug: "muslim", name: "Muslim", color: "#dc2626" },
   { match: /JEWISH PEOPLE/, slug: "jewish", name: "Jewish", color: "#38bdf8" },
   { match: /ONENESS/, slug: "oneness", name: "Oneness Pentecostal", color: "#ea580c" },
+  { match: /PROGRESSIVE/, slug: "progressive", name: "Progressive Christian", color: "#db2777" },
   { match: /CATHOLIC/, slug: "catholic", name: "Roman Catholic", color: "#9333ea" },
   { match: /ORTHODOX/, slug: "orthodox", name: "Eastern Orthodox", color: "#0d9488" },
   { match: /ATHEIST/, slug: "atheist", name: "Atheist", color: "#a3a3ad" },

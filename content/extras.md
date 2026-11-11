@@ -755,6 +755,17 @@ The suffering Servant, the pierced hands and feet, the birthplace of the Messiah
 - **Rashi:** Rabbi Shlomo Yitzchaki (died 1105), the most widely read Jewish commentator. He made "the servant is Israel" the standard reading of Isaiah 53.
 - **Yeshua:** The Hebrew name of Jesus. Jewish believers in Him often use it.
 
+## Progressive Christian
+- **Progressive Christianity:** A movement that keeps Christian language while revising or dropping historic doctrine. Today's form of the theological liberalism Machen answered in 1923.
+- **Deconstruction:** Taking apart the beliefs one was raised with. For some it ends in a truer faith; for many it ends in leaving the faith.
+- **Red-letter Christian:** One who claims to follow Jesus' own words (printed in red in some Bibles) over the rest of Scripture.
+- **Penal substitution:** Christ bore the penalty of God's wrath in the place of sinners. The heart of the gospel, and the doctrine progressives most often reject.
+- **"Cosmic child abuse":** A slogan against penal substitution, from Steve Chalke's *The Lost Message of Jesus* (2003).
+- **Universalism:** Everyone will be saved in the end, whatever they believed.
+- **Affirming / inclusive:** Approving same-sex relationships and transgender identities as good, and treating disagreement as harm.
+- **Social gospel:** Salvation understood as the reform of society rather than the forgiveness of sinners.
+- **Lived experience / "my truth":** Personal experience treated as an authority that Scripture may not overrule.
+
 ## Oneness Pentecostal
 - **Oneness:** the teaching that God is one person who shows Himself as Father, Son and Holy Spirit, and whose name is Jesus.
 - **Modalism (Sabellianism):** the ancient name for the same idea: one person in three modes or roles. The church rejected it in the third century.

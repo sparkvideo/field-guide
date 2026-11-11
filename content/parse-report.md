@@ -1,6 +1,6 @@
 # Parse report
 
-Source: content/field_guide_apologetics.md (1113 lines)
+Source: content/field_guide_apologetics.md (1220 lines)
 
 ## Per group
 
@@ -12,6 +12,7 @@ Source: content/field_guide_apologetics.md (1113 lines)
 | Muslim | 6 | 18 | 0 | 7 | 21 | 6 | 3 | 32 | 0 |
 | Jewish | 3 | 21 | 0 | 13 | 15 | 6 | 4 | 0 | 0 |
 | Oneness Pentecostal | 3 | 19 | 0 | 12 | 12 | 6 | 4 | 0 | 0 |
+| Progressive Christian | 3 | 21 | 0 | 12 | 14 | 6 | 4 | 0 | 0 |
 | Roman Catholic | 5 | 32 | 0 | 18 | 35 | 6 | 3 | 0 | 0 |
 | Eastern Orthodox | 5 | 27 | 0 | 16 | 22 | 6 | 3 | 0 | 0 |
 | Atheist | 4 | 11 | 0 | 1 | 21 | 6 | 0 | 15 | 0 |
@@ -21,7 +22,7 @@ Source: content/field_guide_apologetics.md (1113 lines)
 - The Method: 10 moves, 5 universal tools, 12 ▶ links
 - Holy Spirit Play: Step A 6 rows + 5 "if they say"; Step B 7 rows (5 OT→NT pairs) + 3 "if they say"; 20 ▶ links; 0 ➕ items
 - Video References: 38 videos
-- Extra pages (content/extras.md): The Gospel (9 sections), The Way of the Master (8 sections), Worldviews: how do you know? (9 sections), The problem of evil (6 sections), Morality and justice (6 sections), The exclusivity of Christ (6 sections), The resurrection (6 sections), Hell and eternal judgment (6 sections), Faith and reason (6 sections), The fallacy of evolution (9 sections), The abolition of abortion (13 sections), MacArthur on Rome (9 sections), The Trinity (6 sections), Is the Bible reliable? (6 sections), Words they use (10 sections); 0 ➕ items
+- Extra pages (content/extras.md): The Gospel (9 sections), The Way of the Master (8 sections), Worldviews: how do you know? (9 sections), The problem of evil (6 sections), Morality and justice (6 sections), The exclusivity of Christ (6 sections), The resurrection (6 sections), Hell and eternal judgment (6 sections), Faith and reason (6 sections), The fallacy of evolution (9 sections), The abolition of abortion (13 sections), MacArthur on Rome (9 sections), The Trinity (6 sections), Is the Bible reliable? (6 sections), Words they use (11 sections); 0 ➕ items
 
 ## Nothing-dropped checks
 
@@ -34,10 +35,10 @@ Source: content/field_guide_apologetics.md (1113 lines)
 
 ## Verses
 
-- Bible references: 1008 unique (961 verses/ranges + 47 whole-chapter mentions)
+- Bible references: 1053 unique (1006 verses/ranges + 47 whole-chapter mentions)
 - Quran: 26 · Book of Mormon: 6 · D&C: 1 · JST: 1 · Hadith: 5
-- Resolve in the bundled BSB: 1008 of 1008 ✓
-- LSB slots: 961 total, **0 still empty**
+- Resolve in the bundled BSB: 1053 of 1053 ✓
+- LSB slots: 1006 total, **45 still empty**
 - Whole-chapter mentions (no LSB slot; they open the chapter in the reader): Gen 1, Gen 15, Gen 22, Lev 16, Num 21, Deut 34, Ps 8, Ps 22, Ps 49, Ps 82, Ps 95, Ps 102, Ps 110, Ps 116, Prov 8, Isa 9, Isa 42, Isa 43–45, Isa 53, Isa 61, Ezek 18, Ezek 37, Dan 7, Dan 9, Mark 7, Mark 15, John 1, John 5, John 6, John 14, John 17, Acts 2, Acts 3, Acts 10, Acts 15, Rom 3–5, Rom 5, Rom 16, 1 Cor 3, 1 Cor 8, 1 Cor 15, Gal 5, Phil 2, 1 Tim 4, Heb 2, Rev 4, Rev 5
 - Chapter:verse numbers written without a book name (not turned into chips):
   - Muslim objection 18: "5:16"

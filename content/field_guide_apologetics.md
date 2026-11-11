@@ -16,6 +16,7 @@
 | **Muslim** | [ISL Offense](#isl-offense) | [ISL Defense](#isl-defense) | [ISL Card](#isl-card) |
 | **Jewish** | [JEW Offense](#jew-offense) | [JEW Defense](#jew-defense) | [JEW Card](#jew-card) |
 | **Oneness Pentecostal** | [ONE Offense](#one-offense) | [ONE Defense](#one-defense) | [ONE Card](#one-card) |
+| **Progressive Christian** | [PROG Offense](#prog-offense) | [PROG Defense](#prog-defense) | [PROG Card](#prog-card) |
 | **Roman Catholic** | [RCC Offense](#rcc-offense) | [RCC Defense](#rcc-defense) | [RCC Card](#rcc-card) |
 | **Eastern Orthodox** | [EO Offense](#eo-offense) | [EO Defense](#eo-defense) | [EO Card](#eo-card) |
 | **Atheist / Agnostic** | [ATH Offense](#ath-offense) | [ATH Defense](#ath-defense) | [ATH Card](#ath-card) |
@@ -708,6 +709,112 @@ Verses to read ([▶](https://youtu.be/DPFeuxNkxCA?t=710)): **Q 4:24** (married 
 **Typical exits:** "You just need the Holy Ghost, then you'd understand." (Answer: *"The Spirit wrote John 17. Would you read it with me?"*) · "I know what I felt." (Don't attack the experience. Ask what Scripture says God is like, and leave John 17:5.) · "My pastor can explain that." (Offer to meet with both of them, and give Rom 4:4–5 to read first.) · Repeating Acts 2:38. (Ask them to read Acts 10:43–48 aloud and say when those people received the Spirit.)
 
 ---
+
+# 🌈 PROGRESSIVE CHRISTIANS
+
+**Their position:** There is no creed, on purpose: belief matters less than behavior. Jesus is a teacher and example whose way leads to wholeness, and other religions are valid paths too; their own statement says "the Spirit moves in beneficial ways in many faith traditions" [ProgressiveChristianity.org, Core Values]. The Bible is a human record of people's experience of God, inspiring but mistaken in places and to be corrected by modern knowledge and experience. Their own writers say many of them reject original sin, hell, the virgin birth, the bodily resurrection, and that Jesus died bearing God's wrath in the sinner's place. Sin is mostly injustice in society, salvation is healing here and now, and love means affirming people as they are.
+
+**The dividing issue:** Authority, and then the gospel. Who decides what is true: God speaking in Scripture, or me and my generation sitting in judgment on Scripture? Once the Bible is negotiable, sin shrinks, the cross loses its purpose, and what is left is a different gospel with Christian words. J. Gresham Machen made the case a century ago in *Christianity and Liberalism*: this is not a variety of Christianity but another religion. (2 Tim 3:16–17; John 17:17; Gal 1:6–9; 1 Cor 15:3–4)
+
+**Ask this question:** *"When you and the Bible disagree, which one gives way, and how did you decide that?"* (Isa 8:20)
+
+**Scriptural response:** Jesus treated Scripture as the unbreakable word of God, down to the smallest stroke. He taught that He is the only way to the Father, that He came to give His life as a ransom, and He warned of hell more than anyone in the Bible. You cannot keep His ethics and discard His claims; they come from the same mouth. The apostles handed on as of first importance that Christ died for our sins and was raised. (John 10:35; Matt 5:17–18; John 14:6; Mark 10:45; Matt 25:46; 1 Cor 15:3–4)
+
+**Common objection:** *"God is love. A loving God doesn't need blood to forgive, and wouldn't send anyone to hell."* → Scripture says God is love in the same letter that says He sent His Son to be the propitiation for our sins. That is how we know what love is. A God who shrugs at evil is not loving; ask anyone who has been wronged. At the cross justice and mercy meet: God is just and the justifier of the one who has faith in Jesus. (1 John 4:8–10; Rom 3:25–26; Rom 5:8; Ex 34:6–7)
+
+**Gospel bridge:** *"If Jesus is mainly an example, the news is: try harder to be like Him. How is that going? The gospel is that He did what we have not done and bore what we deserve. Would you rather have a model you can't match, or a Savior?"* (Rom 3:23–24; 2 Cor 5:21; 1 Pet 2:24; Eph 2:8–9)
+
+**Where we agree:** Jesus is worth following. Hypocrisy, greed and abuse in churches are real evils, and Jesus condemned them more fiercely than any critic. Christians must care for the poor, the widow, the orphan and the stranger. Love of neighbor is the second great commandment. Honest questions deserve honest answers.
+
+**Approach:** Many are here because they were hurt, or because nobody answered their questions. Listen first and ask what happened. Do not defend what was truly sinful in a church; agree with Scripture against it. Then separate two things: what Christians did, and what Christ said. Keep bringing the conversation back to Jesus' own words, because they still claim Him. Define terms as you go: they use "gospel," "love," "resurrection" and "inspired" with different meanings, so ask, "What do you mean by that?" Don't get pulled into politics. The issue is authority and the cross. Speak the truth in love, with gentleness, as one sinner saved by grace to another person God made. (Eph 4:15; 2 Tim 2:24–26; Jude 1:3; 1 Pet 3:15)
+
+<a id="prog-card"></a>
+### 📇 Progressive Christian Cheat Card
+1. **John 10:35**: *"Jesus said Scripture cannot be broken. Was He wrong?"*
+2. **John 14:6**: *"Did Jesus say He is a way, or the way?"*
+3. **Mark 10:45**: *"Why did Jesus say He came? To give His life as what?"*
+4. **1 John 4:10**: *"How does John define love here? What word does he use for the cross?"*
+5. **1 Cor 15:3–4, 17**: *"If Christ was not bodily raised, what does Paul say about your faith?"*
+6. **Gal 1:8**: *"Is there such a thing as a different gospel? What does Paul say about it?"*
+
+<a id="prog-offense"></a>
+### 🗡️ PROGRESSIVE CHRISTIAN OFFENSE
+
+#### PLAY 1: Which Jesus? (the Jesus of the Gospels, all of Him)
+- **Opener:** *"You follow Jesus. What do you think was the most important thing He taught?"*
+- **Or open with:** *"If Jesus said something you disagreed with, would you change your mind or would He be wrong?"*
+- **Chain:**
+  1. **Matt 5:17–18**: Jesus said not the smallest letter or stroke will pass from the Law until all is accomplished. **John 10:35**: "the Scripture cannot be broken." *"What was Jesus' view of the Bible?"*
+  2. **Matt 19:4–6**: Asked about marriage, He went to Genesis as history and as God's own voice: "Have you not read… He who created them from the beginning made them male and female." *"Did He treat Genesis as myth?"*
+  3. **Mark 7:20–23**: He said evil comes from within, out of the heart of man. *"Did Jesus think people are basically good?"*
+  4. **John 14:6; John 8:24**: "No one comes to the Father but through Me." "Unless you believe that I am He, you will die in your sins." *"Is that one path among many?"*
+  5. **Matt 25:41, 46; Mark 9:47–48**: He spoke of eternal fire and eternal punishment. *"Who is speaking in these verses?"*
+  6. **Mark 10:45; Matt 26:28**: He said He came to give His life as a ransom for many, and that His blood is poured out for forgiveness of sins. *"What did Jesus think His death was for?"*
+  7. **Luke 24:25–27, 39**: Risen, with flesh and bones, He rebuked His disciples for being slow to believe all that the prophets have spoken.
+- **If they say →**
+  - *"The Gospel writers put those words in His mouth."* → Then on what basis do you keep the Sermon on the Mount? The same witnesses give us both. You cannot trust them for "love your enemies" and distrust them two chapters later. Go to [Is the Bible reliable?](/topic/is-the-bible-reliable).
+  - *"I follow the red letters, not Paul."* → The red letters say Scripture cannot be broken, and Jesus personally chose and sent His apostles: "He who receives whomever I send receives Me." Peter calls Paul's letters Scripture. (John 13:20; 2 Pet 3:15–16; 1 Cor 14:37)
+  - *"Jesus welcomed everyone and never judged."* → He welcomed sinners and called them to repent. To the woman caught in adultery: "Go, and from now on sin no more." He came to call sinners to repentance. (John 8:11; Luke 5:32; Mark 1:15)
+  - *"That's your interpretation."* → Then read the verse aloud and tell me another meaning the words can bear. Go to [Faith and reason](/topic/faith-and-reason).
+- **Closer:** *"Jesus asked, 'Why do you call Me, Lord, Lord, and do not do what I say?' The real Jesus is better than the edited one, because the real one can save. Will you take Him as He is?"* (Luke 6:46; John 6:68)
+
+#### PLAY 2: What did the cross do? (substitution, not just an example)
+- **Opener:** *"Why did Jesus have to die? What did His death actually accomplish?"*
+- **Or open with:** *"If Jesus had died of old age after a life of teaching, would anything be missing?"*
+- **Chain:**
+  1. **Rom 3:23; Rom 6:23**: All have sinned, and the wages of sin is death. *"Is that true of you?"* If sin is only "out there" in systems, use the commandments: go to [The Way of the Master](/topic/the-way-of-the-master).
+  2. **Isa 53:5–6, 10**: The Servant is pierced for our transgressions, Yahweh lays our iniquity on him, and Yahweh is pleased to crush him. *"Whose idea was the cross?"*
+  3. **John 10:17–18**: "No one takes My life from Me. I lay it down of Myself." The Son is not a victim of the Father. He is God the Son, giving Himself.
+  4. **2 Cor 5:21; 1 Pet 2:24**: He who knew no sin was made sin on our behalf. He bore our sins in His body on the tree. *"What happened to those sins?"*
+  5. **Rom 3:25–26**: God put Christ forward as a propitiation, a sacrifice that satisfies His wrath, so that He would be both just and the justifier. *"How can God forgive and still be just? This is how."*
+  6. **1 Pet 2:21–24**: Yes, He is our example. Peter says so, and in the same breath says He bore our sins. Scripture gives both; the progressive version keeps one.
+  7. **Gal 2:21**: If righteousness comes through what we do, then Christ died needlessly.
+- **If they say →**
+  - *"Penal substitution is cosmic child abuse."* → That picture has an angry Father and an unwilling third party. Scripture has one God: the Father giving His Son in love, and the Son laying down His own life. "God was in Christ reconciling the world to Himself." (John 3:16; John 10:18; 2 Cor 5:19; Gal 2:20)
+  - *"That theory was invented by Anselm or the Reformers."* → Isaiah 53 was written seven centuries before Christ, and Paul says he received it and passed it on as of first importance: Christ died for our sins. (1 Cor 15:3; Rom 4:25)
+  - *"The cross shows God's solidarity with victims."* → He does draw near to the broken. But solidarity does not take sin away. A doctor who catches your disease to keep you company has not cured you. (Heb 9:22; Heb 9:26)
+  - *"A loving God just forgives."* → Even we don't believe that. When a judge frees the guilty we call it corruption. Go to [Morality and justice](/topic/morality-and-justice).
+- **Closer:** *"On the cross He said, 'It is finished.' Not 'follow My example,' but paid. Are you trusting what He finished, or what you are doing?"* (John 19:30; Rom 4:4–5)
+
+#### PLAY 3: Who decides? (Scripture, or me)
+- **Opener:** *"How do you decide which parts of the Bible to keep?"*
+- **Or open with:** *"Is there anything the Bible teaches that you don't like but believe anyway?"*
+- **Chain:**
+  1. **Gen 3:1**: The first temptation was a question: "Has God really said?" *"Is it possible that question is still being asked?"*
+  2. **2 Tim 3:16–17; 2 Pet 1:20–21**: All Scripture is breathed out by God. Men spoke from God as they were carried along by the Holy Spirit. It is God's word through men, not men's guesses about God.
+  3. **Jer 17:9; Prov 14:12**: The heart is deceitful above all else. There is a way that seems right to a man, and its end is death. *"If my heart is the judge, who checks the judge?"*
+  4. **Judges 21:25**: Everyone did what was right in his own eyes. Scripture records that as a tragedy, not a goal.
+  5. **Isa 5:20**: Woe to those who call evil good and good evil. Every generation is sure its own morals are the enlightened ones. *"Which generation got to be right, and why ours?"*
+  6. **2 Tim 4:3–4**: A time will come when people gather teachers to suit their own desires and turn from the truth. *"How would a person know if that was happening to them?"*
+  7. **Matt 4:4; John 17:17**: Jesus answered the devil with "It is written," and prayed, "Your word is truth."
+- **If they say →**
+  - *"The Bible was written by men of their time."* → By men, yes, carried along by the Spirit. Jesus quoted those men and said, "God said." If He is Lord, His view of the Bible settles it. (Matt 15:4; Matt 22:31)
+  - *"The Bible is full of contradictions and errors."* → Ask for one, and look at it together. Go to [Is the Bible reliable?](/topic/is-the-bible-reliable).
+  - *"The church used the Bible to defend slavery, and we corrected it. This is the same."* → Men twisted Scripture to defend man-stealing, which Scripture punishes with death, and it was Bible-believing Christians who led abolition by appealing to Scripture. That is the Bible correcting sinners. Today's revisions go the other way: correcting the Bible to suit the age. (Ex 21:16; 1 Tim 1:10; Gal 3:28)
+  - *"The Spirit is still speaking and doing a new thing."* → The Spirit does not contradict what He has already said. Test every spirit by the word He gave. (1 John 4:1; Isa 8:20; Gal 1:8)
+- **Closer:** *"If your god never disagrees with you, you may be worshiping an idealized version of yourself. The God who is there speaks, and He has not stuttered. Will you let Him be God?"* (Isa 55:8–9; Luke 6:46)
+
+<a id="prog-defense"></a>
+### 🛡️ PROGRESSIVE CHRISTIAN DEFENSE
+
+| They say… | Quick answer | Go to | Ask back |
+|---|---|---|---|
+| **"God is love, so there is no hell."** | The one who spoke most about hell is Jesus. Love and judgment are not opposites: a God who loves must hate what destroys. The cross shows both at full strength. See [Hell and eternal judgment](/topic/hell-and-eternal-judgment). | Matt 25:46; John 3:16–18; John 3:36; 1 John 4:10 | *"What did Jesus say He was saving people from?"* |
+| **"All religions lead to God."** | They contradict each other about who God is and how man is made right, so they cannot all be true. Jesus did not leave this open. See [The exclusivity of Christ](/topic/the-exclusivity-of-christ). | John 14:6; Acts 4:12; 1 Tim 2:5 | *"If there were another way, why did Jesus pray 'let this cup pass' and still go to the cross?"* |
+| **"I follow Jesus, not Paul or the Old Testament."** | Jesus affirmed the Old Testament to the letter and sent the apostles with His authority. To receive them is to receive Him. | Matt 5:17–18; John 13:20; 2 Pet 3:15–16; Luke 24:44 | *"Which Bible did Jesus use?"* |
+| **"Don't judge. Jesus said so."** | Read on: He says take the log out of your own eye so that you can see clearly to help your brother. He forbids hypocritical judging, and a few verses later tells us to recognize false prophets by their fruit. | Matt 7:1–5; Matt 7:15–16; John 7:24 | *"Isn't 'you shouldn't judge' a judgment?"* |
+| **"Jesus never said anything about homosexuality."** | He defined marriage from Genesis as one man and one woman, and condemned all sexual immorality outside it. He also affirmed the whole Law and sent the apostles who addressed it directly. And the same passage holds out washing and a new life to every kind of sinner: "such were some of you." | Matt 19:4–6; Mark 7:21; Rom 1:26–27; 1 Cor 6:9–11 | *"When Jesus was asked about marriage, where did He go for His answer?"* |
+| **"Love is love. A loving God affirms people as they are."** | God loves sinners as they are and does not leave them as they are. Love that never warns is not love. Jesus' first sermon was "Repent and believe the gospel." Every one of us is called to deny himself, in different places. | Mark 1:15; Luke 9:23; Rom 2:4; 1 Cor 13:6 | *"Has Jesus ever asked you to give up something you wanted?"* |
+| **"The resurrection is a metaphor for new hope."** | The apostles said they touched Him and ate with Him, and Paul says that if Christ has not been raised, faith is worthless and we are still in our sins. Nobody dies for a metaphor. See [The resurrection](/topic/the-resurrection). | Luke 24:39–43; 1 Cor 15:14–19; Acts 2:32 | *"If the tomb was not empty, what exactly is the hope?"* |
+| **"People are basically good. Original sin is a harmful doctrine."** | Jesus said evil comes out of the heart, and called His own disciples "you, being evil." The doctrine is not what harms us; the sin is. A diagnosis is good news when there is a cure. | Mark 7:21–23; Matt 7:11; Rom 3:10–12; Eph 2:1–5 | *"Do you find it easy to do what you know is right?"* |
+| **"The gospel is about justice here and now, not the afterlife."** | Christians must do justice and love mercy. But that is the fruit of the gospel, not the gospel. The gospel is news about what Christ did: He died for our sins and rose. What does it profit a man to gain the whole world and forfeit his soul? | 1 Cor 15:1–4; Mic 6:8; Mark 8:36; Titus 2:14 | *"If we fixed every injustice tomorrow, would people still need forgiveness?"* |
+| **"Doctrine divides. Love unites."** | Love without truth has no content: love whom, and how? Jesus said to love God with all your mind, and the apostles commanded us to guard sound doctrine. The claim "doctrine doesn't matter" is itself a doctrine. | Matt 22:37; 1 Tim 4:16; Titus 1:9; 2 John 1:9–10 | *"Is it true that doctrine doesn't matter?"* |
+| **"The Bible is a human book about people's experience of God."** | It claims to be God speaking, and Jesus treated it that way. If He rose from the dead, His view of Scripture stands. See [Is the Bible reliable?](/topic/is-the-bible-reliable). | 2 Tim 3:16; 2 Pet 1:21; Matt 22:31; John 10:35 | *"If Jesus believed it was God's word, why don't you?"* |
+| **"The church hurt me. Christians are hypocrites."** | Listen, and grieve what was truly wrong. Jesus reserved His hardest words for religious hypocrites, so He agrees with you about them. But a counterfeit proves there is a real thing. Don't let people who disobeyed Christ keep you from Christ. | Matt 23:27–28; Ezek 34:2–4; Matt 11:28–30; John 6:68 | *"Was it Jesus who hurt you, or people who weren't acting like Him?"* |
+| **"I'm deconstructing. I'm not sure what I believe."** | Asking questions is not sin. Test everything, and hold fast what is good. But examine the doubts as hard as the beliefs: many are tearing down a caricature. Offer to read one Gospel together and look at Jesus Himself. | 1 Thess 5:21; Acts 17:11; Jude 1:22; John 20:27–31 | *"What is the one question that, if it were answered, would matter most?"* |
+| **"Faith is a journey. Certainty is arrogance."** | Humility is believing what God has said, not doubting it. John wrote "so that you may know that you have eternal life." It is not arrogant to take God at His word; the arrogance would be correcting Him. | 1 John 5:13; John 8:31–32; 2 Tim 1:12; Luke 1:3–4 | *"Are you certain that we can't be certain?"* |
+
+**Typical exits:** "That's just your interpretation." (Ask: *"What do you think the verse means? Let's read it again."*) · "I can't believe in a God like that." (Answer gently: *"The question isn't which God we'd prefer, but which God is there. Would you read Mark with me?"*) · "You're being judgmental." (Say: *"I'm under the same verdict. I'm telling you where I found mercy."*) · "We'll have to agree to disagree." (Leave one verse, Mark 10:45, and the question, *"Why did Jesus say He came?"*)
 
 # ⛪ ROMAN CATHOLICS
 
