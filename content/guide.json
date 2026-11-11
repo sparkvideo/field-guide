@@ -44175,6 +44175,153 @@
       ],
       "sections": [
         {
+          "heading": "The four parts, with Scripture",
+          "lines": [
+            {
+              "text": "A simple way to remember what belongs in prayer is the word ACTS. It is a guide, not a formula, and it follows the order of the pattern Jesus gave: God first, then our needs.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Adoration.** Praise God for who He is before you ask for anything. (Ps 145:1–3; Matt 6:9; Rev 4:11)",
+              "verses": [
+                {
+                  "label": "Ps 145:1–3",
+                  "kind": "bible",
+                  "key": "psalms.145.1-3",
+                  "book": "psalms",
+                  "chapter": 145,
+                  "verseStart": 1,
+                  "verseEnd": 3
+                },
+                {
+                  "label": "Matt 6:9",
+                  "kind": "bible",
+                  "key": "matthew.6.9",
+                  "book": "matthew",
+                  "chapter": 6,
+                  "verseStart": 9,
+                  "verseEnd": 9
+                },
+                {
+                  "label": "Rev 4:11",
+                  "kind": "bible",
+                  "key": "revelation.4.11",
+                  "book": "revelation",
+                  "chapter": 4,
+                  "verseStart": 11,
+                  "verseEnd": 11
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Confession.** Agree with God about your sin, specifically, and rest on His promise to forgive. (1 John 1:9; Ps 32:5; Prov 28:13)",
+              "verses": [
+                {
+                  "label": "1 John 1:9",
+                  "kind": "bible",
+                  "key": "1-john.1.9",
+                  "book": "1-john",
+                  "chapter": 1,
+                  "verseStart": 9,
+                  "verseEnd": 9
+                },
+                {
+                  "label": "Ps 32:5",
+                  "kind": "bible",
+                  "key": "psalms.32.5",
+                  "book": "psalms",
+                  "chapter": 32,
+                  "verseStart": 5,
+                  "verseEnd": 5
+                },
+                {
+                  "label": "Prov 28:13",
+                  "kind": "bible",
+                  "key": "proverbs.28.13",
+                  "book": "proverbs",
+                  "chapter": 28,
+                  "verseStart": 13,
+                  "verseEnd": 13
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Thanksgiving.** Thank Him for what He has done, beginning with Christ. (1 Thess 5:18; Ps 103:1–5; Col 3:17)",
+              "verses": [
+                {
+                  "label": "1 Thess 5:18",
+                  "kind": "bible",
+                  "key": "1-thessalonians.5.18",
+                  "book": "1-thessalonians",
+                  "chapter": 5,
+                  "verseStart": 18,
+                  "verseEnd": 18
+                },
+                {
+                  "label": "Ps 103:1–5",
+                  "kind": "bible",
+                  "key": "psalms.103.1-5",
+                  "book": "psalms",
+                  "chapter": 103,
+                  "verseStart": 1,
+                  "verseEnd": 5
+                },
+                {
+                  "label": "Col 3:17",
+                  "kind": "bible",
+                  "key": "colossians.3.17",
+                  "book": "colossians",
+                  "chapter": 3,
+                  "verseStart": 17,
+                  "verseEnd": 17
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Supplication.** Ask, for others and for yourself, and leave the answer with Him. (Phil 4:6; 1 Tim 2:1; Matt 7:7–8)",
+              "verses": [
+                {
+                  "label": "Phil 4:6",
+                  "kind": "bible",
+                  "key": "philippians.4.6",
+                  "book": "philippians",
+                  "chapter": 4,
+                  "verseStart": 6,
+                  "verseEnd": 6
+                },
+                {
+                  "label": "1 Tim 2:1",
+                  "kind": "bible",
+                  "key": "1-timothy.2.1",
+                  "book": "1-timothy",
+                  "chapter": 2,
+                  "verseStart": 1,
+                  "verseEnd": 1
+                },
+                {
+                  "label": "Matt 7:7–8",
+                  "kind": "bible",
+                  "key": "matthew.7.7-8",
+                  "book": "matthew",
+                  "chapter": 7,
+                  "verseStart": 7,
+                  "verseEnd": 8
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ]
+        },
+        {
           "heading": "Why pray, if God is sovereign?",
           "lines": [
             {

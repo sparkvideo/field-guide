@@ -726,3 +726,18 @@ html[data-standalone] .welcome-install {
 .quick-label { font-size: 16px; font-weight: 700; color: var(--color-accent); }
 .quick-label::before { content: counter(q) ". "; }
 .quick-ask p { font-size: 19px; }
+
+/* How to pray: the A-C-T-S picture */
+.acts { margin: 22px 0 8px; padding: 18px 16px 16px; background: var(--color-card); border: 1px solid var(--color-line); border-radius: 16px; }
+.acts-title { font-size: 24px; font-weight: 700; }
+.acts-list { list-style: none; margin: 12px 0 0; padding: 0; }
+.acts-list > li { border-top: 1px solid var(--color-line); }
+.acts-list > li:first-child { border-top: 0; }
+.acts-row { display: grid; grid-template-columns: 64px 1fr; align-items: center; gap: 4px; width: 100%; min-height: 76px; padding: 8px 0; text-align: left; background: none; border: 0; color: inherit; cursor: pointer; }
+.acts-letter { font-size: 56px; line-height: 1; font-weight: 700; color: var(--color-muted); transition: color .15s ease; }
+.acts-list > li.on .acts-letter { color: var(--color-accent); }
+.acts-word { display: block; font-size: 20px; font-weight: 600; }
+.acts-line { display: block; color: var(--color-muted); font-size: 16px; }
+.acts-body { padding: 0 0 16px 68px; }
+.acts-start { font-size: 21px; font-style: italic; color: var(--color-accent); margin-bottom: 6px; }
+@media (prefers-reduced-motion: reduce) { .acts-letter { transition: none; } }

@@ -1,4 +1,4 @@
-# LSB verses still to fill in (46 of 1362)
+# LSB verses still to fill in (54 of 1370)
 
 Open `content/lsb-verses.json`, find the reference, and paste the LSB text between the quotes after "text".
 Until a slot is filled, the app shows the BSB text with a small "BSB" label.
@@ -9,13 +9,18 @@ Until a slot is filled, the app shows the BSB text with a small "BSB" label.
 - [ ] Deuteronomy 32:39
 - [ ] Job 1:12
 - [ ] Psalms 2:1–4
+- [ ] Psalms 32:5
+- [ ] Psalms 103:1–5
+- [ ] Psalms 145:1–3
 - [ ] Proverbs 18:17
+- [ ] Proverbs 28:13
 - [ ] Isaiah 14:12–15
 - [ ] Isaiah 14:13–14
 - [ ] Isaiah 14:13–15
 - [ ] Ezekiel 18:4
 - [ ] Ezekiel 28:15
 - [ ] Matthew 4:8–10
+- [ ] Matthew 7:7–8
 - [ ] Matthew 16:25–26
 - [ ] Matthew 23:15
 - [ ] Mark 5:15
@@ -42,10 +47,13 @@ Until a slot is filled, the app shows the BSB text with a small "BSB" label.
 - [ ] Philippians 2:5–11
 - [ ] Colossians 1:13–14
 - [ ] Colossians 2:14–15
+- [ ] Colossians 3:17
 - [ ] Colossians 4:3
 - [ ] 1 Timothy 1:13–15
 - [ ] 1 Timothy 1:15
+- [ ] 1 Timothy 2:1
 - [ ] Hebrews 10:29
 - [ ] James 4:7
 - [ ] 1 John 3:8
+- [ ] Revelation 4:11
 - [ ] Revelation 12:10

@@ -1,3 +1,4 @@
+import ActsPrayer from "@/components/ActsPrayer";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Md } from "@/components/Md";
@@ -37,6 +38,8 @@ export default async function TopicPage({ params }: { params: Promise<{ slug: st
             <VerseChips verses={l.verses} context={l.text} />
           </div>
         ))}
+
+        {t.slug === "how-to-pray" && <ActsPrayer />}
 
         {t.sections.map((sec, n) => {
           const glossary = sec.lines.every((l) => l.label && l.label !== "Ask");

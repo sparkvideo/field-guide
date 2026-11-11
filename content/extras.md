@@ -694,6 +694,13 @@ The suffering Servant, the pierced hands and feet, the birthplace of the Messiah
 
 No argument opens a blind eye. God does, and He has told us to ask. This page is a short school of prayer: how Daniel prayed, the pattern Jesus gave, and what to pray for the people you talk to. (Dan 9:1–3; Matt 6:9–13; Rom 10:1; Col 4:2–4)
 
+## The four parts, with Scripture
+A simple way to remember what belongs in prayer is the word ACTS. It is a guide, not a formula, and it follows the order of the pattern Jesus gave: God first, then our needs.
+- **Adoration.** Praise God for who He is before you ask for anything. (Ps 145:1–3; Matt 6:9; Rev 4:11)
+- **Confession.** Agree with God about your sin, specifically, and rest on His promise to forgive. (1 John 1:9; Ps 32:5; Prov 28:13)
+- **Thanksgiving.** Thank Him for what He has done, beginning with Christ. (1 Thess 5:18; Ps 103:1–5; Col 3:17)
+- **Supplication.** Ask, for others and for yourself, and leave the answer with Him. (Phil 4:6; 1 Tim 2:1; Matt 7:7–8)
+
 ## Why pray, if God is sovereign?
 - **Because He is.** Daniel set his face "to the Lord God," the Master of everything. Abner Chou: "because God is sovereign you should pray" [Abner Chou, sermon on Daniel 9:1–3]. You bring your need to the only One with the power to meet it. (Dan 9:3; Dan 4:35; Eph 1:11)
 - **Because He commands it and uses it.** God ordains the means as well as the end. The prayer of a righteous man accomplishes much, and you do not have because you do not ask. (James 5:16; James 4:2; Matt 7:7–11)
