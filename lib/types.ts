@@ -65,6 +65,7 @@ export type Group = {
   name: string;
   heading: string; // heading as written in the markdown
   color: string;
+  hidden?: boolean; // built but not launched: no home tile, search or training cards
   emoji: string;
   beliefs?: Line; // "What they believe"
   lead: Labeled[]; // the other intro lines (Get this first, Their weak spot, Approach, Mindset…)

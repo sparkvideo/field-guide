@@ -1,4 +1,4 @@
-# LSB verses still to fill in (64 of 1178)
+# LSB verses still to fill in (132 of 1246)
 
 Open `content/lsb-verses.json`, find the reference, and paste the LSB text between the quotes after "text".
 Until a slot is filled, the app shows the BSB text with a small "BSB" label.
@@ -6,9 +6,13 @@ Until a slot is filled, the app shows the BSB text with a small "BSB" label.
 - [ ] Genesis 6:5
 - [ ] Genesis 8:21
 - [ ] Genesis 12:3
+- [ ] Exodus 12:49
+- [ ] Exodus 31:13
+- [ ] Exodus 31:16–17
 - [ ] Psalms 8:3–5
 - [ ] Psalms 8:4–5
 - [ ] Psalms 19:1–2
+- [ ] Psalms 19:7
 - [ ] Psalms 24:1
 - [ ] Psalms 94:9
 - [ ] Psalms 104:27–30
@@ -24,7 +28,11 @@ Until a slot is filled, the app shows the BSB text with a small "BSB" label.
 - [ ] Isaiah 55:6–7
 - [ ] Jeremiah 17:5
 - [ ] Jeremiah 29:13
+- [ ] Jeremiah 31:31–33
+- [ ] Ezekiel 36:26–27
+- [ ] Zechariah 14:16
 - [ ] Matthew 5:13–16
+- [ ] Matthew 5:17–19
 - [ ] Matthew 7:16–20
 - [ ] Matthew 7:16
 - [ ] Matthew 10:29–30
@@ -34,36 +42,96 @@ Until a slot is filled, the app shows the BSB text with a small "BSB" label.
 - [ ] Matthew 22:37–39
 - [ ] Matthew 22:37–38
 - [ ] Matthew 23:13
+- [ ] Mark 7:18–19
+- [ ] Mark 7:19
 - [ ] Mark 8:36–37
 - [ ] Luke 12:20
 - [ ] Luke 18:19
+- [ ] Luke 24:27
 - [ ] John 3:3
 - [ ] John 5:17
 - [ ] John 7:17
 - [ ] John 8:36
 - [ ] John 10:37–38
+- [ ] John 13:34
 - [ ] John 13:35
+- [ ] John 14:15
 - [ ] John 20:29
+- [ ] Acts 2:6–11
 - [ ] Acts 5:29
+- [ ] Acts 10:28
+- [ ] Acts 11:2–3
 - [ ] Acts 14:17
+- [ ] Acts 15:10–11
+- [ ] Acts 15:19–20
+- [ ] Acts 15:19
+- [ ] Acts 15:21
+- [ ] Acts 15:28–29
 - [ ] Acts 17:26
 - [ ] Acts 17:27
 - [ ] Acts 17:27–28
+- [ ] Acts 20:7
+- [ ] Acts 21:23–26
+- [ ] Acts 21:25
 - [ ] Romans 2:12
 - [ ] Romans 3:4
 - [ ] Romans 5:19
+- [ ] Romans 6:1–2
+- [ ] Romans 6:14–15
+- [ ] Romans 7:4–6
+- [ ] Romans 7:6
+- [ ] Romans 7:12
 - [ ] Romans 7:24–25
+- [ ] Romans 8:1–4
+- [ ] Romans 8:3–4
+- [ ] Romans 10:4
 - [ ] Romans 10:14–17
+- [ ] Romans 11:17–20
+- [ ] Romans 13:8–10
+- [ ] Romans 14:5–6
+- [ ] Romans 14:14
 - [ ] 1 Corinthians 2:9–12
 - [ ] 1 Corinthians 2:11
+- [ ] 1 Corinthians 9:19–21
+- [ ] 1 Corinthians 9:20–21
+- [ ] 1 Corinthians 9:21
+- [ ] 1 Corinthians 10:31
 - [ ] 1 Corinthians 15:3–6
 - [ ] 1 Corinthians 15:14–17
 - [ ] 1 Corinthians 15:32
+- [ ] 1 Corinthians 16:2
+- [ ] 2 Corinthians 3:7–11
+- [ ] Galatians 2:3–5
+- [ ] Galatians 2:4–5
+- [ ] Galatians 2:9
+- [ ] Galatians 3:2–3
+- [ ] Galatians 3:17
+- [ ] Galatians 3:17–18
+- [ ] Galatians 3:24–25
+- [ ] Galatians 3:29
+- [ ] Galatians 4:9–11
+- [ ] Galatians 4:24–25
+- [ ] Galatians 5:1–4
+- [ ] Galatians 5:3
+- [ ] Ephesians 2:14–15
 - [ ] Ephesians 5:25
 - [ ] Philippians 2:6–11
+- [ ] Colossians 2:16–17
+- [ ] Colossians 2:16
+- [ ] Colossians 2:17
 - [ ] 2 Timothy 3:7
+- [ ] Titus 2:11–12
 - [ ] Titus 3:4–5
+- [ ] Hebrews 4:9–10
+- [ ] Hebrews 7:11–14
+- [ ] Hebrews 7:12
+- [ ] Hebrews 8:6–13
+- [ ] Hebrews 8:13
 - [ ] James 4:1–2
 - [ ] James 4:14
 - [ ] 1 Peter 1:15–16
+- [ ] 2 Peter 3:16
+- [ ] 1 John 3:4
+- [ ] 1 John 3:23
 - [ ] 1 John 5:9–10
+- [ ] Revelation 1:10

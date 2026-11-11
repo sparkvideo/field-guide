@@ -3,6 +3,9 @@ import type { Group, Guide } from "./types";
 
 export const guide = data as unknown as Guide;
 
+/** Groups that are launched (shown on the home screen, in search and in training). */
+export const liveGroups = guide.groups.filter((g) => !g.hidden);
+
 export function getGroup(slug: string): Group | undefined {
   return guide.groups.find((g) => g.slug === slug);
 }

@@ -25,7 +25,7 @@ export default function SidewaysPage() {
         </section>
 
         {guide.groups
-          .filter((g) => g.exits)
+          .filter((g) => g.exits && !g.hidden)
           .map((g) => (
             <section key={g.slug} className="section">
               <h2 className="serif flex items-center gap-3 text-[22px] font-bold">

@@ -357,7 +357,7 @@ function parseHolySpirit(): HolySpiritPlay {
 
 // ───────────────────────── Groups ─────────────────────────
 
-const GROUPS: { match: RegExp; slug: Group["slug"]; name: string; color: string }[] = [
+const GROUPS: { match: RegExp; slug: Group["slug"]; name: string; color: string; hidden?: boolean }[] = [
   { match: /JEHOVAH/, slug: "jw", name: "Jehovah's Witness", color: "#2563eb" },
   { match: /UNITARIAN/, slug: "unitarian", name: "Unitarian", color: "#16a34a" },
   { match: /MORMON/, slug: "lds", name: "Mormon", color: "#ca8a04" },
@@ -368,6 +368,8 @@ const GROUPS: { match: RegExp; slug: Group["slug"]; name: string; color: string 
   { match: /NEW AGE/, slug: "new-age", name: "New Age / Spiritualist", color: "#a78bfa" },
   { match: /ONENESS/, slug: "oneness", name: "Oneness Pentecostal", color: "#ea580c" },
   { match: /PROGRESSIVE/, slug: "progressive", name: "Progressive Christian", color: "#db2777" },
+  // Built but not launched: no home tile, no search, no training cards. Reachable only at /hebrew-roots.
+  { match: /HEBREW ROOTS/, slug: "hebrew-roots", name: "Hebrew Roots", color: "#b45309", hidden: true },
   { match: /CATHOLIC/, slug: "catholic", name: "Roman Catholic", color: "#9333ea" },
   { match: /ORTHODOX/, slug: "orthodox", name: "Eastern Orthodox", color: "#0d9488" },
   { match: /ATHEIST/, slug: "atheist", name: "Atheist", color: "#a3a3ad" },
@@ -547,6 +549,7 @@ function parseGroup(sec: Section): Group {
     name: info.name,
     heading: sec.heading.replace(/^\S+\s*/, ""),
     color: info.color,
+    ...(info.hidden ? { hidden: true } : {}),
     emoji,
     ...(beliefs ? { beliefs } : {}),
     lead,
@@ -794,6 +797,7 @@ const item = (kind: string, label: string, t: string, text: string, href: string
   searchItems.push({ kind, label, title: plain(t), text: plain(text), href, verses: (m?.verses || []).map((v) => v.label) });
 
 for (const g of groups) {
+  if (g.hidden) continue; // not launched: keep out of search and "Used in the guide"
   const short = g.slug === "jw" ? "JW" : g.name;
   for (const p of g.offense) {
     const href = `/${g.slug}/case/${p.id}`;

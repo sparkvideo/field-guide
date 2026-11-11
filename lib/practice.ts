@@ -28,5 +28,5 @@ export function cardsFor(g: Group, withHolySpirit = true): PracticeCard[] {
 
 /** Every card in the guide, once. */
 export function allCards(): PracticeCard[] {
-  return [...guide.groups.flatMap((g) => cardsFor(g, false)), ...holySpiritCards()];
+  return [...guide.groups.filter((g) => !g.hidden).flatMap((g) => cardsFor(g, false)), ...holySpiritCards()];
 }

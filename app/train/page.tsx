@@ -13,7 +13,7 @@ export default function TrainPage() {
         <h1 className="text-[28px] font-bold leading-tight">
           Train
         </h1>
-        <Train cards={allCards()} groups={guide.groups.map((g) => ({ slug: g.slug, name: g.name, color: g.color, count: cardsFor(g).length }))} />
+        <Train cards={allCards()} groups={guide.groups.filter((g) => !g.hidden).map((g) => ({ slug: g.slug, name: g.name, color: g.color, count: cardsFor(g).length }))} />
       </main>
     </>
   );

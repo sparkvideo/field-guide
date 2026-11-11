@@ -1113,6 +1113,92 @@ Verses to read ([▶](https://youtu.be/DPFeuxNkxCA?t=710)): **Q 4:24** (married 
 
 **Typical exits:** "That's just your interpretation." (Ask: *"What do you think the verse means? Let's read it again."*) · "I can't believe in a God like that." (Answer gently: *"The question isn't which God we'd prefer, but which God is there. Would you read Mark with me?"*) · "You're being judgmental." (Say: *"I'm under the same verdict. I'm telling you where I found mercy."*) · "We'll have to agree to disagree." (Leave one verse, Mark 10:45, and the question, *"Why did Jesus say He came?"*)
 
+# 📜 HEBREW ROOTS / TORAH OBSERVANT
+
+**Their position:** They believe Jesus, whom they call Yeshua, is the Messiah, and most affirm He is God. What sets them apart is the claim that the Law of Moses is still binding on every believer, Jew and Gentile: the seventh-day Sabbath, the feasts of Leviticus 23, the food laws of Leviticus 11, and for some, circumcision and tassels. Their key texts are "I did not come to abolish the Law" (Matt 5:17–19) and "sin is lawlessness" (1 John 3:4). They say the church went pagan early, blaming Constantine for Sunday worship, Christmas and Easter, and that Paul has been misread. Most say they keep Torah out of obedience, not to be saved. There is no central body, so views range widely; a fringe goes on to reject Paul or the Trinity.
+
+**The dividing issue:** Whether the covenant made at Sinai binds the Christian, and whether law-keeping is added to Christ for a believer's standing or growth. The apostles faced this exact question and answered it. To put believers back under that yoke is what Paul calls turning to a different gospel. (Acts 15:10–11; Gal 3:1–3; Gal 5:1–4; Col 2:16–17)
+
+**Ask this question:** *"In Acts 15 the apostles met to decide exactly this: must Gentile believers keep the Law of Moses? What did they decide?"* (Acts 15:5; Acts 15:28–29)
+
+**Scriptural response:** Peter called it a yoke that neither the fathers nor the apostles had been able to bear, and said we are saved through the grace of the Lord Jesus. The Law was a tutor to lead us to Christ, and now that faith has come we are no longer under a tutor. Food, festivals, new moons and Sabbaths are a shadow; the substance belongs to Christ. Jesus declared all foods clean. The new covenant has made the first obsolete. (Acts 15:10–11; Gal 3:24–25; Col 2:16–17; Mark 7:18–19; Heb 8:13; Rom 10:4)
+
+**Common objection:** *"Jesus said He did not come to abolish the Law. Not the smallest letter will pass away."* → He said He came to fulfill it, and that nothing would pass "until all is accomplished." Fulfilling is not abolishing, and it is not leaving unchanged. The Law and the Prophets pointed to Him, and He brought them to their goal. You already agree some of it is no longer practiced, since you do not offer sacrifices. The only question is who has authority to say what changed, and the answer is Christ and His apostles. (Matt 5:17–18; Luke 24:44; Rom 10:4; Heb 10:1)
+
+**Gospel bridge:** *"When you fail to keep it, and you do, where is your standing with God?"* Paul says that whoever takes on circumcision is obligated to keep the whole Law, and that if righteousness comes through the Law, Christ died needlessly. Jesus offers a different yoke: "Come to Me… and you will find rest for your souls." There is now no condemnation for those in Christ Jesus. (Gal 5:3; Gal 2:16; Gal 2:21; Matt 11:28–30; Rom 8:1–4)
+
+**Where we agree:** The Old Testament is the word of God and profitable for every believer. Jesus is the Jewish Messiah, and the church has often neglected the Hebrew Scriptures. The Law is holy, righteous and good. Grace is not permission to sin, and those who love Christ obey Him. God is not finished with Israel.
+
+**Approach:** Find out which kind you are talking to, because Scripture treats them differently. One who enjoys the feasts as pictures of Christ and binds no one is using his freedom, and Romans 14 says to leave him alone. One who tells other believers they must keep Torah is doing what Paul opposed in Galatians. One who makes it necessary for salvation, or denies the Trinity or Paul, has another gospel. They usually know the Old Testament better than the average Christian, so know Acts 15, Galatians, Colossians 2 and Hebrews 7–10 before you start, and never mock the Law. Our own position: the church is distinct from Israel and is not under the Mosaic covenant but under the law of Christ. (Rom 14:5–6; Gal 2:4–5; Gal 1:6–9; 1 Cor 9:20–21; Gal 6:2)
+
+<a id="hr-card"></a>
+### 📇 Hebrew Roots Cheat Card
+1. **Acts 15:10–11**: *"What did Peter call the Law, and how did he say we are saved?"*
+2. **Acts 15:28–29**: *"What did the apostles and the Holy Spirit require of Gentile believers?"*
+3. **Col 2:16–17**: *"What does Paul call the food laws, festivals and Sabbaths? What is the substance?"*
+4. **Gal 3:2–3**: *"Having begun by the Spirit, are you now being perfected by the flesh?"*
+5. **Heb 7:12**: *"If the priesthood changed, what else had to change?"*
+6. **Gal 5:3**: *"If you take on part of the Law, how much are you obligated to keep?"*
+
+<a id="hr-offense"></a>
+### 🗡️ HEBREW ROOTS OFFENSE
+
+#### PLAY 1: What did the apostles decide? (Acts 15 and Galatians)
+- **Opener:** *"Has the question of Gentiles and the Law of Moses ever been officially settled? Where?"*
+- **Or open with:** *"Do you keep Torah to be right with God, or because you are right with God? And what about a believer who doesn't?"*
+- **Chain:**
+  1. **Acts 15:1, 5**: The claim on the table: it is necessary to circumcise them and to direct them to keep the Law of Moses. That is the Torah-observant position, stated by believers.
+  2. **Acts 15:7–11**: Peter answers. God gave the Gentiles the Spirit and cleansed their hearts by faith. "Why do you put God to the test by placing upon the neck of the disciples a yoke which neither our fathers nor we have been able to bear?" We are saved through the grace of the Lord Jesus, in the same way as they.
+  3. **Acts 15:19–20, 28–29**: The decision: do not trouble the Gentiles who are turning to God. "It seemed good to the Holy Spirit and to us to lay upon you no greater burden than these essentials." Four things, for the sake of fellowship with Jews. No Sabbath, no feasts, no food laws.
+  4. **Acts 21:25**: Years later the same decision is repeated, with nothing added.
+  5. **Gal 2:3–5**: Titus, a Greek, was not compelled to be circumcised, and Paul did not yield for an hour, "so that the truth of the gospel would remain with you."
+  6. **Gal 2:11–14**: Paul opposed Peter to his face for pressuring Gentiles "to live like Jews." *"What was Peter doing wrong, in Paul's eyes?"*
+  7. **Gal 3:1–3; Gal 5:1–4**: "Having begun by the Spirit, are you now being perfected by the flesh?" Do not be subject again to a yoke of slavery. You who are seeking to be justified by law have been severed from Christ.
+- **If they say →**
+  - *"Acts 15:21 says Moses is read every Sabbath, so the Gentiles would learn the rest in time."* → That verse gives the reason for the four requests: Jews in every city would be offended otherwise. The letter itself says "no greater burden," and Acts 21:25 repeats it years later with nothing added. If more was coming, the apostles never sent it. (Acts 15:28; Acts 21:25)
+  - *"Galatians is about circumcision for salvation, or man-made rules, not God's Torah."* → Paul names the covenant: the Law that came four hundred and thirty years after Abraham, from Mount Sinai. And he rebukes them for observing days, months, seasons and years. (Gal 3:17; Gal 4:9–11; Gal 4:24–25)
+  - *"We keep Torah out of love. 'If you love Me, keep My commandments.'"* → Good, if it is truly not for standing with God. But Jesus said what His commandment is: believe in Him and love one another. And growth, like salvation, is by the Spirit and not by the Law. If you teach others they must, you bind what the apostles loosed. (John 14:15; 1 John 3:23; John 13:34; Rom 7:6)
+  - *"Paul himself kept the Law. He took vows in the temple."* → He tells us why: "To the Jews I became as a Jew… though not being myself under the Law," to win them. He was free to keep customs and free not to, and he says he is under the law of Christ. (Acts 21:23–26; 1 Cor 9:19–21)
+- **Closer:** *"The Holy Spirit and the apostles said 'no greater burden.' Christ says, 'My yoke is easy.' Why would you take up a yoke He lifted?"* (Acts 15:28; Matt 11:28–30; Gal 5:1)
+
+#### PLAY 2: Shadow and substance (Sabbath, feasts, food and the new covenant)
+- **Opener:** *"What do you think the feasts and the Sabbath were pointing to?"*
+- **Or open with:** *"Jesus is from the tribe of Judah. Under the Torah, can a man from Judah be a priest?"*
+- **Chain:**
+  1. **Col 2:16–17**: "Let no one judge you in food or drink or in respect to a festival or a new moon or a Sabbath day, things which are a mere shadow of what is to come; but the substance belongs to Christ." The whole calendar, yearly, monthly and weekly. *"Who is judging whom here, if I am told I must keep them?"*
+  2. **Heb 10:1**: The Law has a shadow of the good things to come and not the very form of things. You don't embrace a shadow when the person has arrived.
+  3. **Heb 7:11–14**: Our Lord descended from Judah, a tribe Moses never connected with priests. "When the priesthood is changed, of necessity there takes place a change of law also." *"If the Law is unchanged, Jesus cannot be your High Priest. If He is your High Priest, the Law has changed."*
+  4. **Heb 8:6–13**: Jesus mediates a better covenant. God promised a new one, "not like the covenant which I made with their fathers," and in calling it new He has made the first obsolete.
+  5. **Mark 7:18–19; Rom 14:14**: Nothing that goes into a man from outside can defile him. "Thus He declared all foods clean." Paul is persuaded in the Lord Jesus that nothing is unclean in itself.
+  6. **Rom 14:5–6**: One person regards one day above another, another regards every day alike. Each must be fully convinced in his own mind. That sentence could not be written if the Sabbath were binding.
+  7. **Eph 2:14–15; 2 Cor 3:7–11**: Christ made Jew and Gentile one new man, abolishing in His flesh the law of commandments contained in ordinances. The ministry engraved on stones was glorious and is fading; what remains is more glorious.
+  8. **Heb 4:9–10; Matt 11:28**: The Sabbath rest that remains is entered by resting from our works. The day pointed to a Person.
+- **If they say →**
+  - *"Peter's vision in Acts 10 was about people, not food."* → It was about people, and the food laws were the wall between them. That is why Peter was then criticized for eating with Gentiles. And Mark 7:19 speaks of food directly. (Acts 10:28; Acts 11:2–3; Mark 7:19)
+  - *"The Sabbath is from creation and is a sign forever."* → Scripture says it is a sign between God and the sons of Israel. No one is commanded to keep it before Sinai, the apostles did not lay it on Gentiles, and Paul lists it among the shadows. (Ex 31:13; Ex 31:16–17; Col 2:16)
+  - *"Constantine changed the Sabbath to Sunday."* → Christians were meeting on the first day in the New Testament itself, and Justin Martyr describes Sunday worship around AD 155, more than a century and a half before Constantine's edict of 321. (Acts 20:7; 1 Cor 16:2; Rev 1:10)
+  - *"Sin is lawlessness, so we must keep Torah."* → Lawlessness is rebellion against God, and every Christian must flee it. The same letter says what His commandment is. Love fulfills the Law, and the Law's righteous requirement is fulfilled in those who walk by the Spirit. (1 John 3:4; 1 John 3:23; Rom 13:8–10; Rom 8:3–4)
+  - *"The new covenant is the Torah written on the heart."* → Jeremiah says it is "not like" the Sinai covenant, and Hebrews draws the conclusion: the first is obsolete, with a new priesthood and a once-for-all sacrifice. What God writes on the heart is His will, kept from the inside by His Spirit. (Jer 31:31–33; Heb 8:13; Ezek 36:26–27)
+- **Closer:** *"Everything you love in the Torah was pointing at Him. The Sabbath, the Passover lamb, the Day of Atonement, the priest: He is all of it. You have the substance. Why go back to the shadow?"* (Col 2:17; Luke 24:27; Heb 10:1)
+
+<a id="hr-defense"></a>
+### 🛡️ HEBREW ROOTS DEFENSE
+
+| They say… | Quick answer | Go to | Ask back |
+|---|---|---|---|
+| **"Jesus did not come to abolish the Law (Matt 5:17–19)."** | He came to fulfill it, and nothing passes "until all is accomplished." It all pointed to Him and reached its goal in Him. You do not offer sacrifices, so you already grant that fulfillment changes practice. | Matt 5:17–18; Luke 24:44; Rom 10:4; Heb 10:1 | *"Which parts do you no longer practice, and on whose authority?"* |
+| **"The Law is perfect and eternal (Psalm 19, Psalm 119)."** | Amen. It is holy, righteous and good. And God gave it a purpose: a tutor to lead us to Christ. The believer has died to the Law to be joined to Another. | Ps 19:7; Rom 7:12; Gal 3:24–25; Rom 7:4–6 | *"What was the Law given to do?"* |
+| **"Paul is hard to understand and has been twisted (2 Pet 3:16)."** | In that verse Peter calls Paul's letters Scripture, and at the Jerusalem council Peter is the one who called the Law an unbearable yoke. They agree. The twisting Peter warns of is by the untaught and unstable. | 2 Pet 3:15–16; Acts 15:10–11; Gal 2:9 | *"Does Peter side with Paul or against him?"* |
+| **"Gentiles are grafted into Israel, so Israel's Law is ours."** | We are grafted by faith into the root of the promise made to Abraham, which came four hundred and thirty years before the Law. Christ made one new man from the two; He did not make Gentiles into Jews. | Rom 11:17–20; Gal 3:17–18; Gal 3:29; Eph 2:14–15 | *"Was Abraham justified before or after Sinai?"* |
+| **"There is one law for the native and the stranger."** | For the foreigner living inside Israel under that covenant. The church is not Israel under Sinai, and when the apostles were asked whether Gentile believers must keep Moses, they said no. | Ex 12:49; Acts 15:19; Acts 15:28–29 | *"Did the apostles apply that verse to Gentile Christians?"* |
+| **"You must use the true names. 'Jesus' is a pagan name."** | The Holy Spirit gave the New Testament in Greek, and it calls Him *Iēsous*. At Pentecost the mighty deeds of God were declared in every language. The name saves because of the Person it names. | Acts 2:6–11; Acts 4:12; Phil 2:9–11; Rev 7:9–10 | *"Which language did the Spirit use to write Matthew's Gospel as we have it?"* |
+| **"Christmas and Easter are pagan."** | No one is commanded to keep them, and no one is forbidden to give thanks for the incarnation and the resurrection on a day. This is liberty: do not bind it either way. | Rom 14:5–6; Col 2:16; 1 Cor 10:31 | *"Is it sin to thank God for the resurrection on a Sunday in spring?"* |
+| **"The feasts will be kept in the kingdom (Zech 14:16)."** | What Christ institutes when He reigns from Jerusalem is His to command then. It does not put the church under the Mosaic covenant now. The apostles' instruction for this age is plain. | Zech 14:16; Col 2:16–17; Acts 15:28 | *"What did the apostles tell the churches to do now?"* |
+| **"Without the Law you teach license to sin."** | Paul was accused of the same, which shows we preach what he preached. Grace trains us to deny ungodliness. We are not without law; we are under the law of Christ. | Rom 6:1–2; Rom 6:14–15; Titus 2:11–12; 1 Cor 9:21 | *"Why would anyone accuse Paul of that, if he taught Torah-keeping?"* |
+| **"Yeshua is the Messiah, but not God."** (some) | Then it is no longer a debate about the Law but about Christ Himself. Go to [The Trinity](/topic/the-trinity) and the [Unitarian](/unitarian) plays. | John 1:1; John 8:58; John 20:28; Heb 1:8 | *"Who do you say He is?"* |
+
+**Typical exits:** "You've been deceived by the pagan church." (Ask: *"Were the apostles deceived in Acts 15?"*) · "You just don't want to obey." (Say: *"I want to obey Christ. Show me where His apostles command this of the church."*) · "Paul is the problem." (That is the real issue. Leave 2 Pet 3:15–16 and ask whether Peter was wrong.) · "I'm just being obedient." (If they bind no one, leave Rom 14:5–6 and part as brothers. If they do, leave Gal 5:1.)
+
 # ⛪ ROMAN CATHOLICS
 
 **Their position:** Revelation reaches us through Scripture *and* Sacred Tradition, and "both… must be accepted and honoured with equal sentiments of devotion and reverence" [CCC 82; Trent, Sess. 4]. Only the Magisterium (the pope and the bishops in communion with him) can interpret either one authentically [CCC 85, 100]. Justification "is conferred in Baptism" and "makes us inwardly just" [CCC 1992]. No one can merit the first grace, but the justified "can then merit for ourselves and for others… the attainment of eternal life" [CCC 2010]. The Mass is "one single sacrifice" with the cross, offered "in reparation for the sins of the living and the dead" [CCC 1367, 1414]. Mortal sin destroys sanctifying grace, and it is restored through confession to a priest [CCC 1446, 1456, 1861]. Those who die "imperfectly purified" undergo purgatory before heaven [CCC 1030–1031].
