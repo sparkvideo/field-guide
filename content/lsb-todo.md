@@ -1,67 +1,6 @@
-# LSB verses still to fill in (62 of 1436)
+# LSB verses still to fill in (0 of 1436)
 
 Open `content/lsb-verses.json`, find the reference, and paste the LSB text between the quotes after "text".
 Until a slot is filled, the app shows the BSB text with a small "BSB" label.
 
-- [ ] Deuteronomy 30:3–5
-- [ ] Isaiah 2:2–4
-- [ ] Isaiah 19:23–25
-- [ ] Isaiah 60:4
-- [ ] Isaiah 60:9
-- [ ] Isaiah 65:17
-- [ ] Daniel 2:34–35
-- [ ] Daniel 2:44–45
-- [ ] Daniel 9:24–27
-- [ ] Zechariah 12:2–3
-- [ ] Matthew 24:29–30
-- [ ] Matthew 24:36
-- [ ] Matthew 24:45–46
-- [ ] Mark 14:61–62
-- [ ] Luke 1:32–33
-- [ ] Luke 12:40
-- [ ] John 5:18–23
-- [ ] John 5:28–29
-- [ ] John 14:2–3
-- [ ] John 16:13–14
-- [ ] Acts 1:7
-- [ ] Romans 5:17
-- [ ] Romans 11:26
-- [ ] Romans 11:28–29
-- [ ] 1 Corinthians 11:3
-- [ ] 1 Corinthians 15:22–25
-- [ ] 1 Corinthians 15:27–28
-- [ ] 1 Corinthians 15:51–53
-- [ ] 1 Corinthians 15:51
-- [ ] 1 Corinthians 15:52
-- [ ] 1 Corinthians 15:58
-- [ ] 2 Corinthians 4:17
-- [ ] 1 Thessalonians 4:13–18
-- [ ] 1 Thessalonians 4:15–17
-- [ ] 1 Thessalonians 4:15
-- [ ] 1 Thessalonians 4:17
-- [ ] 1 Thessalonians 4:18
-- [ ] 1 Thessalonians 5:1–2
-- [ ] 1 Thessalonians 5:1–6
-- [ ] 1 Thessalonians 5:6–10
-- [ ] 1 Thessalonians 5:9
-- [ ] 1 Thessalonians 5:11
-- [ ] 2 Thessalonians 2:1–3
-- [ ] 2 Thessalonians 3:10–12
-- [ ] 2 Timothy 4:1
-- [ ] Titus 2:11–13
-- [ ] Hebrews 9:27–28
-- [ ] 2 Peter 3:3–4
-- [ ] 2 Peter 3:8–10
-- [ ] 2 Peter 3:10–13
-- [ ] 1 John 3:2–3
-- [ ] Revelation 1:3
-- [ ] Revelation 1:9–18
-- [ ] Revelation 1:20
-- [ ] Revelation 3:10
-- [ ] Revelation 7:4
-- [ ] Revelation 17:15
-- [ ] Revelation 19:7–8
-- [ ] Revelation 19:7–9
-- [ ] Revelation 19:11–16
-- [ ] Revelation 20:1–6
-- [ ] Revelation 21:1–5
+
