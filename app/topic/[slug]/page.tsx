@@ -30,9 +30,12 @@ export default async function TopicPage({ params }: { params: Promise<{ slug: st
         <h1 className="text-[28px] font-bold leading-tight">{t.title}</h1>
         {t.subtitle && <p className="muted mt-1">{t.subtitle}</p>}
         {t.intro.map((l, i) => (
-          <p key={i} className="mt-4">
-            <Md text={l.text} />
-          </p>
+          <div key={i} className="mt-4">
+            <p>
+              <Md text={withoutRefs(l.text)} />
+            </p>
+            <VerseChips verses={l.verses} context={l.text} />
+          </div>
         ))}
 
         {t.sections.map((sec, n) => {
