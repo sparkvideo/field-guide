@@ -16,6 +16,8 @@ const GROUND = 88; // y of everyone's feet, in game units
 const LIVES = 3;
 const BEST_KEY = "fg-game-best2";
 const SOUND_KEY = "fg-game-sound";
+const MUSIC_KEY = "fg-game-music";
+const MUSIC_DEFAULT = 40;
 
 const SHIRTS = ["#c0453a", "#3f7fbf", "#4f9d69", "#8a5fbf", "#d08a2e", "#3aa7a3", "#b84f86", "#6d7684"];
 const PANTS = ["#2c3350", "#3b3b46", "#4a3728", "#1f3a3a"];
@@ -81,6 +83,8 @@ export function Game() {
   const keys = useRef({ left: false, right: false, jump: false, act: false, shield: false, jumpHit: false, actHit: false });
   const soundRef = useRef(true);
   const [sound, setSound] = useState(true);
+  const musicRef = useRef(MUSIC_DEFAULT);
+  const [musicVol, setMusicVol] = useState(MUSIC_DEFAULT);
   const [pinning, setPinning] = useState(false);
   const [mode, setMode] = useState<Mode>("title");
   useKeepAwake(mode === "play");
@@ -90,6 +94,8 @@ export function Game() {
       const on = localStorage.getItem(SOUND_KEY) !== "off";
       soundRef.current = on;
       setSound(on);
+      const mv = Number(localStorage.getItem(MUSIC_KEY) ?? MUSIC_DEFAULT);
+      if (mv >= 0 && mv <= 100) { musicRef.current = mv; setMusicVol(mv); }
     } catch {}
 
     let stage: Stage;
@@ -139,15 +145,35 @@ export function Game() {
     // from a tap, so the first tap or key press unlocks it.
     const song = new Audio("/audio/theme.mp3");
     song.loop = true;
-    song.volume = 0.38;
     song.preload = "auto";
+    // iPhones ignore an audio element's own volume, so the song is routed through a gain node.
+    let songGain: GainNode | null = null;
+    let lastVol = -1;
+    const level = () => { const v = musicRef.current / 100; return v * v * 0.6; };
+    const setLevel = () => {
+      if (lastVol === musicRef.current) return;
+      lastVol = musicRef.current;
+      if (songGain) songGain.gain.value = level(); else song.volume = Math.min(1, level());
+    };
+    const route = () => {
+      if (songGain || !audio) return;
+      try {
+        songGain = audio.createGain();
+        audio.createMediaElementSource(song).connect(songGain).connect(audio.destination);
+        song.volume = 1;
+        lastVol = -1;
+      } catch { songGain = null; }
+    };
+    setLevel();
     let unlocked = false;
     const unlock = () => {
+      wake(); route(); setLevel();
       if (unlocked || !soundRef.current) return;
       song.play().then(() => { unlocked = true; if (s.mode !== "play") song.pause(); }).catch(() => {});
     };
     const music = () => {
-      const want = unlocked && soundRef.current && s.mode === "play" && !document.hidden;
+      setLevel();
+      const want = unlocked && soundRef.current && musicRef.current > 0 && s.mode === "play" && !document.hidden;
       if (want && song.paused) song.play().catch(() => {});
       else if (!want && !song.paused && unlocked) song.pause();
     };
@@ -238,6 +264,24 @@ export function Game() {
       if (s.lives <= 0) gameOver();
     };
 
+    // Someone has been told: their reply, the score, the hearts.
+    const tellNpc = (n: Npc) => {
+      n.told = true; n.sayT = 1.5; n.dir = Math.random() < 0.5 ? -1 : 1;
+      n.say = n.kind === "preacher" ? "GRACE IS FREE?!" : n.kind === "protester" ? "I'M LISTENING." : n.kind === "skeptic" ? "HUH. OKAY." : n.kind === "last" ? "TELL ME MORE!" : pick(REPLIES);
+      s.streak = s.streakT > 0 ? Math.min(5, s.streak + 1) : 1;
+      s.streakT = 6;
+      s.score += (n.kind === "last" ? 10 : n.kind === "walker" || n.kind === "phone" ? 1 : 2) * s.streak;
+      s.told++; s.stageTold++;
+      sfx.tell();
+      for (let i = 0; i < 6; i++) s.bits.push({ x: n.x - 2, y: GROUND - 14, vx: (Math.random() - 0.5) * 40, vy: -30 - Math.random() * 30, t: 0.9, heart: true });
+    };
+    const levelCheck = (n: Npc) => {
+      if (s.stageTold >= s.target && s.phase === "play") {
+        s.phase = "church"; s.churchX = s.p.x + 150; s.arrows = []; s.coins = []; s.boss = null; s.pickup = null;
+        say(n.kind === "last" ? "STORM OVER! GO TO CHURCH" : "LEVEL CLEAR! GO TO CHURCH", 2.6);
+        sfx.clear();
+      }
+    };
     const update = (dt: number) => {
       const k = keys.current;
       const jump = k.jumpHit;
@@ -273,21 +317,10 @@ export function Game() {
           p.tell -= dt;
           if (p.tell <= 0) {
             const n = p.pin;
-            n.told = true; n.sayT = 1.5; n.dir = Math.random() < 0.5 ? -1 : 1;
-            n.say = n.kind === "preacher" ? "GRACE IS FREE?!" : n.kind === "protester" ? "I'M LISTENING." : n.kind === "skeptic" ? "HUH. OKAY." : n.kind === "last" ? "TELL ME MORE!" : pick(REPLIES);
-            s.streak = s.streakT > 0 ? Math.min(5, s.streak + 1) : 1;
-            s.streakT = 6;
-            s.score += (n.kind === "last" ? 10 : n.kind === "walker" || n.kind === "phone" ? 1 : 2) * s.streak;
-            s.told++; s.stageTold++;
-            sfx.tell();
-            for (let i = 0; i < 6; i++) s.bits.push({ x: n.x - 2, y: GROUND - 14, vx: (Math.random() - 0.5) * 40, vy: -30 - Math.random() * 30, t: 0.9, heart: true });
+            tellNpc(n);
             release();
             p.x -= 10 * p.face; p.cool = 0.25;
-            if (s.stageTold >= s.target && s.phase === "play") {
-              s.phase = "church"; s.churchX = p.x + 150; s.arrows = []; s.coins = []; s.boss = null; s.pickup = null;
-              say(n.kind === "last" ? "STORM OVER! GO TO CHURCH" : "LEVEL CLEAR! GO TO CHURCH", 2.6);
-              sfx.clear();
-            }
+            levelCheck(n);
           }
         } else {
           if (!bold) p.pinT -= dt;
@@ -348,6 +381,15 @@ export function Game() {
             }
           }
         }
+        // Bold: no tackle needed. Whoever you walk up to stops and listens.
+        if (bold && !p.pin && p.y > GROUND - 16) {
+          for (const n of s.npcs) {
+            if (n.told || n.pinned || Math.abs(n.x - p.x) >= 11) continue;
+            n.bolt = 0; n.hop = 0; n.guard = false;
+            tellNpc(n);
+            levelCheck(n);
+          }
+        }
         if (!p.pin) {
           const before = p.x;
           p.x += vx * dt;
@@ -357,7 +399,7 @@ export function Game() {
           p.y = Math.min(GROUND, p.y + p.vy * dt);
           if (p.y >= GROUND) p.vy = 0;
           // Hydrants and crates: jump them or trip.
-          if (p.y > GROUND - 5 && p.lunge <= 0 && vx) {
+          if (p.y > GROUND - 5 && p.lunge <= 0 && vx && !bold) {
             const cell = Math.floor(p.x / 230);
             for (const c of [cell - 1, cell, cell + 1]) {
               const hx = blockAt(c);
@@ -371,7 +413,7 @@ export function Game() {
 
       // Church: walk in to be restored, come out bold.
       if (s.phase === "church" && !p.pin && Math.abs(p.x - s.churchX) < 9 && p.y >= GROUND) {
-        s.lives = LIVES; s.bold = 9; s.slow = 0;
+        s.lives = LIVES; s.bold = 12; s.slow = 0;
         s.level++;
         sfx.church();
         beginLevel();
@@ -704,6 +746,12 @@ export function Game() {
     onContextMenu: (e: React.MouseEvent) => e.preventDefault(),
   });
 
+  const changeMusic = (v: number) => {
+    musicRef.current = v;
+    setMusicVol(v);
+    try { localStorage.setItem(MUSIC_KEY, String(v)); } catch {}
+  };
+
   const toggleSound = () => {
     const on = !sound;
     soundRef.current = on;
@@ -731,15 +779,21 @@ export function Game() {
           </button>
         </div>
       </div>
-      <p className="mt-3 text-right">
+      <div className="game-sound">
+        <label className="small muted" htmlFor="game-music">Music</label>
+        <input
+          id="game-music" type="range" min={0} max={100} step={5} value={musicVol} disabled={!sound}
+          onChange={(e) => changeMusic(Number(e.target.value))}
+          aria-valuetext={musicVol === 0 ? "off" : `${musicVol} percent`}
+        />
         <button type="button" className="link small" onClick={toggleSound} aria-pressed={sound}>
           Sound: {sound ? "on" : "off"}
         </button>
-      </p>
+      </div>
       <div className="muted small" style={{ marginTop: 6 }}>
         <p>Tackle someone, then tell them before they wriggle free. Telling people quickly in a row multiplies your score.</p>
         <p className="mt-2">Hold Shield when flaming arrows fall (Ephesians 6:16). You have three lives.</p>
-        <p className="mt-2">Clear a level, then walk to church. You are restored and go out bold for a few seconds (Acts 4:31).</p>
+        <p className="mt-2">Clear a level, then walk to church. You are restored and go out bold for twelve seconds (Acts 4:31): no tackling needed, whoever you walk up to stops and listens.</p>
         <p className="mt-2">Watch for the placard that blocks your first tackle, the skeptic who hops away, and the prosperity preacher&rsquo;s coins: jump them or they slow you down.</p>
         <p className="mt-2">Pick up the sandals (speed), the helmet (one free hit) and the sword (clears the arrows).</p>
       </div>

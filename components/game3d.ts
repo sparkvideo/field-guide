@@ -598,7 +598,11 @@ export function createStage(canvas: HTMLCanvasElement) {
   boldRing.rotation.x = -Math.PI / 2;
   boldRing.position.y = 0.04;
   boldRing.visible = false;
-  scene.add(beacon, boldLight, boldRing);
+  // a soft gold halo around the disciple while bold
+  const boldHalo = new THREE.Mesh(new THREE.SphereGeometry(1.25, 10, 8), new THREE.MeshBasicMaterial({ color: "#ffd76a", transparent: true, opacity: 0.1, fog: false, depthWrite: false, blending: THREE.AdditiveBlending }));
+  boldHalo.visible = false;
+  const boldLamp = new THREE.PointLight("#ffd98a", 0, 9);
+  scene.add(beacon, boldLight, boldRing, boldHalo, boldLamp);
 
   function setBits(list: { x: number; y: number; heart: boolean; t: number }[]) {
     for (let i = 0; i < bits.length; i++) {
@@ -659,13 +663,17 @@ export function createStage(canvas: HTMLCanvasElement) {
   }
 
   function setBold(on: boolean, x: number, y: number, t: number) {
-    boldLight.visible = boldRing.visible = on;
+    boldLight.visible = boldRing.visible = boldHalo.visible = on;
+    boldLamp.intensity = on ? 6 + Math.sin(t * 7) * 1.5 : 0;
     if (!on) return;
     boldLight.position.x = boldRing.position.x = x;
+    boldHalo.position.set(x, 1.0 + y, 0.9);
+    boldHalo.scale.setScalar(1 + Math.sin(t * 6) * 0.08);
+    boldLamp.position.set(x, 1.6 + y, 1.6);
     boldLight.rotation.y = t * 1.5;
     (boldLight.material as THREE.MeshBasicMaterial).opacity = 0.2 + Math.sin(t * 7) * 0.06;
     boldRing.position.y = 0.04;
-    boldRing.scale.setScalar(1 + Math.sin(t * 8) * 0.12 - y * 0.1);
+    boldRing.scale.setScalar(1.7 + Math.sin(t * 8) * 0.2 - y * 0.1);
   }
 
   function setChurch(x: number | null) {
