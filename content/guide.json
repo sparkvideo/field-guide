@@ -38615,6 +38615,58 @@
               "supplemental": false
             },
             {
+              "text": "**\"What about the billions who sincerely live good lives in their own faith?\"** → A lifelong Catholic of seventy-five asked John MacArthur exactly this. His answer: they perish, because there is salvation in no other name, and no one is good before God. The degree of punishment differs with the light a person rejected, not with how good he was. Then MacArthur turned it on the man himself: knowing the facts about Christ is not enough either; \"you must trust Christ for your salvation alone,\" and no Masses, confessions or rosaries add to it. The man said he was leaving the Catholic church. [MacArthur, Q&A at Grace Community Church] (Acts 4:12; John 8:24; Luke 18:19; Matt 7:21–23; Rom 3:20)",
+              "verses": [
+                {
+                  "label": "Acts 4:12",
+                  "kind": "bible",
+                  "key": "acts.4.12",
+                  "book": "acts",
+                  "chapter": 4,
+                  "verseStart": 12,
+                  "verseEnd": 12
+                },
+                {
+                  "label": "John 8:24",
+                  "kind": "bible",
+                  "key": "john.8.24",
+                  "book": "john",
+                  "chapter": 8,
+                  "verseStart": 24,
+                  "verseEnd": 24
+                },
+                {
+                  "label": "Luke 18:19",
+                  "kind": "bible",
+                  "key": "luke.18.19",
+                  "book": "luke",
+                  "chapter": 18,
+                  "verseStart": 19,
+                  "verseEnd": 19
+                },
+                {
+                  "label": "Matt 7:21–23",
+                  "kind": "bible",
+                  "key": "matthew.7.21-23",
+                  "book": "matthew",
+                  "chapter": 7,
+                  "verseStart": 21,
+                  "verseEnd": 23
+                },
+                {
+                  "label": "Rom 3:20",
+                  "kind": "bible",
+                  "key": "romans.3.20",
+                  "book": "romans",
+                  "chapter": 3,
+                  "verseStart": 20,
+                  "verseEnd": 20
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
               "text": "**\"All religions teach basically the same thing.\"** → On ethics there is overlap. On God and salvation they are opposites. Ask him to name what Islam, Hinduism and Christianity each say about Jesus.",
               "verses": [],
               "links": [],
@@ -39598,6 +39650,58 @@
                   "chapter": 5,
                   "verseStart": 40,
                   "verseEnd": 40
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Being religious does not lessen it.** Jesus said the scribes, the most religious men in Israel, \"will receive greater condemnation.\" MacArthur on that verse: the idea that there is good in every religion runs straight into it, since those men believed in the God of Abraham and were judged more severely for a self-righteous system and for rejecting Christ. The worst judgment is for those who knew the most and trampled it. [MacArthur, sermon on Mark 12:38–44] (Mark 12:38–40; Matt 23:15; Heb 10:29; Luke 12:47–48)",
+              "verses": [
+                {
+                  "label": "Mark 12:38–44",
+                  "kind": "bible",
+                  "key": "mark.12.38-44",
+                  "book": "mark",
+                  "chapter": 12,
+                  "verseStart": 38,
+                  "verseEnd": 44
+                },
+                {
+                  "label": "Mark 12:38–40",
+                  "kind": "bible",
+                  "key": "mark.12.38-40",
+                  "book": "mark",
+                  "chapter": 12,
+                  "verseStart": 38,
+                  "verseEnd": 40
+                },
+                {
+                  "label": "Matt 23:15",
+                  "kind": "bible",
+                  "key": "matthew.23.15",
+                  "book": "matthew",
+                  "chapter": 23,
+                  "verseStart": 15,
+                  "verseEnd": 15
+                },
+                {
+                  "label": "Heb 10:29",
+                  "kind": "bible",
+                  "key": "hebrews.10.29",
+                  "book": "hebrews",
+                  "chapter": 10,
+                  "verseStart": 29,
+                  "verseEnd": 29
+                },
+                {
+                  "label": "Luke 12:47–48",
+                  "kind": "bible",
+                  "key": "luke.12.47-48",
+                  "book": "luke",
+                  "chapter": 12,
+                  "verseStart": 47,
+                  "verseEnd": 48
                 }
               ],
               "links": [],

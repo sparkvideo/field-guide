@@ -265,6 +265,7 @@ They cannot all be true, because they contradict each other on the very things t
 - **"That's arrogant."** → It would be, if we were the way. We are beggars telling other beggars where the bread is. Arrogance is deciding for God how He must save. (1 Cor 4:7; Titus 3:5)
 - **"What about people who never heard?"** → No one is condemned for not hearing. Men are condemned for sin against the light they have: creation and conscience. That is why we go. (Rom 1:18–20; Rom 2:12–16; Rom 10:13–15) *"You have heard. What will you do with it?"*
 - **"Sincere people in other religions will be fine."** → Sincerity does not change what is true. A man can sincerely take the wrong medicine. (Prov 14:12; Rom 10:1–3)
+- **"What about the billions who sincerely live good lives in their own faith?"** → A lifelong Catholic of seventy-five asked John MacArthur exactly this. His answer: they perish, because there is salvation in no other name, and no one is good before God. The degree of punishment differs with the light a person rejected, not with how good he was. Then MacArthur turned it on the man himself: knowing the facts about Christ is not enough either; "you must trust Christ for your salvation alone," and no Masses, confessions or rosaries add to it. The man said he was leaving the Catholic church. [MacArthur, Q&A at Grace Community Church] (Acts 4:12; John 8:24; Luke 18:19; Matt 7:21–23; Rom 3:20)
 - **"All religions teach basically the same thing."** → On ethics there is overlap. On God and salvation they are opposites. Ask him to name what Islam, Hinduism and Christianity each say about Jesus.
 - **"It's exclusive, so it's intolerant."** → The way is narrow, and the invitation is as wide as the world. "Whoever will call on the name of the Lord will be saved." (Matt 7:13–14; Rom 10:13; John 6:37; Rev 22:17)
 - **"That's true for you."** → Jesus did not say He was a way for some. He rose in public history, or He did not.
@@ -335,6 +336,7 @@ The question assumes we are basically good people and God is overreacting. Scrip
 - **It is judgment, not an accident.** It is the just sentence of a holy Judge on real guilt. (Rev 20:11–15; Rom 2:5–6; 2 Thess 1:8–9)
 - **It is fair.** God judges each one according to his deeds and according to the light he had. (Rom 2:6; Luke 12:47–48; Gen 18:25)
 - **No one is there who wanted Christ.** Men love darkness and will not come to the light. (John 3:19–20; John 5:40)
+- **Being religious does not lessen it.** Jesus said the scribes, the most religious men in Israel, "will receive greater condemnation." MacArthur on that verse: the idea that there is good in every religion runs straight into it, since those men believed in the God of Abraham and were judged more severely for a self-righteous system and for rejecting Christ. The worst judgment is for those who knew the most and trampled it. [MacArthur, sermon on Mark 12:38–44] (Mark 12:38–40; Matt 23:15; Heb 10:29; Luke 12:47–48)
 - **God takes no pleasure in it.** (Ezek 33:11; 2 Pet 3:9)
 - **There is no second chance after death.** (Heb 9:27; Luke 16:26)
 
