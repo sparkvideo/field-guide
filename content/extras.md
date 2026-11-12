@@ -783,11 +783,23 @@ Peter saw Christ's glory on the mountain and heard the Father's voice. Then he w
 No argument opens a blind eye. God does, and He has told us to ask. This page is a short school of prayer: how Daniel prayed, the pattern Jesus gave, and what to pray for the people you talk to. (Dan 9:1–3; Matt 6:9–13; Rom 10:1; Col 4:2–4)
 
 ## The four parts, with Scripture
-A simple way to remember what belongs in prayer is the word ACTS. It is a guide, not a formula, and it follows the order of the pattern Jesus gave: God first, then our needs.
+A simple way to remember what belongs in prayer is the word ACTS. This is the acronym in your own church's workbook, *Fundamentals of the Faith*, lesson 8 ("Praying Unceasingly"), where it heads four areas of prayer. It is a guide, not a formula, and it follows the order of the pattern Jesus gave: God first, then our needs. The memory verse for that lesson is Philippians 4:6–7.
 - **Adoration.** Praise God for who He is before you ask for anything. (Ps 145:1–3; Matt 6:9; Rev 4:11)
 - **Confession.** Agree with God about your sin, specifically, and rest on His promise to forgive. (1 John 1:9; Ps 32:5; Prov 28:13)
-- **Thanksgiving.** Thank Him for what He has done, beginning with Christ. (1 Thess 5:18; Ps 103:1–5; Col 3:17)
-- **Supplication.** Ask, for others and for yourself, and leave the answer with Him. (Phil 4:6; 1 Tim 2:1; Matt 7:7–8)
+- **Thanksgiving.** Thank Him for what He has done, beginning with Christ, and for what you would not have chosen, since He is working through that too. (1 Thess 5:18; Ps 103:1–5; Rom 8:28)
+- **Supplication.** Ask, for others first and then for yourself, and leave the answer with Him. (Phil 4:6–7; 1 Tim 2:1; Matt 7:7–8)
+
+## What hinders prayer
+- **Sin you are holding on to.** If you cherish wickedness in your heart, the Lord will not hear. (Ps 66:18)
+- **Asking for the wrong reason.** You ask and do not receive because you ask wrongly, to spend it on your own pleasures. (James 4:3)
+- **Sin that has come between you and God.** His hand is not short and His ear is not dull; it is our iniquities that have made the separation. (Isa 59:1–2)
+**Ask yourself first:** *"Is there anything I am refusing to confess before I ask Him for this?"*
+
+## When prayer is hard
+- **It costs something, and it did for Christ.** He prayed through the whole night before choosing the twelve, and in Gethsemane He prayed in agony. (Luke 6:12; Luke 22:44)
+- **Keep at it and stay awake in it.** Devote yourselves to prayer, keeping alert in it with thanksgiving. (Col 4:2; 1 Thess 5:17)
+- **Discouragement is not a reason to stay away.** David asked how long the Lord would forget him, and said he cried by day and got no answer, and he said both of those things to God. Bring Him the complaint. (Ps 13:1–2; Ps 22:2)
+- **A no is an answer.** Paul asked three times and was told grace was enough. The Son asked for the cup to pass and then said, "not what I will." Neither of them lacked faith. (2 Cor 12:7–10; Mark 14:36)
 
 ## Why pray, if God is sovereign?
 - **Because He is.** Daniel set his face "to the Lord God," the Master of everything. Abner Chou: "because God is sovereign you should pray" [Abner Chou, sermon on Daniel 9:1–3]. You bring your need to the only One with the power to meet it. (Dan 9:3; Dan 4:35; Eph 1:11)

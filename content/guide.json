@@ -50151,8 +50151,18 @@
           "heading": "The four parts, with Scripture",
           "lines": [
             {
-              "text": "A simple way to remember what belongs in prayer is the word ACTS. It is a guide, not a formula, and it follows the order of the pattern Jesus gave: God first, then our needs.",
-              "verses": [],
+              "text": "A simple way to remember what belongs in prayer is the word ACTS. This is the acronym in your own church's workbook, *Fundamentals of the Faith*, lesson 8 (\"Praying Unceasingly\"), where it heads four areas of prayer. It is a guide, not a formula, and it follows the order of the pattern Jesus gave: God first, then our needs. The memory verse for that lesson is Philippians 4:6–7.",
+              "verses": [
+                {
+                  "label": "Phil 4:6–7",
+                  "kind": "bible",
+                  "key": "philippians.4.6-7",
+                  "book": "philippians",
+                  "chapter": 4,
+                  "verseStart": 6,
+                  "verseEnd": 7
+                }
+              ],
               "links": [],
               "supplemental": false
             },
@@ -50225,7 +50235,7 @@
               "supplemental": false
             },
             {
-              "text": "**Thanksgiving.** Thank Him for what He has done, beginning with Christ. (1 Thess 5:18; Ps 103:1–5; Col 3:17)",
+              "text": "**Thanksgiving.** Thank Him for what He has done, beginning with Christ, and for what you would not have chosen, since He is working through that too. (1 Thess 5:18; Ps 103:1–5; Rom 8:28)",
               "verses": [
                 {
                   "label": "1 Thess 5:18",
@@ -50246,29 +50256,29 @@
                   "verseEnd": 5
                 },
                 {
-                  "label": "Col 3:17",
+                  "label": "Rom 8:28",
                   "kind": "bible",
-                  "key": "colossians.3.17",
-                  "book": "colossians",
-                  "chapter": 3,
-                  "verseStart": 17,
-                  "verseEnd": 17
+                  "key": "romans.8.28",
+                  "book": "romans",
+                  "chapter": 8,
+                  "verseStart": 28,
+                  "verseEnd": 28
                 }
               ],
               "links": [],
               "supplemental": false
             },
             {
-              "text": "**Supplication.** Ask, for others and for yourself, and leave the answer with Him. (Phil 4:6; 1 Tim 2:1; Matt 7:7–8)",
+              "text": "**Supplication.** Ask, for others first and then for yourself, and leave the answer with Him. (Phil 4:6–7; 1 Tim 2:1; Matt 7:7–8)",
               "verses": [
                 {
-                  "label": "Phil 4:6",
+                  "label": "Phil 4:6–7",
                   "kind": "bible",
-                  "key": "philippians.4.6",
+                  "key": "philippians.4.6-7",
                   "book": "philippians",
                   "chapter": 4,
                   "verseStart": 6,
-                  "verseEnd": 6
+                  "verseEnd": 7
                 },
                 {
                   "label": "1 Tim 2:1",
@@ -50287,6 +50297,171 @@
                   "chapter": 7,
                   "verseStart": 7,
                   "verseEnd": 8
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ]
+        },
+        {
+          "heading": "What hinders prayer",
+          "lines": [
+            {
+              "text": "**Sin you are holding on to.** If you cherish wickedness in your heart, the Lord will not hear. (Ps 66:18)",
+              "verses": [
+                {
+                  "label": "Ps 66:18",
+                  "kind": "bible",
+                  "key": "psalms.66.18",
+                  "book": "psalms",
+                  "chapter": 66,
+                  "verseStart": 18,
+                  "verseEnd": 18
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Asking for the wrong reason.** You ask and do not receive because you ask wrongly, to spend it on your own pleasures. (James 4:3)",
+              "verses": [
+                {
+                  "label": "Jas 4:3",
+                  "kind": "bible",
+                  "key": "james.4.3",
+                  "book": "james",
+                  "chapter": 4,
+                  "verseStart": 3,
+                  "verseEnd": 3
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Sin that has come between you and God.** His hand is not short and His ear is not dull; it is our iniquities that have made the separation. (Isa 59:1–2)",
+              "verses": [
+                {
+                  "label": "Isa 59:1–2",
+                  "kind": "bible",
+                  "key": "isaiah.59.1-2",
+                  "book": "isaiah",
+                  "chapter": 59,
+                  "verseStart": 1,
+                  "verseEnd": 2
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Ask yourself first",
+              "text": "*\"Is there anything I am refusing to confess before I ask Him for this?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ]
+        },
+        {
+          "heading": "When prayer is hard",
+          "lines": [
+            {
+              "text": "**It costs something, and it did for Christ.** He prayed through the whole night before choosing the twelve, and in Gethsemane He prayed in agony. (Luke 6:12; Luke 22:44)",
+              "verses": [
+                {
+                  "label": "Luke 6:12",
+                  "kind": "bible",
+                  "key": "luke.6.12",
+                  "book": "luke",
+                  "chapter": 6,
+                  "verseStart": 12,
+                  "verseEnd": 12
+                },
+                {
+                  "label": "Luke 22:44",
+                  "kind": "bible",
+                  "key": "luke.22.44",
+                  "book": "luke",
+                  "chapter": 22,
+                  "verseStart": 44,
+                  "verseEnd": 44
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Keep at it and stay awake in it.** Devote yourselves to prayer, keeping alert in it with thanksgiving. (Col 4:2; 1 Thess 5:17)",
+              "verses": [
+                {
+                  "label": "Col 4:2",
+                  "kind": "bible",
+                  "key": "colossians.4.2",
+                  "book": "colossians",
+                  "chapter": 4,
+                  "verseStart": 2,
+                  "verseEnd": 2
+                },
+                {
+                  "label": "1 Thess 5:17",
+                  "kind": "bible",
+                  "key": "1-thessalonians.5.17",
+                  "book": "1-thessalonians",
+                  "chapter": 5,
+                  "verseStart": 17,
+                  "verseEnd": 17
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Discouragement is not a reason to stay away.** David asked how long the Lord would forget him, and said he cried by day and got no answer, and he said both of those things to God. Bring Him the complaint. (Ps 13:1–2; Ps 22:2)",
+              "verses": [
+                {
+                  "label": "Ps 13:1–2",
+                  "kind": "bible",
+                  "key": "psalms.13.1-2",
+                  "book": "psalms",
+                  "chapter": 13,
+                  "verseStart": 1,
+                  "verseEnd": 2
+                },
+                {
+                  "label": "Ps 22:2",
+                  "kind": "bible",
+                  "key": "psalms.22.2",
+                  "book": "psalms",
+                  "chapter": 22,
+                  "verseStart": 2,
+                  "verseEnd": 2
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**A no is an answer.** Paul asked three times and was told grace was enough. The Son asked for the cup to pass and then said, \"not what I will.\" Neither of them lacked faith. (2 Cor 12:7–10; Mark 14:36)",
+              "verses": [
+                {
+                  "label": "2 Cor 12:7–10",
+                  "kind": "bible",
+                  "key": "2-corinthians.12.7-10",
+                  "book": "2-corinthians",
+                  "chapter": 12,
+                  "verseStart": 7,
+                  "verseEnd": 10
+                },
+                {
+                  "label": "Mark 14:36",
+                  "kind": "bible",
+                  "key": "mark.14.36",
+                  "book": "mark",
+                  "chapter": 14,
+                  "verseStart": 36,
+                  "verseEnd": 36
                 }
               ],
               "links": [],
