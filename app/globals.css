@@ -756,4 +756,4 @@ html[data-standalone] .welcome-install {
 .tl-ref { display: block; color: var(--color-muted); font-size: 15px; }
 
 /* A section with an odd number of groups: the last tile fills the row instead of leaving a gap. */
-.tiles > :last-child:nth-child(odd) { grid-column: 1 / -1; }
+.tiles > .tile-wide { grid-column: 1 / -1; }

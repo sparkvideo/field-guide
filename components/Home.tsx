@@ -16,14 +16,12 @@ import { Welcome } from "./Welcome";
 type GroupRow = { slug: string; name: string; color: string; plays: number; objections: number };
 
 // The home screen is one scrolling page. Groups sit under three headings as small tiles.
-const FAMILIES = [
+const FAMILIES: { id: string; title: string; slugs: string[]; featured?: string }[] = [
   { id: "sec-religions", title: "Religious worldviews", slugs: ["muslim", "jewish", "hindu", "buddhist", "new-age", "satanist"] },
-  // The last tile in an odd-numbered list spans the full width (see .tiles in globals.css),
-  // so whatever sits last here reads as the headline of the section. This list is even, so
-  // nothing is featured. When Hebrew Roots launches it makes nine, and it must NOT be last:
-  // use ["jw", "unitarian", "oneness", "catholic", "orthodox", "hebrew-roots", "progressive",
-  // "prosperity", "lds"], which puts Hebrew Roots mid-block and gives Mormon the wide tile.
-  { id: "sec-christian", title: "False Christianity & competing claims", slugs: ["jw", "lds", "unitarian", "oneness", "catholic", "orthodox", "progressive", "prosperity"] },
+  // Mormon leads this section on a full-width tile: it's the group our men are most likely
+  // to meet in this valley. When Hebrew Roots launches, add "hebrew-roots" after "orthodox",
+  // mid-block, where it draws no attention. Never make it the featured or the last tile.
+  { id: "sec-christian", title: "False Christianity & competing claims", featured: "lds", slugs: ["jw", "lds", "unitarian", "oneness", "catholic", "orthodox", "progressive", "prosperity"] },
   { id: "sec-nonreligious", title: "Nonreligious worldviews", slugs: ["atheist", "agnostic", "humanist", "deist"] },
 ];
 const JUMPS: [string, string][] = [
@@ -264,14 +262,23 @@ export function Home({ groups }: { groups: GroupRow[] }) {
 
           <h2 className="home-title">Who are you talking to?</h2>
           {FAMILIES.map((f) => {
-            const list = f.slugs.map((slug) => groups.find((g) => g.slug === slug)).filter((g): g is GroupRow => !!g);
+            const found = f.slugs.map((slug) => groups.find((g) => g.slug === slug)).filter((g): g is GroupRow => !!g);
+            // A featured group leads its section on a full-width tile. The rest follow in pairs,
+            // and if that leaves one alone on the last row it widens too, so there's no gap.
+            const lead = f.featured ? found.find((g) => g.slug === f.featured) : undefined;
+            const list = lead ? [lead, ...found.filter((g) => g.slug !== lead.slug)] : found;
+            const orphan = (list.length - (lead ? 1 : 0)) % 2 === 1;
             return (
               list.length > 0 && (
                 <section key={f.id} id={f.id} className="home-sec" aria-label={f.title}>
                   <h3 className="label">{f.title}</h3>
-                  <div className="tiles">
-                    {list.map((g) => (
-                      <Link key={g.slug} href={`/${g.slug}`} className="tile">
+                  <div className={lead ? "tiles has-featured" : "tiles"}>
+                    {list.map((g, i) => (
+                      <Link
+                        key={g.slug}
+                        href={`/${g.slug}`}
+                        className={(lead && i === 0) || (orphan && i === list.length - 1) ? "tile tile-wide" : "tile"}
+                      >
                         <span className="bar" style={{ background: g.color }} aria-hidden="true" />
                         <span>{g.name}</span>
                       </Link>
