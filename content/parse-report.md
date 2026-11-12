@@ -1,14 +1,14 @@
 # Parse report
 
-Source: content/field_guide_apologetics.md (2181 lines)
+Source: content/field_guide_apologetics.md (2191 lines)
 
 ## Per group
 
 | Group | Plays | Steps | Questions | "If they say" (plays) | Objections | Cheat card | Exits | ▶ links | ➕ items |
 |---|---|---|---|---|---|---|---|---|---|
-| Jehovah's Witness | 6 | 24 | 1 | 9 | 22 | 6 | 3 | 28 | 0 |
+| Jehovah's Witness | 6 | 24 | 1 | 9 | 23 | 6 | 5 | 28 | 0 |
 | Unitarian | 5 | 14 | 1 | 4 | 20 | 6 | 3 | 22 | 0 |
-| Mormon | 4 | 18 | 3 | 8 | 17 | 6 | 3 | 20 | 0 |
+| Mormon | 4 | 18 | 3 | 8 | 22 | 6 | 3 | 20 | 0 |
 | Muslim | 6 | 18 | 0 | 7 | 21 | 6 | 3 | 32 | 0 |
 | Jewish | 3 | 21 | 0 | 13 | 15 | 6 | 4 | 0 | 0 |
 | Hindu | 2 | 14 | 0 | 8 | 9 | 6 | 4 | 0 | 0 |
@@ -28,7 +28,7 @@ Source: content/field_guide_apologetics.md (2181 lines)
 
 ## Shared sections
 
-- The Method: 10 moves, 5 universal tools, 12 ▶ links
+- The Method: 12 moves, 5 universal tools, 12 ▶ links
 - Holy Spirit Play: Step A 6 rows + 5 "if they say"; Step B 7 rows (5 OT→NT pairs) + 3 "if they say"; 20 ▶ links; 0 ➕ items
 - Video References: 38 videos
 - Extra pages (content/extras.md): The Gospel (9 sections), The Way of the Master (8 sections), Worldviews: how do you know? (9 sections), The problem of evil (6 sections), Morality and justice (6 sections), The exclusivity of Christ (6 sections), The resurrection (6 sections), Hell and eternal judgment (6 sections), The end times (10 sections), Faith and reason (6 sections), The fallacy of evolution (9 sections), The abolition of abortion (13 sections), MacArthur on Rome (9 sections), The Trinity (7 sections), Is the Bible reliable? (7 sections), How to pray (10 sections), Cultural Marxism (8 sections), Social justice (8 sections), Words they use (17 sections); 1 ➕ items
@@ -44,11 +44,11 @@ Source: content/field_guide_apologetics.md (2181 lines)
 
 ## Verses
 
-- Bible references: 1648 unique (1586 verses/ranges + 62 whole-chapter mentions)
+- Bible references: 1659 unique (1595 verses/ranges + 64 whole-chapter mentions)
 - Quran: 26 · Book of Mormon: 6 · D&C: 1 · JST: 1 · Hadith: 5
-- Resolve in the bundled BSB: 1648 of 1648 ✓
-- LSB slots: 1586 total, **115 still empty**
-- Whole-chapter mentions (no LSB slot; they open the chapter in the reader): Gen 1, Gen 3, Gen 15, Gen 22, Lev 11, Lev 16, Lev 23, Num 21, Deut 34, Ps 8, Ps 19, Ps 22, Ps 49, Ps 51, Ps 82, Ps 95, Ps 102, Ps 110, Ps 116, Ps 119, Prov 8, Isa 9, Isa 42, Isa 43–45, Isa 53, Isa 61, Ezek 18, Ezek 37, Dan 2, Dan 7, Dan 9, Mark 7, Mark 15, John 1, John 5, John 6, John 14, John 17, Acts 2, Acts 3, Acts 10, Acts 15, Rom 1, Rom 3–5, Rom 5, Rom 14, Rom 16, 1 Cor 3, 1 Cor 8, 1 Cor 15, 2 Cor 6, Gal 5, Eph 2, Phil 2, Col 2, 1 Tim 4, 1 Tim 6, Heb 2, Heb 7–10, Heb 11, Rev 4, Rev 5
+- Resolve in the bundled BSB: 1659 of 1659 ✓
+- LSB slots: 1595 total, **9 still empty**
+- Whole-chapter mentions (no LSB slot; they open the chapter in the reader): Gen 1, Gen 3, Gen 15, Gen 22, Lev 11, Lev 16, Lev 23, Num 21, Deut 34, Ps 8, Ps 19, Ps 22, Ps 49, Ps 51, Ps 82, Ps 95, Ps 102, Ps 110, Ps 116, Ps 119, Prov 8, Isa 9, Isa 42, Isa 43–45, Isa 53, Isa 61, Ezek 18, Ezek 37, Dan 2, Dan 7, Dan 9, Mark 7, Mark 15, John 1, John 5, John 6, John 14, John 17, Acts 2, Acts 3, Acts 10, Acts 15, Rom 1, Rom 3, Rom 3–5, Rom 5, Rom 14, Rom 16, 1 Cor 3, 1 Cor 8, 1 Cor 15, 2 Cor 6, Gal 5, Eph 2, Phil 2, Col 2, 1 Tim 4, 1 Tim 6, Heb 1, Heb 2, Heb 7–10, Heb 11, Rev 4, Rev 5
 - Chapter:verse numbers written without a book name (not turned into chips):
   - Muslim objection 18: "5:16"
   - Hebrew Roots Play 4: "4:3–5"

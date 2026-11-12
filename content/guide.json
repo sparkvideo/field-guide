@@ -178,6 +178,78 @@
       },
       {
         "number": 10,
+        "title": "\"I can't comprehend it\" is not an answer when it's a contradiction.",
+        "verses": [
+          {
+            "label": "Isa 55:8–9",
+            "kind": "bible",
+            "key": "isaiah.55.8-9",
+            "book": "isaiah",
+            "chapter": 55,
+            "verseStart": 8,
+            "verseEnd": 9
+          },
+          {
+            "label": "Deut 29:29",
+            "kind": "bible",
+            "key": "deuteronomy.29.29",
+            "book": "deuteronomy",
+            "chapter": 29,
+            "verseStart": 29,
+            "verseEnd": 29
+          },
+          {
+            "label": "Isa 43:10",
+            "kind": "bible",
+            "key": "isaiah.43.10",
+            "book": "isaiah",
+            "chapter": 43,
+            "verseStart": 10,
+            "verseEnd": 10
+          }
+        ],
+        "links": [],
+        "supplemental": false,
+        "text": "When a verse flatly contradicts what a man was taught, he will often retreat into mystery. Separate the two out loud: *\"I can't comprehend God being eternal either, and I believe it, because it is above me. But that is incomprehension. This is a contradiction. 'No God was formed before Me' and 'there were gods before God' cannot both be true.\"* Mystery is for what is higher than us. A contradiction is a verse that says the opposite of what he believes, and it has to be faced, not filed away. (Isa 55:8–9; Deut 29:29; Isa 43:10)"
+      },
+      {
+        "number": 11,
+        "title": "The map.",
+        "verses": [
+          {
+            "label": "John 17:17",
+            "kind": "bible",
+            "key": "john.17.17",
+            "book": "john",
+            "chapter": 17,
+            "verseStart": 17,
+            "verseEnd": 17
+          },
+          {
+            "label": "Prov 3:5–6",
+            "kind": "bible",
+            "key": "proverbs.3.5-6",
+            "book": "proverbs",
+            "chapter": 3,
+            "verseStart": 5,
+            "verseEnd": 6
+          },
+          {
+            "label": "Jer 17:9",
+            "kind": "bible",
+            "key": "jeremiah.17.9",
+            "book": "jeremiah",
+            "chapter": 17,
+            "verseStart": 9,
+            "verseEnd": 9
+          }
+        ],
+        "links": [],
+        "supplemental": false,
+        "text": "When he trusts a feeling over the text: *\"Say someone hands us a map, and partway along I feel like we should have turned back there. We go by the feeling and we get lost. Was the map wrong, or were we?\"* Then land it: we don't move the word of God to fit the feeling. We move the feeling. (John 17:17; Prov 3:5–6; Jer 17:9)"
+      },
+      {
+        "number": 12,
         "title": "Stay warm.",
         "verses": [
           {
@@ -3397,6 +3469,44 @@
           "supplemental": false
         },
         {
+          "id": "we-are-saved-by-jesus",
+          "objection": "\"We are saved by Jesus' ransom. Our obedience and the organization just go with it.\"",
+          "response": "Paul met men who confessed Jesus, the cross and the resurrection, and added one requirement: circumcision. He called it a different gospel and pronounced a curse on it, and told them that anyone seeking to be justified by law has fallen from grace. Adding anything to Christ's work changes what saves you.",
+          "goTo": "Gal 1:6–9; Gal 5:2–4; Rom 4:4–5",
+          "askBack": "*\"If Paul cursed a gospel that added one thing to faith in Christ, what does that say about one that adds an organization?\"*",
+          "verses": [
+            {
+              "label": "Gal 1:6–9",
+              "kind": "bible",
+              "key": "galatians.1.6-9",
+              "book": "galatians",
+              "chapter": 1,
+              "verseStart": 6,
+              "verseEnd": 9
+            },
+            {
+              "label": "Gal 5:2–4",
+              "kind": "bible",
+              "key": "galatians.5.2-4",
+              "book": "galatians",
+              "chapter": 5,
+              "verseStart": 2,
+              "verseEnd": 4
+            },
+            {
+              "label": "Rom 4:4–5",
+              "kind": "bible",
+              "key": "romans.4.4-5",
+              "book": "romans",
+              "chapter": 4,
+              "verseStart": 4,
+              "verseEnd": 5
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
           "id": "jesus-was-perfect-man-corresponding",
           "objection": "\"Jesus was a perfect man, a corresponding ransom for Adam. He didn't need to be God.\"",
           "response": "He had to be truly man to die in our place. But Scripture says no man can ransom another, and that God Himself redeems. The One who paid is the Word, who was God and became flesh. Run [Only God can pay the ransom](/jw/case/play-6).",
@@ -3488,8 +3598,53 @@
             "supplemental": false
           },
           {
-            "text": "they say \"other translations say…\" (go to the Greek / their own interlinear).",
+            "text": "they say \"other translations say…\" (go to the Greek / their own interlinear)",
             "verses": [],
+            "links": [],
+            "supplemental": false
+          },
+          {
+            "text": "*\"Do you respect our beliefs?\"* (Answer honestly and kindly: *\"I respect you, completely, and I'm glad you knocked. I can't respect a teaching that leaves you without the Christ who saves you. That's the only reason I'm still standing here.\"*)",
+            "verses": [],
+            "links": [],
+            "supplemental": false
+          },
+          {
+            "text": "**Always leave them an assignment.** Whatever else happens, send them off with this: *\"Would you read Romans 3 to 5 and Hebrews 1 this week, in any translation you like, and ask whether the Jesus in those chapters is the one you've been taught?\"* (Rom 3:21–28; Heb 1:8–12)",
+            "verses": [
+              {
+                "label": "Rom 3",
+                "kind": "bible",
+                "key": "romans.3",
+                "book": "romans",
+                "chapter": 3
+              },
+              {
+                "label": "Heb 1",
+                "kind": "bible",
+                "key": "hebrews.1",
+                "book": "hebrews",
+                "chapter": 1
+              },
+              {
+                "label": "Rom 3:21–28",
+                "kind": "bible",
+                "key": "romans.3.21-28",
+                "book": "romans",
+                "chapter": 3,
+                "verseStart": 21,
+                "verseEnd": 28
+              },
+              {
+                "label": "Heb 1:8–12",
+                "kind": "bible",
+                "key": "hebrews.1.8-12",
+                "book": "hebrews",
+                "chapter": 1,
+                "verseStart": 8,
+                "verseEnd": 12
+              }
+            ],
             "links": [],
             "supplemental": false
           }
@@ -7278,6 +7433,248 @@
               "chapter": 17,
               "verseStart": 11,
               "verseEnd": 11
+            },
+            {
+              "label": "Gal 1:8",
+              "kind": "bible",
+              "key": "galatians.1.8",
+              "book": "galatians",
+              "chapter": 1,
+              "verseStart": 8,
+              "verseEnd": 8
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "james-faith-without-works-dead",
+          "objection": "\"James says faith without works is dead. So works are part of it.\"",
+          "response": "Agreed, and we believe it: a faith that produces nothing was never alive. But read what James says four verses earlier: whoever keeps the whole law and stumbles at one point is guilty of all of it. He is not asking how a man is justified before God; he is asking how you can tell a living faith from a dead one. Paul answers the other question: a man is justified by faith apart from works of law.",
+          "goTo": "James 2:10; James 2:14; James 2:17–18; Rom 3:28; Rom 4:4–5",
+          "askBack": "*\"By James's own standard, how did you do at keeping the whole law today? Because he says one point makes you guilty of all of it.\"*",
+          "verses": [
+            {
+              "label": "Jas 2:10",
+              "kind": "bible",
+              "key": "james.2.10",
+              "book": "james",
+              "chapter": 2,
+              "verseStart": 10,
+              "verseEnd": 10
+            },
+            {
+              "label": "Jas 2:14",
+              "kind": "bible",
+              "key": "james.2.14",
+              "book": "james",
+              "chapter": 2,
+              "verseStart": 14,
+              "verseEnd": 14
+            },
+            {
+              "label": "Jas 2:17–18",
+              "kind": "bible",
+              "key": "james.2.17-18",
+              "book": "james",
+              "chapter": 2,
+              "verseStart": 17,
+              "verseEnd": 18
+            },
+            {
+              "label": "Rom 3:28",
+              "kind": "bible",
+              "key": "romans.3.28",
+              "book": "romans",
+              "chapter": 3,
+              "verseStart": 28,
+              "verseEnd": 28
+            },
+            {
+              "label": "Rom 4:4–5",
+              "kind": "bible",
+              "key": "romans.4.4-5",
+              "book": "romans",
+              "chapter": 4,
+              "verseStart": 4,
+              "verseEnd": 5
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "paul-himself-there-are-many",
+          "objection": "\"Paul himself says there are many gods (1 Cor 8:5).\"",
+          "response": "Read the next line. Paul says there are so-called gods, many \"gods\" and many \"lords,\" **yet for us there is one God, the Father, and one Lord, Jesus Christ.** The chapter is about meat sacrificed to idols, and Paul's whole point is that an idol is nothing. Psalm 82 gets used the same way: God is judging corrupt human judges He calls \"gods,\" and they die like men.",
+          "goTo": "1 Cor 8:4–6; Ps 82:6–7; John 10:34–36",
+          "askBack": "*\"Paul says there are many so-called gods. Does he say any of them are real?\"*",
+          "verses": [
+            {
+              "label": "1 Cor 8:4–6",
+              "kind": "bible",
+              "key": "1-corinthians.8.4-6",
+              "book": "1-corinthians",
+              "chapter": 8,
+              "verseStart": 4,
+              "verseEnd": 6
+            },
+            {
+              "label": "Ps 82:6–7",
+              "kind": "bible",
+              "key": "psalms.82.6-7",
+              "book": "psalms",
+              "chapter": 82,
+              "verseStart": 6,
+              "verseEnd": 7
+            },
+            {
+              "label": "John 10:34–36",
+              "kind": "bible",
+              "key": "john.10.34-36",
+              "book": "john",
+              "chapter": 10,
+              "verseStart": 34,
+              "verseEnd": 36
+            },
+            {
+              "label": "Ps 82",
+              "kind": "bible",
+              "key": "psalms.82",
+              "book": "psalms",
+              "chapter": 82
+            },
+            {
+              "label": "1 Cor 8:5",
+              "kind": "bible",
+              "key": "1-corinthians.8.5",
+              "book": "1-corinthians",
+              "chapter": 8,
+              "verseStart": 5,
+              "verseEnd": 5
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "jesus-only-begotten-father-father",
+          "objection": "\"Jesus is the 'only begotten' of the Father, so the Father produced Him.\"",
+          "response": "*Monogenēs* means unique, one of a kind, not manufactured. Isaac is called Abraham's \"only begotten,\" and Abraham had Ishmael. Hebrews says God's Son is the radiance of His glory and the exact representation of His nature, and that it was through the Son that He made the world.",
+          "goTo": "John 1:14; John 1:18; Heb 11:17; Heb 1:2–3",
+          "askBack": "*\"Isaac is called Abraham's only begotten, and Abraham had another son. So what does the word actually mean?\"*",
+          "verses": [
+            {
+              "label": "John 1:14",
+              "kind": "bible",
+              "key": "john.1.14",
+              "book": "john",
+              "chapter": 1,
+              "verseStart": 14,
+              "verseEnd": 14
+            },
+            {
+              "label": "John 1:18",
+              "kind": "bible",
+              "key": "john.1.18",
+              "book": "john",
+              "chapter": 1,
+              "verseStart": 18,
+              "verseEnd": 18
+            },
+            {
+              "label": "Heb 11:17",
+              "kind": "bible",
+              "key": "hebrews.11.17",
+              "book": "hebrews",
+              "chapter": 11,
+              "verseStart": 17,
+              "verseEnd": 17
+            },
+            {
+              "label": "Heb 1:2–3",
+              "kind": "bible",
+              "key": "hebrews.1.2-3",
+              "book": "hebrews",
+              "chapter": 1,
+              "verseStart": 2,
+              "verseEnd": 3
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "thats-beyond-my-comprehension-theres",
+          "objection": "\"That's beyond my comprehension. There's more to it than we can understand.\"",
+          "response": "Much about God is beyond us, and no Christian denies it. But this is not something above your understanding; it is a verse that says the opposite of what you have been taught. God says no God was formed before Him and none will be after Him, and that He knows of no other. Joseph taught gods before God and gods after. That is not deep, it is contradictory, and it has to be faced.",
+          "goTo": "Isa 43:10; Isa 44:6; Isa 44:8; Deut 29:29",
+          "askBack": "*\"Is this something too high for you, or is it a sentence that says the opposite of what you believe? Those are two different problems.\"*",
+          "verses": [
+            {
+              "label": "Isa 43:10",
+              "kind": "bible",
+              "key": "isaiah.43.10",
+              "book": "isaiah",
+              "chapter": 43,
+              "verseStart": 10,
+              "verseEnd": 10
+            },
+            {
+              "label": "Isa 44:6",
+              "kind": "bible",
+              "key": "isaiah.44.6",
+              "book": "isaiah",
+              "chapter": 44,
+              "verseStart": 6,
+              "verseEnd": 6
+            },
+            {
+              "label": "Isa 44:8",
+              "kind": "bible",
+              "key": "isaiah.44.8",
+              "book": "isaiah",
+              "chapter": 44,
+              "verseStart": 8,
+              "verseEnd": 8
+            },
+            {
+              "label": "Deut 29:29",
+              "kind": "bible",
+              "key": "deuteronomy.29.29",
+              "book": "deuteronomy",
+              "chapter": 29,
+              "verseStart": 29,
+              "verseEnd": 29
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "its-offensive-im-not-christian",
+          "objection": "\"It's offensive to say I'm not a Christian.\"",
+          "response": "Say it without heat: I'm not here to insult you, I'm here because I care where you spend forever. John wrote to men who used every Christian word and denied one thing about Christ, and he said anyone who does not abide in the teaching of Christ does not have God. The name is not the issue. The Christ is.",
+          "goTo": "2 John 1:9; 2 Cor 11:3–4; Gal 1:8",
+          "askBack": "*\"If a Muslim told you he believes in Jesus, would you correct him? Why would that not be an insult?\"*",
+          "verses": [
+            {
+              "label": "2 John 1:9",
+              "kind": "bible",
+              "key": "2-john.1.9",
+              "book": "2-john",
+              "chapter": 1,
+              "verseStart": 9,
+              "verseEnd": 9
+            },
+            {
+              "label": "2 Cor 11:3–4",
+              "kind": "bible",
+              "key": "2-corinthians.11.3-4",
+              "book": "2-corinthians",
+              "chapter": 11,
+              "verseStart": 3,
+              "verseEnd": 4
             },
             {
               "label": "Gal 1:8",

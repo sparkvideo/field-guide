@@ -1,120 +1,14 @@
-# LSB verses still to fill in (115 of 1586)
+# LSB verses still to fill in (9 of 1595)
 
 Open `content/lsb-verses.json`, find the reference, and paste the LSB text between the quotes after "text".
 Until a slot is filled, the app shows the BSB text with a small "BSB" label.
 
-- [ ] Exodus 7:11–12
-- [ ] Exodus 23:2–3
-- [ ] Exodus 23:6
-- [ ] Leviticus 19:35–36
-- [ ] Leviticus 24:22
-- [ ] Deuteronomy 16:18–20
-- [ ] Deuteronomy 18:20–22
-- [ ] 1 Chronicles 12:32
-- [ ] Job 1:8–12
-- [ ] Job 2:3–7
-- [ ] Job 2:6–7
-- [ ] Job 41:11
-- [ ] Psalms 88:1–3
-- [ ] Psalms 105:13–15
-- [ ] Psalms 115:3
-- [ ] Proverbs 11:1
-- [ ] Proverbs 14:31
-- [ ] Proverbs 18:13
-- [ ] Proverbs 18:21
-- [ ] Proverbs 22:22–23
-- [ ] Isaiah 1:17
-- [ ] Jeremiah 22:3
-- [ ] Jeremiah 23:16
-- [ ] Jeremiah 29:10–11
-- [ ] Lamentations 3:19–23
-- [ ] Ezekiel 22:29
-- [ ] Zechariah 7:9–10
-- [ ] Malachi 3:8–10
-- [ ] Matthew 5:3
-- [ ] Matthew 6:9–10
-- [ ] Matthew 8:16–17
-- [ ] Matthew 18:15–20
-- [ ] Matthew 23:23
-- [ ] Matthew 24:24
-- [ ] Mark 9:23–24
-- [ ] Mark 10:30
-- [ ] Mark 12:41–44
-- [ ] Mark 13:1–2
-- [ ] Mark 14:36
-- [ ] Luke 4:18
-- [ ] Luke 6:36–38
-- [ ] Luke 11:42
-- [ ] Luke 12:13–15
-- [ ] John 14:12
-- [ ] John 14:13
-- [ ] John 16:33
-- [ ] John 18:36
-- [ ] Acts 2:41
-- [ ] Acts 5:4
-- [ ] Acts 8:18–23
-- [ ] Acts 8:20–23
-- [ ] Acts 14:22
-- [ ] Romans 2:11
-- [ ] Romans 4:17
-- [ ] Romans 8:22–25
-- [ ] Romans 8:22–23
-- [ ] Romans 8:23
-- [ ] Romans 8:26–29
-- [ ] Romans 11:35
-- [ ] 1 Corinthians 2:2
-- [ ] 1 Corinthians 9:19–22
-- [ ] 1 Corinthians 12:7
-- [ ] 1 Corinthians 14:12
-- [ ] 1 Corinthians 14:33
-- [ ] 1 Corinthians 15:42–44
-- [ ] 1 Corinthians 15:53–54
-- [ ] 2 Corinthians 2:17
-- [ ] 2 Corinthians 4:16–18
-- [ ] 2 Corinthians 5:1–4
-- [ ] 2 Corinthians 8:1–2
-- [ ] 2 Corinthians 8:9
-- [ ] 2 Corinthians 9:7
-- [ ] 2 Corinthians 10:3–5
-- [ ] 2 Corinthians 11:3–4
-- [ ] 2 Corinthians 11:23–28
-- [ ] 2 Corinthians 11:23
-- [ ] 2 Corinthians 12:7–10
-- [ ] 2 Corinthians 12:9
-- [ ] 2 Corinthians 12:9–10
-- [ ] Galatians 3:13–14
-- [ ] Ephesians 2:11–13
-- [ ] Ephesians 2:18–19
-- [ ] Philippians 2:25–30
-- [ ] Philippians 2:27
-- [ ] Philippians 3:20–21
-- [ ] Philippians 4:11–12
-- [ ] 1 Thessalonians 5:20–22
-- [ ] 2 Thessalonians 2:9
-- [ ] 1 Timothy 3:3
-- [ ] 1 Timothy 5:23
-- [ ] 1 Timothy 6:5–10
-- [ ] 1 Timothy 6:5
-- [ ] 1 Timothy 6:9–10
-- [ ] 1 Timothy 6:17–19
-- [ ] 2 Timothy 4:20
-- [ ] Titus 1:10–11
-- [ ] Hebrews 11:35–39
-- [ ] James 2:1–9
-- [ ] James 2:15–16
-- [ ] James 3:5–10
-- [ ] James 4:2–3
-- [ ] James 4:13–16
-- [ ] James 5:4
-- [ ] James 5:14–16
-- [ ] 1 Peter 5:2
-- [ ] 1 Peter 5:2–3
-- [ ] 2 Peter 1:3
-- [ ] 2 Peter 2:1–3
-- [ ] 1 John 1:8
-- [ ] 1 John 4:2–3
-- [ ] 1 John 4:5
-- [ ] 1 John 4:6
-- [ ] 1 John 4:7–8
-- [ ] 3 John 1:2
-- [ ] 3 John 1:3–4
+- [ ] Proverbs 3:5–6
+- [ ] John 10:34–36
+- [ ] Romans 3:21–28
+- [ ] 1 Corinthians 8:4–6
+- [ ] 1 Corinthians 8:5
+- [ ] Hebrews 1:2–3
+- [ ] Hebrews 1:8–12
+- [ ] James 2:17–18
+- [ ] 2 John 1:9
