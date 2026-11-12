@@ -19,9 +19,9 @@ type GroupRow = { slug: string; name: string; color: string; plays: number; obje
 const FAMILIES: { id: string; title: string; slugs: string[]; featured?: string }[] = [
   { id: "sec-religions", title: "Religious worldviews", slugs: ["muslim", "jewish", "hindu", "buddhist", "new-age", "satanist"] },
   // Mormon leads this section on a full-width tile: it's the group our men are most likely
-  // to meet in this valley. When Hebrew Roots launches, add "hebrew-roots" after "orthodox",
-  // mid-block, where it draws no attention. Never make it the featured or the last tile.
-  { id: "sec-christian", title: "False Christianity & competing claims", featured: "lds", slugs: ["jw", "lds", "unitarian", "oneness", "catholic", "orthodox", "progressive", "prosperity"] },
+  // to meet in this valley. Hebrew Roots sits mid-block on purpose, where it draws no
+  // attention; it must never be the featured tile or the last one.
+  { id: "sec-christian", title: "False Christianity & competing claims", featured: "lds", slugs: ["jw", "lds", "unitarian", "oneness", "catholic", "orthodox", "hebrew-roots", "progressive", "prosperity"] },
   { id: "sec-nonreligious", title: "Nonreligious worldviews", slugs: ["atheist", "agnostic", "humanist", "deist"] },
 ];
 const JUMPS: [string, string][] = [

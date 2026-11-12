@@ -1134,6 +1134,19 @@ Then give [The Gospel](/topic/the-gospel). See also [Cultural Marxism](/topic/cu
 - **Objective morality:** right and wrong that are true whatever anyone thinks.
 - **Burden of proof:** whoever makes a claim has to back it up. "There is no God" is a claim.
 
+## Hebrew Roots / Torah observant
+- **Hebrew Roots:** a movement holding that the church lost its Jewish foundation and that believers, Jew and Gentile alike, are still bound to keep the Mosaic Law.
+- **Torah observant:** how most in the movement describe themselves: keeping the Sabbath, the food laws and the feasts as binding commands.
+- **Messianic Judaism:** not the same thing. Mostly Jewish believers in Jesus who keep Jewish customs as heritage, and who in the main teach justification by faith alone. Many Messianic leaders reject Hebrew Roots teaching.
+- **One Law / One Torah:** the teaching that every command given to Israel binds Gentile believers identically.
+- **Two House / Ephraimite:** the claim that Gentile believers are physically descended from the lost northern tribes, so the Law is their birthright.
+- **Sacred Name:** the insistence on Hebrew forms of the divine name and of Jesus, with the claim that "Jesus" or "God" is pagan.
+- **Torah:** the first five books, and in wider use the whole body of God's instruction. **Oral Torah / Talmud:** rabbinic tradition, which some in the movement add and others reject.
+- **Moedim:** the appointed feasts of Leviticus 23. **Shabbat:** the seventh-day Sabbath.
+- **Kashrut / kosher:** the food laws. **Treif:** food those laws forbid, pork among it.
+- **Grafted in:** from Romans 11. They take it to mean Gentiles are brought under Israel's Law; Paul's point there is that we share Israel's root by faith, and he warns us not to be arrogant.
+- **Judaizers:** the first-century teachers who required Gentile converts to keep the Law. Paul's letter to the Galatians answers them.
+
 ## Prosperity gospel / Word of Faith
 - **Word of Faith:** the teaching that faith is a force released by spoken words, so what you confess is what you get.
 - **Positive confession / "name it and claim it":** saying a thing as already true in order to bring it about. Its opposite, "negative confession," is treated as inviting disaster.

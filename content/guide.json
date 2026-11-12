@@ -24623,7 +24623,6 @@
       "name": "Hebrew Roots",
       "heading": "HEBREW ROOTS / TORAH OBSERVANT",
       "color": "#b45309",
-      "hidden": true,
       "emoji": "📜",
       "beliefs": {
         "text": "Sort out three labels first, because they are not the same. **Messianic Judaism** is mostly Jewish believers in Jesus who keep Jewish customs as their heritage; many of their congregations confess the Trinity and salvation by grace through faith. **Hebrew Roots** is mostly Gentiles who have concluded that the Law of Moses is binding on every believer. **Torah-observant** describes the practice and can mean either. A Gentile who calls himself a Messianic Jew usually belongs in the second group. What they hold in common: Jesus, whom they call Yeshua, is the Messiah, and most affirm He is God. The Torah was never set aside: the seventh-day Sabbath, the feasts of Leviticus 23, and the food laws of Leviticus 11. Their key texts are \"I did not come to abolish the Law\" (Matt 5:17–19) and \"sin is lawlessness\" (1 John 3:4). They say the church went pagan early, and that Paul has been misread. Most say they keep Torah because they are saved, not in order to be saved. There is no central body, so views range widely; a fringe goes on to reject Paul or the Trinity.",
@@ -54131,6 +54130,104 @@
             {
               "label": "Burden of proof",
               "text": "whoever makes a claim has to back it up. \"There is no God\" is a claim.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ]
+        },
+        {
+          "heading": "Hebrew Roots / Torah observant",
+          "lines": [
+            {
+              "label": "Hebrew Roots",
+              "text": "a movement holding that the church lost its Jewish foundation and that believers, Jew and Gentile alike, are still bound to keep the Mosaic Law.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Torah observant",
+              "text": "how most in the movement describe themselves: keeping the Sabbath, the food laws and the feasts as binding commands.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Messianic Judaism",
+              "text": "not the same thing. Mostly Jewish believers in Jesus who keep Jewish customs as heritage, and who in the main teach justification by faith alone. Many Messianic leaders reject Hebrew Roots teaching.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "One Law / One Torah",
+              "text": "the teaching that every command given to Israel binds Gentile believers identically.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Two House / Ephraimite",
+              "text": "the claim that Gentile believers are physically descended from the lost northern tribes, so the Law is their birthright.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Sacred Name",
+              "text": "the insistence on Hebrew forms of the divine name and of Jesus, with the claim that \"Jesus\" or \"God\" is pagan.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Torah",
+              "text": "the first five books, and in wider use the whole body of God's instruction. **Oral Torah / Talmud:** rabbinic tradition, which some in the movement add and others reject.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Moedim",
+              "text": "the appointed feasts of Leviticus 23. **Shabbat:** the seventh-day Sabbath.",
+              "verses": [
+                {
+                  "label": "Lev 23",
+                  "kind": "bible",
+                  "key": "leviticus.23",
+                  "book": "leviticus",
+                  "chapter": 23
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Kashrut / kosher",
+              "text": "the food laws. **Treif:** food those laws forbid, pork among it.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Grafted in",
+              "text": "from Romans 11. They take it to mean Gentiles are brought under Israel's Law; Paul's point there is that we share Israel's root by faith, and he warns us not to be arrogant.",
+              "verses": [
+                {
+                  "label": "Rom 11",
+                  "kind": "bible",
+                  "key": "romans.11",
+                  "book": "romans",
+                  "chapter": 11
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Judaizers",
+              "text": "the first-century teachers who required Gentile converts to keep the Law. Paul's letter to the Galatians answers them.",
               "verses": [],
               "links": [],
               "supplemental": false
