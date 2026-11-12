@@ -1,6 +1,6 @@
 # Parse report
 
-Source: content/field_guide_apologetics.md (1968 lines)
+Source: content/field_guide_apologetics.md (2017 lines)
 
 ## Per group
 
@@ -17,7 +17,7 @@ Source: content/field_guide_apologetics.md (1968 lines)
 | Satanist | 2 | 15 | 0 | 8 | 9 | 6 | 4 | 0 | 0 |
 | Oneness Pentecostal | 3 | 20 | 0 | 12 | 12 | 6 | 4 | 0 | 0 |
 | Progressive Christian | 3 | 21 | 0 | 12 | 14 | 6 | 4 | 0 | 0 |
-| Hebrew Roots | 2 | 15 | 0 | 9 | 10 | 6 | 4 | 0 | 0 |
+| Hebrew Roots | 4 | 32 | 0 | 17 | 19 | 6 | 4 | 0 | 0 |
 | Roman Catholic | 5 | 32 | 0 | 18 | 35 | 6 | 3 | 0 | 0 |
 | Eastern Orthodox | 5 | 27 | 0 | 16 | 22 | 6 | 3 | 0 | 0 |
 | Agnostic | 2 | 14 | 0 | 7 | 8 | 6 | 4 | 0 | 0 |
@@ -43,13 +43,14 @@ Source: content/field_guide_apologetics.md (1968 lines)
 
 ## Verses
 
-- Bible references: 1495 unique (1436 verses/ranges + 59 whole-chapter mentions)
+- Bible references: 1530 unique (1471 verses/ranges + 59 whole-chapter mentions)
 - Quran: 26 · Book of Mormon: 6 · D&C: 1 · JST: 1 · Hadith: 5
-- Resolve in the bundled BSB: 1495 of 1495 ✓
-- LSB slots: 1436 total, **0 still empty**
+- Resolve in the bundled BSB: 1530 of 1530 ✓
+- LSB slots: 1471 total, **36 still empty** (1 filled slot(s) no longer cited: Galatians 2:4–5)
 - Whole-chapter mentions (no LSB slot; they open the chapter in the reader): Gen 1, Gen 3, Gen 15, Gen 22, Lev 11, Lev 16, Lev 23, Num 21, Deut 34, Ps 8, Ps 19, Ps 22, Ps 49, Ps 51, Ps 82, Ps 95, Ps 102, Ps 110, Ps 116, Ps 119, Prov 8, Isa 9, Isa 42, Isa 43–45, Isa 53, Isa 61, Ezek 18, Ezek 37, Dan 2, Dan 7, Dan 9, Mark 7, Mark 15, John 1, John 5, John 6, John 14, John 17, Acts 2, Acts 3, Acts 10, Acts 15, Rom 1, Rom 3–5, Rom 5, Rom 14, Rom 16, 1 Cor 3, 1 Cor 8, 1 Cor 15, 2 Cor 6, Gal 5, Phil 2, Col 2, 1 Tim 4, Heb 2, Heb 7–10, Rev 4, Rev 5
 - Chapter:verse numbers written without a book name (not turned into chips):
   - Muslim objection 18: "5:16"
+  - Hebrew Roots Play 4: "4:3–5"
   - Roman Catholic objection 4: "2:14"
   - Roman Catholic objection 4: "2:18"
   - Roman Catholic objection 5: "6:35"

@@ -21572,7 +21572,7 @@
       "hidden": true,
       "emoji": "📜",
       "beliefs": {
-        "text": "They believe Jesus, whom they call Yeshua, is the Messiah, and most affirm He is God. What sets them apart is the claim that the Law of Moses is still binding on every believer, Jew and Gentile: the seventh-day Sabbath, the feasts of Leviticus 23, the food laws of Leviticus 11, and for some, circumcision and tassels. Their key texts are \"I did not come to abolish the Law\" (Matt 5:17–19) and \"sin is lawlessness\" (1 John 3:4). They say the church went pagan early, blaming Constantine for Sunday worship, Christmas and Easter, and that Paul has been misread. Most say they keep Torah out of obedience, not to be saved. There is no central body, so views range widely; a fringe goes on to reject Paul or the Trinity.",
+        "text": "Sort out three labels first, because they are not the same. **Messianic Judaism** is mostly Jewish believers in Jesus who keep Jewish customs as their heritage; many of their congregations confess the Trinity and salvation by grace through faith. **Hebrew Roots** is mostly Gentiles who have concluded that the Law of Moses is binding on every believer. **Torah-observant** describes the practice and can mean either. A Gentile who calls himself a Messianic Jew usually belongs in the second group. What they hold in common: Jesus, whom they call Yeshua, is the Messiah, and most affirm He is God. The Torah was never set aside: the seventh-day Sabbath, the feasts of Leviticus 23, and the food laws of Leviticus 11. Their key texts are \"I did not come to abolish the Law\" (Matt 5:17–19) and \"sin is lawlessness\" (1 John 3:4). They say the church went pagan early, and that Paul has been misread. Most say they keep Torah because they are saved, not in order to be saved. There is no central body, so views range widely; a fringe goes on to reject Paul or the Trinity.",
         "verses": [
           {
             "label": "Lev 23",
@@ -21613,7 +21613,7 @@
       "lead": [
         {
           "label": "Their position",
-          "text": "They believe Jesus, whom they call Yeshua, is the Messiah, and most affirm He is God. What sets them apart is the claim that the Law of Moses is still binding on every believer, Jew and Gentile: the seventh-day Sabbath, the feasts of Leviticus 23, the food laws of Leviticus 11, and for some, circumcision and tassels. Their key texts are \"I did not come to abolish the Law\" (Matt 5:17–19) and \"sin is lawlessness\" (1 John 3:4). They say the church went pagan early, blaming Constantine for Sunday worship, Christmas and Easter, and that Paul has been misread. Most say they keep Torah out of obedience, not to be saved. There is no central body, so views range widely; a fringe goes on to reject Paul or the Trinity.",
+          "text": "Sort out three labels first, because they are not the same. **Messianic Judaism** is mostly Jewish believers in Jesus who keep Jewish customs as their heritage; many of their congregations confess the Trinity and salvation by grace through faith. **Hebrew Roots** is mostly Gentiles who have concluded that the Law of Moses is binding on every believer. **Torah-observant** describes the practice and can mean either. A Gentile who calls himself a Messianic Jew usually belongs in the second group. What they hold in common: Jesus, whom they call Yeshua, is the Messiah, and most affirm He is God. The Torah was never set aside: the seventh-day Sabbath, the feasts of Leviticus 23, and the food laws of Leviticus 11. Their key texts are \"I did not come to abolish the Law\" (Matt 5:17–19) and \"sin is lawlessness\" (1 John 3:4). They say the church went pagan early, and that Paul has been misread. Most say they keep Torah because they are saved, not in order to be saved. There is no central body, so views range widely; a fringe goes on to reject Paul or the Trinity.",
           "verses": [
             {
               "label": "Lev 23",
@@ -21653,8 +21653,17 @@
         },
         {
           "label": "The dividing issue",
-          "text": "Whether the covenant made at Sinai binds the Christian, and whether law-keeping is added to Christ for a believer's standing or growth. The apostles faced this exact question and answered it. To put believers back under that yoke is what Paul calls turning to a different gospel. (Acts 15:10–11; Gal 3:1–3; Gal 5:1–4; Col 2:16–17)",
+          "text": "Not the practices, but what he believes about them. There are four different positions, and Scripture answers each differently. One: he keeps these things freely, as a personal or family practice, and binds no one. That is liberty. Two: he believes God commands them of every Christian, so that a believer who eats pork or ignores the Sabbath is disobeying. Three: he believes keeping them is how a Christian grows in holiness. Four: he believes they are part of being right with God. The first is permitted, the second and third misread the new covenant and are what Paul corrected in Galatians and Colossians, and the fourth is another gospel. Do not treat a man in the second as though he were in the fourth. (Rom 14:5–6; Acts 15:10–11; Col 2:16–17; Gal 3:2–3; Gal 5:2–4; Gal 1:6–9)",
           "verses": [
+            {
+              "label": "Rom 14:5–6",
+              "kind": "bible",
+              "key": "romans.14.5-6",
+              "book": "romans",
+              "chapter": 14,
+              "verseStart": 5,
+              "verseEnd": 6
+            },
             {
               "label": "Acts 15:10–11",
               "kind": "bible",
@@ -21665,24 +21674,6 @@
               "verseEnd": 11
             },
             {
-              "label": "Gal 3:1–3",
-              "kind": "bible",
-              "key": "galatians.3.1-3",
-              "book": "galatians",
-              "chapter": 3,
-              "verseStart": 1,
-              "verseEnd": 3
-            },
-            {
-              "label": "Gal 5:1–4",
-              "kind": "bible",
-              "key": "galatians.5.1-4",
-              "book": "galatians",
-              "chapter": 5,
-              "verseStart": 1,
-              "verseEnd": 4
-            },
-            {
               "label": "Col 2:16–17",
               "kind": "bible",
               "key": "colossians.2.16-17",
@@ -21690,6 +21681,33 @@
               "chapter": 2,
               "verseStart": 16,
               "verseEnd": 17
+            },
+            {
+              "label": "Gal 3:2–3",
+              "kind": "bible",
+              "key": "galatians.3.2-3",
+              "book": "galatians",
+              "chapter": 3,
+              "verseStart": 2,
+              "verseEnd": 3
+            },
+            {
+              "label": "Gal 5:2–4",
+              "kind": "bible",
+              "key": "galatians.5.2-4",
+              "book": "galatians",
+              "chapter": 5,
+              "verseStart": 2,
+              "verseEnd": 4
+            },
+            {
+              "label": "Gal 1:6–9",
+              "kind": "bible",
+              "key": "galatians.1.6-9",
+              "book": "galatians",
+              "chapter": 1,
+              "verseStart": 6,
+              "verseEnd": 9
             }
           ],
           "links": [],
@@ -21896,7 +21914,7 @@
         },
         {
           "label": "Approach",
-          "text": "Find out which kind you are talking to, because Scripture treats them differently. One who enjoys the feasts as pictures of Christ and binds no one is using his freedom, and Romans 14 says to leave him alone. One who tells other believers they must keep Torah is doing what Paul opposed in Galatians. One who makes it necessary for salvation, or denies the Trinity or Paul, has another gospel. They usually know the Old Testament better than the average Christian, so know Acts 15, Galatians, Colossians 2 and Hebrews 7–10 before you start, and never mock the Law. Our own position: the church is distinct from Israel and is not under the Mosaic covenant but under the law of Christ. (Rom 14:5–6; Gal 2:4–5; Gal 1:6–9; 1 Cor 9:20–21; Gal 6:2)",
+          "text": "He may well be your brother, and you should start there. A man can trust Christ alone and still be confused about the Law; that is a discipleship matter, not a reason to doubt his salvation. So ask before you argue, and use Play 1 to find out which of the four positions he actually holds. Do not assume the worst version, and do not call a practice idolatry that Scripture leaves free: a Jewish believer keeping his people's customs, or a family that walks through a Christ-centered Passover meal, is within Romans 14. What needs answering is the claim that you are disobeying God by not doing these things. Honor what is good: he reads the Old Testament, he takes obedience seriously, and he loves Israel's Messiah. Never mock the Law. Know Acts 15, Galatians, Colossians 2 and Hebrews 7–10 before you start, and say plainly where a point is an inference and not a direct statement. Where we stand: justification is by grace alone through faith alone in Christ alone; sanctification is by the Spirit; the church is distinct from Israel and is under the law of Christ, not the Mosaic covenant; and God still has a future for ethnic Israel. (Rom 14:1–4; Rom 15:7; Gal 6:1–2; 1 Cor 9:20–21; Rom 11:25–29)",
           "verses": [
             {
               "label": "Rom 14",
@@ -21928,31 +21946,31 @@
               "chapterEnd": 10
             },
             {
-              "label": "Rom 14:5–6",
+              "label": "Rom 14:1–4",
               "kind": "bible",
-              "key": "romans.14.5-6",
+              "key": "romans.14.1-4",
               "book": "romans",
               "chapter": 14,
-              "verseStart": 5,
-              "verseEnd": 6
+              "verseStart": 1,
+              "verseEnd": 4
             },
             {
-              "label": "Gal 2:4–5",
+              "label": "Rom 15:7",
               "kind": "bible",
-              "key": "galatians.2.4-5",
-              "book": "galatians",
-              "chapter": 2,
-              "verseStart": 4,
-              "verseEnd": 5
+              "key": "romans.15.7",
+              "book": "romans",
+              "chapter": 15,
+              "verseStart": 7,
+              "verseEnd": 7
             },
             {
-              "label": "Gal 1:6–9",
+              "label": "Gal 6:1–2",
               "kind": "bible",
-              "key": "galatians.1.6-9",
+              "key": "galatians.6.1-2",
               "book": "galatians",
-              "chapter": 1,
-              "verseStart": 6,
-              "verseEnd": 9
+              "chapter": 6,
+              "verseStart": 1,
+              "verseEnd": 2
             },
             {
               "label": "1 Cor 9:20–21",
@@ -21964,13 +21982,13 @@
               "verseEnd": 21
             },
             {
-              "label": "Gal 6:2",
+              "label": "Rom 11:25–29",
               "kind": "bible",
-              "key": "galatians.6.2",
-              "book": "galatians",
-              "chapter": 6,
-              "verseStart": 2,
-              "verseEnd": 2
+              "key": "romans.11.25-29",
+              "book": "romans",
+              "chapter": 11,
+              "verseStart": 25,
+              "verseEnd": 29
             }
           ],
           "links": [],
@@ -22080,6 +22098,411 @@
         {
           "id": "play-1",
           "number": 1,
+          "title": "What do you actually believe?",
+          "subtitle": "ask before you answer",
+          "warning": false,
+          "supplemental": false,
+          "altOpeners": [
+            {
+              "text": "*\"When you say Jesus fulfilled the Law, what does 'fulfilled' mean to you?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "*\"We both believe there are things every Christian is commanded to do, and other things one believer is free to take up. Can we look at how the apostles sorted which is which?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "chain": [
+            {
+              "text": "*\"Do you keep these things because you want to, or because you believe God commands every Christian to?\"* If freely and for himself, you may have little to argue about. If commanded, go on. (Rom 14:5–6)",
+              "verses": [
+                {
+                  "label": "Rom 14:5–6",
+                  "kind": "bible",
+                  "key": "romans.14.5-6",
+                  "book": "romans",
+                  "chapter": 14,
+                  "verseStart": 5,
+                  "verseEnd": 6
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "*\"Are Christians under the covenant God made at Sinai, or under the new covenant?\"* Listen for whether he sees a difference. (Jer 31:31–32; Heb 8:13)",
+              "verses": [
+                {
+                  "label": "Jer 31:31–32",
+                  "kind": "bible",
+                  "key": "jeremiah.31.31-32",
+                  "book": "jeremiah",
+                  "chapter": 31,
+                  "verseStart": 31,
+                  "verseEnd": 32
+                },
+                {
+                  "label": "Heb 8:13",
+                  "kind": "bible",
+                  "key": "hebrews.8.13",
+                  "book": "hebrews",
+                  "chapter": 8,
+                  "verseStart": 13,
+                  "verseEnd": 13
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "*\"Why no pork? Is it a conviction for you, or is it sin for a believer to do otherwise?\"* The word \"sin\" is the line between a preference and a law. (Lev 11:7–8)",
+              "verses": [
+                {
+                  "label": "Lev 11:7–8",
+                  "kind": "bible",
+                  "key": "leviticus.11.7-8",
+                  "book": "leviticus",
+                  "chapter": 11,
+                  "verseStart": 7,
+                  "verseEnd": 8
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "*\"If a Christian trusts Christ, lives faithfully, and never keeps Passover or the seventh-day Sabbath, is he disobeying God?\"* This is the question that tells you whether he binds others. (Rom 14:4; Col 2:16)",
+              "verses": [
+                {
+                  "label": "Rom 14:4",
+                  "kind": "bible",
+                  "key": "romans.14.4",
+                  "book": "romans",
+                  "chapter": 14,
+                  "verseStart": 4,
+                  "verseEnd": 4
+                },
+                {
+                  "label": "Col 2:16",
+                  "kind": "bible",
+                  "key": "colossians.2.16",
+                  "book": "colossians",
+                  "chapter": 2,
+                  "verseStart": 16,
+                  "verseEnd": 16
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "*\"What did the apostles decide in Acts 15, and why?\"* Let him explain it before you do. (Acts 15:10–11; Acts 15:28–29)",
+              "verses": [
+                {
+                  "label": "Acts 15",
+                  "kind": "bible",
+                  "key": "acts.15",
+                  "book": "acts",
+                  "chapter": 15
+                },
+                {
+                  "label": "Acts 15:10–11",
+                  "kind": "bible",
+                  "key": "acts.15.10-11",
+                  "book": "acts",
+                  "chapter": 15,
+                  "verseStart": 10,
+                  "verseEnd": 11
+                },
+                {
+                  "label": "Acts 15:28–29",
+                  "kind": "bible",
+                  "key": "acts.15.28-29",
+                  "book": "acts",
+                  "chapter": 15,
+                  "verseStart": 28,
+                  "verseEnd": 29
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "*\"If these things don't justify us, what do they do for us? Do they make a believer more holy?\"* This separates the third position from the second. (Gal 3:2–3; Rom 7:6)",
+              "verses": [
+                {
+                  "label": "Gal 3:2–3",
+                  "kind": "bible",
+                  "key": "galatians.3.2-3",
+                  "book": "galatians",
+                  "chapter": 3,
+                  "verseStart": 2,
+                  "verseEnd": 3
+                },
+                {
+                  "label": "Rom 7:6",
+                  "kind": "bible",
+                  "key": "romans.7.6",
+                  "book": "romans",
+                  "chapter": 7,
+                  "verseStart": 6,
+                  "verseEnd": 6
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "*\"What is the difference between keeping the Law of Moses and keeping the law of Christ?\"* (Gal 6:2; 1 Cor 9:20–21; John 13:34)",
+              "verses": [
+                {
+                  "label": "Gal 6:2",
+                  "kind": "bible",
+                  "key": "galatians.6.2",
+                  "book": "galatians",
+                  "chapter": 6,
+                  "verseStart": 2,
+                  "verseEnd": 2
+                },
+                {
+                  "label": "1 Cor 9:20–21",
+                  "kind": "bible",
+                  "key": "1-corinthians.9.20-21",
+                  "book": "1-corinthians",
+                  "chapter": 9,
+                  "verseStart": 20,
+                  "verseEnd": 21
+                },
+                {
+                  "label": "John 13:34",
+                  "kind": "bible",
+                  "key": "john.13.34",
+                  "book": "john",
+                  "chapter": 13,
+                  "verseStart": 34,
+                  "verseEnd": 34
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "*\"If Christ is the substance and the feasts are the shadow, why keep the shadow as an obligation?\"* (Col 2:17; Heb 10:1)",
+              "verses": [
+                {
+                  "label": "Col 2:17",
+                  "kind": "bible",
+                  "key": "colossians.2.17",
+                  "book": "colossians",
+                  "chapter": 2,
+                  "verseStart": 17,
+                  "verseEnd": 17
+                },
+                {
+                  "label": "Heb 10:1",
+                  "kind": "bible",
+                  "key": "hebrews.10.1",
+                  "book": "hebrews",
+                  "chapter": 10,
+                  "verseStart": 1,
+                  "verseEnd": 1
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "*\"If you died tonight, what would you be counting on?\"* However the rest goes, ask this one. (Phil 3:8–9; Eph 2:8–9)",
+              "verses": [
+                {
+                  "label": "Phil 3:8–9",
+                  "kind": "bible",
+                  "key": "philippians.3.8-9",
+                  "book": "philippians",
+                  "chapter": 3,
+                  "verseStart": 8,
+                  "verseEnd": 9
+                },
+                {
+                  "label": "Eph 2:8–9",
+                  "kind": "bible",
+                  "key": "ephesians.2.8-9",
+                  "book": "ephesians",
+                  "chapter": 2,
+                  "verseStart": 8,
+                  "verseEnd": 9
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "questions": [],
+          "ifTheySay": [
+            {
+              "theySay": "*\"I just do it for myself. I don't judge anyone who doesn't.\"*",
+              "youSay": "Then tell him you are glad, and that Scripture leaves him free. Ask only that he hold it the same way toward others, and move to the gospel you share. (Rom 14:5–6; Rom 14:22)",
+              "verses": [
+                {
+                  "label": "Rom 14:5–6",
+                  "kind": "bible",
+                  "key": "romans.14.5-6",
+                  "book": "romans",
+                  "chapter": 14,
+                  "verseStart": 5,
+                  "verseEnd": 6
+                },
+                {
+                  "label": "Rom 14:22",
+                  "kind": "bible",
+                  "key": "romans.14.22",
+                  "book": "romans",
+                  "chapter": 14,
+                  "verseStart": 22,
+                  "verseEnd": 22
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"It isn't for salvation, but yes, God commands it of all of us.\"*",
+              "youSay": "That is the second position. Go to Play 2 and Play 4. Tell him you believe him about salvation, and that the question now is what the apostles required of Gentile believers. (Acts 15:19; Acts 15:28)",
+              "verses": [
+                {
+                  "label": "Acts 15:19",
+                  "kind": "bible",
+                  "key": "acts.15.19",
+                  "book": "acts",
+                  "chapter": 15,
+                  "verseStart": 19,
+                  "verseEnd": 19
+                },
+                {
+                  "label": "Acts 15:28",
+                  "kind": "bible",
+                  "key": "acts.15.28",
+                  "book": "acts",
+                  "chapter": 15,
+                  "verseStart": 28,
+                  "verseEnd": 28
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"It's how we walk in holiness. The Torah is God's instructions for living.\"*",
+              "youSay": "That is the third. Paul's question to the Galatians is the one to ask: having begun by the Spirit, are you being perfected by the flesh? Go to Play 2. (Gal 3:3; Rom 8:3–4; Titus 2:11–12)",
+              "verses": [
+                {
+                  "label": "Gal 3:3",
+                  "kind": "bible",
+                  "key": "galatians.3.3",
+                  "book": "galatians",
+                  "chapter": 3,
+                  "verseStart": 3,
+                  "verseEnd": 3
+                },
+                {
+                  "label": "Rom 8:3–4",
+                  "kind": "bible",
+                  "key": "romans.8.3-4",
+                  "book": "romans",
+                  "chapter": 8,
+                  "verseStart": 3,
+                  "verseEnd": 4
+                },
+                {
+                  "label": "Titus 2:11–12",
+                  "kind": "bible",
+                  "key": "titus.2.11-12",
+                  "book": "titus",
+                  "chapter": 2,
+                  "verseStart": 11,
+                  "verseEnd": 12
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"Those who refuse to keep Torah will not inherit the kingdom.\"*",
+              "youSay": "That is the fourth, and it is the error Paul called a different gospel. Go to Play 2, step 7, and the gospel bridge. (Gal 5:2–4; Gal 1:6–9; Gal 2:21)",
+              "verses": [
+                {
+                  "label": "Gal 5:2–4",
+                  "kind": "bible",
+                  "key": "galatians.5.2-4",
+                  "book": "galatians",
+                  "chapter": 5,
+                  "verseStart": 2,
+                  "verseEnd": 4
+                },
+                {
+                  "label": "Gal 1:6–9",
+                  "kind": "bible",
+                  "key": "galatians.1.6-9",
+                  "book": "galatians",
+                  "chapter": 1,
+                  "verseStart": 6,
+                  "verseEnd": 9
+                },
+                {
+                  "label": "Gal 2:21",
+                  "kind": "bible",
+                  "key": "galatians.2.21",
+                  "book": "galatians",
+                  "chapter": 2,
+                  "verseStart": 21,
+                  "verseEnd": 21
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "notes": [],
+          "links": [],
+          "opener": {
+            "text": "*\"I want to understand you before I respond. Can I ask you some questions about what these practices mean to you?\"*",
+            "verses": [],
+            "links": [],
+            "supplemental": false
+          },
+          "closer": {
+            "text": "*\"Thank you for telling me plainly. I believe you love Him. I want us both to rest everything on what He finished, and I'd like to keep reading these passages with you.\"* (John 19:30; Acts 17:11)",
+            "verses": [
+              {
+                "label": "John 19:30",
+                "kind": "bible",
+                "key": "john.19.30",
+                "book": "john",
+                "chapter": 19,
+                "verseStart": 30,
+                "verseEnd": 30
+              },
+              {
+                "label": "Acts 17:11",
+                "kind": "bible",
+                "key": "acts.17.11",
+                "book": "acts",
+                "chapter": 17,
+                "verseStart": 11,
+                "verseEnd": 11
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          }
+        },
+        {
+          "id": "play-2",
+          "number": 2,
           "title": "What did the apostles decide?",
           "subtitle": "Acts 15 and Galatians",
           "warning": false,
@@ -22420,8 +22843,8 @@
           }
         },
         {
-          "id": "play-2",
-          "number": 2,
+          "id": "play-3",
+          "number": 3,
           "title": "Shadow and substance",
           "subtitle": "Sabbath, feasts, food and the new covenant",
           "warning": false,
@@ -22827,9 +23250,944 @@
             "links": [],
             "supplemental": false
           }
+        },
+        {
+          "id": "play-4",
+          "number": 4,
+          "title": "All of it, or none of it?",
+          "subtitle": "the whole Law, pork and Passover",
+          "warning": false,
+          "supplemental": false,
+          "altOpeners": [
+            {
+              "text": "*\"Is anyone today actually keeping the Law of Moses?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "chain": [
+            {
+              "text": "**Deut 27:26; Gal 3:10**: The Law does not offer itself in portions. Cursed is the one who does not uphold all of it. **James 2:10**: whoever stumbles in one point is guilty of all.",
+              "verses": [
+                {
+                  "label": "Deut 27:26",
+                  "kind": "bible",
+                  "key": "deuteronomy.27.26",
+                  "book": "deuteronomy",
+                  "chapter": 27,
+                  "verseStart": 26,
+                  "verseEnd": 26
+                },
+                {
+                  "label": "Gal 3:10",
+                  "kind": "bible",
+                  "key": "galatians.3.10",
+                  "book": "galatians",
+                  "chapter": 3,
+                  "verseStart": 10,
+                  "verseEnd": 10
+                },
+                {
+                  "label": "Jas 2:10",
+                  "kind": "bible",
+                  "key": "james.2.10",
+                  "book": "james",
+                  "chapter": 2,
+                  "verseStart": 10,
+                  "verseEnd": 10
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Gal 5:3**: Paul says the man who takes on circumcision is obligated to keep the whole Law. The principle is that you cannot take the covenant's sign and leave its terms.",
+              "verses": [
+                {
+                  "label": "Gal 5:3",
+                  "kind": "bible",
+                  "key": "galatians.5.3",
+                  "book": "galatians",
+                  "chapter": 5,
+                  "verseStart": 3,
+                  "verseEnd": 3
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Deut 16:16; Deut 12:13–14**: Much of it cannot be kept today at all. The three pilgrim feasts were to be kept at the place God chose, with sacrifices offered by Levitical priests. There is no temple, no altar and no priesthood. *\"Is a Passover without the lamb, the altar and Jerusalem the Passover Moses commanded?\"*",
+              "verses": [
+                {
+                  "label": "Deut 16:16",
+                  "kind": "bible",
+                  "key": "deuteronomy.16.16",
+                  "book": "deuteronomy",
+                  "chapter": 16,
+                  "verseStart": 16,
+                  "verseEnd": 16
+                },
+                {
+                  "label": "Deut 12:13–14",
+                  "kind": "bible",
+                  "key": "deuteronomy.12.13-14",
+                  "book": "deuteronomy",
+                  "chapter": 12,
+                  "verseStart": 13,
+                  "verseEnd": 14
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Num 15:32–36; Lev 19:19**: The parts no one keeps are as much Torah as the parts they do: the death penalty for Sabbath-breaking, no mixed fabrics. *\"By what authority do you set those aside and bind the diet and the calendar?\"* Whatever answer he gives, that Christ fulfilled them or that circumstances changed, is the answer for the rest.",
+              "verses": [
+                {
+                  "label": "Num 15:32–36",
+                  "kind": "bible",
+                  "key": "numbers.15.32-36",
+                  "book": "numbers",
+                  "chapter": 15,
+                  "verseStart": 32,
+                  "verseEnd": 36
+                },
+                {
+                  "label": "Lev 19:19",
+                  "kind": "bible",
+                  "key": "leviticus.19.19",
+                  "book": "leviticus",
+                  "chapter": 19,
+                  "verseStart": 19,
+                  "verseEnd": 19
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Ex 12:48**: The Law itself says no uncircumcised man may eat the Passover. So a Gentile who believes Passover is binding must first be circumcised, and that is the exact step Paul warns against. (Gal 5:2–3)",
+              "verses": [
+                {
+                  "label": "Ex 12:48",
+                  "kind": "bible",
+                  "key": "exodus.12.48",
+                  "book": "exodus",
+                  "chapter": 12,
+                  "verseStart": 48,
+                  "verseEnd": 48
+                },
+                {
+                  "label": "Gal 5:2–3",
+                  "kind": "bible",
+                  "key": "galatians.5.2-3",
+                  "book": "galatians",
+                  "chapter": 5,
+                  "verseStart": 2,
+                  "verseEnd": 3
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**1 Cor 7:17–20**: Each one is to remain as he was called. Was anyone called uncircumcised? He is not to seek circumcision. The signs of Israel's covenant were given to Israel, and nothing in the New Testament lays them on Gentile believers.",
+              "verses": [
+                {
+                  "label": "1 Cor 7:17–20",
+                  "kind": "bible",
+                  "key": "1-corinthians.7.17-20",
+                  "book": "1-corinthians",
+                  "chapter": 7,
+                  "verseStart": 17,
+                  "verseEnd": 20
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Gen 9:3; Lev 11:7–8**: God gave Noah every moving thing for food, long before Sinai. The food laws were given to Israel to mark her off from the nations. **Acts 10:15; Rom 14:14; 1 Tim 4:3–5**: what God has cleansed is not to be called unclean; nothing is unclean in itself; everything God created is good and to be received with thanks.",
+              "verses": [
+                {
+                  "label": "Gen 9:3",
+                  "kind": "bible",
+                  "key": "genesis.9.3",
+                  "book": "genesis",
+                  "chapter": 9,
+                  "verseStart": 3,
+                  "verseEnd": 3
+                },
+                {
+                  "label": "Lev 11:7–8",
+                  "kind": "bible",
+                  "key": "leviticus.11.7-8",
+                  "book": "leviticus",
+                  "chapter": 11,
+                  "verseStart": 7,
+                  "verseEnd": 8
+                },
+                {
+                  "label": "Acts 10:15",
+                  "kind": "bible",
+                  "key": "acts.10.15",
+                  "book": "acts",
+                  "chapter": 10,
+                  "verseStart": 15,
+                  "verseEnd": 15
+                },
+                {
+                  "label": "Rom 14:14",
+                  "kind": "bible",
+                  "key": "romans.14.14",
+                  "book": "romans",
+                  "chapter": 14,
+                  "verseStart": 14,
+                  "verseEnd": 14
+                },
+                {
+                  "label": "1 Tim 4:3–5",
+                  "kind": "bible",
+                  "key": "1-timothy.4.3-5",
+                  "book": "1-timothy",
+                  "chapter": 4,
+                  "verseStart": 3,
+                  "verseEnd": 5
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Luke 22:19–20; 1 Cor 5:7**: At a Passover table Jesus took the bread and the cup and gave them a new meaning: \"the new covenant in My blood.\" Christ our Passover has been sacrificed. The church's memorial meal is the one He instituted.",
+              "verses": [
+                {
+                  "label": "Luke 22:19–20",
+                  "kind": "bible",
+                  "key": "luke.22.19-20",
+                  "book": "luke",
+                  "chapter": 22,
+                  "verseStart": 19,
+                  "verseEnd": 20
+                },
+                {
+                  "label": "1 Cor 5:7",
+                  "kind": "bible",
+                  "key": "1-corinthians.5.7",
+                  "book": "1-corinthians",
+                  "chapter": 5,
+                  "verseStart": 7,
+                  "verseEnd": 7
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "questions": [],
+          "ifTheySay": [
+            {
+              "theySay": "*\"We keep what can be kept. God doesn't hold us to what is impossible without a temple.\"*",
+              "youSay": "That is a reasonable thing to say, and it concedes the point: the covenant as given cannot be kept as given. Hebrews says why. God Himself has made it obsolete by bringing in a better one. (Heb 8:13; Heb 10:9–10)",
+              "verses": [
+                {
+                  "label": "Heb 8:13",
+                  "kind": "bible",
+                  "key": "hebrews.8.13",
+                  "book": "hebrews",
+                  "chapter": 8,
+                  "verseStart": 13,
+                  "verseEnd": 13
+                },
+                {
+                  "label": "Heb 10:9–10",
+                  "kind": "bible",
+                  "key": "hebrews.10.9-10",
+                  "book": "hebrews",
+                  "chapter": 10,
+                  "verseStart": 9,
+                  "verseEnd": 10
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"Jesus kept the Torah, and we are to walk as He walked.\"*",
+              "youSay": "He was born under the Law to redeem those under the Law, and He kept it perfectly on our behalf. He also went up to the temple and kept its sacrifices. We follow Him as the apostles taught the churches to: in love, holiness and faith, not by taking on Israel's covenant signs. (Gal 4:4–5; 1 John 2:6; 1 John 3:23)",
+              "verses": [
+                {
+                  "label": "Gal 4:4–5",
+                  "kind": "bible",
+                  "key": "galatians.4.4-5",
+                  "book": "galatians",
+                  "chapter": 4,
+                  "verseStart": 4,
+                  "verseEnd": 5
+                },
+                {
+                  "label": "1 John 2:6",
+                  "kind": "bible",
+                  "key": "1-john.2.6",
+                  "book": "1-john",
+                  "chapter": 2,
+                  "verseStart": 6,
+                  "verseEnd": 6
+                },
+                {
+                  "label": "1 John 3:23",
+                  "kind": "bible",
+                  "key": "1-john.3.23",
+                  "book": "1-john",
+                  "chapter": 3,
+                  "verseStart": 23,
+                  "verseEnd": 23
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"Mark 7 is about unwashed hands, not about pork.\"*",
+              "youSay": "The setting is handwashing, that is true, and be honest that Torah-observant readers take the closing words narrowly. But Jesus' principle is wider than the setting: nothing going into a man from outside can defile him. Do not rest the case on that verse alone. Acts 10, Romans 14:14, 1 Timothy 4:3–5 and Colossians 2:16 say the same thing in plain words. (Mark 7:18–19; Rom 14:14, 17)",
+              "verses": [
+                {
+                  "label": "Mark 7",
+                  "kind": "bible",
+                  "key": "mark.7",
+                  "book": "mark",
+                  "chapter": 7
+                },
+                {
+                  "label": "Acts 10",
+                  "kind": "bible",
+                  "key": "acts.10",
+                  "book": "acts",
+                  "chapter": 10
+                },
+                {
+                  "label": "Rom 14:14",
+                  "kind": "bible",
+                  "key": "romans.14.14",
+                  "book": "romans",
+                  "chapter": 14,
+                  "verseStart": 14,
+                  "verseEnd": 14
+                },
+                {
+                  "label": "Rom 14:1",
+                  "kind": "bible",
+                  "key": "romans.14.1",
+                  "book": "romans",
+                  "chapter": 14,
+                  "verseStart": 1,
+                  "verseEnd": 1
+                },
+                {
+                  "label": "Col 2:16",
+                  "kind": "bible",
+                  "key": "colossians.2.16",
+                  "book": "colossians",
+                  "chapter": 2,
+                  "verseStart": 16,
+                  "verseEnd": 16
+                },
+                {
+                  "label": "Mark 7:18–19",
+                  "kind": "bible",
+                  "key": "mark.7.18-19",
+                  "book": "mark",
+                  "chapter": 7,
+                  "verseStart": 18,
+                  "verseEnd": 19
+                },
+                {
+                  "label": "Rom 14:17",
+                  "kind": "bible",
+                  "key": "romans.14.17",
+                  "book": "romans",
+                  "chapter": 14,
+                  "verseStart": 17,
+                  "verseEnd": 17
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"Passover is a statute forever.\"*",
+              "youSay": "It was, for Israel, \"throughout your generations,\" and God still has a future for that nation. But \"forever\" language is used of the Levitical priesthood and the sacrifices as well, and Hebrews says those have given way to Christ. The feast pointed to Him. (Ex 12:14; Ex 40:15; Heb 7:11–12; 1 Cor 5:7)",
+              "verses": [
+                {
+                  "label": "Ex 12:14",
+                  "kind": "bible",
+                  "key": "exodus.12.14",
+                  "book": "exodus",
+                  "chapter": 12,
+                  "verseStart": 14,
+                  "verseEnd": 14
+                },
+                {
+                  "label": "Ex 40:15",
+                  "kind": "bible",
+                  "key": "exodus.40.15",
+                  "book": "exodus",
+                  "chapter": 40,
+                  "verseStart": 15,
+                  "verseEnd": 15
+                },
+                {
+                  "label": "Heb 7:11–12",
+                  "kind": "bible",
+                  "key": "hebrews.7.11-12",
+                  "book": "hebrews",
+                  "chapter": 7,
+                  "verseStart": 11,
+                  "verseEnd": 12
+                },
+                {
+                  "label": "1 Cor 5:7",
+                  "kind": "bible",
+                  "key": "1-corinthians.5.7",
+                  "book": "1-corinthians",
+                  "chapter": 5,
+                  "verseStart": 7,
+                  "verseEnd": 7
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "notes": [],
+          "links": [],
+          "opener": {
+            "text": "*\"Which parts of the Torah do you keep, and which parts don't you? How did you decide?\"*",
+            "verses": [],
+            "links": [],
+            "supplemental": false
+          },
+          "closer": {
+            "text": "*\"You cannot keep it all, and neither can I. That is what it was given to show us. Christ kept all of it, and He gives His record to those who trust Him. Why hold on to part of a covenant when you have the One it was pointing to?\"* (Rom 3:20; Rom 10:4; Phil 3:9)",
+            "verses": [
+              {
+                "label": "Rom 3:20",
+                "kind": "bible",
+                "key": "romans.3.20",
+                "book": "romans",
+                "chapter": 3,
+                "verseStart": 20,
+                "verseEnd": 20
+              },
+              {
+                "label": "Rom 10:4",
+                "kind": "bible",
+                "key": "romans.10.4",
+                "book": "romans",
+                "chapter": 10,
+                "verseStart": 4,
+                "verseEnd": 4
+              },
+              {
+                "label": "Phil 3:9",
+                "kind": "bible",
+                "key": "philippians.3.9",
+                "book": "philippians",
+                "chapter": 3,
+                "verseStart": 9,
+                "verseEnd": 9
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          }
         }
       ],
       "defense": [
+        {
+          "id": "are-disobeying-god-by-not",
+          "objection": "\"You are disobeying God by not keeping His Law.\"",
+          "response": "This is the claim to answer, gently and directly. The apostles and the Holy Spirit considered whether Gentile believers must keep Moses and laid on them \"no greater burden.\" Scripture says not to let anyone judge you over food or a festival or a Sabbath. To his own Master a servant stands or falls. Use Play 2.",
+          "goTo": "Acts 15:28–29; Col 2:16; Rom 14:4; Gal 5:1",
+          "askBack": "*\"Did the apostles tell the Gentile churches to do this?\"*",
+          "verses": [
+            {
+              "label": "Acts 15:28–29",
+              "kind": "bible",
+              "key": "acts.15.28-29",
+              "book": "acts",
+              "chapter": 15,
+              "verseStart": 28,
+              "verseEnd": 29
+            },
+            {
+              "label": "Col 2:16",
+              "kind": "bible",
+              "key": "colossians.2.16",
+              "book": "colossians",
+              "chapter": 2,
+              "verseStart": 16,
+              "verseEnd": 16
+            },
+            {
+              "label": "Rom 14:4",
+              "kind": "bible",
+              "key": "romans.14.4",
+              "book": "romans",
+              "chapter": 14,
+              "verseStart": 4,
+              "verseEnd": 4
+            },
+            {
+              "label": "Gal 5:1",
+              "kind": "bible",
+              "key": "galatians.5.1",
+              "book": "galatians",
+              "chapter": 5,
+              "verseStart": 1,
+              "verseEnd": 1
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "pick-choose-too-keep-nine",
+          "objection": "\"You pick and choose too. You keep nine of the Ten Commandments.\"",
+          "response": "Fair challenge, and don't answer it by dividing the Law into moral, ceremonial and civil; Scripture never lists it that way. Answer by covenant. The Law of Moses is one covenant, made with Israel, and it stands or falls whole. Christians are under a different covenant with its own commands, the law of Christ, and the apostles tell the churches what it requires. Murder, adultery, theft and idolatry are forbidden there too, not because Sinai still binds us but because Christ and His apostles command it. The Sabbath, the feasts and the food laws are the things they expressly did not carry over.",
+          "goTo": "Gal 5:3; Heb 8:13; 1 Cor 9:20–21; Gal 6:2; Rom 13:8–10; Col 2:16–17",
+          "askBack": "*\"Which covenant are we under, and who tells us its terms?\"*",
+          "verses": [
+            {
+              "label": "Gal 5:3",
+              "kind": "bible",
+              "key": "galatians.5.3",
+              "book": "galatians",
+              "chapter": 5,
+              "verseStart": 3,
+              "verseEnd": 3
+            },
+            {
+              "label": "Heb 8:13",
+              "kind": "bible",
+              "key": "hebrews.8.13",
+              "book": "hebrews",
+              "chapter": 8,
+              "verseStart": 13,
+              "verseEnd": 13
+            },
+            {
+              "label": "1 Cor 9:20–21",
+              "kind": "bible",
+              "key": "1-corinthians.9.20-21",
+              "book": "1-corinthians",
+              "chapter": 9,
+              "verseStart": 20,
+              "verseEnd": 21
+            },
+            {
+              "label": "Gal 6:2",
+              "kind": "bible",
+              "key": "galatians.6.2",
+              "book": "galatians",
+              "chapter": 6,
+              "verseStart": 2,
+              "verseEnd": 2
+            },
+            {
+              "label": "Rom 13:8–10",
+              "kind": "bible",
+              "key": "romans.13.8-10",
+              "book": "romans",
+              "chapter": 13,
+              "verseStart": 8,
+              "verseEnd": 10
+            },
+            {
+              "label": "Col 2:16–17",
+              "kind": "bible",
+              "key": "colossians.2.16-17",
+              "book": "colossians",
+              "chapter": 2,
+              "verseStart": 16,
+              "verseEnd": 17
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "isnt-about-salvation-its-how",
+          "objection": "\"It isn't about salvation. It's how the saved obey.\"",
+          "response": "Good: hold him to that, and believe him. But growth comes the way salvation came, by the Spirit through faith, and the believer has died to the Law to belong to Christ and bear fruit. Grace itself trains us in holiness. Obedience in the new covenant is to Christ's commands.",
+          "goTo": "Gal 3:2–3; Rom 7:4–6; Rom 8:3–4; Titus 2:11–12; John 15:10–12",
+          "askBack": "*\"Did you receive the Spirit by keeping the Law, or by hearing with faith?\"*",
+          "verses": [
+            {
+              "label": "Gal 3:2–3",
+              "kind": "bible",
+              "key": "galatians.3.2-3",
+              "book": "galatians",
+              "chapter": 3,
+              "verseStart": 2,
+              "verseEnd": 3
+            },
+            {
+              "label": "Rom 7:4–6",
+              "kind": "bible",
+              "key": "romans.7.4-6",
+              "book": "romans",
+              "chapter": 7,
+              "verseStart": 4,
+              "verseEnd": 6
+            },
+            {
+              "label": "Rom 8:3–4",
+              "kind": "bible",
+              "key": "romans.8.3-4",
+              "book": "romans",
+              "chapter": 8,
+              "verseStart": 3,
+              "verseEnd": 4
+            },
+            {
+              "label": "Titus 2:11–12",
+              "kind": "bible",
+              "key": "titus.2.11-12",
+              "book": "titus",
+              "chapter": 2,
+              "verseStart": 11,
+              "verseEnd": 12
+            },
+            {
+              "label": "John 15:10–12",
+              "kind": "bible",
+              "key": "john.15.10-12",
+              "book": "john",
+              "chapter": 15,
+              "verseStart": 10,
+              "verseEnd": 12
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "eating-pork-sin",
+          "objection": "\"Eating pork is sin.\"",
+          "response": "God gave all animals to Noah for food; the food laws marked Israel off under Sinai. In the new covenant Peter is told not to call unclean what God has cleansed, Paul is persuaded that nothing is unclean in itself, and forbidding foods is listed as a false teaching. A man may abstain. He may not call it sin for his brother. See Play 4.",
+          "goTo": "Gen 9:3; Acts 10:15; Rom 14:14; 1 Tim 4:3–5; Rom 14:20",
+          "askBack": "*\"Where do the apostles tell a Gentile church to keep Leviticus 11?\"*",
+          "verses": [
+            {
+              "label": "Gen 9:3",
+              "kind": "bible",
+              "key": "genesis.9.3",
+              "book": "genesis",
+              "chapter": 9,
+              "verseStart": 3,
+              "verseEnd": 3
+            },
+            {
+              "label": "Acts 10:15",
+              "kind": "bible",
+              "key": "acts.10.15",
+              "book": "acts",
+              "chapter": 10,
+              "verseStart": 15,
+              "verseEnd": 15
+            },
+            {
+              "label": "Rom 14:14",
+              "kind": "bible",
+              "key": "romans.14.14",
+              "book": "romans",
+              "chapter": 14,
+              "verseStart": 14,
+              "verseEnd": 14
+            },
+            {
+              "label": "1 Tim 4:3–5",
+              "kind": "bible",
+              "key": "1-timothy.4.3-5",
+              "book": "1-timothy",
+              "chapter": 4,
+              "verseStart": 3,
+              "verseEnd": 5
+            },
+            {
+              "label": "Rom 14:20",
+              "kind": "bible",
+              "key": "romans.14.20",
+              "book": "romans",
+              "chapter": 14,
+              "verseStart": 20,
+              "verseEnd": 20
+            },
+            {
+              "label": "Lev 11",
+              "kind": "bible",
+              "key": "leviticus.11",
+              "book": "leviticus",
+              "chapter": 11
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "gentile-believer-should-live-as",
+          "objection": "\"A Gentile believer should live as Israel lives.\"",
+          "response": "Paul says the opposite in so many words: was anyone called uncircumcised? Let him not seek circumcision. In Christ the dividing wall is down and the two are one new man. Gentiles are not made Jews, and Jews are not made Gentiles. Paul opposed Peter for pressing Gentiles to live like Jews.",
+          "goTo": "1 Cor 7:18–19; Eph 2:14–16; Gal 3:28; Gal 2:14",
+          "askBack": "*\"Why did Paul refuse to have Titus circumcised?\"*",
+          "verses": [
+            {
+              "label": "1 Cor 7:18–19",
+              "kind": "bible",
+              "key": "1-corinthians.7.18-19",
+              "book": "1-corinthians",
+              "chapter": 7,
+              "verseStart": 18,
+              "verseEnd": 19
+            },
+            {
+              "label": "Eph 2:14–16",
+              "kind": "bible",
+              "key": "ephesians.2.14-16",
+              "book": "ephesians",
+              "chapter": 2,
+              "verseStart": 14,
+              "verseEnd": 16
+            },
+            {
+              "label": "Gal 3:28",
+              "kind": "bible",
+              "key": "galatians.3.28",
+              "book": "galatians",
+              "chapter": 3,
+              "verseStart": 28,
+              "verseEnd": 28
+            },
+            {
+              "label": "Gal 2:14",
+              "kind": "bible",
+              "key": "galatians.2.14",
+              "book": "galatians",
+              "chapter": 2,
+              "verseStart": 14,
+              "verseEnd": 14
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "colossians-2-16-means-dont",
+          "objection": "\"Colossians 2:16 means don't let anyone judge you for keeping the feasts.\"",
+          "response": "Some read it that way, and grammar alone does not settle who the critics were. What settles it is the rest of the sentence and the chapter: these things are a shadow and the substance is Christ, and Paul goes on to ask why they submit to rules about food and days as though still belonging to the world. Either way the verse forbids making them a standard for judging believers.",
+          "goTo": "Col 2:16–17; Col 2:20–23; Gal 4:9–11",
+          "askBack": "*\"What does Paul call these things in the next verse?\"*",
+          "verses": [
+            {
+              "label": "Col 2:16–17",
+              "kind": "bible",
+              "key": "colossians.2.16-17",
+              "book": "colossians",
+              "chapter": 2,
+              "verseStart": 16,
+              "verseEnd": 17
+            },
+            {
+              "label": "Col 2:20–23",
+              "kind": "bible",
+              "key": "colossians.2.20-23",
+              "book": "colossians",
+              "chapter": 2,
+              "verseStart": 20,
+              "verseEnd": 23
+            },
+            {
+              "label": "Gal 4:9–11",
+              "kind": "bible",
+              "key": "galatians.4.9-11",
+              "book": "galatians",
+              "chapter": 4,
+              "verseStart": 9,
+              "verseEnd": 11
+            },
+            {
+              "label": "Col 2:16",
+              "kind": "bible",
+              "key": "colossians.2.16",
+              "book": "colossians",
+              "chapter": 2,
+              "verseStart": 16,
+              "verseEnd": 16
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "romans-14-about-fasting-not",
+          "objection": "\"Romans 14 is about fasting, not the Sabbath.\"",
+          "response": "It is true that Romans 14 does not name the Sabbath, so don't claim more than it says. Its principle is that days and foods are matters of conscience among believers. Colossians 2:16 does name the Sabbath, and puts it with the shadows.",
+          "goTo": "Rom 14:5–6; Rom 14:14; Col 2:16–17",
+          "askBack": "*\"Could Paul write 'another regards every day alike' if one day were binding?\"*",
+          "verses": [
+            {
+              "label": "Rom 14:5–6",
+              "kind": "bible",
+              "key": "romans.14.5-6",
+              "book": "romans",
+              "chapter": 14,
+              "verseStart": 5,
+              "verseEnd": 6
+            },
+            {
+              "label": "Rom 14:14",
+              "kind": "bible",
+              "key": "romans.14.14",
+              "book": "romans",
+              "chapter": 14,
+              "verseStart": 14,
+              "verseEnd": 14
+            },
+            {
+              "label": "Col 2:16–17",
+              "kind": "bible",
+              "key": "colossians.2.16-17",
+              "book": "colossians",
+              "chapter": 2,
+              "verseStart": 16,
+              "verseEnd": 17
+            },
+            {
+              "label": "Rom 14",
+              "kind": "bible",
+              "key": "romans.14",
+              "book": "romans",
+              "chapter": 14
+            },
+            {
+              "label": "Col 2:16",
+              "kind": "bible",
+              "key": "colossians.2.16",
+              "book": "colossians",
+              "chapter": 2,
+              "verseStart": 16,
+              "verseEnd": 16
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "jewish-believers-acts-were-zealous",
+          "objection": "\"Jewish believers in Acts were zealous for the Law.\"",
+          "response": "They were, and they were free to be: these were their people's customs, and Paul himself joined in for the sake of peace. In the same breath James repeats that Gentile believers are not required to. Paul circumcised Timothy, who had a Jewish mother, for the sake of the mission, and refused to circumcise Titus, a Greek, for the sake of the gospel.",
+          "goTo": "Acts 21:20–25; Acts 16:1–3; Gal 2:3–5; 1 Cor 9:20",
+          "askBack": "*\"What does verse 25 say about the Gentiles?\"*",
+          "verses": [
+            {
+              "label": "Acts 21:20–25",
+              "kind": "bible",
+              "key": "acts.21.20-25",
+              "book": "acts",
+              "chapter": 21,
+              "verseStart": 20,
+              "verseEnd": 25
+            },
+            {
+              "label": "Acts 16:1–3",
+              "kind": "bible",
+              "key": "acts.16.1-3",
+              "book": "acts",
+              "chapter": 16,
+              "verseStart": 1,
+              "verseEnd": 3
+            },
+            {
+              "label": "Gal 2:3–5",
+              "kind": "bible",
+              "key": "galatians.2.3-5",
+              "book": "galatians",
+              "chapter": 2,
+              "verseStart": 3,
+              "verseEnd": 5
+            },
+            {
+              "label": "1 Cor 9:20",
+              "kind": "bible",
+              "key": "1-corinthians.9.20",
+              "book": "1-corinthians",
+              "chapter": 9,
+              "verseStart": 20,
+              "verseEnd": 20
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "christians-should-keep-passover",
+          "objection": "\"Christians should keep Passover.\"",
+          "response": "A Christian may; no Christian must. Christ is our Passover, and the meal He gave His church is the Lord's Supper. A Passover meal that points to Christ and is kept freely is a matter of liberty, like any day one man honors to the Lord. It goes wrong at the word \"should\": once it is an obligation, it is the yoke the apostles refused to lay on Gentile believers.",
+          "goTo": "1 Cor 5:7; Luke 22:19–20; Rom 14:5–6; Col 2:16–17; Acts 15:28",
+          "askBack": "*\"Is this something God requires of every believer, or something you are free to do?\"*",
+          "verses": [
+            {
+              "label": "1 Cor 5:7",
+              "kind": "bible",
+              "key": "1-corinthians.5.7",
+              "book": "1-corinthians",
+              "chapter": 5,
+              "verseStart": 7,
+              "verseEnd": 7
+            },
+            {
+              "label": "Luke 22:19–20",
+              "kind": "bible",
+              "key": "luke.22.19-20",
+              "book": "luke",
+              "chapter": 22,
+              "verseStart": 19,
+              "verseEnd": 20
+            },
+            {
+              "label": "Rom 14:5–6",
+              "kind": "bible",
+              "key": "romans.14.5-6",
+              "book": "romans",
+              "chapter": 14,
+              "verseStart": 5,
+              "verseEnd": 6
+            },
+            {
+              "label": "Col 2:16–17",
+              "kind": "bible",
+              "key": "colossians.2.16-17",
+              "book": "colossians",
+              "chapter": 2,
+              "verseStart": 16,
+              "verseEnd": 17
+            },
+            {
+              "label": "Acts 15:28",
+              "kind": "bible",
+              "key": "acts.15.28",
+              "book": "acts",
+              "chapter": 15,
+              "verseStart": 28,
+              "verseEnd": 28
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
         {
           "id": "jesus-did-not-come-abolish",
           "objection": "\"Jesus did not come to abolish the Law (Matt 5:17–19).\"",
