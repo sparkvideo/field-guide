@@ -672,7 +672,7 @@
   {
     "ref": "Psalms 13:1–2",
     "key": "psalms.13.1-2",
-    "text": ""
+    "text": "¹ How long, O Yahweh? Will You forget me forever? How long will You hide Your face from me? ² How long shall I take counsel in my soul, Having sorrow in my heart all the day? How long will my enemy be exalted over me?"
   },
   {
     "ref": "Psalms 14:1",
@@ -717,7 +717,7 @@
   {
     "ref": "Psalms 22:2",
     "key": "psalms.22.2",
-    "text": ""
+    "text": "O my God, I call by day, but You do not answer; And by night, but I have no rest."
   },
   {
     "ref": "Psalms 22:16",
@@ -2575,6 +2575,11 @@
     "text": "And above His head they put up the charge against Him which read, “THIS IS JESUS THE KING OF THE JEWS.”"
   },
   {
+    "ref": "Matthew 27:46",
+    "key": "matthew.27.46",
+    "text": ""
+  },
+  {
     "ref": "Matthew 27:51",
     "key": "matthew.27.51",
     "text": "And behold, the veil of the sanctuary was torn in two from top to bottom; and the earth shook and the rocks were split."
@@ -2897,7 +2902,7 @@
   {
     "ref": "Luke 6:12",
     "key": "luke.6.12",
-    "text": ""
+    "text": "Now it happened that at this time He went off to the mountain to pray, and He was spending the whole night in prayer to God."
   },
   {
     "ref": "Luke 6:36–38",
@@ -3057,7 +3062,7 @@
   {
     "ref": "Luke 22:44",
     "key": "luke.22.44",
-    "text": ""
+    "text": "And being in agony He was praying very fervently, and His sweat became like drops of blood, falling down upon the ground."
   },
   {
     "ref": "Luke 23:34",
@@ -6938,6 +6943,11 @@
     "ref": "Hebrews 4:16",
     "key": "hebrews.4.16",
     "text": "Therefore let us draw near with confidence to the throne of grace, so that we may receive mercy and find grace to help in time of need."
+  },
+  {
+    "ref": "Hebrews 5:7",
+    "key": "hebrews.5.7",
+    "text": ""
   },
   {
     "ref": "Hebrews 6:13",

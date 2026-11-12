@@ -796,9 +796,9 @@ A simple way to remember what belongs in prayer is the word ACTS. This is the ac
 **Ask yourself first:** *"Is there anything I am refusing to confess before I ask Him for this?"*
 
 ## When prayer is hard
-- **It costs something, and it did for Christ.** He prayed through the whole night before choosing the twelve, and in Gethsemane He prayed in agony. (Luke 6:12; Luke 22:44)
+- **It costs something, and it did for Christ.** He prayed through the whole night before choosing the twelve, and in the days of His flesh He offered up prayers with loud crying and tears. In Gethsemane He prayed in agony. (Luke 6:12; Heb 5:7; Luke 22:44)
 - **Keep at it and stay awake in it.** Devote yourselves to prayer, keeping alert in it with thanksgiving. (Col 4:2; 1 Thess 5:17)
-- **Discouragement is not a reason to stay away.** David asked how long the Lord would forget him, and said he cried by day and got no answer, and he said both of those things to God. Bring Him the complaint. (Ps 13:1–2; Ps 22:2)
+- **Discouragement is not a reason to stay away.** David asked how long the Lord would forget him, and said he cried by day and got no answer, and he said both of those things to God. Bring Him the complaint. The Son Himself prayed the opening line of that psalm from the cross, so there is no complaint too dark to carry to the Father. (Ps 13:1–2; Ps 22:2; Matt 27:46)
 - **A no is an answer.** Paul asked three times and was told grace was enough. The Son asked for the cup to pass and then said, "not what I will." Neither of them lacked faith. (2 Cor 12:7–10; Mark 14:36)
 
 ## Why pray, if God is sovereign?

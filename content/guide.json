@@ -50368,7 +50368,7 @@
           "heading": "When prayer is hard",
           "lines": [
             {
-              "text": "**It costs something, and it did for Christ.** He prayed through the whole night before choosing the twelve, and in Gethsemane He prayed in agony. (Luke 6:12; Luke 22:44)",
+              "text": "**It costs something, and it did for Christ.** He prayed through the whole night before choosing the twelve, and in the days of His flesh He offered up prayers with loud crying and tears. In Gethsemane He prayed in agony. (Luke 6:12; Heb 5:7; Luke 22:44)",
               "verses": [
                 {
                   "label": "Luke 6:12",
@@ -50378,6 +50378,15 @@
                   "chapter": 6,
                   "verseStart": 12,
                   "verseEnd": 12
+                },
+                {
+                  "label": "Heb 5:7",
+                  "kind": "bible",
+                  "key": "hebrews.5.7",
+                  "book": "hebrews",
+                  "chapter": 5,
+                  "verseStart": 7,
+                  "verseEnd": 7
                 },
                 {
                   "label": "Luke 22:44",
@@ -50418,7 +50427,7 @@
               "supplemental": false
             },
             {
-              "text": "**Discouragement is not a reason to stay away.** David asked how long the Lord would forget him, and said he cried by day and got no answer, and he said both of those things to God. Bring Him the complaint. (Ps 13:1–2; Ps 22:2)",
+              "text": "**Discouragement is not a reason to stay away.** David asked how long the Lord would forget him, and said he cried by day and got no answer, and he said both of those things to God. Bring Him the complaint. The Son Himself prayed the opening line of that psalm from the cross, so there is no complaint too dark to carry to the Father. (Ps 13:1–2; Ps 22:2; Matt 27:46)",
               "verses": [
                 {
                   "label": "Ps 13:1–2",
@@ -50437,6 +50446,15 @@
                   "chapter": 22,
                   "verseStart": 2,
                   "verseEnd": 2
+                },
+                {
+                  "label": "Matt 27:46",
+                  "kind": "bible",
+                  "key": "matthew.27.46",
+                  "book": "matthew",
+                  "chapter": 27,
+                  "verseStart": 46,
+                  "verseEnd": 46
                 }
               ],
               "links": [],
