@@ -21565,6 +21565,2672 @@
       }
     },
     {
+      "slug": "prosperity",
+      "name": "Prosperity gospel",
+      "heading": "PROSPERITY GOSPEL / WORD OF FAITH",
+      "color": "#facc15",
+      "emoji": "💰",
+      "beliefs": {
+        "text": "God wants every believer healthy, wealthy and successful now, and the only thing standing in the way is your own faith. Faith is treated as a force you release with your words: you \"declare and decree,\" you make a \"positive confession,\" and you never speak of sickness or lack, because saying it gives it power. The cross is said to have bought physical health and material wealth along with forgiveness, so sickness and poverty are evidence of sin, a curse, or too little faith. Giving is the lever: sow a \"seed\" into the ministry and God is obligated to return it many times over. The anointed apostle or prophet speaks for God and is not to be questioned. The stream runs from E. W. Kenyon and Kenneth Hagin to Kenneth Copeland, Benny Hinn, Creflo Dollar and Todd White, and in a softer form to Joel Osteen; the newer \"New Apostolic Reformation\" wing adds living apostles and prophets, impartations and ongoing revelation ➕.",
+        "verses": [],
+        "links": [],
+        "supplemental": true
+      },
+      "lead": [
+        {
+          "label": "Their position",
+          "text": "God wants every believer healthy, wealthy and successful now, and the only thing standing in the way is your own faith. Faith is treated as a force you release with your words: you \"declare and decree,\" you make a \"positive confession,\" and you never speak of sickness or lack, because saying it gives it power. The cross is said to have bought physical health and material wealth along with forgiveness, so sickness and poverty are evidence of sin, a curse, or too little faith. Giving is the lever: sow a \"seed\" into the ministry and God is obligated to return it many times over. The anointed apostle or prophet speaks for God and is not to be questioned. The stream runs from E. W. Kenyon and Kenneth Hagin to Kenneth Copeland, Benny Hinn, Creflo Dollar and Todd White, and in a softer form to Joel Osteen; the newer \"New Apostolic Reformation\" wing adds living apostles and prophets, impartations and ongoing revelation ➕.",
+          "verses": [],
+          "links": [],
+          "supplemental": true
+        },
+        {
+          "label": "The dividing issue",
+          "text": "What the cross actually purchased, and who is God in the transaction. They say the atonement guarantees health and wealth in this life and that a believer's spoken word moves God's hand. Scripture says the cross bought the forgiveness of sins and a righteousness not our own, that the redemption of the body is still coming, and that God does what He pleases and answers according to His will, not our decree. (1 Pet 2:24; Rom 8:22–25; 1 John 5:14)",
+          "verses": [
+            {
+              "label": "1 Pet 2:24",
+              "kind": "bible",
+              "key": "1-peter.2.24",
+              "book": "1-peter",
+              "chapter": 2,
+              "verseStart": 24,
+              "verseEnd": 24
+            },
+            {
+              "label": "Rom 8:22–25",
+              "kind": "bible",
+              "key": "romans.8.22-25",
+              "book": "romans",
+              "chapter": 8,
+              "verseStart": 22,
+              "verseEnd": 25
+            },
+            {
+              "label": "1 John 5:14",
+              "kind": "bible",
+              "key": "1-john.5.14",
+              "book": "1-john",
+              "chapter": 5,
+              "verseStart": 14,
+              "verseEnd": 14
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "Ask this question",
+          "text": "*\"Paul asked God three times to take the thorn away and God said no, 'My grace is sufficient for you.' Did Paul lack faith?\"* (2 Cor 12:7–10)",
+          "verses": [
+            {
+              "label": "2 Cor 12:7–10",
+              "kind": "bible",
+              "key": "2-corinthians.12.7-10",
+              "book": "2-corinthians",
+              "chapter": 12,
+              "verseStart": 7,
+              "verseEnd": 10
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "Scriptural response",
+          "text": "The men who wrote the New Testament were poor, imprisoned, beaten and often sick, and they called it normal. Paul left Trophimus behind sick, told Timothy to take wine for his frequent ailments, nearly lost Epaphroditus to illness, and listed his own beatings and hunger as his credentials. The faith chapter of Hebrews ends with believers who were tortured and destitute and did not receive what was promised in this life. (2 Tim 4:20; 1 Tim 5:23; Phil 2:25–30; 2 Cor 11:23–28; Heb 11:35–39)",
+          "verses": [
+            {
+              "label": "2 Tim 4:20",
+              "kind": "bible",
+              "key": "2-timothy.4.20",
+              "book": "2-timothy",
+              "chapter": 4,
+              "verseStart": 20,
+              "verseEnd": 20
+            },
+            {
+              "label": "1 Tim 5:23",
+              "kind": "bible",
+              "key": "1-timothy.5.23",
+              "book": "1-timothy",
+              "chapter": 5,
+              "verseStart": 23,
+              "verseEnd": 23
+            },
+            {
+              "label": "Phil 2:25–30",
+              "kind": "bible",
+              "key": "philippians.2.25-30",
+              "book": "philippians",
+              "chapter": 2,
+              "verseStart": 25,
+              "verseEnd": 30
+            },
+            {
+              "label": "2 Cor 11:23–28",
+              "kind": "bible",
+              "key": "2-corinthians.11.23-28",
+              "book": "2-corinthians",
+              "chapter": 11,
+              "verseStart": 23,
+              "verseEnd": 28
+            },
+            {
+              "label": "Heb 11:35–39",
+              "kind": "bible",
+              "key": "hebrews.11.35-39",
+              "book": "hebrews",
+              "chapter": 11,
+              "verseStart": 35,
+              "verseEnd": 39
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "Common objection",
+          "text": "*\"By His stripes we were healed. Healing is in the atonement.\"* → Peter quotes that line and tells you what it heals: \"He Himself bore our sins in His body on the cross, so that we might die to sin and live to righteousness; by His wounds you were healed.\" The healing in view is from sin. Matthew does apply Isaiah 53:4 to Jesus' healing ministry, as a sign of who He is, and the full healing of the body comes when He raises it. (1 Pet 2:24; Matt 8:16–17; Rom 8:23; Rev 21:4)",
+          "verses": [
+            {
+              "label": "Isa 53:4",
+              "kind": "bible",
+              "key": "isaiah.53.4",
+              "book": "isaiah",
+              "chapter": 53,
+              "verseStart": 4,
+              "verseEnd": 4
+            },
+            {
+              "label": "1 Pet 2:24",
+              "kind": "bible",
+              "key": "1-peter.2.24",
+              "book": "1-peter",
+              "chapter": 2,
+              "verseStart": 24,
+              "verseEnd": 24
+            },
+            {
+              "label": "Matt 8:16–17",
+              "kind": "bible",
+              "key": "matthew.8.16-17",
+              "book": "matthew",
+              "chapter": 8,
+              "verseStart": 16,
+              "verseEnd": 17
+            },
+            {
+              "label": "Rom 8:23",
+              "kind": "bible",
+              "key": "romans.8.23",
+              "book": "romans",
+              "chapter": 8,
+              "verseStart": 23,
+              "verseEnd": 23
+            },
+            {
+              "label": "Rev 21:4",
+              "kind": "bible",
+              "key": "revelation.21.4",
+              "book": "revelation",
+              "chapter": 21,
+              "verseStart": 4,
+              "verseEnd": 4
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "Gospel bridge",
+          "text": "*\"If God never gave you another dollar or another well day, would Christ still be enough?\"* The gospel is not that God will make this life comfortable. It is that a guilty man can be forgiven and declared righteous through Christ's death and resurrection, and raised with a body that never breaks. (1 Cor 15:1–4; 1 Cor 15:42–44; Rom 8:18)",
+          "verses": [
+            {
+              "label": "1 Cor 15:1–4",
+              "kind": "bible",
+              "key": "1-corinthians.15.1-4",
+              "book": "1-corinthians",
+              "chapter": 15,
+              "verseStart": 1,
+              "verseEnd": 4
+            },
+            {
+              "label": "1 Cor 15:42–44",
+              "kind": "bible",
+              "key": "1-corinthians.15.42-44",
+              "book": "1-corinthians",
+              "chapter": 15,
+              "verseStart": 42,
+              "verseEnd": 44
+            },
+            {
+              "label": "Rom 8:18",
+              "kind": "bible",
+              "key": "romans.8.18",
+              "book": "romans",
+              "chapter": 8,
+              "verseStart": 18,
+              "verseEnd": 18
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "Where we agree",
+          "text": "God heals, and He is generous, and He answers prayer. He is not stingy and not distant. Sickness and poverty are not His final word, and one day both are gone forever. The Holy Spirit is a Person and His work is real and powerful. Many people in these churches love Jesus sincerely and are hungry for God, and some of them are being robbed by men who know better.",
+          "verses": [],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "label": "Approach",
+          "text": "Most of the people you meet in this are not rich. They are poor or sick and have been told, often for years, that it is their own fault for not believing hard enough. That is a cruelty, and the gospel is the relief from it, so lead with kindness and not with their pastor. Attack the teaching, not the man on the platform, at least at first: they will defend him like family. Start with Paul's thorn and Hebrews 11 and ask what they were promised and what actually happened. Costi Hinn grew up inside it and left; his book *God, Greed, and the (Prosperity) Gospel* is the best thing to hand them, and For the Gospel has a recovery reading plan for people coming out. MacArthur's *Strange Fire* and *Charismatic Chaos* are the fuller case. See [The Holy Spirit](/holy-spirit) and [How to pray](/topic/how-to-pray).",
+          "verses": [
+            {
+              "label": "Heb 11",
+              "kind": "bible",
+              "key": "hebrews.11",
+              "book": "hebrews",
+              "chapter": 11
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        }
+      ],
+      "cheatCardTitle": "Prosperity Cheat Card",
+      "cheatCard": [
+        {
+          "text": "**2 Cor 12:7–10**: *\"Paul asked three times and God said no. Did Paul lack faith?\"*",
+          "verses": [
+            {
+              "label": "2 Cor 12:7–10",
+              "kind": "bible",
+              "key": "2-corinthians.12.7-10",
+              "book": "2-corinthians",
+              "chapter": 12,
+              "verseStart": 7,
+              "verseEnd": 10
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "text": "**1 Pet 2:24**: *\"Peter says healed from what? Read the first half of the verse.\"*",
+          "verses": [
+            {
+              "label": "1 Pet 2:24",
+              "kind": "bible",
+              "key": "1-peter.2.24",
+              "book": "1-peter",
+              "chapter": 2,
+              "verseStart": 24,
+              "verseEnd": 24
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "text": "**Heb 11:35–39**: *\"The faith chapter ends with the destitute and tortured. Were they the failures?\"*",
+          "verses": [
+            {
+              "label": "Heb 11:35–39",
+              "kind": "bible",
+              "key": "hebrews.11.35-39",
+              "book": "hebrews",
+              "chapter": 11,
+              "verseStart": 35,
+              "verseEnd": 39
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "text": "**1 Tim 6:5–10**: *\"What does Paul call men who treat godliness as a means of gain?\"*",
+          "verses": [
+            {
+              "label": "1 Tim 6:5–10",
+              "kind": "bible",
+              "key": "1-timothy.6.5-10",
+              "book": "1-timothy",
+              "chapter": 6,
+              "verseStart": 5,
+              "verseEnd": 10
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "text": "**Mark 10:29–30**: *\"Jesus promises a hundredfold with what word attached to it?\"*",
+          "verses": [
+            {
+              "label": "Mark 10:29–30",
+              "kind": "bible",
+              "key": "mark.10.29-30",
+              "book": "mark",
+              "chapter": 10,
+              "verseStart": 29,
+              "verseEnd": 30
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "text": "**1 John 4:1**: *\"We are commanded to test the spirits. May I test this one with you?\"*",
+          "verses": [
+            {
+              "label": "1 John 4:1",
+              "kind": "bible",
+              "key": "1-john.4.1",
+              "book": "1-john",
+              "chapter": 4,
+              "verseStart": 1,
+              "verseEnd": 1
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        }
+      ],
+      "offense": [
+        {
+          "id": "play-1",
+          "number": 1,
+          "title": "Who had the most faith? (suffering in the New Testament)",
+          "subtitle": "lead with this",
+          "whenToUse": "lead with this",
+          "warning": false,
+          "supplemental": false,
+          "altOpeners": [
+            {
+              "text": "*\"If faith guarantees health, what do we do with the sick men in Paul's letters?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "chain": [
+            {
+              "text": "**2 Cor 12:7–10**: Paul begged God three times to remove the thorn. God refused and gave him grace instead, and Paul says he will boast in weakness so Christ's power rests on him. *\"Did God fail Paul, or did Paul get something better?\"*",
+              "verses": [
+                {
+                  "label": "2 Cor 12:7–10",
+                  "kind": "bible",
+                  "key": "2-corinthians.12.7-10",
+                  "book": "2-corinthians",
+                  "chapter": 12,
+                  "verseStart": 7,
+                  "verseEnd": 10
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**2 Tim 4:20**: \"Trophimus I left sick at Miletus.\" *\"Paul raised the dead in Acts. Why did he leave this man sick?\"*",
+              "verses": [
+                {
+                  "label": "2 Tim 4:20",
+                  "kind": "bible",
+                  "key": "2-timothy.4.20",
+                  "book": "2-timothy",
+                  "chapter": 4,
+                  "verseStart": 20,
+                  "verseEnd": 20
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**1 Tim 5:23; Phil 2:25–30**: Timothy had frequent ailments. Epaphroditus was sick to the point of death. *\"Two of Paul's closest men. Where is the guaranteed healing?\"*",
+              "verses": [
+                {
+                  "label": "1 Tim 5:23",
+                  "kind": "bible",
+                  "key": "1-timothy.5.23",
+                  "book": "1-timothy",
+                  "chapter": 5,
+                  "verseStart": 23,
+                  "verseEnd": 23
+                },
+                {
+                  "label": "Phil 2:25–30",
+                  "kind": "bible",
+                  "key": "philippians.2.25-30",
+                  "book": "philippians",
+                  "chapter": 2,
+                  "verseStart": 25,
+                  "verseEnd": 30
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**2 Cor 11:23–28**: Imprisonments, beatings, a stoning, shipwrecks, hunger, cold, exposure. *\"That is his résumé. Is that the life your teachers promise?\"*",
+              "verses": [
+                {
+                  "label": "2 Cor 11:23–28",
+                  "kind": "bible",
+                  "key": "2-corinthians.11.23-28",
+                  "book": "2-corinthians",
+                  "chapter": 11,
+                  "verseStart": 23,
+                  "verseEnd": 28
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Heb 11:35–39**: The chapter on faith ends with believers tortured, sawn in two, destitute and homeless, \"of whom the world was not worthy,\" who did not receive the promise in this life. *\"Were they the ones with weak faith?\"*",
+              "verses": [
+                {
+                  "label": "Heb 11:35–39",
+                  "kind": "bible",
+                  "key": "hebrews.11.35-39",
+                  "book": "hebrews",
+                  "chapter": 11,
+                  "verseStart": 35,
+                  "verseEnd": 39
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Job 1:8–12; Job 2:3–7**: God calls Job blameless and then hands him over to loss and sickness, and Job never finds out why. *\"Whose fault was Job's suffering?\"*",
+              "verses": [
+                {
+                  "label": "Job 1:8–12",
+                  "kind": "bible",
+                  "key": "job.1.8-12",
+                  "book": "job",
+                  "chapter": 1,
+                  "verseStart": 8,
+                  "verseEnd": 12
+                },
+                {
+                  "label": "Job 2:3–7",
+                  "kind": "bible",
+                  "key": "job.2.3-7",
+                  "book": "job",
+                  "chapter": 2,
+                  "verseStart": 3,
+                  "verseEnd": 7
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "questions": [],
+          "ifTheySay": [
+            {
+              "theySay": "*\"The thorn was a person persecuting him, not sickness.\"*",
+              "youSay": "Maybe so; the text calls it a thorn in the flesh and a weakness. Either way the point stands: a man of great faith asked God three times for relief and God said no, and called that no an answer. (2 Cor 12:8–9)",
+              "verses": [
+                {
+                  "label": "2 Cor 12:8–9",
+                  "kind": "bible",
+                  "key": "2-corinthians.12.8-9",
+                  "book": "2-corinthians",
+                  "chapter": 12,
+                  "verseStart": 8,
+                  "verseEnd": 9
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"That was the old covenant, before the cross.\"*",
+              "youSay": "Every example above is after the cross, written by apostles filled with the Spirit. (2 Cor 11:23; Phil 2:27)",
+              "verses": [
+                {
+                  "label": "2 Cor 11:23",
+                  "kind": "bible",
+                  "key": "2-corinthians.11.23",
+                  "book": "2-corinthians",
+                  "chapter": 11,
+                  "verseStart": 23,
+                  "verseEnd": 23
+                },
+                {
+                  "label": "Phil 2:27",
+                  "kind": "bible",
+                  "key": "philippians.2.27",
+                  "book": "philippians",
+                  "chapter": 2,
+                  "verseStart": 27,
+                  "verseEnd": 27
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"Jesus healed everyone who came to Him.\"*",
+              "youSay": "He did, as a sign that He is who He said, and then He went to a cross. He also told His followers to expect tribulation. (Matt 8:16–17; John 16:33; 2 Tim 3:12)",
+              "verses": [
+                {
+                  "label": "Matt 8:16–17",
+                  "kind": "bible",
+                  "key": "matthew.8.16-17",
+                  "book": "matthew",
+                  "chapter": 8,
+                  "verseStart": 16,
+                  "verseEnd": 17
+                },
+                {
+                  "label": "John 16:33",
+                  "kind": "bible",
+                  "key": "john.16.33",
+                  "book": "john",
+                  "chapter": 16,
+                  "verseStart": 33,
+                  "verseEnd": 33
+                },
+                {
+                  "label": "2 Tim 3:12",
+                  "kind": "bible",
+                  "key": "2-timothy.3.12",
+                  "book": "2-timothy",
+                  "chapter": 3,
+                  "verseStart": 12,
+                  "verseEnd": 12
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"God gets no glory from your sickness.\"*",
+              "youSay": "He told us otherwise. The man born blind was blind so that the works of God would be displayed in him, and Paul's weakness was the showcase for Christ's power. (John 9:1–3; 2 Cor 12:9)",
+              "verses": [
+                {
+                  "label": "John 9:1–3",
+                  "kind": "bible",
+                  "key": "john.9.1-3",
+                  "book": "john",
+                  "chapter": 9,
+                  "verseStart": 1,
+                  "verseEnd": 3
+                },
+                {
+                  "label": "2 Cor 12:9",
+                  "kind": "bible",
+                  "key": "2-corinthians.12.9",
+                  "book": "2-corinthians",
+                  "chapter": 12,
+                  "verseStart": 9,
+                  "verseEnd": 9
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "notes": [],
+          "links": [],
+          "opener": {
+            "text": "*\"Who had more faith than the apostle Paul?\"*",
+            "verses": [],
+            "links": [],
+            "supplemental": false
+          },
+          "closer": {
+            "text": "*\"Paul says our present sufferings are not worth comparing with the glory coming, and that creation groans while we wait for our bodies to be redeemed. He is not promising it now. He is promising it certainly. Which would you rather have?\"* (Rom 8:18; Rom 8:22–23)",
+            "verses": [
+              {
+                "label": "Rom 8:18",
+                "kind": "bible",
+                "key": "romans.8.18",
+                "book": "romans",
+                "chapter": 8,
+                "verseStart": 18,
+                "verseEnd": 18
+              },
+              {
+                "label": "Rom 8:22–23",
+                "kind": "bible",
+                "key": "romans.8.22-23",
+                "book": "romans",
+                "chapter": 8,
+                "verseStart": 22,
+                "verseEnd": 23
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          }
+        },
+        {
+          "id": "play-2",
+          "number": 2,
+          "title": "What did the cross buy?",
+          "subtitle": "atonement and the body",
+          "warning": false,
+          "supplemental": false,
+          "altOpeners": [
+            {
+              "text": "*\"If the cross bought your healing outright, why does any Christian still die?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "chain": [
+            {
+              "text": "**1 Pet 2:24**: Read the whole verse. He bore our sins so that we would die to sin and live to righteousness, \"by His wounds you were healed.\" *\"Healed of what, according to the first half of the sentence?\"*",
+              "verses": [
+                {
+                  "label": "1 Pet 2:24",
+                  "kind": "bible",
+                  "key": "1-peter.2.24",
+                  "book": "1-peter",
+                  "chapter": 2,
+                  "verseStart": 24,
+                  "verseEnd": 24
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Matt 8:16–17**: Matthew does apply Isaiah 53:4 to Jesus' healings, during His earthly ministry, as the credential of the Messiah. *\"Did Matthew say every believer afterward gets the same, or did he say this is who Jesus is?\"*",
+              "verses": [
+                {
+                  "label": "Matt 8:16–17",
+                  "kind": "bible",
+                  "key": "matthew.8.16-17",
+                  "book": "matthew",
+                  "chapter": 8,
+                  "verseStart": 16,
+                  "verseEnd": 17
+                },
+                {
+                  "label": "Isa 53:4",
+                  "kind": "bible",
+                  "key": "isaiah.53.4",
+                  "book": "isaiah",
+                  "chapter": 53,
+                  "verseStart": 4,
+                  "verseEnd": 4
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Rom 8:22–23**: We groan within ourselves, waiting eagerly for the redemption of our body. *\"If the body were already redeemed, what is Paul waiting for?\"*",
+              "verses": [
+                {
+                  "label": "Rom 8:22–23",
+                  "kind": "bible",
+                  "key": "romans.8.22-23",
+                  "book": "romans",
+                  "chapter": 8,
+                  "verseStart": 22,
+                  "verseEnd": 23
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**1 Cor 15:42–44, 53–54**: The body is sown perishable and raised imperishable. *\"When does the perishable put on the imperishable?\"*",
+              "verses": [
+                {
+                  "label": "1 Cor 15:42–44",
+                  "kind": "bible",
+                  "key": "1-corinthians.15.42-44",
+                  "book": "1-corinthians",
+                  "chapter": 15,
+                  "verseStart": 42,
+                  "verseEnd": 44
+                },
+                {
+                  "label": "1 Cor 15:53–54",
+                  "kind": "bible",
+                  "key": "1-corinthians.15.53-54",
+                  "book": "1-corinthians",
+                  "chapter": 15,
+                  "verseStart": 53,
+                  "verseEnd": 54
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**2 Cor 4:16–18; 2 Cor 5:1–4**: The outer man is decaying while the inner man is renewed day by day. *\"Is Paul describing a failure of faith or the Christian life?\"*",
+              "verses": [
+                {
+                  "label": "2 Cor 4:16–18",
+                  "kind": "bible",
+                  "key": "2-corinthians.4.16-18",
+                  "book": "2-corinthians",
+                  "chapter": 4,
+                  "verseStart": 16,
+                  "verseEnd": 18
+                },
+                {
+                  "label": "2 Cor 5:1–4",
+                  "kind": "bible",
+                  "key": "2-corinthians.5.1-4",
+                  "book": "2-corinthians",
+                  "chapter": 5,
+                  "verseStart": 1,
+                  "verseEnd": 4
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Rev 21:3–4**: God wipes away every tear and there is no more death, mourning, crying or pain. *\"Notice when. Is it now, or when He makes all things new?\"*",
+              "verses": [
+                {
+                  "label": "Rev 21:3–4",
+                  "kind": "bible",
+                  "key": "revelation.21.3-4",
+                  "book": "revelation",
+                  "chapter": 21,
+                  "verseStart": 3,
+                  "verseEnd": 4
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "questions": [],
+          "ifTheySay": [
+            {
+              "theySay": "*\"So you don't believe God heals.\"*",
+              "youSay": "He heals, and we pray for it, and sometimes He does it plainly. What He never did was promise it on demand or make it a test of your faith. (James 5:14–16)",
+              "verses": [
+                {
+                  "label": "Jas 5:14–16",
+                  "kind": "bible",
+                  "key": "james.5.14-16",
+                  "book": "james",
+                  "chapter": 5,
+                  "verseStart": 14,
+                  "verseEnd": 16
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"Isaiah 53 says He bore our sicknesses.\"*",
+              "youSay": "He did, and the down payment is real, and the final payment is a raised body. Scripture puts the full healing at the resurrection, not at the altar call. (Rom 8:23; Phil 3:20–21)",
+              "verses": [
+                {
+                  "label": "Isa 53",
+                  "kind": "bible",
+                  "key": "isaiah.53",
+                  "book": "isaiah",
+                  "chapter": 53
+                },
+                {
+                  "label": "Rom 8:23",
+                  "kind": "bible",
+                  "key": "romans.8.23",
+                  "book": "romans",
+                  "chapter": 8,
+                  "verseStart": 23,
+                  "verseEnd": 23
+                },
+                {
+                  "label": "Phil 3:20–21",
+                  "kind": "bible",
+                  "key": "philippians.3.20-21",
+                  "book": "philippians",
+                  "chapter": 3,
+                  "verseStart": 20,
+                  "verseEnd": 21
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"Poverty is the curse of the law and Christ redeemed us from the curse.\"*",
+              "youSay": "The curse Paul names there is the curse the law pronounces on lawbreakers, and what Christ bought us out of is condemnation. The blessing Paul says we received is the promised Spirit. (Gal 3:10; Gal 3:13–14)",
+              "verses": [
+                {
+                  "label": "Gal 3:10",
+                  "kind": "bible",
+                  "key": "galatians.3.10",
+                  "book": "galatians",
+                  "chapter": 3,
+                  "verseStart": 10,
+                  "verseEnd": 10
+                },
+                {
+                  "label": "Gal 3:13–14",
+                  "kind": "bible",
+                  "key": "galatians.3.13-14",
+                  "book": "galatians",
+                  "chapter": 3,
+                  "verseStart": 13,
+                  "verseEnd": 14
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"Jesus became poor so that we might become rich.\"*",
+              "youSay": "Read the chapter around it. Paul is praising the Macedonian churches, who gave generously out of deep poverty, and urging the Corinthians to do the same. The riches in view are grace. (2 Cor 8:1–2; 2 Cor 8:9)",
+              "verses": [
+                {
+                  "label": "2 Cor 8:1–2",
+                  "kind": "bible",
+                  "key": "2-corinthians.8.1-2",
+                  "book": "2-corinthians",
+                  "chapter": 8,
+                  "verseStart": 1,
+                  "verseEnd": 2
+                },
+                {
+                  "label": "2 Cor 8:9",
+                  "kind": "bible",
+                  "key": "2-corinthians.8.9",
+                  "book": "2-corinthians",
+                  "chapter": 8,
+                  "verseStart": 9,
+                  "verseEnd": 9
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "notes": [],
+          "links": [],
+          "opener": {
+            "text": "*\"What did Jesus purchase at the cross?\"*",
+            "verses": [],
+            "links": [],
+            "supplemental": false
+          },
+          "closer": {
+            "text": "*\"Then the question is not whether God can heal your body. It is whether your sins are forgiven, because that is the thing the cross settled. Are they?\"* (Col 2:13–14)",
+            "verses": [
+              {
+                "label": "Col 2:13–14",
+                "kind": "bible",
+                "key": "colossians.2.13-14",
+                "book": "colossians",
+                "chapter": 2,
+                "verseStart": 13,
+                "verseEnd": 14
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          }
+        },
+        {
+          "id": "play-3",
+          "number": 3,
+          "title": "Whose will, and whose words?",
+          "subtitle": "faith is not a force",
+          "warning": false,
+          "supplemental": true,
+          "altOpeners": [
+            {
+              "text": "*\"Jesus prayed, 'Not what I will, but what You will.' Was that weak faith?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "chain": [
+            {
+              "text": "**Mark 14:36**: In the garden the Son of God says \"not what I will, but what You will.\" *\"If the perfect Son prays that way, how should we?\"*",
+              "verses": [
+                {
+                  "label": "Mark 14:36",
+                  "kind": "bible",
+                  "key": "mark.14.36",
+                  "book": "mark",
+                  "chapter": 14,
+                  "verseStart": 36,
+                  "verseEnd": 36
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Matt 6:9–10**: The prayer He taught us says \"Your will be done.\" *\"Is that a negative confession?\"*",
+              "verses": [
+                {
+                  "label": "Matt 6:9–10",
+                  "kind": "bible",
+                  "key": "matthew.6.9-10",
+                  "book": "matthew",
+                  "chapter": 6,
+                  "verseStart": 9,
+                  "verseEnd": 10
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**1 John 5:14**: We have confidence that if we ask anything according to His will, He hears us. *\"What is the condition in that verse?\"*",
+              "verses": [
+                {
+                  "label": "1 John 5:14",
+                  "kind": "bible",
+                  "key": "1-john.5.14",
+                  "book": "1-john",
+                  "chapter": 5,
+                  "verseStart": 14,
+                  "verseEnd": 14
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**James 4:13–16**: Planning without \"if the Lord wills\" is called arrogance. *\"Who decides what tomorrow holds?\"*",
+              "verses": [
+                {
+                  "label": "Jas 4:13–16",
+                  "kind": "bible",
+                  "key": "james.4.13-16",
+                  "book": "james",
+                  "chapter": 4,
+                  "verseStart": 13,
+                  "verseEnd": 16
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**James 4:2–3**: You ask and do not receive because you ask with wrong motives, to spend it on your pleasures. *\"Could that be the real reason some prayers go unanswered?\"*",
+              "verses": [
+                {
+                  "label": "Jas 4:2–3",
+                  "kind": "bible",
+                  "key": "james.4.2-3",
+                  "book": "james",
+                  "chapter": 4,
+                  "verseStart": 2,
+                  "verseEnd": 3
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Dan 4:35; Ps 115:3; Isa 46:9–10**: God does according to His will in heaven and on earth and no one can hold back His hand. *\"Can a man's words command the God who says that?\"*",
+              "verses": [
+                {
+                  "label": "Dan 4:35",
+                  "kind": "bible",
+                  "key": "daniel.4.35",
+                  "book": "daniel",
+                  "chapter": 4,
+                  "verseStart": 35,
+                  "verseEnd": 35
+                },
+                {
+                  "label": "Ps 115:3",
+                  "kind": "bible",
+                  "key": "psalms.115.3",
+                  "book": "psalms",
+                  "chapter": 115,
+                  "verseStart": 3,
+                  "verseEnd": 3
+                },
+                {
+                  "label": "Isa 46:9–10",
+                  "kind": "bible",
+                  "key": "isaiah.46.9-10",
+                  "book": "isaiah",
+                  "chapter": 46,
+                  "verseStart": 9,
+                  "verseEnd": 10
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "questions": [],
+          "ifTheySay": [
+            {
+              "theySay": "*\"'Call those things that are not as though they were' (Rom 4:17).\"*",
+              "youSay": "Read who the subject is. It is God who calls into being the things that do not exist. Abraham's faith was confidence in God's promise, not a technique. (Rom 4:17; Rom 4:20–21)",
+              "verses": [
+                {
+                  "label": "Rom 4:17",
+                  "kind": "bible",
+                  "key": "romans.4.17",
+                  "book": "romans",
+                  "chapter": 4,
+                  "verseStart": 17,
+                  "verseEnd": 17
+                },
+                {
+                  "label": "Rom 4:20–21",
+                  "kind": "bible",
+                  "key": "romans.4.20-21",
+                  "book": "romans",
+                  "chapter": 4,
+                  "verseStart": 20,
+                  "verseEnd": 21
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"'Death and life are in the power of the tongue' (Prov 18:21).\"*",
+              "youSay": "A proverb about what our speech does to people and to ourselves, in a book full of warnings about the tongue. It is not a law of creation. (Prov 18:21; James 3:5–10)",
+              "verses": [
+                {
+                  "label": "Prov 18:21",
+                  "kind": "bible",
+                  "key": "proverbs.18.21",
+                  "book": "proverbs",
+                  "chapter": 18,
+                  "verseStart": 21,
+                  "verseEnd": 21
+                },
+                {
+                  "label": "Jas 3:5–10",
+                  "kind": "bible",
+                  "key": "james.3.5-10",
+                  "book": "james",
+                  "chapter": 3,
+                  "verseStart": 5,
+                  "verseEnd": 10
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"'Whatever you ask in My name' (John 14:13–14).\"*",
+              "youSay": "In His name means on His authority and for His glory, which is why the next phrase is \"that the Father may be glorified in the Son.\" A blank cheque is not what He said. (John 14:13; 1 John 5:14)",
+              "verses": [
+                {
+                  "label": "John 14:13–14",
+                  "kind": "bible",
+                  "key": "john.14.13-14",
+                  "book": "john",
+                  "chapter": 14,
+                  "verseStart": 13,
+                  "verseEnd": 14
+                },
+                {
+                  "label": "John 14:13",
+                  "kind": "bible",
+                  "key": "john.14.13",
+                  "book": "john",
+                  "chapter": 14,
+                  "verseStart": 13,
+                  "verseEnd": 13
+                },
+                {
+                  "label": "1 John 5:14",
+                  "kind": "bible",
+                  "key": "1-john.5.14",
+                  "book": "1-john",
+                  "chapter": 5,
+                  "verseStart": 14,
+                  "verseEnd": 14
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"Never pray 'if it be Your will.' That is unbelief.\"* ➕",
+              "youSay": "Then Jesus prayed in unbelief in Gethsemane, and John wrote unbelief in his letter. *\"Which of them would you like to correct?\"* (Mark 14:36; 1 John 5:14)",
+              "verses": [
+                {
+                  "label": "Mark 14:36",
+                  "kind": "bible",
+                  "key": "mark.14.36",
+                  "book": "mark",
+                  "chapter": 14,
+                  "verseStart": 36,
+                  "verseEnd": 36
+                },
+                {
+                  "label": "1 John 5:14",
+                  "kind": "bible",
+                  "key": "1-john.5.14",
+                  "book": "1-john",
+                  "chapter": 5,
+                  "verseStart": 14,
+                  "verseEnd": 14
+                }
+              ],
+              "links": [],
+              "supplemental": true
+            },
+            {
+              "theySay": "*\"You have to speak it before you see it.\"*",
+              "youSay": "Scripture tells us to make our requests known with thanksgiving, and promises peace rather than guaranteed delivery. (Phil 4:6–7)",
+              "verses": [
+                {
+                  "label": "Phil 4:6–7",
+                  "kind": "bible",
+                  "key": "philippians.4.6-7",
+                  "book": "philippians",
+                  "chapter": 4,
+                  "verseStart": 6,
+                  "verseEnd": 7
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "notes": [],
+          "links": [],
+          "opener": {
+            "text": "*\"When you pray, are you asking God or telling Him?\"*",
+            "verses": [],
+            "links": [],
+            "supplemental": false
+          },
+          "closer": {
+            "text": "*\"Prayer is not leverage. It is a son asking a Father who is good and who knows better. Would you pray with me that way right now?\"* (Matt 7:11; Heb 4:16)",
+            "verses": [
+              {
+                "label": "Matt 7:11",
+                "kind": "bible",
+                "key": "matthew.7.11",
+                "book": "matthew",
+                "chapter": 7,
+                "verseStart": 11,
+                "verseEnd": 11
+              },
+              {
+                "label": "Heb 4:16",
+                "kind": "bible",
+                "key": "hebrews.4.16",
+                "book": "hebrews",
+                "chapter": 4,
+                "verseStart": 16,
+                "verseEnd": 16
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          }
+        },
+        {
+          "id": "play-4",
+          "number": 4,
+          "title": "Test the spirits",
+          "subtitle": "when they appeal to experience, anointing or miracles",
+          "warning": false,
+          "supplemental": false,
+          "altOpeners": [
+            {
+              "text": "*\"How would you know if a miracle came from somewhere other than God?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "chain": [
+            {
+              "text": "**1 John 4:1**: Do not believe every spirit; test them, because many false prophets have gone out. *\"Is that a command, or a suggestion?\"*",
+              "verses": [
+                {
+                  "label": "1 John 4:1",
+                  "kind": "bible",
+                  "key": "1-john.4.1",
+                  "book": "1-john",
+                  "chapter": 4,
+                  "verseStart": 1,
+                  "verseEnd": 1
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**1 John 4:2–3**: Test one: does it confess and exalt Jesus Christ? MacArthur's point is that the Spirit always points to the Son, never to Himself. *\"When the service is over, who was the subject?\"*",
+              "verses": [
+                {
+                  "label": "1 John 4:2–3",
+                  "kind": "bible",
+                  "key": "1-john.4.2-3",
+                  "book": "1-john",
+                  "chapter": 4,
+                  "verseStart": 2,
+                  "verseEnd": 3
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**1 John 4:5**: Test two: \"they are from the world, therefore they speak as from the world, and the world listens to them.\" *\"Health, wealth and success are what the unconverted heart already wants. Why would the world love this message so much?\"*",
+              "verses": [
+                {
+                  "label": "1 John 4:5",
+                  "kind": "bible",
+                  "key": "1-john.4.5",
+                  "book": "1-john",
+                  "chapter": 4,
+                  "verseStart": 5,
+                  "verseEnd": 5
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**1 John 4:6**: Test three: does it run to Scripture, or past it? *\"Does your teacher send you to your Bible, or to his next word from the Lord?\"*",
+              "verses": [
+                {
+                  "label": "1 John 4:6",
+                  "kind": "bible",
+                  "key": "1-john.4.6",
+                  "book": "1-john",
+                  "chapter": 4,
+                  "verseStart": 6,
+                  "verseEnd": 6
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**1 John 4:7–8**: Test four: does it produce love, or does it produce me? *\"Are the gifts there to build others up, or to get you what you want?\"* (1 Cor 12:7; 1 Cor 14:12)",
+              "verses": [
+                {
+                  "label": "1 John 4:7–8",
+                  "kind": "bible",
+                  "key": "1-john.4.7-8",
+                  "book": "1-john",
+                  "chapter": 4,
+                  "verseStart": 7,
+                  "verseEnd": 8
+                },
+                {
+                  "label": "1 Cor 12:7",
+                  "kind": "bible",
+                  "key": "1-corinthians.12.7",
+                  "book": "1-corinthians",
+                  "chapter": 12,
+                  "verseStart": 7,
+                  "verseEnd": 7
+                },
+                {
+                  "label": "1 Cor 14:12",
+                  "kind": "bible",
+                  "key": "1-corinthians.14.12",
+                  "book": "1-corinthians",
+                  "chapter": 14,
+                  "verseStart": 12,
+                  "verseEnd": 12
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Matt 7:21–23**: On that day many will say, \"Lord, we prophesied, cast out demons, did miracles in Your name,\" and He will say, \"I never knew you.\" *\"Miracles are not the proof. What is?\"*",
+              "verses": [
+                {
+                  "label": "Matt 7:21–23",
+                  "kind": "bible",
+                  "key": "matthew.7.21-23",
+                  "book": "matthew",
+                  "chapter": 7,
+                  "verseStart": 21,
+                  "verseEnd": 23
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "questions": [],
+          "ifTheySay": [
+            {
+              "theySay": "*\"Signs and wonders prove God is in it.\"*",
+              "youSay": "Pharaoh's magicians produced signs, the false christs will produce signs to deceive, and the lawless one comes with power and false wonders. Signs prove power, not truth. (Ex 7:11–12; Matt 24:24; 2 Thess 2:9)",
+              "verses": [
+                {
+                  "label": "Ex 7:11–12",
+                  "kind": "bible",
+                  "key": "exodus.7.11-12",
+                  "book": "exodus",
+                  "chapter": 7,
+                  "verseStart": 11,
+                  "verseEnd": 12
+                },
+                {
+                  "label": "Matt 24:24",
+                  "kind": "bible",
+                  "key": "matthew.24.24",
+                  "book": "matthew",
+                  "chapter": 24,
+                  "verseStart": 24,
+                  "verseEnd": 24
+                },
+                {
+                  "label": "2 Thess 2:9",
+                  "kind": "bible",
+                  "key": "2-thessalonians.2.9",
+                  "book": "2-thessalonians",
+                  "chapter": 2,
+                  "verseStart": 9,
+                  "verseEnd": 9
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"Touch not the anointed, and do no harm to His prophets.\"*",
+              "youSay": "That verse is about God protecting the patriarchs as they wandered among nations. And Paul opposed Peter to his face in front of everyone when Peter was wrong. (Ps 105:13–15; Gal 2:11–14)",
+              "verses": [
+                {
+                  "label": "Ps 105:13–15",
+                  "kind": "bible",
+                  "key": "psalms.105.13-15",
+                  "book": "psalms",
+                  "chapter": 105,
+                  "verseStart": 13,
+                  "verseEnd": 15
+                },
+                {
+                  "label": "Gal 2:11–14",
+                  "kind": "bible",
+                  "key": "galatians.2.11-14",
+                  "book": "galatians",
+                  "chapter": 2,
+                  "verseStart": 11,
+                  "verseEnd": 14
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"Don't judge. You're quenching the Spirit.\"*",
+              "youSay": "The Spirit wrote \"examine everything carefully\" and commended the Bereans for checking the apostle Paul against the Scriptures daily. (1 Thess 5:20–22; Acts 17:11)",
+              "verses": [
+                {
+                  "label": "1 Thess 5:20–22",
+                  "kind": "bible",
+                  "key": "1-thessalonians.5.20-22",
+                  "book": "1-thessalonians",
+                  "chapter": 5,
+                  "verseStart": 20,
+                  "verseEnd": 22
+                },
+                {
+                  "label": "Acts 17:11",
+                  "kind": "bible",
+                  "key": "acts.17.11",
+                  "book": "acts",
+                  "chapter": 17,
+                  "verseStart": 11,
+                  "verseEnd": 11
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"My pastor has a word from the Lord for people.\"*",
+              "youSay": "Then he is claiming what Scripture tests by one standard: a prophet whose word does not come to pass has spoken presumptuously. *\"Has every word he has given come true?\"* (Deut 18:20–22; Jer 23:16)",
+              "verses": [
+                {
+                  "label": "Deut 18:20–22",
+                  "kind": "bible",
+                  "key": "deuteronomy.18.20-22",
+                  "book": "deuteronomy",
+                  "chapter": 18,
+                  "verseStart": 20,
+                  "verseEnd": 22
+                },
+                {
+                  "label": "Jer 23:16",
+                  "kind": "bible",
+                  "key": "jeremiah.23.16",
+                  "book": "jeremiah",
+                  "chapter": 23,
+                  "verseStart": 16,
+                  "verseEnd": 16
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"God told me.\"*",
+              "youSay": "Kindly: the way God has told us is this book, and it is sufficient for everything we need for life and godliness. (2 Tim 3:16–17; 2 Pet 1:3; 2 Pet 1:19)",
+              "verses": [
+                {
+                  "label": "2 Tim 3:16–17",
+                  "kind": "bible",
+                  "key": "2-timothy.3.16-17",
+                  "book": "2-timothy",
+                  "chapter": 3,
+                  "verseStart": 16,
+                  "verseEnd": 17
+                },
+                {
+                  "label": "2 Pet 1:3",
+                  "kind": "bible",
+                  "key": "2-peter.1.3",
+                  "book": "2-peter",
+                  "chapter": 1,
+                  "verseStart": 3,
+                  "verseEnd": 3
+                },
+                {
+                  "label": "2 Pet 1:19",
+                  "kind": "bible",
+                  "key": "2-peter.1.19",
+                  "book": "2-peter",
+                  "chapter": 1,
+                  "verseStart": 19,
+                  "verseEnd": 19
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "notes": [],
+          "links": [],
+          "opener": {
+            "text": "*\"John commands us to test the spirits. Can we test this teaching together?\"*",
+            "verses": [],
+            "links": [],
+            "supplemental": false
+          },
+          "closer": {
+            "text": "*\"The Spirit's work is to conform you to Christ, and Scripture says plainly what He does: He convicts, regenerates, illuminates, sanctifies and seals. Nothing in that list is money. Would you want the real thing?\"* (Rom 8:26–29; John 16:13–14)",
+            "verses": [
+              {
+                "label": "Rom 8:26–29",
+                "kind": "bible",
+                "key": "romans.8.26-29",
+                "book": "romans",
+                "chapter": 8,
+                "verseStart": 26,
+                "verseEnd": 29
+              },
+              {
+                "label": "John 16:13–14",
+                "kind": "bible",
+                "key": "john.16.13-14",
+                "book": "john",
+                "chapter": 16,
+                "verseStart": 13,
+                "verseEnd": 14
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          }
+        },
+        {
+          "id": "play-5",
+          "number": 5,
+          "title": "Follow the money",
+          "subtitle": "seed faith and the men who teach it",
+          "warning": false,
+          "supplemental": false,
+          "altOpeners": [
+            {
+              "text": "*\"Has your pastor ever asked you to give money you needed?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "chain": [
+            {
+              "text": "**1 Tim 6:5**: Paul names men who suppose \"that godliness is a means of gain\" and says to have nothing to do with them. *\"Does that describe anyone you have listened to?\"*",
+              "verses": [
+                {
+                  "label": "1 Tim 6:5",
+                  "kind": "bible",
+                  "key": "1-timothy.6.5",
+                  "book": "1-timothy",
+                  "chapter": 6,
+                  "verseStart": 5,
+                  "verseEnd": 5
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**1 Tim 6:9–10**: Those who want to get rich fall into ruin, and the love of money is a root of all sorts of evil. *\"Is that a promise or a warning?\"*",
+              "verses": [
+                {
+                  "label": "1 Tim 6:9–10",
+                  "kind": "bible",
+                  "key": "1-timothy.6.9-10",
+                  "book": "1-timothy",
+                  "chapter": 6,
+                  "verseStart": 9,
+                  "verseEnd": 10
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**2 Pet 2:1–3**: False teachers bring in destructive heresies, and in their greed they exploit people with false words. *\"Exploit whom?\"*",
+              "verses": [
+                {
+                  "label": "2 Pet 2:1–3",
+                  "kind": "bible",
+                  "key": "2-peter.2.1-3",
+                  "book": "2-peter",
+                  "chapter": 2,
+                  "verseStart": 1,
+                  "verseEnd": 3
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Acts 8:18–23**: Simon offered money to get the power of the Spirit, and Peter told him his heart was not right before God. *\"What did Peter think of paying for God's power?\"*",
+              "verses": [
+                {
+                  "label": "Acts 8:18–23",
+                  "kind": "bible",
+                  "key": "acts.8.18-23",
+                  "book": "acts",
+                  "chapter": 8,
+                  "verseStart": 18,
+                  "verseEnd": 23
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Titus 1:10–11; 2 Cor 2:17**: Men who teach for sordid gain, peddling the word of God. *\"Is the offering appeal the longest part of the service?\"*",
+              "verses": [
+                {
+                  "label": "Titus 1:10–11",
+                  "kind": "bible",
+                  "key": "titus.1.10-11",
+                  "book": "titus",
+                  "chapter": 1,
+                  "verseStart": 10,
+                  "verseEnd": 11
+                },
+                {
+                  "label": "2 Cor 2:17",
+                  "kind": "bible",
+                  "key": "2-corinthians.2.17",
+                  "book": "2-corinthians",
+                  "chapter": 2,
+                  "verseStart": 17,
+                  "verseEnd": 17
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Mark 12:41–44 with Mark 13:1–2**: Jesus watched a widow put in her last two coins under a system that taught her to, and then said of that temple that not one stone would be left on another. *\"Is that a model for giving, or a judgment on the men who took it?\"*",
+              "verses": [
+                {
+                  "label": "Mark 12:41–44",
+                  "kind": "bible",
+                  "key": "mark.12.41-44",
+                  "book": "mark",
+                  "chapter": 12,
+                  "verseStart": 41,
+                  "verseEnd": 44
+                },
+                {
+                  "label": "Mark 13:1–2",
+                  "kind": "bible",
+                  "key": "mark.13.1-2",
+                  "book": "mark",
+                  "chapter": 13,
+                  "verseStart": 1,
+                  "verseEnd": 2
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "questions": [],
+          "ifTheySay": [
+            {
+              "theySay": "*\"Give and it will be given to you, a good measure, running over.\"*",
+              "youSay": "Read the verses before it. Jesus is talking about mercy and judgment: be merciful, do not condemn, forgive. It is not a return on investment. (Luke 6:36–38)",
+              "verses": [
+                {
+                  "label": "Luke 6:36–38",
+                  "kind": "bible",
+                  "key": "luke.6.36-38",
+                  "book": "luke",
+                  "chapter": 6,
+                  "verseStart": 36,
+                  "verseEnd": 38
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"Jesus promised a hundredfold.\"*",
+              "youSay": "He did, and Mark records the words He attached: \"houses and brothers and sisters and mothers and children and farms, along with persecutions.\" *\"Would you preach the whole verse?\"* (Mark 10:29–30)",
+              "verses": [
+                {
+                  "label": "Mark 10:29–30",
+                  "kind": "bible",
+                  "key": "mark.10.29-30",
+                  "book": "mark",
+                  "chapter": 10,
+                  "verseStart": 29,
+                  "verseEnd": 30
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"Bring the tithe and God will open the windows of heaven.\"*",
+              "youSay": "Spoken to Israel under the Mosaic covenant, which they were robbing by withholding what the law required. In the New Testament each man gives as he has decided in his heart, not grudgingly or under compulsion, because God loves a cheerful giver. (Mal 3:8–10; 2 Cor 9:7)",
+              "verses": [
+                {
+                  "label": "Mal 3:8–10",
+                  "kind": "bible",
+                  "key": "malachi.3.8-10",
+                  "book": "malachi",
+                  "chapter": 3,
+                  "verseStart": 8,
+                  "verseEnd": 10
+                },
+                {
+                  "label": "2 Cor 9:7",
+                  "kind": "bible",
+                  "key": "2-corinthians.9.7",
+                  "book": "2-corinthians",
+                  "chapter": 9,
+                  "verseStart": 7,
+                  "verseEnd": 7
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"Sow a seed into this ministry for your breakthrough.\"*",
+              "youSay": "No apostle ever sold a blessing. Peter's answer to the man who tried to buy God's gift was that his heart was not right. (Acts 8:20–23; 1 Pet 5:2)",
+              "verses": [
+                {
+                  "label": "Acts 8:20–23",
+                  "kind": "bible",
+                  "key": "acts.8.20-23",
+                  "book": "acts",
+                  "chapter": 8,
+                  "verseStart": 20,
+                  "verseEnd": 23
+                },
+                {
+                  "label": "1 Pet 5:2",
+                  "kind": "bible",
+                  "key": "1-peter.5.2",
+                  "book": "1-peter",
+                  "chapter": 5,
+                  "verseStart": 2,
+                  "verseEnd": 2
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"My pastor's wealth is God's blessing on his faith.\"*",
+              "youSay": "Then measure him by the standard Scripture gives for a shepherd: not greedy for money, not domineering, an example to the flock. (1 Pet 5:2–3; 1 Tim 3:3)",
+              "verses": [
+                {
+                  "label": "1 Pet 5:2–3",
+                  "kind": "bible",
+                  "key": "1-peter.5.2-3",
+                  "book": "1-peter",
+                  "chapter": 5,
+                  "verseStart": 2,
+                  "verseEnd": 3
+                },
+                {
+                  "label": "1 Tim 3:3",
+                  "kind": "bible",
+                  "key": "1-timothy.3.3",
+                  "book": "1-timothy",
+                  "chapter": 3,
+                  "verseStart": 3,
+                  "verseEnd": 3
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "notes": [],
+          "links": [],
+          "opener": {
+            "text": "*\"Who gets rich in this, the people giving or the man asking?\"*",
+            "verses": [],
+            "links": [],
+            "supplemental": false
+          },
+          "closer": {
+            "text": "*\"Jesus asked what it profits a man to gain the whole world and forfeit his soul. You have been offered the world. Has anyone offered you your soul back?\"* (Mark 8:36)",
+            "verses": [
+              {
+                "label": "Mark 8:36",
+                "kind": "bible",
+                "key": "mark.8.36",
+                "book": "mark",
+                "chapter": 8,
+                "verseStart": 36,
+                "verseEnd": 36
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          }
+        },
+        {
+          "id": "play-6",
+          "number": 6,
+          "title": "Which gospel?",
+          "subtitle": "use when they say it is the same gospel plus more",
+          "whenToUse": "use when they say it is the same gospel plus more",
+          "warning": false,
+          "supplemental": false,
+          "altOpeners": [],
+          "chain": [
+            {
+              "text": "**1 Cor 15:1–4**: Paul says the gospel by which they are saved is that Christ died for our sins, was buried, and rose on the third day according to the Scriptures. *\"Is money in that sentence? Is health?\"*",
+              "verses": [
+                {
+                  "label": "1 Cor 15:1–4",
+                  "kind": "bible",
+                  "key": "1-corinthians.15.1-4",
+                  "book": "1-corinthians",
+                  "chapter": 15,
+                  "verseStart": 1,
+                  "verseEnd": 4
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Gal 1:6–9**: A different gospel is no gospel, and Paul pronounces a curse on anyone who preaches one, even an angel. *\"How serious is adding to it?\"*",
+              "verses": [
+                {
+                  "label": "Gal 1:6–9",
+                  "kind": "bible",
+                  "key": "galatians.1.6-9",
+                  "book": "galatians",
+                  "chapter": 1,
+                  "verseStart": 6,
+                  "verseEnd": 9
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**2 Cor 11:3–4**: Paul fears they will receive another Jesus, a different spirit, a different gospel. *\"Which Jesus is being preached to you: the one who calls men to deny themselves, or the one who makes them comfortable?\"* (Luke 9:23)",
+              "verses": [
+                {
+                  "label": "2 Cor 11:3–4",
+                  "kind": "bible",
+                  "key": "2-corinthians.11.3-4",
+                  "book": "2-corinthians",
+                  "chapter": 11,
+                  "verseStart": 3,
+                  "verseEnd": 4
+                },
+                {
+                  "label": "Luke 9:23",
+                  "kind": "bible",
+                  "key": "luke.9.23",
+                  "book": "luke",
+                  "chapter": 9,
+                  "verseStart": 23,
+                  "verseEnd": 23
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Rom 1:16–17**: The gospel is the power of God for salvation, and the righteousness revealed in it is by faith. *\"Salvation from what?\"*",
+              "verses": [
+                {
+                  "label": "Rom 1:16–17",
+                  "kind": "bible",
+                  "key": "romans.1.16-17",
+                  "book": "romans",
+                  "chapter": 1,
+                  "verseStart": 16,
+                  "verseEnd": 17
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Acts 14:22**: Paul strengthened the disciples by telling them that through many tribulations we must enter the kingdom of God. *\"Is that the message you were given?\"*",
+              "verses": [
+                {
+                  "label": "Acts 14:22",
+                  "kind": "bible",
+                  "key": "acts.14.22",
+                  "book": "acts",
+                  "chapter": 14,
+                  "verseStart": 22,
+                  "verseEnd": 22
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "questions": [],
+          "ifTheySay": [
+            {
+              "theySay": "*\"We preach Christ too.\"*",
+              "youSay": "Then let Christ and Him crucified be the whole platform for a month and see who stays. (1 Cor 2:2)",
+              "verses": [
+                {
+                  "label": "1 Cor 2:2",
+                  "kind": "bible",
+                  "key": "1-corinthians.2.2",
+                  "book": "1-corinthians",
+                  "chapter": 2,
+                  "verseStart": 2,
+                  "verseEnd": 2
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "theySay": "*\"Are you saying I'm not saved?\"*",
+              "youSay": "Not at all, and I am not able to judge your heart. I am saying some men on television are preaching another gospel, and the stakes are too high for either of us to be careless. (Gal 1:8; 2 Cor 13:5)",
+              "verses": [
+                {
+                  "label": "Gal 1:8",
+                  "kind": "bible",
+                  "key": "galatians.1.8",
+                  "book": "galatians",
+                  "chapter": 1,
+                  "verseStart": 8,
+                  "verseEnd": 8
+                },
+                {
+                  "label": "2 Cor 13:5",
+                  "kind": "bible",
+                  "key": "2-corinthians.13.5",
+                  "book": "2-corinthians",
+                  "chapter": 13,
+                  "verseStart": 5,
+                  "verseEnd": 5
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ],
+          "notes": [],
+          "links": [],
+          "opener": {
+            "text": "*\"What is the gospel? Say it in one sentence.\"*",
+            "verses": [],
+            "links": [],
+            "supplemental": false
+          },
+          "closer": {
+            "text": "*\"If you never got another thing from God but forgiveness and a righteousness you did not earn, would that be enough? That is the actual offer.\"* (Rom 4:4–5; Phil 3:8–9)",
+            "verses": [
+              {
+                "label": "Rom 4:4–5",
+                "kind": "bible",
+                "key": "romans.4.4-5",
+                "book": "romans",
+                "chapter": 4,
+                "verseStart": 4,
+                "verseEnd": 5
+              },
+              {
+                "label": "Phil 3:8–9",
+                "kind": "bible",
+                "key": "philippians.3.8-9",
+                "book": "philippians",
+                "chapter": 3,
+                "verseStart": 8,
+                "verseEnd": 9
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          }
+        }
+      ],
+      "defense": [
+        {
+          "id": "by-his-stripes-were-healed",
+          "objection": "\"By His stripes you were healed.\"",
+          "response": "Peter gives the sense in the same sentence: He bore our sins so we would die to sin and live to righteousness. The healing is from sin, and the body is raised later.",
+          "goTo": "1 Pet 2:24; Rom 8:23",
+          "askBack": "*\"Healed of what, in the first half of the verse?\"*",
+          "verses": [
+            {
+              "label": "1 Pet 2:24",
+              "kind": "bible",
+              "key": "1-peter.2.24",
+              "book": "1-peter",
+              "chapter": 2,
+              "verseStart": 24,
+              "verseEnd": 24
+            },
+            {
+              "label": "Rom 8:23",
+              "kind": "bible",
+              "key": "romans.8.23",
+              "book": "romans",
+              "chapter": 8,
+              "verseStart": 23,
+              "verseEnd": 23
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "jesus-became-poor-could-rich",
+          "objection": "\"Jesus became poor so you could be rich.\"",
+          "response": "The context is a collection, and the Macedonians Paul is praising gave out of deep poverty. The riches are grace.",
+          "goTo": "2 Cor 8:1–2; 2 Cor 8:9",
+          "askBack": "*\"If that verse promises money, why were the people he commends broke?\"*",
+          "verses": [
+            {
+              "label": "2 Cor 8:1–2",
+              "kind": "bible",
+              "key": "2-corinthians.8.1-2",
+              "book": "2-corinthians",
+              "chapter": 8,
+              "verseStart": 1,
+              "verseEnd": 2
+            },
+            {
+              "label": "2 Cor 8:9",
+              "kind": "bible",
+              "key": "2-corinthians.8.9",
+              "book": "2-corinthians",
+              "chapter": 8,
+              "verseStart": 9,
+              "verseEnd": 9
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "know-plans-have-for-plans",
+          "objection": "\"'I know the plans I have for you, plans to prosper you.'\"",
+          "response": "Written to Judah in Babylonian exile, promising return after seventy years. God is faithful; the verse is not a personal finance promise.",
+          "goTo": "Jer 29:10–11",
+          "askBack": "*\"Who was the letter written to, and what did they have to live through first?\"*",
+          "verses": [
+            {
+              "label": "Jer 29:10–11",
+              "kind": "bible",
+              "key": "jeremiah.29.10-11",
+              "book": "jeremiah",
+              "chapter": 29,
+              "verseStart": 10,
+              "verseEnd": 11
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "pray-prosper-health-3-john",
+          "objection": "\"'I pray that you prosper and be in health' (3 John).\"",
+          "response": "A letter's opening greeting to one man, Gaius, the way we say \"hope this finds you well.\" The letter's joy is that he walks in truth.",
+          "goTo": "3 John 1:2; 3 John 1:3–4",
+          "askBack": "*\"Does a greeting in a letter make a doctrine?\"*",
+          "verses": [
+            {
+              "label": "3 John 1:2",
+              "kind": "bible",
+              "key": "3-john.1.2",
+              "book": "3-john",
+              "chapter": 1,
+              "verseStart": 2,
+              "verseEnd": 2
+            },
+            {
+              "label": "3 John 1:3–4",
+              "kind": "bible",
+              "key": "3-john.1.3-4",
+              "book": "3-john",
+              "chapter": 1,
+              "verseStart": 3,
+              "verseEnd": 4
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "give-will-given",
+          "objection": "\"Give and it will be given to you.\"",
+          "response": "The subject is mercy, not money: do not judge, do not condemn, forgive, and it will be measured back to you.",
+          "goTo": "Luke 6:36–38",
+          "askBack": "*\"Read me the three verses before it.\"*",
+          "verses": [
+            {
+              "label": "Luke 6:36–38",
+              "kind": "bible",
+              "key": "luke.6.36-38",
+              "book": "luke",
+              "chapter": 6,
+              "verseStart": 36,
+              "verseEnd": 38
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "jesus-promised-hundredfold-return",
+          "objection": "\"Jesus promised a hundredfold return.\"",
+          "response": "Mark records what came with it: \"along with persecutions.\"",
+          "goTo": "Mark 10:29–30",
+          "askBack": "*\"Does your teacher quote the last two words?\"*",
+          "verses": [
+            {
+              "label": "Mark 10:29–30",
+              "kind": "bible",
+              "key": "mark.10.29-30",
+              "book": "mark",
+              "chapter": 10,
+              "verseStart": 29,
+              "verseEnd": 30
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "tithe-god-opens-windows-heaven",
+          "objection": "\"Tithe and God opens the windows of heaven.\"",
+          "response": "Said to Israel under the law they were breaking. New covenant giving is decided in the heart, cheerful, never under compulsion.",
+          "goTo": "Mal 3:8–10; 2 Cor 9:7",
+          "askBack": "*\"Does God love a pressured giver or a cheerful one?\"*",
+          "verses": [
+            {
+              "label": "Mal 3:8–10",
+              "kind": "bible",
+              "key": "malachi.3.8-10",
+              "book": "malachi",
+              "chapter": 3,
+              "verseStart": 8,
+              "verseEnd": 10
+            },
+            {
+              "label": "2 Cor 9:7",
+              "kind": "bible",
+              "key": "2-corinthians.9.7",
+              "book": "2-corinthians",
+              "chapter": 9,
+              "verseStart": 7,
+              "verseEnd": 7
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "sow-seed-god-must-multiply",
+          "objection": "\"Sow a seed and God must multiply it back.\"",
+          "response": "God is no man's debtor and cannot be put under obligation. Who has given to Him that it should be paid back?",
+          "goTo": "Rom 11:35; Job 41:11",
+          "askBack": "*\"Can a man put God in his debt?\"*",
+          "verses": [
+            {
+              "label": "Rom 11:35",
+              "kind": "bible",
+              "key": "romans.11.35",
+              "book": "romans",
+              "chapter": 11,
+              "verseStart": 35,
+              "verseEnd": 35
+            },
+            {
+              "label": "Job 41:11",
+              "kind": "bible",
+              "key": "job.41.11",
+              "book": "job",
+              "chapter": 41,
+              "verseStart": 11,
+              "verseEnd": 11
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "have-not-because-ask-not",
+          "objection": "\"You have not because you ask not.\"",
+          "response": "James finishes the thought: you ask and do not receive because you ask wrongly, to spend it on your pleasures.",
+          "goTo": "James 4:2–3",
+          "askBack": "*\"Why does James say the prayers were not answered?\"*",
+          "verses": [
+            {
+              "label": "Jas 4:2–3",
+              "kind": "bible",
+              "key": "james.4.2-3",
+              "book": "james",
+              "chapter": 4,
+              "verseStart": 2,
+              "verseEnd": 3
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "call-those-things-not-as",
+          "objection": "\"Call those things that be not as though they were.\"",
+          "response": "God is the one doing the calling in that verse. Abraham's faith was trust in God's promise, not a technique for creating things.",
+          "goTo": "Rom 4:17; Rom 4:20–21",
+          "askBack": "*\"Who is the subject of that sentence?\"*",
+          "verses": [
+            {
+              "label": "Rom 4:17",
+              "kind": "bible",
+              "key": "romans.4.17",
+              "book": "romans",
+              "chapter": 4,
+              "verseStart": 17,
+              "verseEnd": 17
+            },
+            {
+              "label": "Rom 4:20–21",
+              "kind": "bible",
+              "key": "romans.4.20-21",
+              "book": "romans",
+              "chapter": 4,
+              "verseStart": 20,
+              "verseEnd": 21
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "death-life-are-power-tongue",
+          "objection": "\"Death and life are in the power of the tongue.\"",
+          "response": "A proverb about the real damage and good our words do, in a book that warns constantly about the tongue. Not a creative force.",
+          "goTo": "Prov 18:21; James 3:5–10",
+          "askBack": "*\"Did Solomon mean your words create reality, or that they wound and heal people?\"*",
+          "verses": [
+            {
+              "label": "Prov 18:21",
+              "kind": "bible",
+              "key": "proverbs.18.21",
+              "book": "proverbs",
+              "chapter": 18,
+              "verseStart": 21,
+              "verseEnd": 21
+            },
+            {
+              "label": "Jas 3:5–10",
+              "kind": "bible",
+              "key": "james.3.5-10",
+              "book": "james",
+              "chapter": 3,
+              "verseStart": 5,
+              "verseEnd": 10
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "youll-do-greater-works-than",
+          "objection": "\"You'll do greater works than Jesus.\"",
+          "response": "Greater in reach, not in power: after the Spirit came, the gospel went to the nations and thousands were converted. No apostle outdid raising the dead.",
+          "goTo": "John 14:12; Acts 2:41",
+          "askBack": "*\"Did any apostle do a greater miracle than raising Lazarus?\"*",
+          "verses": [
+            {
+              "label": "John 14:12",
+              "kind": "bible",
+              "key": "john.14.12",
+              "book": "john",
+              "chapter": 14,
+              "verseStart": 12,
+              "verseEnd": 12
+            },
+            {
+              "label": "Acts 2:41",
+              "kind": "bible",
+              "key": "acts.2.41",
+              "book": "acts",
+              "chapter": 2,
+              "verseStart": 41,
+              "verseEnd": 41
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "where-two-agree-earth-shall",
+          "objection": "\"Where two agree on earth, it shall be done.\"",
+          "response": "The paragraph is about confronting sin in the church and the authority of the gathered church, not a formula for getting things.",
+          "goTo": "Matt 18:15–20",
+          "askBack": "*\"What is the subject of the five verses before it?\"*",
+          "verses": [
+            {
+              "label": "Matt 18:15–20",
+              "kind": "bible",
+              "key": "matthew.18.15-20",
+              "book": "matthew",
+              "chapter": 18,
+              "verseStart": 15,
+              "verseEnd": 20
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "dont-speak-sickness-negative-confession",
+          "objection": "\"Don't speak sickness. Negative confession invites it.\"",
+          "response": "Then half the Psalms are sin. God's people pour out complaint, grief and darkness to Him, and Paul boasted in his weakness.",
+          "goTo": "Ps 88:1–3; Lam 3:19–23; 2 Cor 12:9–10",
+          "askBack": "*\"Was the psalmist faithless for telling God the truth?\"*",
+          "verses": [
+            {
+              "label": "Ps 88:1–3",
+              "kind": "bible",
+              "key": "psalms.88.1-3",
+              "book": "psalms",
+              "chapter": 88,
+              "verseStart": 1,
+              "verseEnd": 3
+            },
+            {
+              "label": "Lam 3:19–23",
+              "kind": "bible",
+              "key": "lamentations.3.19-23",
+              "book": "lamentations",
+              "chapter": 3,
+              "verseStart": 19,
+              "verseEnd": 23
+            },
+            {
+              "label": "2 Cor 12:9–10",
+              "kind": "bible",
+              "key": "2-corinthians.12.9-10",
+              "book": "2-corinthians",
+              "chapter": 12,
+              "verseStart": 9,
+              "verseEnd": 10
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "if-had-faith-would-healed",
+          "objection": "\"If you had faith you would be healed.\"",
+          "response": "Paul did not heal Trophimus, Timothy had chronic ailments, and the man who said \"I believe, help my unbelief\" got his son back.",
+          "goTo": "2 Tim 4:20; 1 Tim 5:23; Mark 9:23–24",
+          "askBack": "*\"Whose faith failed in those cases?\"*",
+          "verses": [
+            {
+              "label": "2 Tim 4:20",
+              "kind": "bible",
+              "key": "2-timothy.4.20",
+              "book": "2-timothy",
+              "chapter": 4,
+              "verseStart": 20,
+              "verseEnd": 20
+            },
+            {
+              "label": "1 Tim 5:23",
+              "kind": "bible",
+              "key": "1-timothy.5.23",
+              "book": "1-timothy",
+              "chapter": 5,
+              "verseStart": 23,
+              "verseEnd": 23
+            },
+            {
+              "label": "Mark 9:23–24",
+              "kind": "bible",
+              "key": "mark.9.23-24",
+              "book": "mark",
+              "chapter": 9,
+              "verseStart": 23,
+              "verseEnd": 24
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "sickness-always-from-devil",
+          "objection": "\"Sickness is always from the devil.\"",
+          "response": "Satan afflicted Job only as far as God permitted, and Jesus said the blind man's condition was so that God's works would be displayed.",
+          "goTo": "Job 2:6–7; John 9:1–3",
+          "askBack": "*\"Who set the limits on what Satan could do to Job?\"*",
+          "verses": [
+            {
+              "label": "Job 2:6–7",
+              "kind": "bible",
+              "key": "job.2.6-7",
+              "book": "job",
+              "chapter": 2,
+              "verseStart": 6,
+              "verseEnd": 7
+            },
+            {
+              "label": "John 9:1–3",
+              "kind": "bible",
+              "key": "john.9.1-3",
+              "book": "john",
+              "chapter": 9,
+              "verseStart": 1,
+              "verseEnd": 3
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "poverty-curse-christ-broke",
+          "objection": "\"Poverty is a curse Christ broke.\"",
+          "response": "The curse Paul names is the law's sentence on lawbreakers, and what we received is the promised Spirit. Paul himself knew hunger and need.",
+          "goTo": "Gal 3:10; Gal 3:13–14; Phil 4:11–12",
+          "askBack": "*\"If Christ broke poverty, why was Paul hungry?\"*",
+          "verses": [
+            {
+              "label": "Gal 3:10",
+              "kind": "bible",
+              "key": "galatians.3.10",
+              "book": "galatians",
+              "chapter": 3,
+              "verseStart": 10,
+              "verseEnd": 10
+            },
+            {
+              "label": "Gal 3:13–14",
+              "kind": "bible",
+              "key": "galatians.3.13-14",
+              "book": "galatians",
+              "chapter": 3,
+              "verseStart": 13,
+              "verseEnd": 14
+            },
+            {
+              "label": "Phil 4:11–12",
+              "kind": "bible",
+              "key": "philippians.4.11-12",
+              "book": "philippians",
+              "chapter": 4,
+              "verseStart": 11,
+              "verseEnd": 12
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "touch-not-gods-anointed",
+          "objection": "\"Touch not God's anointed.\"",
+          "response": "God was shielding the patriarchs among the nations. Paul publicly corrected Peter, and Scripture commands us to test every teacher.",
+          "goTo": "Ps 105:13–15; Gal 2:11–14; 1 John 4:1",
+          "askBack": "*\"Was Paul touching the anointed when he rebuked Peter?\"*",
+          "verses": [
+            {
+              "label": "Ps 105:13–15",
+              "kind": "bible",
+              "key": "psalms.105.13-15",
+              "book": "psalms",
+              "chapter": 105,
+              "verseStart": 13,
+              "verseEnd": 15
+            },
+            {
+              "label": "Gal 2:11–14",
+              "kind": "bible",
+              "key": "galatians.2.11-14",
+              "book": "galatians",
+              "chapter": 2,
+              "verseStart": 11,
+              "verseEnd": 14
+            },
+            {
+              "label": "1 John 4:1",
+              "kind": "bible",
+              "key": "1-john.4.1",
+              "book": "1-john",
+              "chapter": 4,
+              "verseStart": 1,
+              "verseEnd": 1
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "god-gave-my-pastor-word",
+          "objection": "\"God gave my pastor a word.\"",
+          "response": "A prophet is tested by whether his word comes to pass, and God condemns prophets who speak visions of their own heart.",
+          "goTo": "Deut 18:20–22; Jer 23:16",
+          "askBack": "*\"Has every prediction he has made come true?\"*",
+          "verses": [
+            {
+              "label": "Deut 18:20–22",
+              "kind": "bible",
+              "key": "deuteronomy.18.20-22",
+              "book": "deuteronomy",
+              "chapter": 18,
+              "verseStart": 20,
+              "verseEnd": 22
+            },
+            {
+              "label": "Jer 23:16",
+              "kind": "bible",
+              "key": "jeremiah.23.16",
+              "book": "jeremiah",
+              "chapter": 23,
+              "verseStart": 16,
+              "verseEnd": 16
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "youre-quenching-spirit-by-questioning",
+          "objection": "\"You're quenching the Spirit by questioning.\"",
+          "response": "The Spirit commanded the testing and praised the Bereans for checking an apostle against Scripture. God is not the author of confusion.",
+          "goTo": "1 Thess 5:20–22; Acts 17:11; 1 Cor 14:33",
+          "askBack": "*\"Who told us to examine everything?\"*",
+          "verses": [
+            {
+              "label": "1 Thess 5:20–22",
+              "kind": "bible",
+              "key": "1-thessalonians.5.20-22",
+              "book": "1-thessalonians",
+              "chapter": 5,
+              "verseStart": 20,
+              "verseEnd": 22
+            },
+            {
+              "label": "Acts 17:11",
+              "kind": "bible",
+              "key": "acts.17.11",
+              "book": "acts",
+              "chapter": 17,
+              "verseStart": 11,
+              "verseEnd": 11
+            },
+            {
+              "label": "1 Cor 14:33",
+              "kind": "bible",
+              "key": "1-corinthians.14.33",
+              "book": "1-corinthians",
+              "chapter": 14,
+              "verseStart": 33,
+              "verseEnd": 33
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "was-healed-my-life-really",
+          "objection": "\"I was healed. My life really did change.\"",
+          "response": "I am glad for anything good God has done for you. The question is not whether you felt something; it is what saves, and Scripture answers that in one sentence.",
+          "goTo": "1 Cor 15:1–4; Rom 4:4–5",
+          "askBack": "*\"If the healing is real and the gospel is wrong, where does that leave you forever?\"*",
+          "verses": [
+            {
+              "label": "1 Cor 15:1–4",
+              "kind": "bible",
+              "key": "1-corinthians.15.1-4",
+              "book": "1-corinthians",
+              "chapter": 15,
+              "verseStart": 1,
+              "verseEnd": 4
+            },
+            {
+              "label": "Rom 4:4–5",
+              "kind": "bible",
+              "key": "romans.4.4-5",
+              "book": "romans",
+              "chapter": 4,
+              "verseStart": 4,
+              "verseEnd": 5
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        },
+        {
+          "id": "we-have-full-gospel-have",
+          "objection": "\"We have the full gospel. You have part of it.\"",
+          "response": "The gospel Paul \"received and delivered\" is Christ's death, burial and resurrection, received by faith. Anything required on top of that is another gospel.",
+          "goTo": "1 Cor 15:1–4; Gal 1:6–9",
+          "askBack": "*\"What does Paul call the gospel in 1 Corinthians 15?\"*",
+          "verses": [
+            {
+              "label": "1 Cor 15:1–4",
+              "kind": "bible",
+              "key": "1-corinthians.15.1-4",
+              "book": "1-corinthians",
+              "chapter": 15,
+              "verseStart": 1,
+              "verseEnd": 4
+            },
+            {
+              "label": "Gal 1:6–9",
+              "kind": "bible",
+              "key": "galatians.1.6-9",
+              "book": "galatians",
+              "chapter": 1,
+              "verseStart": 6,
+              "verseEnd": 9
+            },
+            {
+              "label": "1 Cor 15",
+              "kind": "bible",
+              "key": "1-corinthians.15",
+              "book": "1-corinthians",
+              "chapter": 15
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        }
+      ],
+      "exits": {
+        "label": "Typical exits",
+        "items": [
+          {
+            "text": "\"You just don't have the faith for it.\" (Answer kindly: *\"Maybe not. Did Paul?\"* and leave 2 Cor 12:9.)",
+            "verses": [
+              {
+                "label": "2 Cor 12:9",
+                "kind": "bible",
+                "key": "2-corinthians.12.9",
+                "book": "2-corinthians",
+                "chapter": 12,
+                "verseStart": 9,
+                "verseEnd": 9
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          },
+          {
+            "text": "\"Don't criticize God's anointed.\" (*\"Paul corrected Peter publicly. May I show you?\"*)",
+            "verses": [],
+            "links": [],
+            "supplemental": false
+          },
+          {
+            "text": "\"My church is full and growing.\" (Agree that it is, then ask what 1 John 4:5 says about why the world listens.)",
+            "verses": [
+              {
+                "label": "1 John 4:5",
+                "kind": "bible",
+                "key": "1-john.4.5",
+                "book": "1-john",
+                "chapter": 4,
+                "verseStart": 5,
+                "verseEnd": 5
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          },
+          {
+            "text": "\"I'll just pray for you.\" (Thank them, mean it, and ask them to read Hebrews 11:35–39 this week.)",
+            "verses": [
+              {
+                "label": "Heb 11:35–39",
+                "kind": "bible",
+                "key": "hebrews.11.35-39",
+                "book": "hebrews",
+                "chapter": 11,
+                "verseStart": 35,
+                "verseEnd": 39
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          },
+          {
+            "text": "Tears or anger, because they gave money they needed. (Stop arguing. They have been robbed. Give them the gospel and your phone number, and offer to read 1 Timothy 6 with them.)",
+            "verses": [
+              {
+                "label": "1 Tim 6",
+                "kind": "bible",
+                "key": "1-timothy.6",
+                "book": "1-timothy",
+                "chapter": 6
+              }
+            ],
+            "links": [],
+            "supplemental": false
+          }
+        ]
+      }
+    },
+    {
       "slug": "hebrew-roots",
       "name": "Hebrew Roots",
       "heading": "HEBREW ROOTS / TORAH OBSERVANT",
@@ -48558,6 +51224,1297 @@
       "subtitle": "Before, during and after every conversation"
     },
     {
+      "slug": "cultural-marxism",
+      "title": "Cultural Marxism",
+      "intro": [
+        {
+          "text": "Israel's army had swordsmen and shield-bearers, and it also had the men of Issachar, who understood the times and knew what Israel ought to do. You do not need to be a scholar of this, but you do need to recognize it when it is sitting across the table from you, because the words sound Christian and the frame underneath is not. (1 Chr 12:32)",
+          "verses": [
+            {
+              "label": "1 Chr 12:32",
+              "kind": "bible",
+              "key": "1-chronicles.12.32",
+              "book": "1-chronicles",
+              "chapter": 12,
+              "verseStart": 32,
+              "verseEnd": 32
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        }
+      ],
+      "sections": [
+        {
+          "heading": "What you are showing",
+          "lines": [
+            {
+              "text": "Not that every person using these words is a Marxist. Most are not, and saying so will end the conversation and your credibility with it. You are showing that one particular way of explaining human trouble has been borrowed into the church, that it reads a man by his group instead of his heart, and that it cannot give what the gospel already gives. (2 Cor 10:3–5; Col 2:8)",
+              "verses": [
+                {
+                  "label": "2 Cor 10:3–5",
+                  "kind": "bible",
+                  "key": "2-corinthians.10.3-5",
+                  "book": "2-corinthians",
+                  "chapter": 10,
+                  "verseStart": 3,
+                  "verseEnd": 5
+                },
+                {
+                  "label": "Col 2:8",
+                  "kind": "bible",
+                  "key": "colossians.2.8",
+                  "book": "colossians",
+                  "chapter": 2,
+                  "verseStart": 8,
+                  "verseEnd": 8
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Ask",
+              "text": "*\"When you say someone is oppressed, do you mean something was done to him, or that he belongs to a certain group?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ]
+        },
+        {
+          "heading": "Where it came from",
+          "lines": [
+            {
+              "text": "**Classical Marxism** was economic. Marx read history as class struggle, expected the workers to overthrow capitalism, and called religion the drug that kept them quiet. He was openly atheistic. Most Christians would reject it on sight, which is why the newer form does not use his categories.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Cultural Marxism** began as an attempt to explain why the revolution never came. Antonio Gramsci argued the problem was not economics but culture: a ruling group holds power by controlling a society's values and assumptions, which he called **cultural hegemony**. Change that, and you change everything. The strategy was to take the positions that shape how people think, the schools, the courts, the press, the pulpits.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**The Frankfurt School**, a group of German scholars who moved to the United States in the 1930s, developed **critical theory**: the way to understand a society is to interrogate it for its contradictions and expose who is being held down by whom.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Intersectionality**, named by Kimberlé Crenshaw in 1989, stacks the categories. The further you are from the dominant group on each axis, the more oppression you carry, and the layers combine.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ]
+        },
+        {
+          "heading": "How it reads a person",
+          "lines": [
+            {
+              "text": "**The group is the unit, not the man.** An individual's success does not count against the group's story, and an individual's hardship does not count for him if he belongs to the dominant group.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Power decides guilt.** Belonging to the dominant group makes you complicit whether or not you have done anything, which produces the strange result Baucham names: racism with no racist in it.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Experience is the authority.** \"Lived experience\" settles the question, so examining the facts of a case becomes an offense against the person telling it.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Disagreement is disqualifying.** Ask for evidence and you are blaming the victim; defend yourself and you have proved the point.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**A new canon.** The tell is when a man says you cannot understand the Bible on this subject until you have read a stack of sociology first. Baucham, who teaches sociology himself, says the Bible critiques those books and not the other way round. (2 Tim 3:16–17)",
+              "verses": [
+                {
+                  "label": "2 Tim 3:16–17",
+                  "kind": "bible",
+                  "key": "2-timothy.3.16-17",
+                  "book": "2-timothy",
+                  "chapter": 3,
+                  "verseStart": 16,
+                  "verseEnd": 17
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ]
+        },
+        {
+          "heading": "Where it cannot stand",
+          "lines": [
+            {
+              "text": "**Guilt is personal.** The son will not bear the punishment for the father's iniquity, and fathers are not put to death for their sons. Inherited group guilt is not a biblical category. (Ezek 18:20; Deut 24:16)",
+              "verses": [
+                {
+                  "label": "Ezek 18:20",
+                  "kind": "bible",
+                  "key": "ezekiel.18.20",
+                  "book": "ezekiel",
+                  "chapter": 18,
+                  "verseStart": 20,
+                  "verseEnd": 20
+                },
+                {
+                  "label": "Deut 24:16",
+                  "kind": "bible",
+                  "key": "deuteronomy.24.16",
+                  "book": "deuteronomy",
+                  "chapter": 24,
+                  "verseStart": 16,
+                  "verseEnd": 16
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Justice is impartial in both directions.** You shall not follow a crowd in doing wrong, and you shall not be partial to a poor man in his lawsuit; you shall not defer to the great, and you shall not pervert the justice due your needy brother. Both tilts are forbidden. (Ex 23:2–3; Ex 23:6; Lev 19:15)",
+              "verses": [
+                {
+                  "label": "Ex 23:2–3",
+                  "kind": "bible",
+                  "key": "exodus.23.2-3",
+                  "book": "exodus",
+                  "chapter": 23,
+                  "verseStart": 2,
+                  "verseEnd": 3
+                },
+                {
+                  "label": "Ex 23:6",
+                  "kind": "bible",
+                  "key": "exodus.23.6",
+                  "book": "exodus",
+                  "chapter": 23,
+                  "verseStart": 6,
+                  "verseEnd": 6
+                },
+                {
+                  "label": "Lev 19:15",
+                  "kind": "bible",
+                  "key": "leviticus.19.15",
+                  "book": "leviticus",
+                  "chapter": 19,
+                  "verseStart": 15,
+                  "verseEnd": 15
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Both sides get heard.** The first to plead his case seems right, until another comes and examines him. Answering before you have heard is folly. A system that treats inquiry as sin cannot do justice. (Prov 18:17; Prov 18:13)",
+              "verses": [
+                {
+                  "label": "Prov 18:17",
+                  "kind": "bible",
+                  "key": "proverbs.18.17",
+                  "book": "proverbs",
+                  "chapter": 18,
+                  "verseStart": 17,
+                  "verseEnd": 17
+                },
+                {
+                  "label": "Prov 18:13",
+                  "kind": "bible",
+                  "key": "proverbs.18.13",
+                  "book": "proverbs",
+                  "chapter": 18,
+                  "verseStart": 13,
+                  "verseEnd": 13
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Worth is not granted by a group.** Every person is made in God's image, which is why murder is an assault on God Himself, and why there is finally one human race descended from one man. (Gen 1:26–27; Gen 9:6; Acts 17:26)",
+              "verses": [
+                {
+                  "label": "Gen 1:26–27",
+                  "kind": "bible",
+                  "key": "genesis.1.26-27",
+                  "book": "genesis",
+                  "chapter": 1,
+                  "verseStart": 26,
+                  "verseEnd": 27
+                },
+                {
+                  "label": "Gen 9:6",
+                  "kind": "bible",
+                  "key": "genesis.9.6",
+                  "book": "genesis",
+                  "chapter": 9,
+                  "verseStart": 6,
+                  "verseEnd": 6
+                },
+                {
+                  "label": "Acts 17:26",
+                  "kind": "bible",
+                  "key": "acts.17.26",
+                  "book": "acts",
+                  "chapter": 17,
+                  "verseStart": 26,
+                  "verseEnd": 26
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**God shows no partiality, and neither may we.** Favoring the rich is sin in James, and so is deferring to any man because of who he is. (Rom 2:11; James 2:1–9; Deut 1:17)",
+              "verses": [
+                {
+                  "label": "Rom 2:11",
+                  "kind": "bible",
+                  "key": "romans.2.11",
+                  "book": "romans",
+                  "chapter": 2,
+                  "verseStart": 11,
+                  "verseEnd": 11
+                },
+                {
+                  "label": "Jas 2:1–9",
+                  "kind": "bible",
+                  "key": "james.2.1-9",
+                  "book": "james",
+                  "chapter": 2,
+                  "verseStart": 1,
+                  "verseEnd": 9
+                },
+                {
+                  "label": "Deut 1:17",
+                  "kind": "bible",
+                  "key": "deuteronomy.1.17",
+                  "book": "deuteronomy",
+                  "chapter": 1,
+                  "verseStart": 17,
+                  "verseEnd": 17
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**The real divide runs through every heart.** All have sinned; the heart is deceitful above all things. No group is innocent and no group is beyond mercy. (Rom 3:23; Jer 17:9; 1 John 1:8)",
+              "verses": [
+                {
+                  "label": "Rom 3:23",
+                  "kind": "bible",
+                  "key": "romans.3.23",
+                  "book": "romans",
+                  "chapter": 3,
+                  "verseStart": 23,
+                  "verseEnd": 23
+                },
+                {
+                  "label": "Jer 17:9",
+                  "kind": "bible",
+                  "key": "jeremiah.17.9",
+                  "book": "jeremiah",
+                  "chapter": 17,
+                  "verseStart": 9,
+                  "verseEnd": 9
+                },
+                {
+                  "label": "1 John 1:8",
+                  "kind": "bible",
+                  "key": "1-john.1.8",
+                  "book": "1-john",
+                  "chapter": 1,
+                  "verseStart": 8,
+                  "verseEnd": 8
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ]
+        },
+        {
+          "heading": "What is true in it",
+          "lines": [
+            {
+              "text": "Do not answer this by pretending nothing is wrong. Baucham, who grew up fatherless in South Central Los Angeles, says it plainly: \"Racism is real and it's sin. Oppression is real and it's sinful\" [Baucham, *Cultural Marxism* session]. Scripture condemns partiality, robbing the poor, crooked courts and unjust laws, and God hears the man no one else will hear. His complaint is not that people name real evils. It is that the frame assigns all of it to systems, so the actual sin in actual hearts never gets dealt with, and the man in front of you never gets the gospel. (Isa 10:1–2; Prov 22:22–23; Ezek 22:29)",
+              "verses": [
+                {
+                  "label": "Isa 10:1–2",
+                  "kind": "bible",
+                  "key": "isaiah.10.1-2",
+                  "book": "isaiah",
+                  "chapter": 10,
+                  "verseStart": 1,
+                  "verseEnd": 2
+                },
+                {
+                  "label": "Prov 22:22–23",
+                  "kind": "bible",
+                  "key": "proverbs.22.22-23",
+                  "book": "proverbs",
+                  "chapter": 22,
+                  "verseStart": 22,
+                  "verseEnd": 23
+                },
+                {
+                  "label": "Ezek 22:29",
+                  "kind": "bible",
+                  "key": "ezekiel.22.29",
+                  "book": "ezekiel",
+                  "chapter": 22,
+                  "verseStart": 29,
+                  "verseEnd": 29
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ]
+        },
+        {
+          "heading": "If they say",
+          "lines": [
+            {
+              "text": "**\"So you don't think racism exists.\"** → I think it exists and that it is sin, and that is why I will not use a framework that cannot call any individual to repent of it. (Gen 9:6; James 2:9)",
+              "verses": [
+                {
+                  "label": "Gen 9:6",
+                  "kind": "bible",
+                  "key": "genesis.9.6",
+                  "book": "genesis",
+                  "chapter": 9,
+                  "verseStart": 6,
+                  "verseEnd": 6
+                },
+                {
+                  "label": "Jas 2:9",
+                  "kind": "bible",
+                  "key": "james.2.9",
+                  "book": "james",
+                  "chapter": 2,
+                  "verseStart": 9,
+                  "verseEnd": 9
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**\"You're just using a label to avoid the issues.\"** → Then let's take an issue. Name one and let's look at what Scripture says about it and what actually happened.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**\"You have to check your privilege.\"** → Here is a version of that I will accept: if either of us has learned how to shut the other one up, we should check that. (Prov 18:17)",
+              "verses": [
+                {
+                  "label": "Prov 18:17",
+                  "kind": "bible",
+                  "key": "proverbs.18.17",
+                  "book": "proverbs",
+                  "chapter": 18,
+                  "verseStart": 17,
+                  "verseEnd": 17
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**\"The Bible alone isn't enough for this.\"** → Then we disagree about something bigger than this subject. Scripture is given so that the man of God may be equipped for every good work, and getting along with my brother is a good work. (2 Tim 3:16–17; 2 Pet 1:3)",
+              "verses": [
+                {
+                  "label": "2 Tim 3:16–17",
+                  "kind": "bible",
+                  "key": "2-timothy.3.16-17",
+                  "book": "2-timothy",
+                  "chapter": 3,
+                  "verseStart": 16,
+                  "verseEnd": 17
+                },
+                {
+                  "label": "2 Pet 1:3",
+                  "kind": "bible",
+                  "key": "2-peter.1.3",
+                  "book": "2-peter",
+                  "chapter": 1,
+                  "verseStart": 3,
+                  "verseEnd": 3
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**\"We need to dismantle the system.\"** → Some laws and practices are unjust and should be changed, and Scripture says so. Changing them will not change one heart, and a changed heart is the one thing you cannot legislate. (Isa 1:17; Jer 17:9; John 3:3)",
+              "verses": [
+                {
+                  "label": "Isa 1:17",
+                  "kind": "bible",
+                  "key": "isaiah.1.17",
+                  "book": "isaiah",
+                  "chapter": 1,
+                  "verseStart": 17,
+                  "verseEnd": 17
+                },
+                {
+                  "label": "Jer 17:9",
+                  "kind": "bible",
+                  "key": "jeremiah.17.9",
+                  "book": "jeremiah",
+                  "chapter": 17,
+                  "verseStart": 9,
+                  "verseEnd": 9
+                },
+                {
+                  "label": "John 3:3",
+                  "kind": "bible",
+                  "key": "john.3.3",
+                  "book": "john",
+                  "chapter": 3,
+                  "verseStart": 3,
+                  "verseEnd": 3
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**\"Jesus was a revolutionary.\"** → He refused to arbitrate an inheritance dispute and warned the man about greed instead, He told Pilate His kingdom is not of this world, and He went to a cross to save sinners. (Luke 12:13–15; John 18:36)",
+              "verses": [
+                {
+                  "label": "Luke 12:13–15",
+                  "kind": "bible",
+                  "key": "luke.12.13-15",
+                  "book": "luke",
+                  "chapter": 12,
+                  "verseStart": 13,
+                  "verseEnd": 15
+                },
+                {
+                  "label": "John 18:36",
+                  "kind": "bible",
+                  "key": "john.18.36",
+                  "book": "john",
+                  "chapter": 18,
+                  "verseStart": 36,
+                  "verseEnd": 36
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ]
+        },
+        {
+          "heading": "Watch out",
+          "lines": [
+            {
+              "text": "**Do not call a brother a Marxist.** Baucham refuses to, even about people he sharply disagrees with, and he asks for the same courtesy without demanding it. Using the word as a weapon is how this debate became name-calling in both directions.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Do not use this page as a way to dodge sin.** If a man has been wronged, the first Christian response is to listen and to care, not to diagnose his vocabulary.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Do not bring party politics into an evangelism conversation.** You are after his soul. Say nothing that gives him an easy reason to stop listening. (1 Cor 9:19–22; 2 Tim 2:24–26)",
+              "verses": [
+                {
+                  "label": "1 Cor 9:19–22",
+                  "kind": "bible",
+                  "key": "1-corinthians.9.19-22",
+                  "book": "1-corinthians",
+                  "chapter": 9,
+                  "verseStart": 19,
+                  "verseEnd": 22
+                },
+                {
+                  "label": "2 Tim 2:24–26",
+                  "kind": "bible",
+                  "key": "2-timothy.2.24-26",
+                  "book": "2-timothy",
+                  "chapter": 2,
+                  "verseStart": 24,
+                  "verseEnd": 26
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Do not treat a person as a type.** Baucham's warning to apologists is worth more than this whole page: a man is a person, not a collection of facts and not a stereotype. Reading about his group does not mean you understand him. Ask him.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ]
+        },
+        {
+          "heading": "Bring it to the gospel",
+          "lines": [
+            {
+              "text": "The deepest division in human history was not racial. It was the one God Himself established between Israel and the nations, and the Gentile's real problem was not that he was outside a culture but that he was \"without hope and without God in the world.\" Then Christ, who is Himself our peace, broke down the dividing wall and made the two into one new man, reconciling both to God in one body through the cross. So Christians are not working toward reconciliation. They are walking in one that is already finished, and it cost blood. (Eph 2:11–13; Eph 2:14–16; Eph 2:18–19)",
+              "verses": [
+                {
+                  "label": "Eph 2:11–13",
+                  "kind": "bible",
+                  "key": "ephesians.2.11-13",
+                  "book": "ephesians",
+                  "chapter": 2,
+                  "verseStart": 11,
+                  "verseEnd": 13
+                },
+                {
+                  "label": "Eph 2:14–16",
+                  "kind": "bible",
+                  "key": "ephesians.2.14-16",
+                  "book": "ephesians",
+                  "chapter": 2,
+                  "verseStart": 14,
+                  "verseEnd": 16
+                },
+                {
+                  "label": "Eph 2:18–19",
+                  "kind": "bible",
+                  "key": "ephesians.2.18-19",
+                  "book": "ephesians",
+                  "chapter": 2,
+                  "verseStart": 18,
+                  "verseEnd": 19
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Ask",
+              "text": "*\"Would you rather be told you are on the wrong side of history, or that there is a way for enemies to be made one and forgiven?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "Then give [The Gospel](/topic/the-gospel). See also [Social justice](/topic/social-justice) and [Morality and justice](/topic/morality-and-justice).",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ]
+        }
+      ],
+      "subtitle": "Where \"oppressor and oppressed\" came from, and what Scripture says."
+    },
+    {
+      "slug": "social-justice",
+      "title": "Social justice",
+      "intro": [
+        {
+          "text": "God requires justice of you. To do justice, to love mercy, to walk humbly with your God is not a suggestion, and failing to do justice is sin. That is exactly why the phrase has to be handled carefully: once a thing is called justice, anyone who disagrees with how you define it is not mistaken, he is wicked, and the conversation is over before it starts. (Mic 6:8; Prov 17:15)",
+          "verses": [
+            {
+              "label": "Mic 6:8",
+              "kind": "bible",
+              "key": "micah.6.8",
+              "book": "micah",
+              "chapter": 6,
+              "verseStart": 8,
+              "verseEnd": 8
+            },
+            {
+              "label": "Prov 17:15",
+              "kind": "bible",
+              "key": "proverbs.17.15",
+              "book": "proverbs",
+              "chapter": 17,
+              "verseStart": 15,
+              "verseEnd": 15
+            }
+          ],
+          "links": [],
+          "supplemental": false
+        }
+      ],
+      "sections": [
+        {
+          "heading": "What you are showing",
+          "lines": [
+            {
+              "text": "That you are not less committed to justice than the man across from you, you are more, because you have a Judge, a fixed standard and a day on the calendar. And that two different things are riding in one phrase, so you need to ask which one he means. (Acts 17:31; Eccl 12:14)",
+              "verses": [
+                {
+                  "label": "Acts 17:31",
+                  "kind": "bible",
+                  "key": "acts.17.31",
+                  "book": "acts",
+                  "chapter": 17,
+                  "verseStart": 31,
+                  "verseEnd": 31
+                },
+                {
+                  "label": "Eccl 12:14",
+                  "kind": "bible",
+                  "key": "ecclesiastes.12.14",
+                  "book": "ecclesiastes",
+                  "chapter": 12,
+                  "verseStart": 14,
+                  "verseEnd": 14
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Ask",
+              "text": "*\"Tell me what you mean by justice, and I'll tell you if I'm for it. Most of the time I will be.\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ]
+        },
+        {
+          "heading": "Two things in one phrase",
+          "lines": [
+            {
+              "text": "**Biblical justice** is rendering to each person what is due him, impartially, according to God's standard: honest weights, honest courts, no bribes, no partiality to rich or poor, and real protection for the people most easily robbed. It is personal, it is owed, and it is measured by God's law. (Deut 16:18–20; Lev 19:15; Prov 11:1)",
+              "verses": [
+                {
+                  "label": "Deut 16:18–20",
+                  "kind": "bible",
+                  "key": "deuteronomy.16.18-20",
+                  "book": "deuteronomy",
+                  "chapter": 16,
+                  "verseStart": 18,
+                  "verseEnd": 20
+                },
+                {
+                  "label": "Lev 19:15",
+                  "kind": "bible",
+                  "key": "leviticus.19.15",
+                  "book": "leviticus",
+                  "chapter": 19,
+                  "verseStart": 15,
+                  "verseEnd": 15
+                },
+                {
+                  "label": "Prov 11:1",
+                  "kind": "bible",
+                  "key": "proverbs.11.1",
+                  "book": "proverbs",
+                  "chapter": 11,
+                  "verseStart": 1,
+                  "verseEnd": 1
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Social justice**, in the standard academic and dictionary sense, means distributive justice: the state redistributing advantages and resources to disadvantaged groups so they have social and economic equality. Baucham's point is that when a Christian uses the phrase and then says \"but that's not what I mean by it,\" he has taken on a word whose meaning everyone else already knows [Baucham, *What Is Social Justice?* session].",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ]
+        },
+        {
+          "heading": "How the movement works",
+          "lines": [
+            {
+              "text": "Baucham traces four steps, and you can hear them in order in almost any version of the argument.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "1. **Identify disadvantaged groups.** Note that it is groups, not persons, and that being a numerical majority does not disqualify a group from the category.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "2. **Assess group outcomes.** Not an individual's treatment, but the group's numbers.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "3. **Assign blame for the disparity.** Any disparity is evidence of injustice, and looking for other causes is called blaming the victim.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "4. **Redistribute power and resources** to redress it, on the assumption that whatever the advantaged group holds was unjustly gained.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ]
+        },
+        {
+          "heading": "Where it goes wrong",
+          "lines": [
+            {
+              "text": "**It judges by group, not by conduct.** A man who built something from nothing is held to have gained it unjustly because of the group he belongs to, and another man is held to deserve what he has for the same reason. Scripture judges deeds, and it refuses partiality to the great and to the poor alike. (Lev 19:15; Rom 2:6; Rom 2:11)",
+              "verses": [
+                {
+                  "label": "Lev 19:15",
+                  "kind": "bible",
+                  "key": "leviticus.19.15",
+                  "book": "leviticus",
+                  "chapter": 19,
+                  "verseStart": 15,
+                  "verseEnd": 15
+                },
+                {
+                  "label": "Rom 2:6",
+                  "kind": "bible",
+                  "key": "romans.2.6",
+                  "book": "romans",
+                  "chapter": 2,
+                  "verseStart": 6,
+                  "verseEnd": 6
+                },
+                {
+                  "label": "Rom 2:11",
+                  "kind": "bible",
+                  "key": "romans.2.11",
+                  "book": "romans",
+                  "chapter": 2,
+                  "verseStart": 11,
+                  "verseEnd": 11
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**It confuses equal standards with equal outcomes.** God requires one measure, one weight and one law for the native and the stranger, which is a standard, not a result. (Lev 19:35–36; Lev 24:22)",
+              "verses": [
+                {
+                  "label": "Lev 19:35–36",
+                  "kind": "bible",
+                  "key": "leviticus.19.35-36",
+                  "book": "leviticus",
+                  "chapter": 19,
+                  "verseStart": 35,
+                  "verseEnd": 36
+                },
+                {
+                  "label": "Lev 24:22",
+                  "kind": "bible",
+                  "key": "leviticus.24.22",
+                  "book": "leviticus",
+                  "chapter": 24,
+                  "verseStart": 22,
+                  "verseEnd": 22
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**It moves what is owed into what is taken.** Generosity in the New Testament is decided in the heart, never under compulsion, and Peter reminded Ananias that the property was his own to keep. Coerced transfer is a different thing from Christian giving, whatever its merits as policy. (2 Cor 9:7; Acts 5:4)",
+              "verses": [
+                {
+                  "label": "2 Cor 9:7",
+                  "kind": "bible",
+                  "key": "2-corinthians.9.7",
+                  "book": "2-corinthians",
+                  "chapter": 9,
+                  "verseStart": 7,
+                  "verseEnd": 7
+                },
+                {
+                  "label": "Acts 5:4",
+                  "kind": "bible",
+                  "key": "acts.5.4",
+                  "book": "acts",
+                  "chapter": 5,
+                  "verseStart": 4,
+                  "verseEnd": 4
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**It borrows God's authority and changes the content.** Because God commands justice, calling your policy \"justice\" makes disagreement a sin and ends the argument. It also quietly claims to know every cause of every disparity, which no man knows. (Prov 18:17; Deut 29:29)",
+              "verses": [
+                {
+                  "label": "Prov 18:17",
+                  "kind": "bible",
+                  "key": "proverbs.18.17",
+                  "book": "proverbs",
+                  "chapter": 18,
+                  "verseStart": 17,
+                  "verseEnd": 17
+                },
+                {
+                  "label": "Deut 29:29",
+                  "kind": "bible",
+                  "key": "deuteronomy.29.29",
+                  "book": "deuteronomy",
+                  "chapter": 29,
+                  "verseStart": 29,
+                  "verseEnd": 29
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**It cannot reach the heart.** You can change a law and not change one man. The thing most needed is the thing a program cannot do. (Jer 17:9; Ezek 36:26)",
+              "verses": [
+                {
+                  "label": "Jer 17:9",
+                  "kind": "bible",
+                  "key": "jeremiah.17.9",
+                  "book": "jeremiah",
+                  "chapter": 17,
+                  "verseStart": 9,
+                  "verseEnd": 9
+                },
+                {
+                  "label": "Ezek 36:26",
+                  "kind": "bible",
+                  "key": "ezekiel.36.26",
+                  "book": "ezekiel",
+                  "chapter": 36,
+                  "verseStart": 26,
+                  "verseEnd": 26
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ]
+        },
+        {
+          "heading": "What Scripture actually commands",
+          "lines": [
+            {
+              "text": "Say this before you say anything critical, and mean it.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**God hates crooked justice and loves the people it crushes.** Learn to do good, seek justice, reprove the ruthless, defend the orphan, plead for the widow. Woe to those who write unjust laws. (Isa 1:17; Isa 10:1–2)",
+              "verses": [
+                {
+                  "label": "Isa 1:17",
+                  "kind": "bible",
+                  "key": "isaiah.1.17",
+                  "book": "isaiah",
+                  "chapter": 1,
+                  "verseStart": 17,
+                  "verseEnd": 17
+                },
+                {
+                  "label": "Isa 10:1–2",
+                  "kind": "bible",
+                  "key": "isaiah.10.1-2",
+                  "book": "isaiah",
+                  "chapter": 10,
+                  "verseStart": 1,
+                  "verseEnd": 2
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "He names the specific victims again and again",
+              "text": "the sojourner, the fatherless, the widow, the poor, the worker whose wages were held back. The wages of the laborers who mowed your fields cry out, and the cries reached the Lord of Sabaoth. (Jer 22:3; Zech 7:9–10; James 5:4)",
+              "verses": [
+                {
+                  "label": "Jer 22:3",
+                  "kind": "bible",
+                  "key": "jeremiah.22.3",
+                  "book": "jeremiah",
+                  "chapter": 22,
+                  "verseStart": 3,
+                  "verseEnd": 3
+                },
+                {
+                  "label": "Zech 7:9–10",
+                  "kind": "bible",
+                  "key": "zechariah.7.9-10",
+                  "book": "zechariah",
+                  "chapter": 7,
+                  "verseStart": 9,
+                  "verseEnd": 10
+                },
+                {
+                  "label": "Jas 5:4",
+                  "kind": "bible",
+                  "key": "james.5.4",
+                  "book": "james",
+                  "chapter": 5,
+                  "verseStart": 4,
+                  "verseEnd": 4
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Oppressing the poor is an insult to God Himself.** He who oppresses the poor taunts his Maker; he who is gracious to the needy honors Him. (Prov 14:31; Prov 22:22–23)",
+              "verses": [
+                {
+                  "label": "Prov 14:31",
+                  "kind": "bible",
+                  "key": "proverbs.14.31",
+                  "book": "proverbs",
+                  "chapter": 14,
+                  "verseStart": 31,
+                  "verseEnd": 31
+                },
+                {
+                  "label": "Prov 22:22–23",
+                  "kind": "bible",
+                  "key": "proverbs.22.22-23",
+                  "book": "proverbs",
+                  "chapter": 22,
+                  "verseStart": 22,
+                  "verseEnd": 23
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Justice is one of the weightier matters**, and Jesus rebuked men who tithed carefully and neglected it. (Matt 23:23; Luke 11:42)",
+              "verses": [
+                {
+                  "label": "Matt 23:23",
+                  "kind": "bible",
+                  "key": "matthew.23.23",
+                  "book": "matthew",
+                  "chapter": 23,
+                  "verseStart": 23,
+                  "verseEnd": 23
+                },
+                {
+                  "label": "Luke 11:42",
+                  "kind": "bible",
+                  "key": "luke.11.42",
+                  "book": "luke",
+                  "chapter": 11,
+                  "verseStart": 42,
+                  "verseEnd": 42
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Pure religion looks after orphans and widows in their distress.** A church arguing about terminology while ignoring the widow in the third row has lost the argument. (James 1:27; James 2:15–16)",
+              "verses": [
+                {
+                  "label": "Jas 1:27",
+                  "kind": "bible",
+                  "key": "james.1.27",
+                  "book": "james",
+                  "chapter": 1,
+                  "verseStart": 27,
+                  "verseEnd": 27
+                },
+                {
+                  "label": "Jas 2:15–16",
+                  "kind": "bible",
+                  "key": "james.2.15-16",
+                  "book": "james",
+                  "chapter": 2,
+                  "verseStart": 15,
+                  "verseEnd": 16
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Ask",
+              "text": "*\"Can I tell you what my Bible says God requires of me toward the poor? I don't want to be on the wrong side of that.\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ]
+        },
+        {
+          "heading": "If they say",
+          "lines": [
+            {
+              "text": "**\"Social justice is a gospel issue.\"** → Justice is a command of God, so it is never optional. The gospel is the announcement of what Christ did for sinners. If we make them the same thing, we lose the gospel, and then we have nothing left to offer anybody. (1 Cor 15:1–4; Gal 2:14)",
+              "verses": [
+                {
+                  "label": "1 Cor 15:1–4",
+                  "kind": "bible",
+                  "key": "1-corinthians.15.1-4",
+                  "book": "1-corinthians",
+                  "chapter": 15,
+                  "verseStart": 1,
+                  "verseEnd": 4
+                },
+                {
+                  "label": "Gal 2:14",
+                  "kind": "bible",
+                  "key": "galatians.2.14",
+                  "book": "galatians",
+                  "chapter": 2,
+                  "verseStart": 14,
+                  "verseEnd": 14
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**\"If you don't agree, you're in sin.\"** → That may be true, and I want to know if it is. So show me from Scripture which command I am breaking and I will repent of it. (Ps 139:23–24)",
+              "verses": [
+                {
+                  "label": "Ps 139:23–24",
+                  "kind": "bible",
+                  "key": "psalms.139.23-24",
+                  "book": "psalms",
+                  "chapter": 139,
+                  "verseStart": 23,
+                  "verseEnd": 24
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**\"Disparity proves injustice.\"** → Sometimes it does, and when it does, name the act and the actor and I will stand with you against it. A number by itself does not tell you the cause. (Prov 18:17)",
+              "verses": [
+                {
+                  "label": "Prov 18:17",
+                  "kind": "bible",
+                  "key": "proverbs.18.17",
+                  "book": "proverbs",
+                  "chapter": 18,
+                  "verseStart": 17,
+                  "verseEnd": 17
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**\"You just want to keep what you have.\"** → Possibly. My own heart is not to be trusted, which is why I need a standard outside it. Let's use God's. (Jer 17:9; 1 Tim 6:17–19)",
+              "verses": [
+                {
+                  "label": "Jer 17:9",
+                  "kind": "bible",
+                  "key": "jeremiah.17.9",
+                  "book": "jeremiah",
+                  "chapter": 17,
+                  "verseStart": 9,
+                  "verseEnd": 9
+                },
+                {
+                  "label": "1 Tim 6:17–19",
+                  "kind": "bible",
+                  "key": "1-timothy.6.17-19",
+                  "book": "1-timothy",
+                  "chapter": 6,
+                  "verseStart": 17,
+                  "verseEnd": 19
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**\"The church has been silent too long.\"** → On some things it has, and that is a real sin to repent of, not to excuse. (James 4:17)",
+              "verses": [
+                {
+                  "label": "Jas 4:17",
+                  "kind": "bible",
+                  "key": "james.4.17",
+                  "book": "james",
+                  "chapter": 4,
+                  "verseStart": 17,
+                  "verseEnd": 17
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**\"Jesus preached good news to the poor.\"** → He did, and then He told them what the news was: repent and believe, and the kingdom belongs to the poor in spirit. (Luke 4:18; Mark 1:15; Matt 5:3)",
+              "verses": [
+                {
+                  "label": "Luke 4:18",
+                  "kind": "bible",
+                  "key": "luke.4.18",
+                  "book": "luke",
+                  "chapter": 4,
+                  "verseStart": 18,
+                  "verseEnd": 18
+                },
+                {
+                  "label": "Mark 1:15",
+                  "kind": "bible",
+                  "key": "mark.1.15",
+                  "book": "mark",
+                  "chapter": 1,
+                  "verseStart": 15,
+                  "verseEnd": 15
+                },
+                {
+                  "label": "Matt 5:3",
+                  "kind": "bible",
+                  "key": "matthew.5.3",
+                  "book": "matthew",
+                  "chapter": 5,
+                  "verseStart": 3,
+                  "verseEnd": 3
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ]
+        },
+        {
+          "heading": "Watch out",
+          "lines": [
+            {
+              "text": "**Do not become the man who only has objections.** If your whole contribution is that the term is bad, you will be heard as defending injustice, and sometimes you will deserve it.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Keep it out of evangelism.** When you are talking to an unbeliever, his politics are not the problem and are not the point. (2 Tim 2:24–26)",
+              "verses": [
+                {
+                  "label": "2 Tim 2:24–26",
+                  "kind": "bible",
+                  "key": "2-timothy.2.24-26",
+                  "book": "2-timothy",
+                  "chapter": 2,
+                  "verseStart": 24,
+                  "verseEnd": 26
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Watch your own tribe.** The man who condemns partiality toward one group while practicing it toward his own is the man Scripture is describing. (James 2:9)",
+              "verses": [
+                {
+                  "label": "Jas 2:9",
+                  "kind": "bible",
+                  "key": "james.2.9",
+                  "book": "james",
+                  "chapter": 2,
+                  "verseStart": 9,
+                  "verseEnd": 9
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "**Don't use \"justice\" as a word you refuse to say.** God says it constantly. Define it, then use it. (Mic 6:8)",
+              "verses": [
+                {
+                  "label": "Mic 6:8",
+                  "kind": "bible",
+                  "key": "micah.6.8",
+                  "book": "micah",
+                  "chapter": 6,
+                  "verseStart": 8,
+                  "verseEnd": 8
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            }
+          ]
+        },
+        {
+          "heading": "Bring it to the gospel",
+          "lines": [
+            {
+              "text": "Here is the problem with asking God for justice and nothing else: justice done to you is hell. At the cross God did not set justice aside to show mercy; He satisfied it, so that He is both just and the justifier of the one who has faith in Jesus. That is the only place in the universe where perfect justice and full mercy meet, and it is also where enemies are made brothers. As Baucham puts it, \"blood might be thicker than water but it's not stronger than the cross\" [Baucham, Ephesians 2 session]. (Rom 3:25–26; Eph 2:14–16)",
+              "verses": [
+                {
+                  "label": "Eph 2",
+                  "kind": "bible",
+                  "key": "ephesians.2",
+                  "book": "ephesians",
+                  "chapter": 2
+                },
+                {
+                  "label": "Rom 3:25–26",
+                  "kind": "bible",
+                  "key": "romans.3.25-26",
+                  "book": "romans",
+                  "chapter": 3,
+                  "verseStart": 25,
+                  "verseEnd": 26
+                },
+                {
+                  "label": "Eph 2:14–16",
+                  "kind": "bible",
+                  "key": "ephesians.2.14-16",
+                  "book": "ephesians",
+                  "chapter": 2,
+                  "verseStart": 14,
+                  "verseEnd": 16
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Ask",
+              "text": "*\"You want justice, and God promises it. Do you want it done to you? Would you like to hear how a guilty man goes free without justice being cheated?\"*",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "text": "Then give [The Gospel](/topic/the-gospel). See also [Cultural Marxism](/topic/cultural-marxism) and [Morality and justice](/topic/morality-and-justice).",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ]
+        }
+      ],
+      "subtitle": "Justice is not optional. The term still has to be unpacked."
+    },
+    {
       "slug": "words-they-use",
       "title": "Words they use",
       "intro": [],
@@ -49593,6 +53550,190 @@
             {
               "label": "Burden of proof",
               "text": "whoever makes a claim has to back it up. \"There is no God\" is a claim.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ]
+        },
+        {
+          "heading": "Prosperity gospel / Word of Faith",
+          "lines": [
+            {
+              "label": "Word of Faith",
+              "text": "the teaching that faith is a force released by spoken words, so what you confess is what you get.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Positive confession / \"name it and claim it\"",
+              "text": "saying a thing as already true in order to bring it about. Its opposite, \"negative confession,\" is treated as inviting disaster.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Declare and decree",
+              "text": "speaking a command rather than making a request. Scripture tells us to ask according to His will (1 John 5:14).",
+              "verses": [
+                {
+                  "label": "1 John 5:14",
+                  "kind": "bible",
+                  "key": "1-john.5.14",
+                  "book": "1-john",
+                  "chapter": 5,
+                  "verseStart": 14,
+                  "verseEnd": 14
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Seed faith / sowing into a ministry",
+              "text": "giving money as an investment God is then obligated to multiply back.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Hundredfold / breakthrough",
+              "text": "the expected return on that giving (cf. Mark 10:30, which adds \"along with persecutions\").",
+              "verses": [
+                {
+                  "label": "Mark 10:30",
+                  "kind": "bible",
+                  "key": "mark.10.30",
+                  "book": "mark",
+                  "chapter": 10,
+                  "verseStart": 30,
+                  "verseEnd": 30
+                }
+              ],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Rhema and logos",
+              "text": "their claim that *logos* is the written word and *rhema* a fresh personal word for you. Both Greek words simply mean \"word\" and are used interchangeably in the New Testament.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "The anointing",
+              "text": "a transferable power on a man, sometimes said to be received from another anointed person or at a grave.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Impartation",
+              "text": "passing that power on, usually by touch, often with physical reactions.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Slain in the Spirit",
+              "text": "falling down under that touch. Not found in Scripture.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Apostle and prophet (NAR)",
+              "text": "the New Apostolic Reformation holds that living apostles and prophets govern the church and give new revelation. ➕",
+              "verses": [],
+              "links": [],
+              "supplemental": true
+            },
+            {
+              "label": "Spirit of infirmity / generational curse",
+              "text": "explanations that assign sickness or hardship to a demon or an ancestor, so that deliverance replaces repentance and medicine.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            }
+          ]
+        },
+        {
+          "heading": "Social justice and critical theory",
+          "lines": [
+            {
+              "label": "Classical Marxism",
+              "text": "Marx's economic system: history as class struggle, the overthrow of capitalism, religion as the drug of the masses.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Cultural Marxism",
+              "text": "the later turn from economics to culture, explaining why the revolution never came and seeking to overturn a society's governing assumptions instead.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Cultural hegemony",
+              "text": "Gramsci's term for rule maintained through a society's institutions, which shape its values and expectations.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Critical theory",
+              "text": "interrogating a society for its contradictions to expose who holds power over whom. **Critical race theory** applies it to race.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Intersectionality",
+              "text": "Crenshaw's term (1989) for oppression stacking where several categories overlap.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Standpoint / lived experience",
+              "text": "the claim that a person's group position gives him knowledge others cannot question.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Systemic or structural racism",
+              "text": "racism located in institutions and outcomes rather than in a person's heart, which is how there can be racism with no racist.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Equity vs equality",
+              "text": "equality is one standard applied to all; equity is equal outcomes between groups.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Social justice",
+              "text": "in standard usage, distributive justice: redistributing advantages and resources to disadvantaged groups. See [Social justice](/topic/social-justice).",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "Oppressor and oppressed",
+              "text": "the basic pair the whole frame runs on, assigned by group rather than by conduct.",
+              "verses": [],
+              "links": [],
+              "supplemental": false
+            },
+            {
+              "label": "\"Do your homework\"",
+              "text": "the demand that you read a particular list of books before your reading of Scripture on the subject will be accepted.",
               "verses": [],
               "links": [],
               "supplemental": false

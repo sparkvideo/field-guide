@@ -72,6 +72,16 @@ export const StormIcon = () => (
     <path d="M7 15.500a4 4 0 0 1 .600-7.950a5.500 5.500 0 0 1 10.600 1.450a3.250 3.250 0 0 1-.700 6.500zM12.500 13l-2 3.500h3l-2 3.500" />
   </Icon>
 );
+export const PyramidIcon = () => (
+  <Icon>
+    <path d="M12 3.500 2.500 20.500h19zM8 12.500h8M5.500 16.500h13" />
+  </Icon>
+);
+export const BannerIcon = () => (
+  <Icon>
+    <path d="M6 20.500V4.500M6 5.500h13l-2.500 4 2.500 4H6" />
+  </Icon>
+);
 export const ScalesIcon = () => (
   <Icon>
     <path d="M12 4v16M7.500 20h9M5 7.500h14M5 7.500l-2.500 6a2.700 2.700 0 0 0 5 0zM19 7.500l-2.500 6a2.700 2.700 0 0 0 5 0z" />

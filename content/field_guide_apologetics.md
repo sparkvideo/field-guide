@@ -21,6 +21,7 @@
 | **Satanist** | [SAT Offense](#sat-offense) | [SAT Defense](#sat-defense) | [SAT Card](#sat-card) |
 | **Oneness Pentecostal** | [ONE Offense](#one-offense) | [ONE Defense](#one-defense) | [ONE Card](#one-card) |
 | **Progressive Christian** | [PROG Offense](#prog-offense) | [PROG Defense](#prog-defense) | [PROG Card](#prog-card) |
+| **Prosperity gospel** (Word of Faith / NAR) | [PG Offense](#pg-offense) | [PG Defense](#pg-defense) | [PG Card](#pg-card) |
 | **Roman Catholic** | [RCC Offense](#rcc-offense) | [RCC Defense](#rcc-defense) | [RCC Card](#rcc-card) |
 | **Eastern Orthodox** | [EO Offense](#eo-offense) | [EO Defense](#eo-defense) | [EO Card](#eo-card) |
 | **Atheist / Agnostic** | [ATH Offense](#ath-offense) | [ATH Defense](#ath-defense) | [ATH Card](#ath-card) |
@@ -1198,6 +1199,169 @@ Verses to read ([▶](https://youtu.be/DPFeuxNkxCA?t=710)): **Q 4:24** (married 
 | **"Faith is a journey. Certainty is arrogance."** | Humility is believing what God has said, not doubting it. John wrote "so that you may know that you have eternal life." It is not arrogant to take God at His word; the arrogance would be correcting Him. | 1 John 5:13; John 8:31–32; 2 Tim 1:12; Luke 1:3–4 | *"Are you certain that we can't be certain?"* |
 
 **Typical exits:** "That's just your interpretation." (Ask: *"What do you think the verse means? Let's read it again."*) · "I can't believe in a God like that." (Answer gently: *"The question isn't which God we'd prefer, but which God is there. Would you read Mark with me?"*) · "You're being judgmental." (Say: *"I'm under the same verdict. I'm telling you where I found mercy."*) · "We'll have to agree to disagree." (Leave one verse, Mark 10:45, and the question, *"Why did Jesus say He came?"*)
+
+# 💰 PROSPERITY GOSPEL / WORD OF FAITH
+
+**Their position:** God wants every believer healthy, wealthy and successful now, and the only thing standing in the way is your own faith. Faith is treated as a force you release with your words: you "declare and decree," you make a "positive confession," and you never speak of sickness or lack, because saying it gives it power. The cross is said to have bought physical health and material wealth along with forgiveness, so sickness and poverty are evidence of sin, a curse, or too little faith. Giving is the lever: sow a "seed" into the ministry and God is obligated to return it many times over. The anointed apostle or prophet speaks for God and is not to be questioned. The stream runs from E. W. Kenyon and Kenneth Hagin to Kenneth Copeland, Benny Hinn, Creflo Dollar and Todd White, and in a softer form to Joel Osteen; the newer "New Apostolic Reformation" wing adds living apostles and prophets, impartations and ongoing revelation ➕.
+
+**The dividing issue:** What the cross actually purchased, and who is God in the transaction. They say the atonement guarantees health and wealth in this life and that a believer's spoken word moves God's hand. Scripture says the cross bought the forgiveness of sins and a righteousness not our own, that the redemption of the body is still coming, and that God does what He pleases and answers according to His will, not our decree. (1 Pet 2:24; Rom 8:22–25; 1 John 5:14)
+
+**Ask this question:** *"Paul asked God three times to take the thorn away and God said no, 'My grace is sufficient for you.' Did Paul lack faith?"* (2 Cor 12:7–10)
+
+**Scriptural response:** The men who wrote the New Testament were poor, imprisoned, beaten and often sick, and they called it normal. Paul left Trophimus behind sick, told Timothy to take wine for his frequent ailments, nearly lost Epaphroditus to illness, and listed his own beatings and hunger as his credentials. The faith chapter of Hebrews ends with believers who were tortured and destitute and did not receive what was promised in this life. (2 Tim 4:20; 1 Tim 5:23; Phil 2:25–30; 2 Cor 11:23–28; Heb 11:35–39)
+
+**Common objection:** *"By His stripes we were healed. Healing is in the atonement."* → Peter quotes that line and tells you what it heals: "He Himself bore our sins in His body on the cross, so that we might die to sin and live to righteousness; by His wounds you were healed." The healing in view is from sin. Matthew does apply Isaiah 53:4 to Jesus' healing ministry, as a sign of who He is, and the full healing of the body comes when He raises it. (1 Pet 2:24; Matt 8:16–17; Rom 8:23; Rev 21:4)
+
+**Gospel bridge:** *"If God never gave you another dollar or another well day, would Christ still be enough?"* The gospel is not that God will make this life comfortable. It is that a guilty man can be forgiven and declared righteous through Christ's death and resurrection, and raised with a body that never breaks. (1 Cor 15:1–4; 1 Cor 15:42–44; Rom 8:18)
+
+**Where we agree:** God heals, and He is generous, and He answers prayer. He is not stingy and not distant. Sickness and poverty are not His final word, and one day both are gone forever. The Holy Spirit is a Person and His work is real and powerful. Many people in these churches love Jesus sincerely and are hungry for God, and some of them are being robbed by men who know better.
+
+**Approach:** Most of the people you meet in this are not rich. They are poor or sick and have been told, often for years, that it is their own fault for not believing hard enough. That is a cruelty, and the gospel is the relief from it, so lead with kindness and not with their pastor. Attack the teaching, not the man on the platform, at least at first: they will defend him like family. Start with Paul's thorn and Hebrews 11 and ask what they were promised and what actually happened. Costi Hinn grew up inside it and left; his book *God, Greed, and the (Prosperity) Gospel* is the best thing to hand them, and For the Gospel has a recovery reading plan for people coming out. MacArthur's *Strange Fire* and *Charismatic Chaos* are the fuller case. See [The Holy Spirit](/holy-spirit) and [How to pray](/topic/how-to-pray).
+
+<a id="pg-card"></a>
+### 📇 Prosperity Cheat Card
+1. **2 Cor 12:7–10**: *"Paul asked three times and God said no. Did Paul lack faith?"*
+2. **1 Pet 2:24**: *"Peter says healed from what? Read the first half of the verse."*
+3. **Heb 11:35–39**: *"The faith chapter ends with the destitute and tortured. Were they the failures?"*
+4. **1 Tim 6:5–10**: *"What does Paul call men who treat godliness as a means of gain?"*
+5. **Mark 10:29–30**: *"Jesus promises a hundredfold with what word attached to it?"*
+6. **1 John 4:1**: *"We are commanded to test the spirits. May I test this one with you?"*
+
+<a id="pg-offense"></a>
+### 🗡️ PROSPERITY OFFENSE
+
+#### PLAY 1: Who had the most faith? (suffering in the New Testament) (lead with this)
+- **Opener:** *"Who had more faith than the apostle Paul?"*
+- **Or open with:** *"If faith guarantees health, what do we do with the sick men in Paul's letters?"*
+- **Chain:**
+  1. **2 Cor 12:7–10**: Paul begged God three times to remove the thorn. God refused and gave him grace instead, and Paul says he will boast in weakness so Christ's power rests on him. *"Did God fail Paul, or did Paul get something better?"*
+  2. **2 Tim 4:20**: "Trophimus I left sick at Miletus." *"Paul raised the dead in Acts. Why did he leave this man sick?"*
+  3. **1 Tim 5:23; Phil 2:25–30**: Timothy had frequent ailments. Epaphroditus was sick to the point of death. *"Two of Paul's closest men. Where is the guaranteed healing?"*
+  4. **2 Cor 11:23–28**: Imprisonments, beatings, a stoning, shipwrecks, hunger, cold, exposure. *"That is his résumé. Is that the life your teachers promise?"*
+  5. **Heb 11:35–39**: The chapter on faith ends with believers tortured, sawn in two, destitute and homeless, "of whom the world was not worthy," who did not receive the promise in this life. *"Were they the ones with weak faith?"*
+  6. **Job 1:8–12; Job 2:3–7**: God calls Job blameless and then hands him over to loss and sickness, and Job never finds out why. *"Whose fault was Job's suffering?"*
+- **If they say →**
+  - *"The thorn was a person persecuting him, not sickness."* → Maybe so; the text calls it a thorn in the flesh and a weakness. Either way the point stands: a man of great faith asked God three times for relief and God said no, and called that no an answer. (2 Cor 12:8–9)
+  - *"That was the old covenant, before the cross."* → Every example above is after the cross, written by apostles filled with the Spirit. (2 Cor 11:23; Phil 2:27)
+  - *"Jesus healed everyone who came to Him."* → He did, as a sign that He is who He said, and then He went to a cross. He also told His followers to expect tribulation. (Matt 8:16–17; John 16:33; 2 Tim 3:12)
+  - *"God gets no glory from your sickness."* → He told us otherwise. The man born blind was blind so that the works of God would be displayed in him, and Paul's weakness was the showcase for Christ's power. (John 9:1–3; 2 Cor 12:9)
+- **Closer:** *"Paul says our present sufferings are not worth comparing with the glory coming, and that creation groans while we wait for our bodies to be redeemed. He is not promising it now. He is promising it certainly. Which would you rather have?"* (Rom 8:18; Rom 8:22–23)
+
+#### PLAY 2: What did the cross buy? (atonement and the body)
+- **Opener:** *"What did Jesus purchase at the cross?"*
+- **Or open with:** *"If the cross bought your healing outright, why does any Christian still die?"*
+- **Chain:**
+  1. **1 Pet 2:24**: Read the whole verse. He bore our sins so that we would die to sin and live to righteousness, "by His wounds you were healed." *"Healed of what, according to the first half of the sentence?"*
+  2. **Matt 8:16–17**: Matthew does apply Isaiah 53:4 to Jesus' healings, during His earthly ministry, as the credential of the Messiah. *"Did Matthew say every believer afterward gets the same, or did he say this is who Jesus is?"*
+  3. **Rom 8:22–23**: We groan within ourselves, waiting eagerly for the redemption of our body. *"If the body were already redeemed, what is Paul waiting for?"*
+  4. **1 Cor 15:42–44, 53–54**: The body is sown perishable and raised imperishable. *"When does the perishable put on the imperishable?"*
+  5. **2 Cor 4:16–18; 2 Cor 5:1–4**: The outer man is decaying while the inner man is renewed day by day. *"Is Paul describing a failure of faith or the Christian life?"*
+  6. **Rev 21:3–4**: God wipes away every tear and there is no more death, mourning, crying or pain. *"Notice when. Is it now, or when He makes all things new?"*
+- **If they say →**
+  - *"So you don't believe God heals."* → He heals, and we pray for it, and sometimes He does it plainly. What He never did was promise it on demand or make it a test of your faith. (James 5:14–16)
+  - *"Isaiah 53 says He bore our sicknesses."* → He did, and the down payment is real, and the final payment is a raised body. Scripture puts the full healing at the resurrection, not at the altar call. (Rom 8:23; Phil 3:20–21)
+  - *"Poverty is the curse of the law and Christ redeemed us from the curse."* → The curse Paul names there is the curse the law pronounces on lawbreakers, and what Christ bought us out of is condemnation. The blessing Paul says we received is the promised Spirit. (Gal 3:10; Gal 3:13–14)
+  - *"Jesus became poor so that we might become rich."* → Read the chapter around it. Paul is praising the Macedonian churches, who gave generously out of deep poverty, and urging the Corinthians to do the same. The riches in view are grace. (2 Cor 8:1–2; 2 Cor 8:9)
+- **Closer:** *"Then the question is not whether God can heal your body. It is whether your sins are forgiven, because that is the thing the cross settled. Are they?"* (Col 2:13–14)
+
+#### PLAY 3: Whose will, and whose words? (faith is not a force)
+- **Opener:** *"When you pray, are you asking God or telling Him?"*
+- **Or open with:** *"Jesus prayed, 'Not what I will, but what You will.' Was that weak faith?"*
+- **Chain:**
+  1. **Mark 14:36**: In the garden the Son of God says "not what I will, but what You will." *"If the perfect Son prays that way, how should we?"*
+  2. **Matt 6:9–10**: The prayer He taught us says "Your will be done." *"Is that a negative confession?"*
+  3. **1 John 5:14**: We have confidence that if we ask anything according to His will, He hears us. *"What is the condition in that verse?"*
+  4. **James 4:13–16**: Planning without "if the Lord wills" is called arrogance. *"Who decides what tomorrow holds?"*
+  5. **James 4:2–3**: You ask and do not receive because you ask with wrong motives, to spend it on your pleasures. *"Could that be the real reason some prayers go unanswered?"*
+  6. **Dan 4:35; Ps 115:3; Isa 46:9–10**: God does according to His will in heaven and on earth and no one can hold back His hand. *"Can a man's words command the God who says that?"*
+- **If they say →**
+  - *"'Call those things that are not as though they were' (Rom 4:17)."* → Read who the subject is. It is God who calls into being the things that do not exist. Abraham's faith was confidence in God's promise, not a technique. (Rom 4:17; Rom 4:20–21)
+  - *"'Death and life are in the power of the tongue' (Prov 18:21)."* → A proverb about what our speech does to people and to ourselves, in a book full of warnings about the tongue. It is not a law of creation. (Prov 18:21; James 3:5–10)
+  - *"'Whatever you ask in My name' (John 14:13–14)."* → In His name means on His authority and for His glory, which is why the next phrase is "that the Father may be glorified in the Son." A blank cheque is not what He said. (John 14:13; 1 John 5:14)
+  - *"Never pray 'if it be Your will.' That is unbelief."* ➕ → Then Jesus prayed in unbelief in Gethsemane, and John wrote unbelief in his letter. *"Which of them would you like to correct?"* (Mark 14:36; 1 John 5:14)
+  - *"You have to speak it before you see it."* → Scripture tells us to make our requests known with thanksgiving, and promises peace rather than guaranteed delivery. (Phil 4:6–7)
+- **Closer:** *"Prayer is not leverage. It is a son asking a Father who is good and who knows better. Would you pray with me that way right now?"* (Matt 7:11; Heb 4:16)
+
+#### PLAY 4: Test the spirits (when they appeal to experience, anointing or miracles)
+- **Opener:** *"John commands us to test the spirits. Can we test this teaching together?"*
+- **Or open with:** *"How would you know if a miracle came from somewhere other than God?"*
+- **Chain:**
+  1. **1 John 4:1**: Do not believe every spirit; test them, because many false prophets have gone out. *"Is that a command, or a suggestion?"*
+  2. **1 John 4:2–3**: Test one: does it confess and exalt Jesus Christ? MacArthur's point is that the Spirit always points to the Son, never to Himself. *"When the service is over, who was the subject?"*
+  3. **1 John 4:5**: Test two: "they are from the world, therefore they speak as from the world, and the world listens to them." *"Health, wealth and success are what the unconverted heart already wants. Why would the world love this message so much?"*
+  4. **1 John 4:6**: Test three: does it run to Scripture, or past it? *"Does your teacher send you to your Bible, or to his next word from the Lord?"*
+  5. **1 John 4:7–8**: Test four: does it produce love, or does it produce me? *"Are the gifts there to build others up, or to get you what you want?"* (1 Cor 12:7; 1 Cor 14:12)
+  6. **Matt 7:21–23**: On that day many will say, "Lord, we prophesied, cast out demons, did miracles in Your name," and He will say, "I never knew you." *"Miracles are not the proof. What is?"*
+- **If they say →**
+  - *"Signs and wonders prove God is in it."* → Pharaoh's magicians produced signs, the false christs will produce signs to deceive, and the lawless one comes with power and false wonders. Signs prove power, not truth. (Ex 7:11–12; Matt 24:24; 2 Thess 2:9)
+  - *"Touch not the anointed, and do no harm to His prophets."* → That verse is about God protecting the patriarchs as they wandered among nations. And Paul opposed Peter to his face in front of everyone when Peter was wrong. (Ps 105:13–15; Gal 2:11–14)
+  - *"Don't judge. You're quenching the Spirit."* → The Spirit wrote "examine everything carefully" and commended the Bereans for checking the apostle Paul against the Scriptures daily. (1 Thess 5:20–22; Acts 17:11)
+  - *"My pastor has a word from the Lord for people."* → Then he is claiming what Scripture tests by one standard: a prophet whose word does not come to pass has spoken presumptuously. *"Has every word he has given come true?"* (Deut 18:20–22; Jer 23:16)
+  - *"God told me."* → Kindly: the way God has told us is this book, and it is sufficient for everything we need for life and godliness. (2 Tim 3:16–17; 2 Pet 1:3; 2 Pet 1:19)
+- **Closer:** *"The Spirit's work is to conform you to Christ, and Scripture says plainly what He does: He convicts, regenerates, illuminates, sanctifies and seals. Nothing in that list is money. Would you want the real thing?"* (Rom 8:26–29; John 16:13–14)
+
+#### PLAY 5: Follow the money (seed faith and the men who teach it)
+- **Opener:** *"Who gets rich in this, the people giving or the man asking?"*
+- **Or open with:** *"Has your pastor ever asked you to give money you needed?"*
+- **Chain:**
+  1. **1 Tim 6:5**: Paul names men who suppose "that godliness is a means of gain" and says to have nothing to do with them. *"Does that describe anyone you have listened to?"*
+  2. **1 Tim 6:9–10**: Those who want to get rich fall into ruin, and the love of money is a root of all sorts of evil. *"Is that a promise or a warning?"*
+  3. **2 Pet 2:1–3**: False teachers bring in destructive heresies, and in their greed they exploit people with false words. *"Exploit whom?"*
+  4. **Acts 8:18–23**: Simon offered money to get the power of the Spirit, and Peter told him his heart was not right before God. *"What did Peter think of paying for God's power?"*
+  5. **Titus 1:10–11; 2 Cor 2:17**: Men who teach for sordid gain, peddling the word of God. *"Is the offering appeal the longest part of the service?"*
+  6. **Mark 12:41–44 with Mark 13:1–2**: Jesus watched a widow put in her last two coins under a system that taught her to, and then said of that temple that not one stone would be left on another. *"Is that a model for giving, or a judgment on the men who took it?"*
+- **If they say →**
+  - *"Give and it will be given to you, a good measure, running over."* → Read the verses before it. Jesus is talking about mercy and judgment: be merciful, do not condemn, forgive. It is not a return on investment. (Luke 6:36–38)
+  - *"Jesus promised a hundredfold."* → He did, and Mark records the words He attached: "houses and brothers and sisters and mothers and children and farms, along with persecutions." *"Would you preach the whole verse?"* (Mark 10:29–30)
+  - *"Bring the tithe and God will open the windows of heaven."* → Spoken to Israel under the Mosaic covenant, which they were robbing by withholding what the law required. In the New Testament each man gives as he has decided in his heart, not grudgingly or under compulsion, because God loves a cheerful giver. (Mal 3:8–10; 2 Cor 9:7)
+  - *"Sow a seed into this ministry for your breakthrough."* → No apostle ever sold a blessing. Peter's answer to the man who tried to buy God's gift was that his heart was not right. (Acts 8:20–23; 1 Pet 5:2)
+  - *"My pastor's wealth is God's blessing on his faith."* → Then measure him by the standard Scripture gives for a shepherd: not greedy for money, not domineering, an example to the flock. (1 Pet 5:2–3; 1 Tim 3:3)
+- **Closer:** *"Jesus asked what it profits a man to gain the whole world and forfeit his soul. You have been offered the world. Has anyone offered you your soul back?"* (Mark 8:36)
+
+#### PLAY 6: Which gospel? (use when they say it is the same gospel plus more)
+- **Opener:** *"What is the gospel? Say it in one sentence."*
+- **Chain:**
+  1. **1 Cor 15:1–4**: Paul says the gospel by which they are saved is that Christ died for our sins, was buried, and rose on the third day according to the Scriptures. *"Is money in that sentence? Is health?"*
+  2. **Gal 1:6–9**: A different gospel is no gospel, and Paul pronounces a curse on anyone who preaches one, even an angel. *"How serious is adding to it?"*
+  3. **2 Cor 11:3–4**: Paul fears they will receive another Jesus, a different spirit, a different gospel. *"Which Jesus is being preached to you: the one who calls men to deny themselves, or the one who makes them comfortable?"* (Luke 9:23)
+  4. **Rom 1:16–17**: The gospel is the power of God for salvation, and the righteousness revealed in it is by faith. *"Salvation from what?"*
+  5. **Acts 14:22**: Paul strengthened the disciples by telling them that through many tribulations we must enter the kingdom of God. *"Is that the message you were given?"*
+- **If they say →**
+  - *"We preach Christ too."* → Then let Christ and Him crucified be the whole platform for a month and see who stays. (1 Cor 2:2)
+  - *"Are you saying I'm not saved?"* → Not at all, and I am not able to judge your heart. I am saying some men on television are preaching another gospel, and the stakes are too high for either of us to be careless. (Gal 1:8; 2 Cor 13:5)
+- **Closer:** *"If you never got another thing from God but forgiveness and a righteousness you did not earn, would that be enough? That is the actual offer."* (Rom 4:4–5; Phil 3:8–9)
+
+<a id="pg-defense"></a>
+### 🛡️ PROSPERITY DEFENSE
+
+| They say… | Quick answer | Go to | Ask back |
+|---|---|---|---|
+| **"By His stripes you were healed."** | Peter gives the sense in the same sentence: He bore our sins so we would die to sin and live to righteousness. The healing is from sin, and the body is raised later. | 1 Pet 2:24; Rom 8:23 | *"Healed of what, in the first half of the verse?"* |
+| **"Jesus became poor so you could be rich."** | The context is a collection, and the Macedonians Paul is praising gave out of deep poverty. The riches are grace. | 2 Cor 8:1–2; 2 Cor 8:9 | *"If that verse promises money, why were the people he commends broke?"* |
+| **"'I know the plans I have for you, plans to prosper you.'"** | Written to Judah in Babylonian exile, promising return after seventy years. God is faithful; the verse is not a personal finance promise. | Jer 29:10–11 | *"Who was the letter written to, and what did they have to live through first?"* |
+| **"'I pray that you prosper and be in health' (3 John)."** | A letter's opening greeting to one man, Gaius, the way we say "hope this finds you well." The letter's joy is that he walks in truth. | 3 John 1:2; 3 John 1:3–4 | *"Does a greeting in a letter make a doctrine?"* |
+| **"Give and it will be given to you."** | The subject is mercy, not money: do not judge, do not condemn, forgive, and it will be measured back to you. | Luke 6:36–38 | *"Read me the three verses before it."* |
+| **"Jesus promised a hundredfold return."** | Mark records what came with it: "along with persecutions." | Mark 10:29–30 | *"Does your teacher quote the last two words?"* |
+| **"Tithe and God opens the windows of heaven."** | Said to Israel under the law they were breaking. New covenant giving is decided in the heart, cheerful, never under compulsion. | Mal 3:8–10; 2 Cor 9:7 | *"Does God love a pressured giver or a cheerful one?"* |
+| **"Sow a seed and God must multiply it back."** | God is no man's debtor and cannot be put under obligation. Who has given to Him that it should be paid back? | Rom 11:35; Job 41:11 | *"Can a man put God in his debt?"* |
+| **"You have not because you ask not."** | James finishes the thought: you ask and do not receive because you ask wrongly, to spend it on your pleasures. | James 4:2–3 | *"Why does James say the prayers were not answered?"* |
+| **"Call those things that be not as though they were."** | God is the one doing the calling in that verse. Abraham's faith was trust in God's promise, not a technique for creating things. | Rom 4:17; Rom 4:20–21 | *"Who is the subject of that sentence?"* |
+| **"Death and life are in the power of the tongue."** | A proverb about the real damage and good our words do, in a book that warns constantly about the tongue. Not a creative force. | Prov 18:21; James 3:5–10 | *"Did Solomon mean your words create reality, or that they wound and heal people?"* |
+| **"You'll do greater works than Jesus."** | Greater in reach, not in power: after the Spirit came, the gospel went to the nations and thousands were converted. No apostle outdid raising the dead. | John 14:12; Acts 2:41 | *"Did any apostle do a greater miracle than raising Lazarus?"* |
+| **"Where two agree on earth, it shall be done."** | The paragraph is about confronting sin in the church and the authority of the gathered church, not a formula for getting things. | Matt 18:15–20 | *"What is the subject of the five verses before it?"* |
+| **"Don't speak sickness. Negative confession invites it."** | Then half the Psalms are sin. God's people pour out complaint, grief and darkness to Him, and Paul boasted in his weakness. | Ps 88:1–3; Lam 3:19–23; 2 Cor 12:9–10 | *"Was the psalmist faithless for telling God the truth?"* |
+| **"If you had faith you would be healed."** | Paul did not heal Trophimus, Timothy had chronic ailments, and the man who said "I believe, help my unbelief" got his son back. | 2 Tim 4:20; 1 Tim 5:23; Mark 9:23–24 | *"Whose faith failed in those cases?"* |
+| **"Sickness is always from the devil."** | Satan afflicted Job only as far as God permitted, and Jesus said the blind man's condition was so that God's works would be displayed. | Job 2:6–7; John 9:1–3 | *"Who set the limits on what Satan could do to Job?"* |
+| **"Poverty is a curse Christ broke."** | The curse Paul names is the law's sentence on lawbreakers, and what we received is the promised Spirit. Paul himself knew hunger and need. | Gal 3:10; Gal 3:13–14; Phil 4:11–12 | *"If Christ broke poverty, why was Paul hungry?"* |
+| **"Touch not God's anointed."** | God was shielding the patriarchs among the nations. Paul publicly corrected Peter, and Scripture commands us to test every teacher. | Ps 105:13–15; Gal 2:11–14; 1 John 4:1 | *"Was Paul touching the anointed when he rebuked Peter?"* |
+| **"God gave my pastor a word."** | A prophet is tested by whether his word comes to pass, and God condemns prophets who speak visions of their own heart. | Deut 18:20–22; Jer 23:16 | *"Has every prediction he has made come true?"* |
+| **"You're quenching the Spirit by questioning."** | The Spirit commanded the testing and praised the Bereans for checking an apostle against Scripture. God is not the author of confusion. | 1 Thess 5:20–22; Acts 17:11; 1 Cor 14:33 | *"Who told us to examine everything?"* |
+| **"I was healed. My life really did change."** | I am glad for anything good God has done for you. The question is not whether you felt something; it is what saves, and Scripture answers that in one sentence. | 1 Cor 15:1–4; Rom 4:4–5 | *"If the healing is real and the gospel is wrong, where does that leave you forever?"* |
+| **"We have the full gospel. You have part of it."** | The gospel Paul "received and delivered" is Christ's death, burial and resurrection, received by faith. Anything required on top of that is another gospel. | 1 Cor 15:1–4; Gal 1:6–9 | *"What does Paul call the gospel in 1 Corinthians 15?"* |
+
+**Typical exits:** "You just don't have the faith for it." (Answer kindly: *"Maybe not. Did Paul?"* and leave 2 Cor 12:9.) · "Don't criticize God's anointed." (*"Paul corrected Peter publicly. May I show you?"*) · "My church is full and growing." (Agree that it is, then ask what 1 John 4:5 says about why the world listens.) · "I'll just pray for you." (Thank them, mean it, and ask them to read Hebrews 11:35–39 this week.) · Tears or anger, because they gave money they needed. (Stop arguing. They have been robbed. Give them the gospel and your phone number, and offer to read 1 Timothy 6 with them.)
+
+---
 
 # 📜 HEBREW ROOTS / TORAH OBSERVANT
 

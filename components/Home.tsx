@@ -9,7 +9,7 @@ import { getPins, getRecent, type Pin } from "@/lib/pins";
 import { formatRef, parseReference, readerHref, type TypedRef } from "@/lib/reference";
 import { searchGuide } from "@/lib/search";
 import { Chevron } from "./Bits";
-import { BookIcon, CreationIcon, CrossIcon, LifeIcon, ScalesIcon, StormIcon, GateIcon, TombIcon, FireIcon, MindIcon, PrayIcon, HourglassIcon, DoorIcon, DrillIcon, FlameIcon, GameIcon, Mark, NoteIcon, PenIcon, TabletsIcon, TargetIcon, TriangleIcon, TrinityIcon, WordsIcon } from "./Icons";
+import { BannerIcon, BookIcon, CreationIcon, CrossIcon, LifeIcon, PyramidIcon, ScalesIcon, StormIcon, GateIcon, TombIcon, FireIcon, MindIcon, PrayIcon, HourglassIcon, DoorIcon, DrillIcon, FlameIcon, GameIcon, Mark, NoteIcon, PenIcon, TabletsIcon, TargetIcon, TriangleIcon, TrinityIcon, WordsIcon } from "./Icons";
 import { readStreak } from "./Train";
 import { Welcome } from "./Welcome";
 
@@ -18,7 +18,7 @@ type GroupRow = { slug: string; name: string; color: string; plays: number; obje
 // The home screen is one scrolling page. Groups sit under three headings as small tiles.
 const FAMILIES = [
   { id: "sec-religions", title: "Religious worldviews", slugs: ["muslim", "jewish", "hindu", "buddhist", "new-age", "satanist"] },
-  { id: "sec-christian", title: "False Christianity & competing claims", slugs: ["jw", "lds", "unitarian", "oneness", "catholic", "orthodox", "progressive"] },
+  { id: "sec-christian", title: "False Christianity & competing claims", slugs: ["jw", "lds", "unitarian", "oneness", "catholic", "orthodox", "progressive", "prosperity"] },
   { id: "sec-nonreligious", title: "Nonreligious worldviews", slugs: ["atheist", "agnostic", "humanist", "deist"] },
 ];
 const JUMPS: [string, string][] = [
@@ -363,6 +363,22 @@ export function Home({ groups }: { groups: GroupRow[] }) {
               <span>
                 <span className="block text-[20px] font-semibold">Morality and justice</span>
                 <span className="sub">Can morality exist without God?</span>
+              </span>
+              <Chevron />
+            </Link>
+            <Link href="/topic/social-justice" className="row">
+              <BannerIcon />
+              <span>
+                <span className="block text-[20px] font-semibold">Social justice</span>
+                <span className="sub">What God requires, and what the word now means</span>
+              </span>
+              <Chevron />
+            </Link>
+            <Link href="/topic/cultural-marxism" className="row">
+              <PyramidIcon />
+              <span>
+                <span className="block text-[20px] font-semibold">Cultural Marxism</span>
+                <span className="sub">Where "oppressor and oppressed" came from</span>
               </span>
               <Chevron />
             </Link>

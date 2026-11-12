@@ -858,6 +858,115 @@ Pray for yourself:
 - **Christ intercedes.** He always lives to make intercession for those who draw near to God through Him. (Heb 7:25; Rom 8:34)
 - **Come boldly anyway.** The throne is a throne of grace. (Heb 4:14–16)
 
+# Cultural Marxism
+> Where "oppressor and oppressed" came from, and what Scripture says.
+
+Israel's army had swordsmen and shield-bearers, and it also had the men of Issachar, who understood the times and knew what Israel ought to do. You do not need to be a scholar of this, but you do need to recognize it when it is sitting across the table from you, because the words sound Christian and the frame underneath is not. (1 Chr 12:32)
+
+## What you are showing
+Not that every person using these words is a Marxist. Most are not, and saying so will end the conversation and your credibility with it. You are showing that one particular way of explaining human trouble has been borrowed into the church, that it reads a man by his group instead of his heart, and that it cannot give what the gospel already gives. (2 Cor 10:3–5; Col 2:8)
+**Ask:** *"When you say someone is oppressed, do you mean something was done to him, or that he belongs to a certain group?"*
+
+## Where it came from
+- **Classical Marxism** was economic. Marx read history as class struggle, expected the workers to overthrow capitalism, and called religion the drug that kept them quiet. He was openly atheistic. Most Christians would reject it on sight, which is why the newer form does not use his categories.
+- **Cultural Marxism** began as an attempt to explain why the revolution never came. Antonio Gramsci argued the problem was not economics but culture: a ruling group holds power by controlling a society's values and assumptions, which he called **cultural hegemony**. Change that, and you change everything. The strategy was to take the positions that shape how people think, the schools, the courts, the press, the pulpits.
+- **The Frankfurt School**, a group of German scholars who moved to the United States in the 1930s, developed **critical theory**: the way to understand a society is to interrogate it for its contradictions and expose who is being held down by whom.
+- **Intersectionality**, named by Kimberlé Crenshaw in 1989, stacks the categories. The further you are from the dominant group on each axis, the more oppression you carry, and the layers combine.
+
+## How it reads a person
+- **The group is the unit, not the man.** An individual's success does not count against the group's story, and an individual's hardship does not count for him if he belongs to the dominant group.
+- **Power decides guilt.** Belonging to the dominant group makes you complicit whether or not you have done anything, which produces the strange result Baucham names: racism with no racist in it.
+- **Experience is the authority.** "Lived experience" settles the question, so examining the facts of a case becomes an offense against the person telling it.
+- **Disagreement is disqualifying.** Ask for evidence and you are blaming the victim; defend yourself and you have proved the point.
+- **A new canon.** The tell is when a man says you cannot understand the Bible on this subject until you have read a stack of sociology first. Baucham, who teaches sociology himself, says the Bible critiques those books and not the other way round. (2 Tim 3:16–17)
+
+## Where it cannot stand
+- **Guilt is personal.** The son will not bear the punishment for the father's iniquity, and fathers are not put to death for their sons. Inherited group guilt is not a biblical category. (Ezek 18:20; Deut 24:16)
+- **Justice is impartial in both directions.** You shall not follow a crowd in doing wrong, and you shall not be partial to a poor man in his lawsuit; you shall not defer to the great, and you shall not pervert the justice due your needy brother. Both tilts are forbidden. (Ex 23:2–3; Ex 23:6; Lev 19:15)
+- **Both sides get heard.** The first to plead his case seems right, until another comes and examines him. Answering before you have heard is folly. A system that treats inquiry as sin cannot do justice. (Prov 18:17; Prov 18:13)
+- **Worth is not granted by a group.** Every person is made in God's image, which is why murder is an assault on God Himself, and why there is finally one human race descended from one man. (Gen 1:26–27; Gen 9:6; Acts 17:26)
+- **God shows no partiality, and neither may we.** Favoring the rich is sin in James, and so is deferring to any man because of who he is. (Rom 2:11; James 2:1–9; Deut 1:17)
+- **The real divide runs through every heart.** All have sinned; the heart is deceitful above all things. No group is innocent and no group is beyond mercy. (Rom 3:23; Jer 17:9; 1 John 1:8)
+
+## What is true in it
+Do not answer this by pretending nothing is wrong. Baucham, who grew up fatherless in South Central Los Angeles, says it plainly: "Racism is real and it's sin. Oppression is real and it's sinful" [Baucham, *Cultural Marxism* session]. Scripture condemns partiality, robbing the poor, crooked courts and unjust laws, and God hears the man no one else will hear. His complaint is not that people name real evils. It is that the frame assigns all of it to systems, so the actual sin in actual hearts never gets dealt with, and the man in front of you never gets the gospel. (Isa 10:1–2; Prov 22:22–23; Ezek 22:29)
+
+## If they say
+- **"So you don't think racism exists."** → I think it exists and that it is sin, and that is why I will not use a framework that cannot call any individual to repent of it. (Gen 9:6; James 2:9)
+- **"You're just using a label to avoid the issues."** → Then let's take an issue. Name one and let's look at what Scripture says about it and what actually happened.
+- **"You have to check your privilege."** → Here is a version of that I will accept: if either of us has learned how to shut the other one up, we should check that. (Prov 18:17)
+- **"The Bible alone isn't enough for this."** → Then we disagree about something bigger than this subject. Scripture is given so that the man of God may be equipped for every good work, and getting along with my brother is a good work. (2 Tim 3:16–17; 2 Pet 1:3)
+- **"We need to dismantle the system."** → Some laws and practices are unjust and should be changed, and Scripture says so. Changing them will not change one heart, and a changed heart is the one thing you cannot legislate. (Isa 1:17; Jer 17:9; John 3:3)
+- **"Jesus was a revolutionary."** → He refused to arbitrate an inheritance dispute and warned the man about greed instead, He told Pilate His kingdom is not of this world, and He went to a cross to save sinners. (Luke 12:13–15; John 18:36)
+
+## Watch out
+- **Do not call a brother a Marxist.** Baucham refuses to, even about people he sharply disagrees with, and he asks for the same courtesy without demanding it. Using the word as a weapon is how this debate became name-calling in both directions.
+- **Do not use this page as a way to dodge sin.** If a man has been wronged, the first Christian response is to listen and to care, not to diagnose his vocabulary.
+- **Do not bring party politics into an evangelism conversation.** You are after his soul. Say nothing that gives him an easy reason to stop listening. (1 Cor 9:19–22; 2 Tim 2:24–26)
+- **Do not treat a person as a type.** Baucham's warning to apologists is worth more than this whole page: a man is a person, not a collection of facts and not a stereotype. Reading about his group does not mean you understand him. Ask him.
+
+## Bring it to the gospel
+The deepest division in human history was not racial. It was the one God Himself established between Israel and the nations, and the Gentile's real problem was not that he was outside a culture but that he was "without hope and without God in the world." Then Christ, who is Himself our peace, broke down the dividing wall and made the two into one new man, reconciling both to God in one body through the cross. So Christians are not working toward reconciliation. They are walking in one that is already finished, and it cost blood. (Eph 2:11–13; Eph 2:14–16; Eph 2:18–19)
+**Ask:** *"Would you rather be told you are on the wrong side of history, or that there is a way for enemies to be made one and forgiven?"*
+
+Then give [The Gospel](/topic/the-gospel). See also [Social justice](/topic/social-justice) and [Morality and justice](/topic/morality-and-justice).
+
+# Social justice
+> Justice is not optional. The term still has to be unpacked.
+
+God requires justice of you. To do justice, to love mercy, to walk humbly with your God is not a suggestion, and failing to do justice is sin. That is exactly why the phrase has to be handled carefully: once a thing is called justice, anyone who disagrees with how you define it is not mistaken, he is wicked, and the conversation is over before it starts. (Mic 6:8; Prov 17:15)
+
+## What you are showing
+That you are not less committed to justice than the man across from you, you are more, because you have a Judge, a fixed standard and a day on the calendar. And that two different things are riding in one phrase, so you need to ask which one he means. (Acts 17:31; Eccl 12:14)
+**Ask:** *"Tell me what you mean by justice, and I'll tell you if I'm for it. Most of the time I will be."*
+
+## Two things in one phrase
+- **Biblical justice** is rendering to each person what is due him, impartially, according to God's standard: honest weights, honest courts, no bribes, no partiality to rich or poor, and real protection for the people most easily robbed. It is personal, it is owed, and it is measured by God's law. (Deut 16:18–20; Lev 19:15; Prov 11:1)
+- **Social justice**, in the standard academic and dictionary sense, means distributive justice: the state redistributing advantages and resources to disadvantaged groups so they have social and economic equality. Baucham's point is that when a Christian uses the phrase and then says "but that's not what I mean by it," he has taken on a word whose meaning everyone else already knows [Baucham, *What Is Social Justice?* session].
+
+## How the movement works
+Baucham traces four steps, and you can hear them in order in almost any version of the argument.
+1. **Identify disadvantaged groups.** Note that it is groups, not persons, and that being a numerical majority does not disqualify a group from the category.
+2. **Assess group outcomes.** Not an individual's treatment, but the group's numbers.
+3. **Assign blame for the disparity.** Any disparity is evidence of injustice, and looking for other causes is called blaming the victim.
+4. **Redistribute power and resources** to redress it, on the assumption that whatever the advantaged group holds was unjustly gained.
+
+## Where it goes wrong
+- **It judges by group, not by conduct.** A man who built something from nothing is held to have gained it unjustly because of the group he belongs to, and another man is held to deserve what he has for the same reason. Scripture judges deeds, and it refuses partiality to the great and to the poor alike. (Lev 19:15; Rom 2:6; Rom 2:11)
+- **It confuses equal standards with equal outcomes.** God requires one measure, one weight and one law for the native and the stranger, which is a standard, not a result. (Lev 19:35–36; Lev 24:22)
+- **It moves what is owed into what is taken.** Generosity in the New Testament is decided in the heart, never under compulsion, and Peter reminded Ananias that the property was his own to keep. Coerced transfer is a different thing from Christian giving, whatever its merits as policy. (2 Cor 9:7; Acts 5:4)
+- **It borrows God's authority and changes the content.** Because God commands justice, calling your policy "justice" makes disagreement a sin and ends the argument. It also quietly claims to know every cause of every disparity, which no man knows. (Prov 18:17; Deut 29:29)
+- **It cannot reach the heart.** You can change a law and not change one man. The thing most needed is the thing a program cannot do. (Jer 17:9; Ezek 36:26)
+
+## What Scripture actually commands
+Say this before you say anything critical, and mean it.
+- **God hates crooked justice and loves the people it crushes.** Learn to do good, seek justice, reprove the ruthless, defend the orphan, plead for the widow. Woe to those who write unjust laws. (Isa 1:17; Isa 10:1–2)
+- **He names the specific victims again and again:** the sojourner, the fatherless, the widow, the poor, the worker whose wages were held back. The wages of the laborers who mowed your fields cry out, and the cries reached the Lord of Sabaoth. (Jer 22:3; Zech 7:9–10; James 5:4)
+- **Oppressing the poor is an insult to God Himself.** He who oppresses the poor taunts his Maker; he who is gracious to the needy honors Him. (Prov 14:31; Prov 22:22–23)
+- **Justice is one of the weightier matters**, and Jesus rebuked men who tithed carefully and neglected it. (Matt 23:23; Luke 11:42)
+- **Pure religion looks after orphans and widows in their distress.** A church arguing about terminology while ignoring the widow in the third row has lost the argument. (James 1:27; James 2:15–16)
+**Ask:** *"Can I tell you what my Bible says God requires of me toward the poor? I don't want to be on the wrong side of that."*
+
+## If they say
+- **"Social justice is a gospel issue."** → Justice is a command of God, so it is never optional. The gospel is the announcement of what Christ did for sinners. If we make them the same thing, we lose the gospel, and then we have nothing left to offer anybody. (1 Cor 15:1–4; Gal 2:14)
+- **"If you don't agree, you're in sin."** → That may be true, and I want to know if it is. So show me from Scripture which command I am breaking and I will repent of it. (Ps 139:23–24)
+- **"Disparity proves injustice."** → Sometimes it does, and when it does, name the act and the actor and I will stand with you against it. A number by itself does not tell you the cause. (Prov 18:17)
+- **"You just want to keep what you have."** → Possibly. My own heart is not to be trusted, which is why I need a standard outside it. Let's use God's. (Jer 17:9; 1 Tim 6:17–19)
+- **"The church has been silent too long."** → On some things it has, and that is a real sin to repent of, not to excuse. (James 4:17)
+- **"Jesus preached good news to the poor."** → He did, and then He told them what the news was: repent and believe, and the kingdom belongs to the poor in spirit. (Luke 4:18; Mark 1:15; Matt 5:3)
+
+## Watch out
+- **Do not become the man who only has objections.** If your whole contribution is that the term is bad, you will be heard as defending injustice, and sometimes you will deserve it.
+- **Keep it out of evangelism.** When you are talking to an unbeliever, his politics are not the problem and are not the point. (2 Tim 2:24–26)
+- **Watch your own tribe.** The man who condemns partiality toward one group while practicing it toward his own is the man Scripture is describing. (James 2:9)
+- **Don't use "justice" as a word you refuse to say.** God says it constantly. Define it, then use it. (Mic 6:8)
+
+## Bring it to the gospel
+Here is the problem with asking God for justice and nothing else: justice done to you is hell. At the cross God did not set justice aside to show mercy; He satisfied it, so that He is both just and the justifier of the one who has faith in Jesus. That is the only place in the universe where perfect justice and full mercy meet, and it is also where enemies are made brothers. As Baucham puts it, "blood might be thicker than water but it's not stronger than the cross" [Baucham, Ephesians 2 session]. (Rom 3:25–26; Eph 2:14–16)
+**Ask:** *"You want justice, and God promises it. Do you want it done to you? Would you like to hear how a guilty man goes free without justice being cheated?"*
+
+Then give [The Gospel](/topic/the-gospel). See also [Cultural Marxism](/topic/cultural-marxism) and [Morality and justice](/topic/morality-and-justice).
+
 # Words they use
 > A quick lookup for terms that come up in conversation.
 
@@ -1012,6 +1121,32 @@ Pray for yourself:
 - **Naturalism:** the view that nature is all there is.
 - **Objective morality:** right and wrong that are true whatever anyone thinks.
 - **Burden of proof:** whoever makes a claim has to back it up. "There is no God" is a claim.
+
+## Prosperity gospel / Word of Faith
+- **Word of Faith:** the teaching that faith is a force released by spoken words, so what you confess is what you get.
+- **Positive confession / "name it and claim it":** saying a thing as already true in order to bring it about. Its opposite, "negative confession," is treated as inviting disaster.
+- **Declare and decree:** speaking a command rather than making a request. Scripture tells us to ask according to His will (1 John 5:14).
+- **Seed faith / sowing into a ministry:** giving money as an investment God is then obligated to multiply back.
+- **Hundredfold / breakthrough:** the expected return on that giving (cf. Mark 10:30, which adds "along with persecutions").
+- **Rhema and logos:** their claim that *logos* is the written word and *rhema* a fresh personal word for you. Both Greek words simply mean "word" and are used interchangeably in the New Testament.
+- **The anointing:** a transferable power on a man, sometimes said to be received from another anointed person or at a grave.
+- **Impartation:** passing that power on, usually by touch, often with physical reactions.
+- **Slain in the Spirit:** falling down under that touch. Not found in Scripture.
+- **Apostle and prophet (NAR):** the New Apostolic Reformation holds that living apostles and prophets govern the church and give new revelation. ➕
+- **Spirit of infirmity / generational curse:** explanations that assign sickness or hardship to a demon or an ancestor, so that deliverance replaces repentance and medicine.
+
+## Social justice and critical theory
+- **Classical Marxism:** Marx's economic system: history as class struggle, the overthrow of capitalism, religion as the drug of the masses.
+- **Cultural Marxism:** the later turn from economics to culture, explaining why the revolution never came and seeking to overturn a society's governing assumptions instead.
+- **Cultural hegemony:** Gramsci's term for rule maintained through a society's institutions, which shape its values and expectations.
+- **Critical theory:** interrogating a society for its contradictions to expose who holds power over whom. **Critical race theory** applies it to race.
+- **Intersectionality:** Crenshaw's term (1989) for oppression stacking where several categories overlap.
+- **Standpoint / lived experience:** the claim that a person's group position gives him knowledge others cannot question.
+- **Systemic or structural racism:** racism located in institutions and outcomes rather than in a person's heart, which is how there can be racism with no racist.
+- **Equity vs equality:** equality is one standard applied to all; equity is equal outcomes between groups.
+- **Social justice:** in standard usage, distributive justice: redistributing advantages and resources to disadvantaged groups. See [Social justice](/topic/social-justice).
+- **Oppressor and oppressed:** the basic pair the whole frame runs on, assigned by group rather than by conduct.
+- **"Do your homework":** the demand that you read a particular list of books before your reading of Scripture on the subject will be accepted.
 
 ## Words we use
 - **Trinity:** one God in three Persons. See [The Trinity](/topic/the-trinity).
