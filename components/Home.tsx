@@ -18,6 +18,11 @@ type GroupRow = { slug: string; name: string; color: string; plays: number; obje
 // The home screen is one scrolling page. Groups sit under three headings as small tiles.
 const FAMILIES = [
   { id: "sec-religions", title: "Religious worldviews", slugs: ["muslim", "jewish", "hindu", "buddhist", "new-age", "satanist"] },
+  // The last tile in an odd-numbered list spans the full width (see .tiles in globals.css),
+  // so whatever sits last here reads as the headline of the section. This list is even, so
+  // nothing is featured. When Hebrew Roots launches it makes nine, and it must NOT be last:
+  // use ["jw", "unitarian", "oneness", "catholic", "orthodox", "hebrew-roots", "progressive",
+  // "prosperity", "lds"], which puts Hebrew Roots mid-block and gives Mormon the wide tile.
   { id: "sec-christian", title: "False Christianity & competing claims", slugs: ["jw", "lds", "unitarian", "oneness", "catholic", "orthodox", "progressive", "prosperity"] },
   { id: "sec-nonreligious", title: "Nonreligious worldviews", slugs: ["atheist", "agnostic", "humanist", "deist"] },
 ];
